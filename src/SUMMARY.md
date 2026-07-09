@@ -22,7 +22,9 @@
 - [카메라 조작·세팅 연습](03-practice/home-camera-controls.md)
 - [초점·구도·인터벌 연습](03-practice/home-focus-and-interval.md)
 - [집 연습 체크리스트](03-practice/home-checklist.md)
-- [야외에서 연습하기]()
+- [실전 연습 — 노출·초점·구도](03-practice/field-practice.md)
+- [야외 준비와 현장 워크플로 리허설](03-practice/field-prep-and-hazards.md)
+- [야외 연습 결과 점검](03-practice/field-review.md)
 
 # 3부 · 몽골 (8/13 ~ 8/17)
 
