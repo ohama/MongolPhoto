@@ -72,10 +72,11 @@ Plans:
 **Success Criteria** (what must be TRUE):
   1. 몽골 사전 계획 챕터에 달 위상, 은하수 코어 방향/고도, 촬영지 GPS가 명시되어 있다.
   2. 독자가 8/13~8/17 날짜별 챕터를 보고 그날 밤 무엇을·어디서·언제 찍을지 결정할 수 있다.
-**Plans**: TBD
+**Plans**: 2 plans
 
 Plans:
-- [ ] 04-01: TBD
+- [ ] 04-01-PLAN.md — 여행 개요(overview.md: 4곳 GPS·4박 달/다크윈도우·코어 방향/고도 공식·저고도 경고) + Day 1 차강소브라가 + Day 2 홍고린엘스 (MONG-01, MONG-02)
+- [ ] 04-02-PLAN.md — Day 3 욜링암(협곡 코어 차폐 경고) + Day 4 바가가즈링 촐로 + Day 5 공항(최소) + SUMMARY 몽골 링크 6개 flip + 빌드 검증 (MONG-02)
 
 ### Phase 5: 몽골 결과 + 후보정 완성
 **Goal**: 여행(8/13~8/17) 후 실제 촬영 결과와 최종 후보정 사진이 book에 반영된다.
@@ -117,6 +118,6 @@ Phases execute in numeric order: 1 → 2 → 3 → 4 → 5 → 6
 | 1. mdBook 뼈대 + 장비 + 기초 촬영법 | 5/5 | ✓ Complete | 2026-07-09 |
 | 2. 연습 1-2차 | 0/2 | Planned | - |
 | 3. 연습 3-4차 + 후보정 뼈대 | 0/TBD | Not started | - |
-| 4. 몽골 사전 계획 | 0/TBD | Not started | - |
+| 4. 몽골 사전 계획 | 0/2 | Planned | - |
 | 5. 몽골 결과 + 후보정 완성 | 0/TBD | Not started | - |
 | 6. 부록 + 보너스 + 배포 검증 | 0/TBD | Not started | - |
