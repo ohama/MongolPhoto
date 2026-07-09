@@ -17,12 +17,12 @@
   - [현장 촬영 워크플로](02-fundamentals/field-workflow.md)
 - [연습 로그 템플릿](03-practice/template.md)
 
-# 2부 · 연습 로그
+# 2부 · 가기 전 연습
 
-- [연습 1차 — 집]()
-- [연습 2차 — 서해안 (7/17)]()
-- [연습 3차 — 집]()
-- [연습 4차 — 집 (몽골 직전 리허설)]()
+- [카메라 조작·세팅 연습](03-practice/home-camera-controls.md)
+- [초점·구도·인터벌 연습](03-practice/home-focus-and-interval.md)
+- [집 연습 체크리스트](03-practice/home-checklist.md)
+- [야외에서 연습하기]()
 
 # 3부 · 몽골 (8/13 ~ 8/17)
 
