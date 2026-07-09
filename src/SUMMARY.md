@@ -41,10 +41,16 @@
 - [은하수 강조 보정](05-postprocessing/enhance-milkyway.md)
 - [전/후 비교로 배우는 후보정](05-postprocessing/before-after.md)
 
+# 보너스 기법
+
+- [은하수 파노라마 촬영·병합](06-bonus/panorama.md)
+- [스타트레일(별궤적) 촬영·합성](06-bonus/star-trails.md)
+- [밤하늘 타임랩스](06-bonus/timelapse.md)
+
 # 부록
 
-- [카메라 · 렌즈 추천 목록](06-appendix/camera-lens-picks.md)
-- [현장 치트시트]()
-- [체크리스트 모음]()
-- [앱·소프트웨어 가이드]()
-- [용어 사전]()
+- [카메라 · 렌즈 추천 목록](07-appendix/camera-lens-picks.md)
+- [현장 치트시트](07-appendix/cheat-sheet.md)
+- [체크리스트 모음](07-appendix/checklists.md)
+- [앱·소프트웨어 가이드](07-appendix/app-software.md)
+- [용어 사전](07-appendix/glossary.md)
