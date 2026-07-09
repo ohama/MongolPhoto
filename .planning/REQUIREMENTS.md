@@ -58,9 +58,9 @@
 
 ### 몽골 여행지별 촬영 가이드 (SITE) — 일반 가이드
 
-- [ ] **SITE-01**: 몽골(고비) 촬영 일반 원리 — 달·은하수 코어·타이밍·다크스카이 조건
-- [ ] **SITE-02**: 명소별 "이렇게 찍으면 좋다" 가이드 (차강소브라가·홍고린엘스·욜링암·바가가즈링 촐로 — 피사체·구도)
-- [ ] **SITE-03**: 여행지별 주의사항 (저고도 코어, 협곡 코어 차폐, 바람·모래, 이동)
+- [x] **SITE-01**: 몽골(고비) 촬영 일반 원리 — 달·은하수 코어·타이밍·다크스카이 조건
+- [x] **SITE-02**: 명소별 "이렇게 찍으면 좋다" 가이드 (차강소브라가·홍고린엘스·욜링암·바가가즈링 촐로 — 피사체·구도)
+- [x] **SITE-03**: 여행지별 주의사항 (저고도 코어, 협곡 코어 차폐, 바람·모래, 이동)
 
 ### 보너스 기법 (BONUS)
 
@@ -138,9 +138,9 @@
 | EDIT-02 | Phase 4 | Complete |
 | EDIT-03 | Phase 4 | Complete |
 | EDIT-04 | Phase 4 | Complete |
-| SITE-01 | Phase 5 | Pending |
-| SITE-02 | Phase 5 | Pending |
-| SITE-03 | Phase 5 | Pending |
+| SITE-01 | Phase 5 | Complete |
+| SITE-02 | Phase 5 | Complete |
+| SITE-03 | Phase 5 | Complete |
 | REF-01 | Phase 6 | Pending |
 | REF-02 | Phase 6 | Pending |
 | REF-03 | Phase 6 | Pending |

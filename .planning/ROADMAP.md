@@ -16,7 +16,7 @@
 - [x] **Phase 2: 집에서 연습할 사항 (가이드)** - 가기 전 집에서 익혀 둘 조작·세팅·초점·구도 연습
 - [x] **Phase 3: 야외에서 연습할 사항 (가이드)** - 가기 전 근교 어두운 곳에서 할 실전 연습·현장 리허설
 - [x] **Phase 4: 후보정(post-processing) 연습** - RAW 현상 → 스태킹 → 은하수 강조 → 전/후 비교
-- [ ] **Phase 5: 몽골 여행지별 촬영 가이드** - 고비 촬영 일반 원리 + 명소별 "이렇게 찍으면 좋다"
+- [x] **Phase 5: 몽골 여행지별 촬영 가이드** - 고비 촬영 일반 원리 + 명소별 "이렇게 찍으면 좋다"
 - [ ] **Phase 6: 부록 + 보너스 기법 + 배포 검증** - 치트시트, 체크리스트, 용어사전, 보너스 기법, 최종 배포 확인
 
 ## Phase Details
@@ -82,10 +82,10 @@ Plans:
   1. 고비 촬영 일반 원리(달·은하수 코어 방향/고도·타이밍·다크스카이)가 설명되어 있다.
   2. 명소별(차강소브라가·홍고린엘스·욜링암·바가가즈링 촐로) 추천 피사체·구도 가이드가 있다.
   3. 여행지별 주의사항(저고도 코어, 협곡 코어 차폐, 바람·모래, 이동)이 명시되어 있다.
-**Plans**: 1 plan
+**Plans**: 1 plan (1/1 complete)
 
 Plans:
-- [ ] 05-01-PLAN.md — overview→SITE-01 일반 원리(달 표 예시화) + Day→명소 4개 rename/재작성(SITE-02/03) + day-5 삭제 + SUMMARY 3부 재제목·5링크 + finding-the-milkyway/introduction fold-in + build
+- [x] 05-01-PLAN.md — overview→SITE-01 일반 원리(달 표 예시화) + Day→명소 4개 rename/재작성(SITE-02/03) + day-5 삭제 + SUMMARY 3부 재제목·5링크 + finding-the-milkyway/introduction fold-in + build
 
 ### Phase 6: 부록 + 보너스 기법 + 배포 검증
 **Goal**: book이 완결된 참고자료로 마무리되고 최종 배포가 검증된다.
@@ -113,5 +113,5 @@ Phases execute in numeric order: 1 → 2 → 3 → 4 → 5 → 6
 | 2. 집에서 연습할 사항 | 1/1 | ✓ Complete | 2026-07-09 |
 | 3. 야외에서 연습할 사항 | 1/1 | ✓ Complete | 2026-07-09 |
 | 4. 후보정 연습 | 1/1 | ✓ Complete | 2026-07-09 |
-| 5. 몽골 여행지별 촬영 가이드 | 0/TBD | Not started | - |
+| 5. 몽골 여행지별 촬영 가이드 | 1/1 | ✓ Complete | 2026-07-09 |
 | 6. 부록 + 보너스 + 배포 검증 | 0/TBD | Not started | - |
