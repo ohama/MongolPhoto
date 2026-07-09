@@ -6,8 +6,10 @@
 
 이 책은 바로 그 한 장을, **특별한 장비 없이도** 당신이 직접 찍을 수 있도록 준비부터 촬영, 후보정까지 순서대로 안내합니다.
 
-<!-- 이미지: src/images/intro/hero-milkyway.jpg — 지평선이 트인 고비 위로 곧게 선 은하수 코어 (대표 이미지) -->
-> 📷 **대표 사진 자리** — *지평선이 트인 고비 사막 위로 곧게 선 은하수 코어. 이 책의 목표가 되는 한 장.*
+<!-- 이미지: src/images/intro/milkyway-hero.jpg — 예시 이미지 (미국 콜로라도 그레이트샌드듄스 국립공원) -->
+![은하수 예시 이미지](images/intro/milkyway-hero.jpg)
+
+*예시 이미지 — 이 책이 지향하는 장면과 비슷한 사구·은하수 사진입니다. 실제 몽골 촬영지는 아닙니다. 사진: NPS / Patrick Myers, 미국 그레이트샌드듄스 국립공원 (Public Domain).*
 
 ## 천체 사진의 매력
 
@@ -25,8 +27,10 @@
 - **지평선이 끝없이 트여 있습니다.** 은하수 코어는 이 위도대에서 지평선 위 약 15~18°로 낮게 뜹니다. 산이나 건물에 가리기 쉬운데, 고비의 열린 사막·초원은 그 낮은 코어를 온전히 담기에 이상적입니다.
 - **전경이 극적입니다.** 붉게 타는 절벽(바양작), 거대한 모래언덕(홍고린엘스), 협곡과 화강암 바위지대 — 은하수 아래에 놓을 전경 소재가 풍부합니다. 명소별 촬영법은 [3부 · 몽골 여행지별 촬영 가이드](04-mongolia/overview.md)에서 다룹니다.
 
-<!-- 이미지: src/images/intro/gobi-nightscape.jpg — 고비의 열린 지평선과 은하수 -->
-> 📷 **예시 사진 자리** — *광해 없는 고비의 밤. 지평선 끝까지 별이 쏟아진다.*
+<!-- 이미지: src/images/intro/dark-sky-nightscape.jpg — 예시 이미지 (미국 데스밸리 국립공원, 흑백 파노라마) -->
+![다크스카이 사막 야경 예시 이미지](images/intro/dark-sky-nightscape.jpg)
+
+*예시 이미지 — 광해 없는 다크스카이에서 지평선까지 드러나는 은하수의 느낌을 보여 주는 사진입니다(흑백 파노라마). 실제 고비 사진은 아닙니다. 사진: NPS / Dan Duriscoe, 미국 데스밸리 국립공원 (Public Domain).*
 
 ## 거창한 장비는 필요 없습니다
 
@@ -41,8 +45,10 @@
 
 이 정도면 시작할 수 있습니다. 이미 카메라가 있다면 새로 살 필요도 없습니다 — 어떤 기능이 왜 필요한지는 [장비 가이드](01-gear/index.md)에서, 구체적인 추천 기종·렌즈는 [부록의 추천 목록](07-appendix/camera-lens-picks.md)에서 다룹니다.
 
-<!-- 이미지: src/images/intro/minimal-kit.jpg — 카메라+광각렌즈+삼각대 최소 구성 -->
-> 📷 **예시 사진 자리** — *카메라 한 대 · 밝은 광각 렌즈 하나 · 삼각대. 이게 전부입니다.*
+<!-- 이미지: src/images/intro/camera-tripod.jpg — 예시 이미지 (카메라+렌즈+삼각대) -->
+![카메라와 삼각대 예시 이미지](images/intro/camera-tripod.jpg)
+
+*예시 이미지 — 카메라 한 대 · 밝은 렌즈 하나 · 삼각대. 이게 전부입니다. 사진: James Niland (CC BY 2.0).*
 
 ## 한 장의 사진이 완성되기까지
 
@@ -64,10 +70,12 @@
 
 ## 몽골의 밤하늘
 
-말보다 사진이 매력을 더 잘 전합니다. 이 책을 따라 찍은 결과물을 아래에 모읍니다. *(예시 사진은 추후 실제 촬영본으로 채워집니다.)*
+말보다 사진이 매력을 더 잘 전합니다. 이 책을 따라 찍은 결과물을 아래에 모읍니다. *(아래 중 하나는 이해를 돕기 위한 예시 이미지이며, 나머지는 추후 실제 촬영본으로 채워집니다.)*
 
-<!-- 이미지: src/images/intro/gallery-01-khongoryn.jpg -->
-> 📷 *홍고린엘스 — 거대한 모래언덕 능선 위로 곧게 선 은하수 코어. 능선이 코어까지 이어지는 리딩 라인이 된다.*
+<!-- 이미지: src/images/intro/gallery-milkyway-1.jpg — 예시 이미지 (미국 옐로스톤 국립공원) -->
+![은하수 예시 이미지](images/intro/gallery-milkyway-1.jpg)
+
+*예시 이미지 — 은하수 코어와 주변 별빛의 색·디테일을 보여 주는 사진입니다(미국 옐로스톤 국립공원). 실제 홍고린엘스 사진은 아닙니다. 사진: NPS / Neal Herbert (Public Domain).*
 
 <!-- 이미지: src/images/intro/gallery-02-bayanzag.jpg -->
 > 📷 *바양작 — 노을에 붉게 물든 절벽 실루엣과 그 위의 은하수.*
@@ -97,3 +105,16 @@
 5. **보너스 기법**과 **부록**(치트시트·체크리스트·용어사전)으로 마무리합니다.
 
 준비되셨다면, [장비 가이드](01-gear/index.md)부터 시작하세요.
+
+## 이미지 출처
+
+이 페이지에 쓰인 예시 이미지는 저자가 몽골에서 촬영한 사진이 아니며, 아래와 같이 라이선스가 확인된 무료 이미지입니다.
+
+| 파일 | 설명 | 저작자 | 라이선스 | 출처 |
+|---|---|---|---|---|
+| `images/intro/milkyway-hero.jpg` | 은하수·모래언덕 (미국 그레이트샌드듄스 국립공원) | NPS / Patrick Myers | Public Domain (미 연방정부 저작물) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Milky_Way_over_dunes_in_Great_Sand_Dunes_National_Park,_Colorado,_United_States.jpg) |
+| `images/intro/dark-sky-nightscape.jpg` | 은하수·사막 야경 흑백 파노라마 (미국 데스밸리 국립공원) | NPS / Dan Duriscoe | Public Domain (미 연방정부 저작물) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Deathvalleysky_nps_big.jpg) |
+| `images/intro/camera-tripod.jpg` | 카메라·렌즈·삼각대 | James Niland | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:DSLR_Camera_with_Lens_on_a_Tripod_head.jpg) |
+| `images/intro/gallery-milkyway-1.jpg` | 은하수 (미국 옐로스톤 국립공원) | NPS / Neal Herbert | Public Domain (미 연방정부 저작물) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Milky_Way_above_Grand_Prismatic_Spring_(33668265111).jpg) |
+
+원본은 리사이즈(최대 2000px)·EXIF 제거 후 재압축했습니다. 나머지 갤러리 자리는 저자의 실제 촬영본을 위해 비워 두었습니다.
