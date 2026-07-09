@@ -86,13 +86,46 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| (roadmap 생성 시 채워짐) | — | Pending |
+| PUB-01 | Phase 1 | Pending |
+| PUB-02 | Phase 1 | Pending |
+| PUB-03 | Phase 1 | Pending |
+| GEAR-01 | Phase 1 | Pending |
+| GEAR-02 | Phase 1 | Pending |
+| GEAR-03 | Phase 1 | Pending |
+| GEAR-04 | Phase 1 | Pending |
+| GEAR-05 | Phase 1 | Pending |
+| GEAR-06 | Phase 1 | Pending |
+| FUND-01 | Phase 1 | Pending |
+| FUND-02 | Phase 1 | Pending |
+| FUND-03 | Phase 1 | Pending |
+| FUND-04 | Phase 1 | Pending |
+| FUND-05 | Phase 1 | Pending |
+| FUND-06 | Phase 1 | Pending |
+| PRAC-01 | Phase 1 | Pending |
+| PRAC-02 | Phase 2 | Pending |
+| PRAC-03 | Phase 2 | Pending |
+| PRAC-04 | Phase 3 | Pending |
+| PRAC-05 | Phase 3 | Pending |
+| POST-01 | Phase 3 | Pending |
+| POST-02 | Phase 3 | Pending |
+| POST-03 | Phase 3 | Pending |
+| MONG-01 | Phase 4 | Pending |
+| MONG-02 | Phase 4 | Pending |
+| MONG-03 | Phase 5 | Pending |
+| POST-04 | Phase 5 | Pending |
+| REF-01 | Phase 6 | Pending |
+| REF-02 | Phase 6 | Pending |
+| REF-03 | Phase 6 | Pending |
+| REF-04 | Phase 6 | Pending |
+| BONUS-01 | Phase 6 | Pending |
+| BONUS-02 | Phase 6 | Pending |
+| BONUS-03 | Phase 6 | Pending |
 
 **Coverage:**
-- v1 requirements: 31 total
-- Mapped to phases: 0 (roadmap 대기)
-- Unmapped: 31 ⚠️
+- v1 requirements: 34 total (corrected from earlier stale count of 31 — recounted during roadmap creation: PUB 3 + GEAR 6 + FUND 6 + PRAC 5 + MONG 3 + POST 4 + BONUS 3 + REF 4 = 34)
+- Mapped to phases: 34 (100%)
+- Unmapped: 0 ✓
 
 ---
 *Requirements defined: 2026-07-09*
-*Last updated: 2026-07-09 after initial definition*
+*Last updated: 2026-07-09 after roadmap creation (traceability filled, coverage count corrected)*
