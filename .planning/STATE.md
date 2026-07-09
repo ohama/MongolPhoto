@@ -10,27 +10,27 @@ See: .planning/PROJECT.md (updated 2026-07-09)
 ## Current Position
 
 Phase: 1 of 6 (mdBook 뼈대 + 장비 + 기초 촬영법)
-Plan: 0 of TBD in current phase
-Status: Ready to plan
-Last activity: 2026-07-09 — ROADMAP.md created, 6 phases derived from 34 v1 requirements
+Plan: 1 of 5 in current phase
+Status: In progress
+Last activity: 2026-07-09 — Completed 01-01-PLAN.md
 
-Progress: [░░░░░░░░░░] 0%
+Progress: [██░░░░░░░░] 20%
 
 ## Performance Metrics
 
 **Velocity:**
-- Total plans completed: 0
-- Average duration: - min
-- Total execution time: 0 hours
+- Total plans completed: 1
+- Average duration: 4 min
+- Total execution time: 0.07 hours
 
 **By Phase:**
 
 | Phase | Plans | Total | Avg/Plan |
 |-------|-------|-------|----------|
-| - | - | - | - |
+| 1 | 1/5 | 4 min | 4 min |
 
 **Recent Trend:**
-- Last 5 plans: none yet
+- Last 5 plans: 01-01 (4 min)
 - Trend: -
 
 *Updated after each plan completion*
@@ -46,6 +46,10 @@ Recent decisions affecting current work:
 - [Roadmap]: Post-processing split — POST-01/02/03 (workflow/stacking) land in Phase 3 using practice photos; POST-04 (before/after gallery) lands in Phase 5 using real trip photos.
 - [Roadmap]: BONUS-01/02/03 (파노라마/스타트레일/타임랩스) placed in Phase 6 as a bonus chapter, written last alongside appendices.
 - [Scope 2026-07-09]: 장비는 **추천만** — 구매 가이드/리드타임/구매 결정 프로세스 제외. 보유 장비로도 촬영 가능하게 안내. (사용자 요청)
+- [01-01]: mdbook v0.5.3 유지 (다운그레이드 안 함) — 커스텀 전처리기 미사용, 안정적인 [output.html] 키만 사용.
+- [01-01]: Noto Sans KR 폰트는 google-webfonts-helper API(subsets=korean)로 받음 — CSS2 API는 한글을 ~120개 파일로 쪼개 제공해 "block 하나만 grep" 방식이 불가능함이 확인됨.
+- [01-01]: edit-url-template은 main 브랜치 기준 (skill 기본값 master 아님).
+- [01-01]: 연습 로그 템플릿은 03-practice/template.md로 독자에게 공개된 실제 페이지로 발행 (숨김 _template.md 아님).
 
 ### Known Facts (user-provided)
 
@@ -68,9 +72,10 @@ None yet.
 - [Phase 4] 울란바토르/고비 지역 월출·월몰·은하수 코어 방위각/고도는 리서치 중 조회 실패(403) — PhotoPills/Stellarium/timeanddate.com으로 각 날짜·촬영지별 재확인 필요.
 - [Phase 4] 각 촬영지 GPS 좌표는 계획 시 확정 필요 (코스는 1안으로 확보됨).
 - REQUIREMENTS.md 기존 Coverage 카운트("31 total")는 오기였음 — 실제 v1 요구사항은 34개 (BONUS 3개 포함). 로드맵 생성 시 정정함.
+- [01-01] docs/ 빌드 산출물과 .claude/ 디렉토리가 현재 git에서 미추적 상태 (repo에 .gitignore 없음). 배포/CI 설정(01-05 plan, GitHub Pages)에서 한 줄 결정 필요 — 현재는 블로커 아님.
 
 ## Session Continuity
 
 Last session: 2026-07-09
-Stopped at: ROADMAP.md, STATE.md 작성 완료; REQUIREMENTS.md traceability 갱신 완료
+Stopped at: Completed 01-01-PLAN.md (mdBook 뼈대 + Korean fonts + SUMMARY skeleton + image pipeline)
 Resume file: None
