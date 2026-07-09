@@ -46,10 +46,11 @@ Plans:
   1. 연습 1차(집) 챕터에 템플릿 형식대로 목표/장비·세팅/환경/결과 사진/배운 점/다음 개선이 채워져 있다.
   2. 연습 2차(7/17 서해안) 챕터에 실제 촬영 사진과 현장에서 배운 점이 기록되어 있다 (7/17 이후 작성).
   3. 2차에서 발견된 문제(예: 노출/초점/장비 이슈)가 다음 단계 복기를 위해 명확히 남아 있다.
-**Plans**: TBD
+**Plans**: 2 plans
 
 Plans:
-- [ ] 02-01: TBD
+- [ ] 02-01-PLAN.md — 연습 1차(집) 로그: 6개 섹션 스캐폴드 + 세션 전 홈 리허설 드릴(목표), checkpoint로 실제 데이터 수집, 사진 ingest + SUMMARY flip (PRAC-02)
+- [ ] 02-02-PLAN.md — 연습 2차(7/17 서해안) 로그: 목표=1차 개선 carry-over + 서해안 코어 타게팅·이슬 net-new 콘텐츠, checkpoint(7/17 게이트)로 실제 데이터, 사진 ingest + SUMMARY flip (PRAC-03)
 
 ### Phase 3: 연습 3-4차(집) + 후보정 워크플로 뼈대
 **Goal**: 몽골 출발 전 마지막 점검이 끝나고, 후보정 워크플로가 실전 검증된 상태로 존재한다.
@@ -114,7 +115,7 @@ Phases execute in numeric order: 1 → 2 → 3 → 4 → 5 → 6
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
 | 1. mdBook 뼈대 + 장비 + 기초 촬영법 | 5/5 | ✓ Complete | 2026-07-09 |
-| 2. 연습 1-2차 | 0/TBD | Not started | - |
+| 2. 연습 1-2차 | 0/2 | Planned | - |
 | 3. 연습 3-4차 + 후보정 뼈대 | 0/TBD | Not started | - |
 | 4. 몽골 사전 계획 | 0/TBD | Not started | - |
 | 5. 몽골 결과 + 후보정 완성 | 0/TBD | Not started | - |
