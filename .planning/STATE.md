@@ -5,7 +5,7 @@
 See: .planning/PROJECT.md (updated 2026-07-09)
 
 **Core value:** 트래킹 장비 없이도 은하수 사진이 "잘 나오게" 하는 전 과정(장비 선택 → 촬영 → 후보정)을, 초보자가 따라 하며 몽골에서 실제로 성공할 수 있도록 담아낸다.
-**Current focus:** Phase 1 — mdBook 뼈대 + 장비 + 기초 촬영법 (긴급, 7/17 이전 완료 필수)
+**Current focus:** Phase 1 — mdBook 뼈대 + 장비(추천) + 기초 촬영법 (7/17 서해안 촬영 전 완료 목표)
 
 ## Current Position
 
@@ -45,6 +45,17 @@ Recent decisions affecting current work:
 - [Roadmap]: 6 phases, date-driven ordering (not just dependency-driven) — Phase 1 is urgent (before 7/17), Phase 2's 연습 2차 gated at 7/17, Phase 5 gated after 8/17.
 - [Roadmap]: Post-processing split — POST-01/02/03 (workflow/stacking) land in Phase 3 using practice photos; POST-04 (before/after gallery) lands in Phase 5 using real trip photos.
 - [Roadmap]: BONUS-01/02/03 (파노라마/스타트레일/타임랩스) placed in Phase 6 as a bonus chapter, written last alongside appendices.
+- [Scope 2026-07-09]: 장비는 **추천만** — 구매 가이드/리드타임/구매 결정 프로세스 제외. 보유 장비로도 촬영 가능하게 안내. (사용자 요청)
+
+### Known Facts (user-provided)
+
+- 몽골 코스 1안 (바양작 제외):
+  - Day 1 (8/13): 차강소브라가(Tsagaan Suvarga) 캠프 숙박
+  - Day 2 (8/14): 오전 차강소브라가 → 홍고린엘스(Khongoryn Els)
+  - Day 3 (8/15): 욜링암(Yolyn Am)
+  - Day 4 (8/16): 바가가즈링 촐로(Baga Gazriin Chuluu)
+  - Day 5 (8/17): 공항 (출국)
+  → Phase 4(MONG-01/02) 날짜별 촬영 계획의 기준 코스. 모두 고비 다크스카이 명소.
 
 ### Pending Todos
 
@@ -52,11 +63,10 @@ None yet.
 
 ### Blockers/Concerns
 
-- [Phase 1] URGENT: 카메라 마운트 미확정 — 렌즈/삼각대 추천 확정 전 사용자 확인 필요 (research flag).
-- [Phase 1] 장비는 ~7/11까지 주문해야 7/17 전 도착·리허설 가능 (배송 리드타임 고려).
-- [Phase 3] 후보정 스태킹 툴은 편집 OS(Windows→Sequator, Mac→Starry Landscape Stacker)에 따라 갈림 — 확인 필요.
-- [Phase 4] 울란바토르 지역 월출/월몰·은하수 코어 방위각/고도는 리서치 중 조회 실패(403) — PhotoPills/Stellarium/timeanddate.com으로 재확인 필요.
-- [Phase 4] 몽골 일자별 실제 촬영지(GPS) 목록이 사용자로부터 아직 필요함.
+- [Phase 1] 카메라 마운트 미확정 — 렌즈 추천을 마운트별(소니 E/후지 X/니콘 Z DX)로 다루면 회피 가능. 구매 압박은 없음(추천만).
+- [Phase 3] 후보정 스태킹 툴은 편집 OS(Windows→Sequator, Mac→Starry Landscape Stacker)에 따라 갈림 — v1은 둘 다 안내하기로 함.
+- [Phase 4] 울란바토르/고비 지역 월출·월몰·은하수 코어 방위각/고도는 리서치 중 조회 실패(403) — PhotoPills/Stellarium/timeanddate.com으로 각 날짜·촬영지별 재확인 필요.
+- [Phase 4] 각 촬영지 GPS 좌표는 계획 시 확정 필요 (코스는 1안으로 확보됨).
 - REQUIREMENTS.md 기존 Coverage 카운트("31 total")는 오기였음 — 실제 v1 요구사항은 34개 (BONUS 3개 포함). 로드맵 생성 시 정정함.
 
 ## Session Continuity
