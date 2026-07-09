@@ -64,16 +64,16 @@
 
 ### 보너스 기법 (BONUS)
 
-- [ ] **BONUS-01**: 은하수 파노라마 촬영·병합
-- [ ] **BONUS-02**: 스타트레일(은적사진) 촬영·합성
-- [ ] **BONUS-03**: 밤하늘 타임랩스
+- [x] **BONUS-01**: 은하수 파노라마 촬영·병합
+- [x] **BONUS-02**: 스타트레일(은적사진) 촬영·합성
+- [x] **BONUS-03**: 밤하늘 타임랩스
 
 ### 부록 (REF)
 
-- [ ] **REF-01**: 현장 치트시트 (인쇄용)
-- [ ] **REF-02**: 체크리스트 모음
-- [ ] **REF-03**: 앱·소프트웨어 가이드
-- [ ] **REF-04**: 용어 사전
+- [x] **REF-01**: 현장 치트시트 (인쇄용)
+- [x] **REF-02**: 체크리스트 모음
+- [x] **REF-03**: 앱·소프트웨어 가이드
+- [x] **REF-04**: 용어 사전
 - [x] **REF-05**: 카메라·렌즈 추천 목록 (마운트별 모델·가격·크롭계수 계산법 — GEAR 상세 이동)
 
 ## Superseded (2026-07-09 방향 전환으로 대체됨)
@@ -141,13 +141,13 @@
 | SITE-01 | Phase 5 | Complete |
 | SITE-02 | Phase 5 | Complete |
 | SITE-03 | Phase 5 | Complete |
-| REF-01 | Phase 6 | Pending |
-| REF-02 | Phase 6 | Pending |
-| REF-03 | Phase 6 | Pending |
-| REF-04 | Phase 6 | Pending |
-| BONUS-01 | Phase 6 | Pending |
-| BONUS-02 | Phase 6 | Pending |
-| BONUS-03 | Phase 6 | Pending |
+| REF-01 | Phase 6 | Complete |
+| REF-02 | Phase 6 | Complete |
+| REF-03 | Phase 6 | Complete |
+| REF-04 | Phase 6 | Complete |
+| BONUS-01 | Phase 6 | Complete |
+| BONUS-02 | Phase 6 | Complete |
+| BONUS-03 | Phase 6 | Complete |
 
 **Coverage:**
 - v1 requirements: 37 total (PUB 3 + GEAR 6 + FUND 6 + PRAC 1 + HOME 3 + FIELD 3 + EDIT 4 + SITE 3 + BONUS 3 + REF 5)
