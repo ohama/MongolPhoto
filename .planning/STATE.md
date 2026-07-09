@@ -5,33 +5,40 @@
 See: .planning/PROJECT.md (updated 2026-07-09)
 
 **Core value:** 트래킹 장비 없이도 은하수 사진이 "잘 나오게" 하는 전 과정(장비 선택 → 촬영 → 후보정)을, 초보자가 따라 하며 몽골에서 실제로 성공할 수 있도록 담아낸다.
-**Current focus:** Phase 1 완료·검증 통과(5/5, goal verified). 현재 Phase 2 진행 중 — 02-01 플랜이 checkpoint:human-action에서 대기 중(연습 1차 집 세션 실제 수행 결과 대기).
+**Current focus:** Phase 1 완료·검증 통과(5/5, goal verified). Phase 2는 02-01 플랜이 checkpoint:human-action에서 대기 중(연습 1차 집 세션 실제 수행 결과 대기) — 그동안 Phase 4(몽골 사전 계획)를 병행 진행 중, 04-01 완료.
 
 ## Current Position
 
-Phase: 2 of 6 (연습 1차 집 + 2차 서해안)
+**Phase 2 (연습 1차 집 + 2차 서해안)** — 사용자 액션 대기로 일시정지:
+Phase: 2 of 6
 Plan: 1 of N in current phase (02-01)
 Status: 02-01 Task 1 완료·커밋됨 (연습 1차 챕터 스캐폴드 + 목표 섹션). Task 2 checkpoint:human-action에서 대기 중 — 사용자가 실제 홈 리허설 세션을 진행하고 사진/세팅/배운 점을 보고해야 Task 3(데이터 반영 + SUMMARY 링크 flip)로 이어짐.
-Last activity: 2026-07-09 — 02-01-PLAN.md Task 1 실행: src/03-practice/session-1-home.md 신규 생성(6개 섹션, 목표=홈 리허설 드릴), src/images/practice/session-1/.gitkeep 생성. mdbook build src exit 0 확인. 커밋 a786f12. Task 2 체크포인트에서 일시정지.
 
-Progress: [████████░░] Phase 1 100%, Phase 2 in progress (checkpoint paused)
+**Phase 4 (몽골 사전 계획)** — 병행 진행 중, 블로커 없음:
+Phase: 4 of 6
+Plan: 1 of 2(est) in current phase (04-01) — 완료
+Status: 04-01 Task 1~2 모두 완료·커밋됨 (overview.md + Day 1~2 사전 계획). 04-02(Day 3~5 + SUMMARY 링크 flip + 최종 빌드 검증)가 다음 단계, 체크포인트 없이 바로 진행 가능.
+Last activity: 2026-07-09 — 04-01-PLAN.md 전체 실행: src/04-mongolia/overview.md(GPS 표·달/다크윈도우 요약표·코어 공식·저고도 경고·PhotoPills 재확인), day-1-0813.md(차강소브라가), day-2-0814.md(홍고린엘스) 신규 생성 + 이미지 폴더 3개 .gitkeep. mdbook build src exit 0, 44.577 존재/108.3x 부재 grep 검증 통과. 커밋 fb7e2f9(Task1), cb7c927(Task2).
+
+Progress: [████████░░] Phase 1 100%, Phase 2 in progress (checkpoint paused), Phase 4 in progress (04-01/2 done)
 
 ## Performance Metrics
 
 **Velocity:**
-- Total plans completed: 5
-- Average duration: ~13 min
-- Total execution time: ~1.0 hours
+- Total plans completed: 6
+- Average duration: ~12 min
+- Total execution time: ~1.15 hours
 
 **By Phase:**
 
 | Phase | Plans | Total | Avg/Plan |
 |-------|-------|-------|----------|
 | 1 | 5/5 | ~63 min | ~13 min |
+| 4 | 1/2(est) | 6 min | 6 min |
 
 **Recent Trend:**
-- Last plans: 01-01 (4 min), 01-03 (~20 min), 01-02 (9 min), 01-04 (~15 min), 01-05 (~15 min)
-- Trend: stable
+- Last plans: 01-03 (~20 min), 01-02 (9 min), 01-04 (~15 min), 01-05 (~15 min), 04-01 (6 min)
+- Trend: stable (content-only plans like 04-01 run faster — no code/build complexity)
 
 *Updated after each plan completion*
 
@@ -56,6 +63,10 @@ Recent decisions affecting current work:
 - [01-04]: 달 위상·Bortle 수치는 FEATURES.md를 그대로 인용 (재도출 없음) — 7/17 ≈13% 초승달, 8/12 신월(몽골 8/13~17 전체 유리), 고비 Bortle 1-2 vs 국내 5-8.
 - [01-04]: PhotoPills/Stellarium은 01-gear/accessories.md에서 이미 소개된 것으로 전제하고 finding-the-milkyway.md에서는 운영적 사용법만 서술 (재소개 없음).
 - [01-04]: 연습 로그 템플릿(03-practice/template.md)은 fenced code block으로 감싸 복사-붙여넣기 가능한 리터럴 텍스트로 제공 — 실제 이미지 파일은 생성하지 않고 상대경로 예시만 표기.
+- [04-01]: 몽골 GPS/달위상/코어 수치는 04-RESEARCH.md를 그대로 인용(재계산·재검색 없음) — 차강소브라가는 44.577°N/105.717°E만 사용, 동명 광산 좌표(108.3xE)는 본문에 아예 등장시키지 않음.
+- [04-01]: 코어 "방향(orientation)"과 "고도(altitude)"를 명확히 구분 서술 — 이 위도대(43~46°N)는 코어 최대고도가 15~18°로 낮으므로 남쪽 지평선이 트인 전경을 우선 권장.
+- [04-01]: 손계산 코어 방위각·고도·남중시각은 전부 "추정"으로 헤지 + "PhotoPills로 현장 재확인" 문구를 overview·Day 페이지마다 반복 명시. PhotoPills/Stellarium은 accessories.md에서 이미 소개된 것으로 전제해 재소개 없음.
+- [04-01]: 몽골 Day 페이지는 two-pass 템플릿(사전 계획 완전히 채움 + 촬영 결과는 Phase 5 placeholder) 적용 — 03-practice 연습 로그와 달리 사전 계획은 저작 시점에 확정.
 
 ### Known Facts (user-provided)
 
@@ -71,14 +82,14 @@ Recent decisions affecting current work:
 
 - [Phase 2 / 02-01] 사용자가 집 연습(1차)을 **나중에** 하기로 함(2026-07-09 결정). 실제 촬영 후 사진 폴더 경로 + 세팅 + 배운 점 + 다음 세션 개선(→2차 목표)을 보고하면 `/gsd:execute-phase 2`로 재개해 Task 3(데이터 반영 + SUMMARY flip) 완료.
 - [Phase 2 / 02-02] 연습 2차 서해안은 2026-07-17(또는 직후) 촬영 후에만 진행 가능 (하드 날짜 게이트). 02-01 완료 후 착수.
-- 7/17 대기 동안 Phase 4(몽골 사전 계획)는 병행 가능 — `/gsd:plan-phase 4`.
+- [Phase 4 / 04-01 완료] 다음은 04-02 — Day 3(욜링암, 협곡 리스크 명시)·Day 4(바가가즈링 촐로)·Day 5(공항, 최소 분량) + SUMMARY.md 6개 draft 링크 flip + 최종 mdbook build 검증. 체크포인트 없음, 블로커 없음 — `/gsd:execute-phase 4`로 바로 진행 가능.
 
 ### Blockers/Concerns
 
 - [Phase 1] 카메라 마운트 미확정 — 렌즈 추천을 마운트별(소니 E/후지 X/니콘 Z DX)로 다루면 회피 가능. 구매 압박은 없음(추천만).
 - [Phase 3] 후보정 스태킹 툴은 편집 OS(Windows→Sequator, Mac→Starry Landscape Stacker)에 따라 갈림 — v1은 둘 다 안내하기로 함.
-- [Phase 4] 울란바토르/고비 지역 월출·월몰·은하수 코어 방위각/고도는 리서치 중 조회 실패(403) — PhotoPills/Stellarium/timeanddate.com으로 각 날짜·촬영지별 재확인 필요.
-- [Phase 4] 각 촬영지 GPS 좌표는 계획 시 확정 필요 (코스는 1안으로 확보됨).
+- [Phase 4 부분 해결] 울란바토르/고비 지역 월출·월몰·은하수 코어 방위각/고도는 04-RESEARCH.md에서 공식 API(USNO/sunrise-sunset.org)로 달·박명 데이터는 HIGH 신뢰도 확보, 코어 방위각·고도·남중시각은 앱 접근 불가(403)로 표준 공식 손계산(MEDIUM) — 04-01에서 "추정 + PhotoPills 현장 재확인" 헤지 문구로 반영 완료. 실제 여행 중 PhotoPills로 재확인은 여전히 필요(Phase 5).
+- [Phase 4 해결] 각 촬영지 GPS 좌표 확정됨 — 04-RESEARCH.md 교차검증 후 04-01(overview.md)에 반영. 단 홍고린엘스는 100km 사구지대 "대표 좌표"라 실제 캠프는 현지 GPS 재확인 필요(문서화됨).
 - REQUIREMENTS.md 기존 Coverage 카운트("31 total")는 오기였음 — 실제 v1 요구사항은 34개 (BONUS 3개 포함). 로드맵 생성 시 정정함.
 - [01-01→01-05 해결] docs/ 빌드 산출물은 01-05에서 커밋됨(Deploy-from-branch 패턴). .claude/는 개별 git add로 커밋 대상에서 계속 제외(.gitignore 없이도 안전 — git add -A 미사용 원칙).
 - [01-05 해결] GitHub Pages 최초 빌드 지연(수분간 `status: building`, 일시 404)은 전파 대기 후 자연 해소됨. https://ohama.github.io/MongolPhoto/ 는 현재 status=built, HTTP 200. 사람이 브라우저에서 한국어 렌더링·6부 목차·1부 실콘텐츠를 직접 확인 후 "승인" 응답 — Phase 1 배포 완료.
@@ -86,5 +97,6 @@ Recent decisions affecting current work:
 ## Session Continuity
 
 Last session: 2026-07-09
-Stopped at: 02-01-PLAN.md Task 1 완료·커밋(a786f12), Task 2 checkpoint:human-action에서 대기 — 연습 1차(집) 실제 세션 진행 후 사진 폴더 경로(또는 "사진 없음") + 장비·세팅/촬영 환경/배운 점/다음 세션 개선 사항을 텍스트로 보고 필요.
-Resume file: .planning/phases/02-연습-1차-집-2차-서해안/02-01-PLAN.md (Task 3부터 재개)
+Stopped at: [Phase 2] 02-01-PLAN.md Task 1 완료·커밋(a786f12), Task 2 checkpoint:human-action에서 대기 — 연습 1차(집) 실제 세션 진행 후 사진 폴더 경로(또는 "사진 없음") + 장비·세팅/촬영 환경/배운 점/다음 세션 개선 사항을 텍스트로 보고 필요. [Phase 4] 04-01-PLAN.md 전체 완료(fb7e2f9, cb7c927) — 04-02(Day 3~5 + SUMMARY flip)가 다음, 블로커 없음.
+Resume file (Phase 2): .planning/phases/02-연습-1차-집-2차-서해안/02-01-PLAN.md (Task 3부터 재개)
+Resume file (Phase 4): .planning/phases/04-몽골-사전-계획/04-02-PLAN.md (아직 미생성 — `/gsd:plan-phase 4` 또는 다음 실행 시 04-02 플랜부터)
