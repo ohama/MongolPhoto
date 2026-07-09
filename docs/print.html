@@ -37,10 +37,10 @@
             const path_to_root = "";
             const default_light_theme = "light";
             const default_dark_theme = "navy";
-            window.path_to_searchindex_js = "searchindex-27ceb233.js";
+            window.path_to_searchindex_js = "searchindex-076d3c92.js";
         </script>
         <!-- Start loading toc.js asap -->
-        <script src="toc-e0835d95.js"></script>
+        <script src="toc-a7128ae4.js"></script>
     </head>
     <body>
     <div id="mdbook-help-container">
@@ -977,6 +977,57 @@
 <hr>
 <p>실제 연습 사진이 생기면 전/후 편집 과정을 <a href="#연습-로그-템플릿">연습 로그 템플릿</a>에 기록해 보세요.</p>
 <div style="break-before: page; page-break-before: always;"></div>
+<h1 id="은하수-파노라마-촬영병합"><a class="header" href="#은하수-파노라마-촬영병합">은하수 파노라마 촬영·병합</a></h1>
+<p>넓게 펼쳐진 은하수 아치나 지평선 전체를 한 프레임에 담기 어려울 때, 여러 장을 겹쳐 찍은 뒤 소프트웨어로 이어 붙여 한 장의 넓은 사진으로 만드는 기법입니다.</p>
+<h2 id="기본-절차"><a class="header" href="#기본-절차">기본 절차</a></h2>
+<ol>
+<li><strong>노출 세팅은 단일 프레임 은하수 촬영과 동일합니다.</strong> <a href="#노출의-기본-m모드-3요소">노출의 기본</a> · <a href="#500--npf-룰--크롭센서-셔터속도-계산">500 / NPF 룰</a> · <a href="#raw와-화이트밸런스">RAW와 화이트밸런스</a>에서 정한 세팅을 그대로 재사용하세요.</li>
+<li><strong>인접 프레임끼리 30~50% 겹치도록</strong> 삼각대를 회전시키며 하늘 한 줄, 필요하면 전경 한 줄을 추가로 찍습니다.</li>
+<li><strong>프레임 사이 노출·화이트밸런스·초점을 고정합니다.</strong> M모드와 수동 화이트밸런스를 그대로 유지하면 자동으로 보장됩니다.</li>
+<li><strong>병합 소프트웨어로 이어 붙입니다.</strong>
+<ul>
+<li>무료: Microsoft ICE(Windows), Hugin(Windows·Mac·Linux)</li>
+<li>유료: PTGui Pro(업계 표준)</li>
+<li>Lightroom을 쓰고 있다면 Photomerge도 가능합니다(옵션은 적은 편).</li>
+</ul>
+</li>
+<li><strong>병합된 결과물을 <a href="#raw-현상-기본">RAW 현상 기본</a> 순서로 후보정합니다.</strong></li>
+</ol>
+<!-- 이미지: panorama-overlap.png / 목적: 인접 프레임 겹침 비율(30~50%)을 화살표로 표시한 구도 다이어그램 -->
+<h2 id="흔한-실수"><a class="header" href="#흔한-실수">흔한 실수</a></h2>
+<p>겹침이 부족하면 하늘 아치가 납작해지거나 이음매가 어긋납니다. 항상 30% 이상 겹치도록 여유 있게 찍으세요.</p>
+<div style="break-before: page; page-break-before: always;"></div>
+<h1 id="스타트레일별궤적-촬영합성"><a class="header" href="#스타트레일별궤적-촬영합성">스타트레일(별궤적) 촬영·합성</a></h1>
+<blockquote>
+<p>⚠️ <strong>이 기법의 촬영 세팅은 이 책의 기본 은하수 세팅(단일 프레임 15~20초)과 촬영 전략 자체가 다릅니다 — 섞어 쓰지 마세요.</strong></p>
+</blockquote>
+<p>별이 점이 아니라 긴 궤적으로 남도록, 짧은 노출을 아주 많이 연속으로 찍은 뒤 한 장으로 합성하는 기법입니다. 한 장의 초장노출 대신 짧은 노출 수십~수백 장을 겹치므로 노이즈·배터리 부담이 분산됩니다.</p>
+<h2 id="기본-절차-1"><a class="header" href="#기본-절차-1">기본 절차</a></h2>
+<ol>
+<li><strong><a href="#필수-액세서리--앱">인터벌 타이머</a>로 프레임 사이 텀 없이 연속 촬영합니다.</strong> 예: 20~30초 노출로 수십~수백 장.</li>
+<li><strong>카메라의 장노출 노이즈 감소(Long Exposure NR)를 반드시 OFF로 둡니다.</strong> 켜두면 프레임 사이마다 처리 시간만큼 공백이 생겨 궤적이 끊깁니다.</li>
+<li><strong>ISO·조리개·셔터속도·화이트밸런스를 전체 프레임에서 고정합니다.</strong> M모드와 수동 화이트밸런스를 그대로 재사용하세요.</li>
+<li><strong>구도를 정합니다.</strong> 북극성(남반구는 남쪽 천구극) 방향을 담으면 동심원 궤적, 다른 방향을 담으면 사선 궤적이 됩니다. 전경 실루엣을 함께 넣으면 궤적의 규모가 잘 드러납니다.</li>
+<li><strong>합성 소프트웨어: StarStaX(무료, Windows·Mac 모두 지원).</strong> 이 책이 은하수 코어 스태킹에 쓰는 Sequator(Windows)·Starry Landscape Stacker(Mac)와는 <strong>목적이 다른 별도 도구</strong>입니다. Lighten 블렌드 모드와 gap-filling 기능으로 프레임 사이 미세한 끊김을 보정합니다.</li>
+</ol>
+<!-- 이미지: star-trails-blend.png / 목적: 개별 짧은노출 프레임 여러 장이 Lighten 블렌드로 하나의 궤적 사진이 되는 과정 다이어그램 -->
+<h2 id="배터리--저장공간"><a class="header" href="#배터리--저장공간">배터리 · 저장공간</a></h2>
+<p>수 시간에 걸친 연속 촬영이므로 파워뱅크와 여유 메모리 카드를 반드시 준비하세요 — <a href="#필수-액세서리--앱">필수 액세서리 &amp; 앱</a>.</p>
+<div style="break-before: page; page-break-before: always;"></div>
+<h1 id="밤하늘-타임랩스"><a class="header" href="#밤하늘-타임랩스">밤하늘 타임랩스</a></h1>
+<p>일정 간격으로 찍은 사진 시퀀스를 이어 붙여, 밤하늘과 은하수가 움직이는 영상으로 만드는 기법입니다.</p>
+<h2 id="기본-절차-2"><a class="header" href="#기본-절차-2">기본 절차</a></h2>
+<ol>
+<li><strong><a href="#필수-액세서리--앱">인터벌 타이머</a>로 부드러운 재생을 위한 간격을 설정합니다.</strong> 예: 20~30초 간격으로 1~2시간 촬영.</li>
+<li><strong>M모드와 수동 화이트밸런스로 전체 프레임을 고정합니다.</strong> 자동 모드로 찍으면 프레임마다 밝기가 튀어 영상에서 **플리커(깜빡임)**가 생깁니다. 이 책이 <a href="#노출의-기본-m모드-3요소">노출의 기본</a>과 <a href="#raw와-화이트밸런스">RAW와 화이트밸런스</a>에서 M모드·수동 화이트밸런스를 강조하는 이유가 타임랩스에서도 그대로 적용됩니다.</li>
+<li><strong>모든 프레임에 동일한 RAW 현상을 일괄 적용합니다.</strong> <a href="#raw-현상-기본">RAW 현상 기본</a>에서 정한 설정을 darktable/Lightroom의 설정 복사·동기화 기능으로 전체 프레임에 배치 적용하세요.</li>
+<li><strong>영상으로 조립합니다.</strong> Lightroom의 슬라이드쇼 내보내기, 또는 무료 도구 ffmpeg(이미지 시퀀스 → 영상)를 사용합니다.</li>
+<li>**정교한 디플리커가 필요하면 LRTimelapse(유료, Lightroom 연동)**를 고려하세요.</li>
+</ol>
+<!-- 이미지: timelapse-sequence.png / 목적: 일정 간격 정지 프레임 여러 장이 이어져 영상이 되는 흐름 다이어그램 -->
+<h2 id="배터리--저장공간-1"><a class="header" href="#배터리--저장공간-1">배터리 · 저장공간</a></h2>
+<p>스타트레일과 마찬가지로 장시간 연속 촬영이므로 파워뱅크와 여유 저장공간을 미리 확인하세요.</p>
+<div style="break-before: page; page-break-before: always;"></div>
 <h1 id="카메라--렌즈-추천-목록"><a class="header" href="#카메라--렌즈-추천-목록">카메라 · 렌즈 추천 목록</a></h1>
 <blockquote>
 <p>이 부록은 <a href="#카메라와-렌즈-고르기">카메라와 렌즈 고르기</a>에서 설명한 “필수 조건“을 실제로 만족하는 구체적인 기종·렌즈 예시를 모아둔 참고 목록입니다. 전부 “이런 걸 고려하면 좋다“는 추천이며, <strong>이미 가진 장비가 앞의 필수 조건을 만족한다면 새로 살 필요는 없습니다.</strong> 이 책은 특정 판매처를 안내하지 않습니다 — 어떤 장비가 내 목적에 맞는지 판단하는 데만 참고하세요.</p>
@@ -1038,6 +1089,147 @@
 <p>예: 캐논 크롭 바디(1.6×)에 16mm 렌즈를 쓰면 → 16 × 1.6 = 약 25.6mm 환산 화각.</p>
 <p><strong>3단계 — 환산값을 500 룰에 대입</strong></p>
 <p>이렇게 구한 환산 초점거리를 <a href="#500--npf-룰--크롭센서-셔터속도-계산">500 / NPF 룰 페이지</a>의 공식에 그대로 대입하면, 별이 흐르지 않는 최대 셔터속도를 내 렌즈·내 카메라 기준으로 직접 계산할 수 있습니다. 마운트가 무엇이든, 이 3단계만 기억하면 됩니다.</p>
+<div style="break-before: page; page-break-before: always;"></div>
+<h1 id="현장-치트시트"><a class="header" href="#현장-치트시트">현장 치트시트</a></h1>
+<p>현장에서 빠르게 훑어볼 수 있도록 이 책의 핵심 세팅값·체크리스트만 한 페이지로 모았습니다. 각 값의 이유는 본편 링크에서 확인하세요.</p>
+<h2 id="1-시작-세팅값"><a class="header" href="#1-시작-세팅값">1. 시작 세팅값</a></h2>
+<div class="table-wrapper">
+<table>
+<thead>
+<tr><th>항목</th><th>시작값</th></tr>
+</thead>
+<tbody>
+<tr><td>모드</td><td>M (수동)</td></tr>
+<tr><td>조리개</td><td>렌즈 최대 개방</td></tr>
+<tr><td>ISO</td><td>1600~3200</td></tr>
+<tr><td>셔터속도</td><td>15~20초</td></tr>
+<tr><td>화이트밸런스</td><td>3800~4200K</td></tr>
+<tr><td>파일 형식</td><td>RAW</td></tr>
+</tbody>
+</table>
+</div>
+<p>최대 셔터속도 공식: <code>500 ÷ (초점거리 × 크롭계수)</code> — 자세한 계산은 <a href="#500--npf-룰--크롭센서-셔터속도-계산">500 / NPF 룰</a>, 내 카메라의 크롭계수는 <a href="#카메라--렌즈-추천-목록">카메라 · 렌즈 추천 목록</a>에서 확인하세요.</p>
+<h2 id="2-별-초점-요약-스텝"><a class="header" href="#2-별-초점-요약-스텝">2. 별 초점 (요약 스텝)</a></h2>
+<ol>
+<li>MF 전환</li>
+<li>라이브뷰 확대(가장 밝은 별에)</li>
+<li>포커스 링 미세조정</li>
+<li>필요시 테이프로 고정</li>
+<li>테스트 샷 100% 확대 확인</li>
+</ol>
+<p>자세한 설명은 <a href="#별에-초점-맞추기">별에 초점 맞추기</a>.</p>
+<h2 id="3-현장-워크플로-체크박스"><a class="header" href="#3-현장-워크플로-체크박스">3. 현장 워크플로 체크박스</a></h2>
+<ul>
+<li><input disabled="" type="checkbox"> 도착 · 암순응</li>
+<li><input disabled="" type="checkbox"> 삼각대 설치</li>
+<li><input disabled="" type="checkbox"> 구도 잡기</li>
+<li><input disabled="" type="checkbox"> 카메라 세팅</li>
+<li><input disabled="" type="checkbox"> 초점 맞추기</li>
+<li><input disabled="" type="checkbox"> 시험 촬영 · 히스토그램 확인</li>
+<li><input disabled="" type="checkbox"> 본 촬영</li>
+</ul>
+<p>자세한 설명은 <a href="#현장-촬영-워크플로">현장 촬영 워크플로</a>.</p>
+<h2 id="4-오늘-찍을-수-있나"><a class="header" href="#4-오늘-찍을-수-있나">4. 오늘 찍을 수 있나?</a></h2>
+<ul>
+<li><input disabled="" type="checkbox"> 지금이 코어 시즌인가?</li>
+<li><input disabled="" type="checkbox"> 오늘 밤 코어가 뜨는 시각·방위·고도를 확인했는가?</li>
+<li><input disabled="" type="checkbox"> 달이 신월에 가깝거나, 얇은 초승달이 일찍 지는 밤인가?</li>
+<li><input disabled="" type="checkbox"> 촬영 장소의 Bortle 등급이 충분히 낮은가?</li>
+<li><input disabled="" type="checkbox"> 당일 밤 하늘이 맑을 예정인가?</li>
+</ul>
+<p>자세한 설명은 <a href="#은하수-찾기와-타이밍">은하수 찾기와 타이밍</a>.</p>
+<h2 id="5-빠른-문제해결"><a class="header" href="#5-빠른-문제해결">5. 빠른 문제해결</a></h2>
+<div class="table-wrapper">
+<table>
+<thead>
+<tr><th>증상</th><th>대응</th></tr>
+</thead>
+<tbody>
+<tr><td>별이 궤적으로 번졌다</td><td>셔터속도를 500/NPF 상한보다 짧게 재시도</td></tr>
+<tr><td>초점이 흐리다</td><td>라이브뷰 확대·미세조정을 더 천천히, 테이프 고정까지 반복</td></tr>
+<tr><td>노출이 어긋났다</td><td>본 촬영 전 히스토그램 확인 단계를 빠뜨리지 않기</td></tr>
+<tr><td>뿌옇게 나온다</td><td>이슬·김서림 여부 확인, 렌즈 앞 주기적으로 닦기</td></tr>
+</tbody>
+</table>
+</div>
+<p>원인·다음 개선까지 자세히는 <a href="#야외-연습-결과-점검">야외 연습 결과 점검</a>.</p>
+<div style="break-before: page; page-break-before: always;"></div>
+<h1 id="체크리스트-모음"><a class="header" href="#체크리스트-모음">체크리스트 모음</a></h1>
+<p>이 책의 체크리스트를 한곳에 모았습니다. 상황별로 골라 쓰세요.</p>
+<h2 id="출발-전-체크리스트-1"><a class="header" href="#출발-전-체크리스트-1">출발 전 체크리스트</a></h2>
+<p>짐 쌀 때 카메라·전원·삼각대·방한·앱까지 카테고리별로 훑어보는 목록입니다. → <a href="#출발-전-체크리스트">출발 전 체크리스트</a></p>
+<h2 id="집-연습-체크리스트-1"><a class="header" href="#집-연습-체크리스트-1">집 연습 체크리스트</a></h2>
+<p>야외로 나가기 전 조작·초점·촬영 진행을 스스로 진단하는 자가진단 목록입니다. → <a href="#집-연습-체크리스트">집 연습 체크리스트</a></p>
+<h2 id="현장-촬영-워크플로-체크리스트"><a class="header" href="#현장-촬영-워크플로-체크리스트">현장 촬영 워크플로 체크리스트</a></h2>
+<ul>
+<li><input disabled="" type="checkbox"> 도착 · 암순응</li>
+<li><input disabled="" type="checkbox"> 삼각대 설치 · 수평</li>
+<li><input disabled="" type="checkbox"> 구도 잡기</li>
+<li><input disabled="" type="checkbox"> 카메라 세팅</li>
+<li><input disabled="" type="checkbox"> 초점 맞추기</li>
+<li><input disabled="" type="checkbox"> 시험 촬영 · 히스토그램 확인</li>
+<li><input disabled="" type="checkbox"> 본 촬영</li>
+</ul>
+<p>자세한 설명은 <a href="#현장-촬영-워크플로">현장 촬영 워크플로</a> 참고.</p>
+<div style="break-before: page; page-break-before: always;"></div>
+<h1 id="앱--소프트웨어-가이드"><a class="header" href="#앱--소프트웨어-가이드">앱 · 소프트웨어 가이드</a></h1>
+<p>이 책에서 쓰는 앱·소프트웨어를 용도별로 모았습니다.</p>
+<h2 id="앱"><a class="header" href="#앱">앱</a></h2>
+<div class="table-wrapper">
+<table>
+<thead>
+<tr><th>앱</th><th>용도</th><th>자세히</th></tr>
+</thead>
+<tbody>
+<tr><td>PhotoPills</td><td>코어 뜨는 시각·방위·고도, Spot Stars(셔터속도 계산)</td><td><a href="#필수-액세서리--앱">필수 액세서리 &amp; 앱</a>, <a href="#500--npf-룰--크롭센서-셔터속도-계산">500 / NPF 룰</a></td></tr>
+<tr><td>Stellarium</td><td>밤하늘 시뮬레이션</td><td><a href="#필수-액세서리--앱">필수 액세서리 &amp; 앱</a></td></tr>
+<tr><td>Windy / Clear Outside</td><td>구름·습도·달 위상 확인</td><td><a href="#은하수-찾기와-타이밍">은하수 찾기와 타이밍</a></td></tr>
+</tbody>
+</table>
+</div>
+<h2 id="소프트웨어"><a class="header" href="#소프트웨어">소프트웨어</a></h2>
+<div class="table-wrapper">
+<table>
+<thead>
+<tr><th>이름</th><th>용도</th><th>OS</th><th>자세히</th></tr>
+</thead>
+<tbody>
+<tr><td>darktable</td><td>RAW 현상 (기본 추천, 무료)</td><td>Win/Mac/Linux</td><td><a href="#raw-현상-기본">RAW 현상 기본</a></td></tr>
+<tr><td>Lightroom</td><td>RAW 현상 (구독 중이면)</td><td>Win/Mac</td><td><a href="#raw-현상-기본">RAW 현상 기본</a></td></tr>
+<tr><td>Sequator</td><td>스태킹 (무료)</td><td>Windows</td><td><a href="#스태킹으로-노이즈-줄이기">스태킹으로 노이즈 줄이기</a></td></tr>
+<tr><td>Starry Landscape Stacker</td><td>스태킹 (~$40)</td><td>Mac</td><td><a href="#스태킹으로-노이즈-줄이기">스태킹으로 노이즈 줄이기</a></td></tr>
+</tbody>
+</table>
+</div>
+<p>카메라·렌즈 장비 추천은 <a href="#카메라--렌즈-추천-목록">카메라 · 렌즈 추천 목록</a> 참고.</p>
+<div style="break-before: page; page-break-before: always;"></div>
+<h1 id="용어-사전"><a class="header" href="#용어-사전">용어 사전</a></h1>
+<p>이 책에서 쓰는 용어를 가나다순으로 모았습니다. 각 항목은 처음 등장한 챕터로 연결됩니다.</p>
+<ul>
+<li><strong>노출 삼각형(Exposure Triangle)</strong> — ISO·조리개·셔터속도 세 가지가 서로 트레이드오프를 이루는 관계. → <a href="#노출의-기본-m모드-3요소">노출의 기본</a></li>
+<li><strong>다크스카이 / 광해</strong> — 인공 불빛의 영향이 적어 밤하늘이 어두운 지역, 또는 그 반대인 빛 공해. → <a href="#은하수-찾기와-타이밍">은하수 찾기와 타이밍</a></li>
+<li><strong>디헤이즈(Dehaze)</strong> — 대기 안개·번짐을 걷어내 대비를 살리는 후보정 슬라이더. → <a href="#raw-현상-기본">RAW 현상 기본</a></li>
+<li><strong>로컬 대비 / 명료도</strong> — 사진 전체가 아니라 중간 톤 경계 부분의 대비를 소폭 올려 구조를 살리는 조정. → <a href="#은하수-강조-보정">은하수 강조 보정</a></li>
+<li><strong>무한대 초점</strong> — 렌즈 초점을 가장 먼 거리(별)에 맞춘 상태. 렌즈에 표시된 ∞ 마크는 정확하지 않을 수 있어 매번 수동으로 다시 맞춘다. → <a href="#별에-초점-맞추기">별에 초점 맞추기</a></li>
+<li><strong>스태킹(Stacking)</strong> — 같은 구도로 찍은 여러 장을 정렬·평균해 노이즈를 줄이는 기법. → <a href="#스태킹으로-노이즈-줄이기">스태킹으로 노이즈 줄이기</a></li>
+<li><strong>신월 / 초승달</strong> — 신월은 달이 거의 보이지 않는 삭, 초승달은 신월 직후 가늘게 뜨는 달. 달빛이 약할수록 은하수가 잘 보인다. → <a href="#은하수-찾기와-타이밍">은하수 찾기와 타이밍</a></li>
+<li><strong>암순응(Dark Adaptation)</strong> — 눈이 어둠에 적응해 별을 더 잘 보게 되는 과정(15~20분 소요). 흰 빛을 보면 처음부터 다시 시작된다. → <a href="#현장-촬영-워크플로">현장 촬영 워크플로</a></li>
+<li><strong>은하수 코어(Galactic Core)</strong> — 은하수에서 가장 밝고 두꺼운 중심부. 계절·시간에 따라 뜨고 지는 위치가 달라진다. → <a href="#은하수-찾기와-타이밍">은하수 찾기와 타이밍</a></li>
+<li><strong>이슬점 / 결로</strong> — 기온이 이슬점 아래로 내려가면 렌즈 앞면에 이슬이 맺혀 화면이 뿌옇게 나오는 현상. → <a href="#필수-액세서리--앱">필수 액세서리 &amp; 앱</a></li>
+<li><strong>인터벌 타이머 / 릴리즈</strong> — 셔터를 손으로 누르지 않고 자동·원격으로 촬영해 흔들림을 막는 장치·기능. → <a href="#필수-액세서리--앱">필수 액세서리 &amp; 앱</a></li>
+<li><strong>자오선 통과(Meridian Transit / Culmination)</strong> — 천체가 정남쪽(또는 정북쪽) 하늘에서 가장 높은 고도에 이르는 순간. → <a href="#고비-촬영-일반-원리">고비 촬영 일반 원리</a></li>
+<li><strong>천문박명(Astronomical Twilight)</strong> — 해가 지평선 아래 18도까지 내려가 하늘이 완전히 어두워지는 시점. 이후부터가 은하수 촬영의 실질적인 시작 시각. → <a href="#고비-촬영-일반-원리">고비 촬영 일반 원리</a></li>
+<li><strong>코마수차(Coma Aberration)</strong> — 조리개를 최대 개방했을 때 화면 가장자리 별이 새 날개처럼 번지는 렌즈 수차. → <a href="#카메라--렌즈-추천-목록">카메라 · 렌즈 추천 목록</a></li>
+<li><strong>크러시된 블랙(Crushed Blacks)</strong> — 블랙 레벨을 과도하게 내려 어두운 부분의 디테일이 통째로 사라지는 현상. → <a href="#은하수-강조-보정">은하수 강조 보정</a></li>
+<li><strong>크롭계수(Crop Factor)</strong> — 센서 크기가 풀프레임보다 작을 때, 실제 초점거리를 풀프레임 환산 화각으로 바꿔주는 배율. → <a href="#500--npf-룰--크롭센서-셔터속도-계산">500 / NPF 룰</a></li>
+<li><strong>파노라마 병합 / 스타트레일 / 타임랩스</strong> — 여러 장을 이어 붙이거나 합성해 만드는 세 가지 보너스 기법. → <a href="#은하수-파노라마-촬영병합">은하수 파노라마 촬영·병합</a>, <a href="#스타트레일별궤적-촬영합성">스타트레일(별궤적) 촬영·합성</a>, <a href="#밤하늘-타임랩스">밤하늘 타임랩스</a></li>
+<li><strong>헤일로(Halo)</strong> — 명료도·대비를 과하게 올렸을 때 밝은 영역 경계에 생기는 부자연스러운 빛 번짐 테. → <a href="#은하수-강조-보정">은하수 강조 보정</a></li>
+<li><strong>화이트밸런스 / 켈빈(K)</strong> — 사진의 색온도를 정하는 값. 은하수 촬영은 3800~4200K 부근에서 수동으로 시작한다. → <a href="#raw와-화이트밸런스">RAW와 화이트밸런스</a></li>
+<li><strong>히스토그램</strong> — 사진의 밝기 분포를 그래프로 보여주는 화면. 촬영 직후 노출이 적절한지 확인하는 데 쓴다. → <a href="#현장-촬영-워크플로">현장 촬영 워크플로</a></li>
+<li><strong>500 룰 / NPF 룰</strong> — 별이 점으로 남는 최대 셔터속도를 구하는 두 계산법. → <a href="#500--npf-룰--크롭센서-셔터속도-계산">500 / NPF 룰</a></li>
+<li><strong>Bortle 척도</strong> — 밤하늘의 어두운 정도를 1(가장 어두움)~9(도심)로 나눈 지표. → <a href="#은하수-찾기와-타이밍">은하수 찾기와 타이밍</a></li>
+<li><strong>RAW</strong> — 카메라 센서 원본 데이터를 압축·처리하지 않고 저장하는 파일 형식. 후보정 여지가 크다. → <a href="#raw와-화이트밸런스">RAW와 화이트밸런스</a></li>
+</ul>
 
                     </main>
 
