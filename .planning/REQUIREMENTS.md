@@ -39,9 +39,9 @@
 
 ### 집에서 연습 (HOME) — 일반 가이드
 
-- [ ] **HOME-01**: 가기 전 집에서 익혀 둘 카메라 조작·세팅 연습 항목 (수동모드, ISO/조리개/셔터, RAW, 크롭 셔터 계산)
-- [ ] **HOME-02**: 집(실내/베란다)에서 할 수 있는 초점·구도·인터벌/릴리즈 연습 방법
-- [ ] **HOME-03**: 집 연습 자가점검 체크리스트
+- [x] **HOME-01**: 가기 전 집에서 익혀 둘 카메라 조작·세팅 연습 항목 (수동모드, ISO/조리개/셔터, RAW, 크롭 셔터 계산)
+- [x] **HOME-02**: 집(실내/베란다)에서 할 수 있는 초점·구도·인터벌/릴리즈 연습 방법
+- [x] **HOME-03**: 집 연습 자가점검 체크리스트
 
 ### 야외에서 연습 (FIELD) — 일반 가이드
 
@@ -128,9 +128,9 @@
 | FUND-06 | Phase 1 | Complete |
 | PRAC-01 | Phase 1 | Complete |
 | REF-05 | Phase 1 | Complete |
-| HOME-01 | Phase 2 | Pending |
-| HOME-02 | Phase 2 | Pending |
-| HOME-03 | Phase 2 | Pending |
+| HOME-01 | Phase 2 | Complete |
+| HOME-02 | Phase 2 | Complete |
+| HOME-03 | Phase 2 | Complete |
 | FIELD-01 | Phase 3 | Pending |
 | FIELD-02 | Phase 3 | Pending |
 | FIELD-03 | Phase 3 | Pending |
