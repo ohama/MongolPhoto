@@ -45,9 +45,9 @@
 
 ### 야외에서 연습 (FIELD) — 일반 가이드
 
-- [ ] **FIELD-01**: 가기 전 야외(근교 어두운 곳)에서 실전 연습할 항목 (실제 밤하늘에서 노출·초점·구도)
-- [ ] **FIELD-02**: 야외 촬영 준비와 현장 워크플로 리허설 (이슬·바람·배터리·안전·이동)
-- [ ] **FIELD-03**: 야외 연습에서 확인·복기할 포인트 (결과 점검 → 개선)
+- [x] **FIELD-01**: 가기 전 야외(근교 어두운 곳)에서 실전 연습할 항목 (실제 밤하늘에서 노출·초점·구도)
+- [x] **FIELD-02**: 야외 촬영 준비와 현장 워크플로 리허설 (이슬·바람·배터리·안전·이동)
+- [x] **FIELD-03**: 야외 연습에서 확인·복기할 포인트 (결과 점검 → 개선)
 
 ### 후보정 연습 (EDIT) — 일반 가이드
 
@@ -131,9 +131,9 @@
 | HOME-01 | Phase 2 | Complete |
 | HOME-02 | Phase 2 | Complete |
 | HOME-03 | Phase 2 | Complete |
-| FIELD-01 | Phase 3 | Pending |
-| FIELD-02 | Phase 3 | Pending |
-| FIELD-03 | Phase 3 | Pending |
+| FIELD-01 | Phase 3 | Complete |
+| FIELD-02 | Phase 3 | Complete |
+| FIELD-03 | Phase 3 | Complete |
 | EDIT-01 | Phase 4 | Pending |
 | EDIT-02 | Phase 4 | Pending |
 | EDIT-03 | Phase 4 | Pending |
