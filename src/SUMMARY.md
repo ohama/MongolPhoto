@@ -30,6 +30,7 @@
 
 - [고비 촬영 일반 원리](04-mongolia/overview.md)
 - [차강소브라가 (Tsagaan Suvarga)](04-mongolia/tsagaan-suvarga.md)
+- [바양작 (Bayanzag)](04-mongolia/bayanzag.md)
 - [홍고린엘스 (Khongoryn Els)](04-mongolia/khongoryn-els.md)
 - [욜링암 (Yolyn Am)](04-mongolia/yolyn-am.md)
 - [바가가즈링 촐로 (Baga Gazriin Chuluu)](04-mongolia/baga-gazriin-chuluu.md)
