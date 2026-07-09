@@ -1,0 +1,26 @@
+[book]
+title = "몽골 은하수 촬영기"
+authors = ["ohama"]
+language = "ko"
+description = "트래킹 장비 없이 몽골에서 은하수 사진 찍기 — 장비부터 촬영, 후보정까지"
+src = "."
+
+[build]
+build-dir = "../docs"
+create-missing = false
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/ohama/MongolPhoto"
+edit-url-template = "https://github.com/ohama/MongolPhoto/edit/main/src/{path}"
+additional-css = ["theme/custom.css"]
+
+[output.html.fold]
+enable = true
+
+[output.html.search]
+enable = true
+limit-results = 30
+boost-title = 2
+boost-hierarchy = 1
