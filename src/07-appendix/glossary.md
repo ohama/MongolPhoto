@@ -1,0 +1,27 @@
+# 용어 사전
+
+이 책에서 쓰는 용어를 가나다순으로 모았습니다. 각 항목은 처음 등장한 챕터로 연결됩니다.
+
+- **노출 삼각형(Exposure Triangle)** — ISO·조리개·셔터속도 세 가지가 서로 트레이드오프를 이루는 관계. → [노출의 기본](../02-fundamentals/exposure-basics.md)
+- **다크스카이 / 광해** — 인공 불빛의 영향이 적어 밤하늘이 어두운 지역, 또는 그 반대인 빛 공해. → [은하수 찾기와 타이밍](../02-fundamentals/finding-the-milkyway.md)
+- **디헤이즈(Dehaze)** — 대기 안개·번짐을 걷어내 대비를 살리는 후보정 슬라이더. → [RAW 현상 기본](../05-postprocessing/raw-develop.md)
+- **로컬 대비 / 명료도** — 사진 전체가 아니라 중간 톤 경계 부분의 대비를 소폭 올려 구조를 살리는 조정. → [은하수 강조 보정](../05-postprocessing/enhance-milkyway.md)
+- **무한대 초점** — 렌즈 초점을 가장 먼 거리(별)에 맞춘 상태. 렌즈에 표시된 ∞ 마크는 정확하지 않을 수 있어 매번 수동으로 다시 맞춘다. → [별에 초점 맞추기](../02-fundamentals/focusing.md)
+- **스태킹(Stacking)** — 같은 구도로 찍은 여러 장을 정렬·평균해 노이즈를 줄이는 기법. → [스태킹으로 노이즈 줄이기](../05-postprocessing/stacking.md)
+- **신월 / 초승달** — 신월은 달이 거의 보이지 않는 삭, 초승달은 신월 직후 가늘게 뜨는 달. 달빛이 약할수록 은하수가 잘 보인다. → [은하수 찾기와 타이밍](../02-fundamentals/finding-the-milkyway.md)
+- **암순응(Dark Adaptation)** — 눈이 어둠에 적응해 별을 더 잘 보게 되는 과정(15~20분 소요). 흰 빛을 보면 처음부터 다시 시작된다. → [현장 촬영 워크플로](../02-fundamentals/field-workflow.md)
+- **은하수 코어(Galactic Core)** — 은하수에서 가장 밝고 두꺼운 중심부. 계절·시간에 따라 뜨고 지는 위치가 달라진다. → [은하수 찾기와 타이밍](../02-fundamentals/finding-the-milkyway.md)
+- **이슬점 / 결로** — 기온이 이슬점 아래로 내려가면 렌즈 앞면에 이슬이 맺혀 화면이 뿌옇게 나오는 현상. → [필수 액세서리 & 앱](../01-gear/accessories.md)
+- **인터벌 타이머 / 릴리즈** — 셔터를 손으로 누르지 않고 자동·원격으로 촬영해 흔들림을 막는 장치·기능. → [필수 액세서리 & 앱](../01-gear/accessories.md)
+- **자오선 통과(Meridian Transit / Culmination)** — 천체가 정남쪽(또는 정북쪽) 하늘에서 가장 높은 고도에 이르는 순간. → [고비 촬영 일반 원리](../04-mongolia/overview.md)
+- **천문박명(Astronomical Twilight)** — 해가 지평선 아래 18도까지 내려가 하늘이 완전히 어두워지는 시점. 이후부터가 은하수 촬영의 실질적인 시작 시각. → [고비 촬영 일반 원리](../04-mongolia/overview.md)
+- **코마수차(Coma Aberration)** — 조리개를 최대 개방했을 때 화면 가장자리 별이 새 날개처럼 번지는 렌즈 수차. → [카메라 · 렌즈 추천 목록](camera-lens-picks.md)
+- **크러시된 블랙(Crushed Blacks)** — 블랙 레벨을 과도하게 내려 어두운 부분의 디테일이 통째로 사라지는 현상. → [은하수 강조 보정](../05-postprocessing/enhance-milkyway.md)
+- **크롭계수(Crop Factor)** — 센서 크기가 풀프레임보다 작을 때, 실제 초점거리를 풀프레임 환산 화각으로 바꿔주는 배율. → [500 / NPF 룰](../02-fundamentals/500-npf-rule.md)
+- **파노라마 병합 / 스타트레일 / 타임랩스** — 여러 장을 이어 붙이거나 합성해 만드는 세 가지 보너스 기법. → [은하수 파노라마 촬영·병합](../06-bonus/panorama.md), [스타트레일(별궤적) 촬영·합성](../06-bonus/star-trails.md), [밤하늘 타임랩스](../06-bonus/timelapse.md)
+- **헤일로(Halo)** — 명료도·대비를 과하게 올렸을 때 밝은 영역 경계에 생기는 부자연스러운 빛 번짐 테. → [은하수 강조 보정](../05-postprocessing/enhance-milkyway.md)
+- **화이트밸런스 / 켈빈(K)** — 사진의 색온도를 정하는 값. 은하수 촬영은 3800~4200K 부근에서 수동으로 시작한다. → [RAW와 화이트밸런스](../02-fundamentals/raw-and-wb.md)
+- **히스토그램** — 사진의 밝기 분포를 그래프로 보여주는 화면. 촬영 직후 노출이 적절한지 확인하는 데 쓴다. → [현장 촬영 워크플로](../02-fundamentals/field-workflow.md)
+- **500 룰 / NPF 룰** — 별이 점으로 남는 최대 셔터속도를 구하는 두 계산법. → [500 / NPF 룰](../02-fundamentals/500-npf-rule.md)
+- **Bortle 척도** — 밤하늘의 어두운 정도를 1(가장 어두움)~9(도심)로 나눈 지표. → [은하수 찾기와 타이밍](../02-fundamentals/finding-the-milkyway.md)
+- **RAW** — 카메라 센서 원본 데이터를 압축·처리하지 않고 저장하는 파일 형식. 후보정 여지가 크다. → [RAW와 화이트밸런스](../02-fundamentals/raw-and-wb.md)
