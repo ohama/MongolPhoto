@@ -5,7 +5,7 @@
 See: .planning/PROJECT.md (updated 2026-07-09)
 
 **Core value:** 트래킹 장비 없이도 은하수 사진이 "잘 나오게" 하는 전 과정(장비 선택 → 촬영 → 후보정)을, 초보자가 따라 하며 몽골에서 실제로 성공할 수 있도록 담아낸다.
-**Current focus:** Phase 1 완료·검증(5/5). **2026-07-09 방향 전환** — 2~5부를 개인 일지·여행 결과에서 **일반 가이드**로 재구성(HOME/FIELD/EDIT/SITE). 로드맵·요구사항 재작성 완료. 구 Phase 2/4 산출물은 `.planning/archive/`로 이동. Phase 2(집에서 연습할 사항) 계획·실행 완료(02-01, HOME-01~03). Phase 3(야외에서 연습할 사항) 계획·실행 완료(03-01, FIELD-01~03). Phase 4(후보정 연습) 계획·실행 완료(04-01, EDIT-01~04). Phase 5(몽골 여행지별 촬영 가이드) 계획·실행 완료(05-01, SITE-01~03) — 개인 일정 프레이밍을 검증된 데이터를 재사용하는 일반 가이드로 재구성. 다음: Phase 6(부록·보너스·배포).
+**Current focus:** Phase 1 완료·검증(5/5). **2026-07-09 방향 전환** — 2~5부를 개인 일지·여행 결과에서 **일반 가이드**로 재구성(HOME/FIELD/EDIT/SITE). 로드맵·요구사항 재작성 완료. 구 Phase 2/4 산출물은 `.planning/archive/`로 이동. Phase 2(집에서 연습할 사항) 계획·실행 완료(02-01, HOME-01~03). Phase 3(야외에서 연습할 사항) 계획·실행 완료(03-01, FIELD-01~03). Phase 4(후보정 연습) 계획·실행 완료(04-01, EDIT-01~04). Phase 5(몽골 여행지별 촬영 가이드) 계획·실행 완료(05-01, SITE-01~03) — 개인 일정 프레이밍을 검증된 데이터를 재사용하는 일반 가이드로 재구성. Phase 6(부록·보너스·배포검증) 06-01 완료(REF-01~04, BONUS-01~03, SUMMARY 재구조화, 배포 사람 확인 승인) — **MongolPhoto v1 콘텐츠 완결(milestone content-complete)**.
 
 ## Current Position
 
@@ -15,7 +15,7 @@ See: .planning/PROJECT.md (updated 2026-07-09)
 - Phase 3 (야외에서 연습할 사항, 일반 가이드): ✓ 완료 (03-01, FIELD-01~03)
 - Phase 4 (후보정 연습, 일반 가이드): ✓ 완료 (04-01, EDIT-01~04)
 - Phase 5 (몽골 여행지별 촬영 가이드, 일반): ✓ 완료 (05-01, SITE-01~03) — `src/04-mongolia/`를 개인 일정에서 일반 명소별 가이드로 재구성
-- Phase 6 (부록·보너스·배포): 계획 대기 (REF/BONUS; REF-05 카메라·렌즈 추천 목록은 이미 완료)
+- Phase 6 (부록·보너스·배포검증): ✓ 완료 (06-01, REF-01~04 + BONUS-01~03) — 부록 07-appendix rename, 참고자료 4페이지 + 보너스 기법 3페이지 신설, SUMMARY 재구조화, GitHub Pages 배포 사람 확인 승인. **로드맵 6개 phase 전부 완료 — MongolPhoto v1 milestone 종료.**
 
 날짜 게이트 없음 — 일반 가이드라 전부 지금 작성 가능.
 
@@ -28,14 +28,14 @@ See: .planning/PROJECT.md (updated 2026-07-09)
 - [해결됨, 03-01] `finding-the-milkyway.md`의 "7/17 서해안 연습" 등 스테일 참조·끊어진 이슬 링크, `index.md`의 "서해안 연습" 참조 정리 완료.
 - [해결됨, 05-01] `finding-the-milkyway.md` §2·§3의 8/13~8/17·5박 dated framing, `introduction.md`의 개인 여행 프레이밍 정리 완료.
 
-Progress: [████████░░] Phase 1~5 100%, Phase 6 계획 대기 (부록·보너스·배포)
+Progress: [██████████] Phase 1~6 100% — MongolPhoto v1 content-complete
 
 ## Performance Metrics
 
 **Velocity:**
-- Total plans completed: 11
-- Average duration: ~10.0 min
-- Total execution time: ~1.84 hours
+- Total plans completed: 12
+- Average duration: ~9.8 min
+- Total execution time: ~1.97 hours
 
 **By Phase:**
 
@@ -47,10 +47,11 @@ Progress: [████████░░] Phase 1~5 100%, Phase 6 계획 대기
 | 4 (후보정 연습, 신 로드맵) | 1/1 | 8 min | 8 min |
 | 4 (구, 몽골 사전 계획, 아카이브) | 2/2 | 13 min | 6.5 min |
 | 5 (몽골 여행지별 촬영 가이드) | 1/1 | ~8 min | 8 min |
+| 6 (부록·보너스·배포검증) | 1/1 | ~8 min | 8 min |
 
 **Recent Trend:**
-- Last plans: 03-01 (7 min), 04-01(신, 후보정 연습, 8 min), 05-01(몽골 여행지별 촬영 가이드, ~8 min)
-- Trend: stable (content-only plans run faster — no code/build complexity)
+- Last plans: 04-01(신, 후보정 연습, 8 min), 05-01(몽골 여행지별 촬영 가이드, ~8 min), 06-01(부록·보너스·배포검증, ~8 min)
+- Trend: stable (content-only plans run faster — no code/build complexity). **로드맵 전 phase 완료 — v1 milestone 종료.**
 
 *Updated after each plan completion*
 
@@ -87,6 +88,7 @@ Recent decisions affecting current work:
 - [02-01]: 크롭 셔터 상한 숫자를 하드코딩하지 않고 500-npf-rule.md 공식 링크로 독자가 직접 계산하도록 안내(마운트 미확정 원칙 유지). SUMMARY 2부만 surgical 교체(개인 연습 1~4차 draft → HOME-01~03 실링크 + 야외 placeholder), 1부/3부/4부/부록·template.md(PRAC-01) 구조는 무변화. orphan `session-1-home.md` 삭제, 스테일 참조 2곳(template.md 인트로, fundamentals/index.md) 수정 완료.
 - [03-01]: field-*.md도 크롭 셔터 상한 숫자 하드코딩 없이 독자 계산값 재사용 원칙 유지 + LCD 100% 실측(별이 점인지 궤적인지)을 야외 델타로 추가. field-review.md는 home-checklist.md의 "할 수 있다/안다" 능력체크 문구를 복붙하지 않고 증상→확인/원인→다음개선 표로 세션 후 복기 루프를 별도 설계(HOME-03 복제 금지 원칙 준수). 이슬 링크는 field-workflow.md(이슬 언급 0회, 원래 끊어진 링크)에서 신규 field-prep-and-hazards.md로 리다이렉트. SUMMARY 2부만 surgical 교체(야외 placeholder → 3 실링크), 3부(몽골)·4부·부록 구조는 무변화.
 - [04-01, 신 로드맵 후보정 연습]: `src/05-postprocessing/` 4페이지 신설(EDIT-01~04) — RAW 현상은 stack-first(스태킹 결과물을 현상) 순서로 확정, 스태킹은 Sequator(Win)+Starry Landscape Stacker(Mac) 둘 다 안내하고 DeepSkyStacker(전경 블렌딩 부재)·Topaz(2025-10 구독 전용화)는 이유와 함께 비추천. 은하수 강조 보정에서 마스크/레이어/주파수 분리는 단어 자체를 배제(범위 이탈 방지 verify grep 통과). SUMMARY 4부 placeholder → 4 실링크, camera-lens.md "Phase 3" 스테일 참조·raw-and-wb.md plain-text 참조를 stacking.md 실제 링크로 정리. Phase 4 완료.
+- [06-01]: 부록 폴더를 `src/06-appendix`→`src/07-appendix`로 git mv rename(camera-lens-picks.md 내용 불변)해 6부=보너스 기법·7부=부록 순서 확정, prose 교차참조(camera-lens.md×2, 500-npf-rule.md×1) 07-appendix로 수정. REF-01~04(현장 치트시트/체크리스트 모음/앱·소프트웨어 가이드/용어 사전)는 전부 본편 값·절차만 증류+링크(재서술 금지), 크롭계수는 공식만 적고 숫자 하드코딩 금지(마운트 미확정 원칙 유지). BONUS-01~03(파노라마/스타트레일/타임랩스)은 개념+기본 절차만, M모드·RAW·화밸·인터벌·스태킹은 재설명 대신 기존 챕터 링크; 스타트레일은 페이지 상단 ⚠️ 콜아웃으로 이 책의 단일프레임 세팅과 촬영 전략이 다름을 명시하고 StarStaX(무료 Win+Mac)를 Sequator/Starry Landscape Stacker와 목적이 다른 별도 도구로 구분. SUMMARY.md는 '# 보너스 기법' 섹션 신설 + '# 부록' 4개 빈 placeholder를 실제 링크로 flip. `mdbook build src` green, 06-appendix 참조 0건, 빈 링크 0건 확인 후 배포, GitHub Pages에서 신규/이동 8페이지 HTTP 200·구 URL 404·콘텐츠 스팟체크·사이드바 TOC를 오케스트레이터가 사용자 위임으로 검증·승인. Phase 6 완료 — 로드맵 6개 phase 전부 종료, MongolPhoto v1 content-complete milestone 달성.
 - [05-01]: `src/04-mongolia/` 개인 5박 일정(Day 1~5·8/13~8/17·"촬영 결과" two-pass)을 일반 "여행지별 촬영 가이드"(SITE-01~03)로 재구성 — 새 데이터 수집 없이 archive/04-RESEARCH.md 검증 데이터(GPS·달 0/3/8/14%·코어 고도 공식/16.4·17.5·17.5·14.6°)만 그대로 재사용. overview.md 달 표는 "신월 후 D+0~D+3" 경과로 일반화. 4개 Day 페이지는 `git mv`로 명소명 파일(tsagaan-suvarga/khongoryn-els/yolyn-am/baga-gazriin-chuluu.md)로 rename + 단일 패스(위치/GPS·SITE-02 구도·코어 상황(overview 링크)·SITE-03 주의사항·타임라인)로 재작성, 두 번째 패스("촬영 결과") 제거. day-5(공항)는 대체 없이 삭제, 방진 한 줄만 overview.md "이동 시 주의"로 흡수. 명소 페이지는 코어 공식/타이밍 이론을 재서술하지 않고 overview.md → finding-the-milkyway.md 단방향 링크 체인 유지. 차강소브라가 광산 혼동 좌표(108.3x)는 문서 전체에서 완전 배제(grep 게이트). SUMMARY 3부 재제목("몽골 여행지별 촬영 가이드")+5링크(공항 drop), finding-the-milkyway.md §2·§3와 introduction.md의 개인 여행 프레이밍 일반화. `mdbook build src` green. Phase 5 완료.
 
 ### Known Facts (user-provided)
@@ -106,7 +108,7 @@ Recent decisions affecting current work:
 - [해결됨, 03-01] SUMMARY.md의 `- [야외에서 연습하기]()` placeholder(2부 마지막 항목)가 field-practice/field-prep-and-hazards/field-review 3개 실제 링크로 채워짐.
 - [해결됨, 04-01 신 로드맵] SUMMARY.md의 `- [워크플로 개요]()` placeholder(4부)가 raw-develop/stacking/enhance-milkyway/before-after 4개 실제 링크로 채워짐. camera-lens.md "Phase 3" 스테일 참조·raw-and-wb.md plain-text 참조도 정리 완료.
 - [해결됨, 05-01] 일반 "몽골 여행지별 촬영 가이드" 작성 완료 — `.planning/archive/04-몽골-사전-계획/04-RESEARCH.md`의 검증 데이터(GPS·달·코어)를 재활용해 `src/04-mongolia/` 전체를 SITE-01~03 가이드로 재구성.
-- [Phase 6] 다음 착수 대상 — 부록(REF)·보너스(BONUS)·배포. `/gsd:plan-phase 6`로 계획 시작 가능.
+- [해결됨, 06-01] 부록(REF-01~04)·보너스(BONUS-01~03)·배포검증 완료 — `src/06-appendix`→`src/07-appendix` rename, SUMMARY 재구조화, GitHub Pages 배포 사람 확인 승인. **로드맵 6개 phase 전부 완료 — 다음 착수 대상 없음(v1 milestone 종료).**
 
 ### Blockers/Concerns
 
@@ -118,13 +120,15 @@ Recent decisions affecting current work:
 - REQUIREMENTS.md 기존 Coverage 카운트("31 total")는 오기였음 — 실제 v1 요구사항은 34개 (BONUS 3개 포함). 로드맵 생성 시 정정함.
 - [01-01→01-05 해결] docs/ 빌드 산출물은 01-05에서 커밋됨(Deploy-from-branch 패턴). .claude/는 개별 git add로 커밋 대상에서 계속 제외(.gitignore 없이도 안전 — git add -A 미사용 원칙).
 - [01-05 해결] GitHub Pages 최초 빌드 지연(수분간 `status: building`, 일시 404)은 전파 대기 후 자연 해소됨. https://ohama.github.io/MongolPhoto/ 는 현재 status=built, HTTP 200. 사람이 브라우저에서 한국어 렌더링·6부 목차·1부 실콘텐츠를 직접 확인 후 "승인" 응답 — Phase 1 배포 완료.
+- [06-01 해결] 마일스톤 종료 배포 확인 — CI(`mdbook.yml`) 실행 성공·Pages status "built", 신규/이동 8페이지(06-bonus 3 + 07-appendix 5) 전부 HTTP 200, 구 URL `06-appendix/camera-lens-picks.html` 정상 404, 콘텐츠 스팟체크(치트시트 500÷ 공식·스타트레일 StarStaX 경고·용어사전 크롭계수/Bortle/코마)와 사이드바 TOC(보너스 기법·부록) 통과를 오케스트레이터가 사용자 위임("대신 확인해줘")으로 검증·승인. **MongolPhoto v1 content-complete milestone 종료.**
 
 ## Session Continuity
 
-Last session: 2026-07-09
-Stopped at: [Phase 2] 02-01-PLAN.md 전체 완료(955075f, 00f27d0) — HOME-01~03 드릴 페이지 신설 + SUMMARY 2부 교체 + 스테일 참조 수정 + orphan 삭제. Phase 2 완료. [Phase 3] 03-01-PLAN.md 전체 완료(24986d3, c55f9e8) — FIELD-01~03 신규 페이지 3개 + SUMMARY 2부 flip + finding-the-milkyway/index 스테일 참조 정리 + 이슬 링크 리다이렉트 + home-checklist 3부 오표기 정정. Phase 3 완료. [Phase 4(구, 몽골 사전 계획)] 04-02-PLAN.md 전체 완료(da2add0, 6d7ec71) — 04-01+04-02 완료. [Phase 4(신 로드맵, 후보정 연습)] 04-01-PLAN.md 전체 완료(33b0c2b, a5f393f) — 05-postprocessing/ 4페이지(EDIT-01~04) 신설 + SUMMARY 4부 flip + camera-lens/raw-and-wb 스테일 참조 정리. Phase 4(신) 완료. [Phase 5] 05-01-PLAN.md 전체 완료(1e7042c, 9dd25a6, cce24af) — overview.md SITE-01 재작성, Day 1~4 페이지 git mv+단일 패스 SITE-02/03 재작성, day-5 삭제, SUMMARY 3부 재제목+5링크, finding-the-milkyway/introduction fold-in, mdbook build green. Phase 5 완료.
+Last session: 2026-07-10
+Stopped at: [Phase 2] 02-01-PLAN.md 전체 완료(955075f, 00f27d0) — HOME-01~03 드릴 페이지 신설 + SUMMARY 2부 교체 + 스테일 참조 수정 + orphan 삭제. Phase 2 완료. [Phase 3] 03-01-PLAN.md 전체 완료(24986d3, c55f9e8) — FIELD-01~03 신규 페이지 3개 + SUMMARY 2부 flip + finding-the-milkyway/index 스테일 참조 정리 + 이슬 링크 리다이렉트 + home-checklist 3부 오표기 정정. Phase 3 완료. [Phase 4(구, 몽골 사전 계획)] 04-02-PLAN.md 전체 완료(da2add0, 6d7ec71) — 04-01+04-02 완료. [Phase 4(신 로드맵, 후보정 연습)] 04-01-PLAN.md 전체 완료(33b0c2b, a5f393f) — 05-postprocessing/ 4페이지(EDIT-01~04) 신설 + SUMMARY 4부 flip + camera-lens/raw-and-wb 스테일 참조 정리. Phase 4(신) 완료. [Phase 5] 05-01-PLAN.md 전체 완료(1e7042c, 9dd25a6, cce24af) — overview.md SITE-01 재작성, Day 1~4 페이지 git mv+단일 패스 SITE-02/03 재작성, day-5 삭제, SUMMARY 3부 재제목+5링크, finding-the-milkyway/introduction fold-in, mdbook build green. Phase 5 완료. [Phase 6] 06-01-PLAN.md 전체 완료(bf92204, 5da58a8, 963b7de + CI bot f7c2931) — 부록 07-appendix rename+REF-01~04 신설, BONUS-01~03 신설, SUMMARY 보너스 섹션+부록 flip, mdbook build green, GitHub Pages 배포 사람 확인 승인(오케스트레이터 대행 검증). Phase 6 완료.
 Resume file (Phase 2): 없음 — Phase 2 완료.
 Resume file (Phase 3): 없음 — Phase 3 완료.
 Resume file (구 Phase 4, 몽골 사전 계획): 없음 — 완료.
 Resume file (신 로드맵 Phase 4, 후보정 연습): 없음 — 완료.
-Resume file (Phase 5, 몽골 여행지별 촬영 가이드): 없음 — 완료. 다음은 Phase 6 `/gsd:plan-phase 6`(부록·보너스·배포)로 착수.
+Resume file (Phase 5, 몽골 여행지별 촬영 가이드): 없음 — 완료.
+Resume file (Phase 6, 부록·보너스·배포검증): 없음 — 완료. **로드맵 6개 phase 전부 완료 — MongolPhoto v1 content-complete milestone 종료. 다음 착수 대상 없음.**
