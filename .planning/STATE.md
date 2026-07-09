@@ -69,7 +69,9 @@ Recent decisions affecting current work:
 
 ### Pending Todos
 
-None yet.
+- [Phase 2 / 02-01] 사용자가 집 연습(1차)을 **나중에** 하기로 함(2026-07-09 결정). 실제 촬영 후 사진 폴더 경로 + 세팅 + 배운 점 + 다음 세션 개선(→2차 목표)을 보고하면 `/gsd:execute-phase 2`로 재개해 Task 3(데이터 반영 + SUMMARY flip) 완료.
+- [Phase 2 / 02-02] 연습 2차 서해안은 2026-07-17(또는 직후) 촬영 후에만 진행 가능 (하드 날짜 게이트). 02-01 완료 후 착수.
+- 7/17 대기 동안 Phase 4(몽골 사전 계획)는 병행 가능 — `/gsd:plan-phase 4`.
 
 ### Blockers/Concerns
 
