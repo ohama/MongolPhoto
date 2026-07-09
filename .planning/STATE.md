@@ -14,31 +14,31 @@ Phase: 2 of 6
 Plan: 1 of N in current phase (02-01)
 Status: 02-01 Task 1 완료·커밋됨 (연습 1차 챕터 스캐폴드 + 목표 섹션). Task 2 checkpoint:human-action에서 대기 중 — 사용자가 실제 홈 리허설 세션을 진행하고 사진/세팅/배운 점을 보고해야 Task 3(데이터 반영 + SUMMARY 링크 flip)로 이어짐.
 
-**Phase 4 (몽골 사전 계획)** — 병행 진행 중, 블로커 없음:
+**Phase 4 (몽골 사전 계획)** — 완료:
 Phase: 4 of 6
-Plan: 1 of 2(est) in current phase (04-01) — 완료
-Status: 04-01 Task 1~2 모두 완료·커밋됨 (overview.md + Day 1~2 사전 계획). 04-02(Day 3~5 + SUMMARY 링크 flip + 최종 빌드 검증)가 다음 단계, 체크포인트 없이 바로 진행 가능.
-Last activity: 2026-07-09 — 04-01-PLAN.md 전체 실행: src/04-mongolia/overview.md(GPS 표·달/다크윈도우 요약표·코어 공식·저고도 경고·PhotoPills 재확인), day-1-0813.md(차강소브라가), day-2-0814.md(홍고린엘스) 신규 생성 + 이미지 폴더 3개 .gitkeep. mdbook build src exit 0, 44.577 존재/108.3x 부재 grep 검증 통과. 커밋 fb7e2f9(Task1), cb7c927(Task2).
+Plan: 2 of 2(est) in current phase (04-02) — 완료
+Status: 04-01·04-02 모두 완료·커밋됨. 몽골 5일(Day 1~5) 사전 계획 + overview.md + SUMMARY 3부 · 몽골 6개 링크 flip까지 전부 완료. Phase 4는 실질적으로 마무리, Phase 5(실제 여행 후 촬영 결과 채우기)는 8/13~8/17 여행 이후에만 착수 가능(하드 날짜 게이트).
+Last activity: 2026-07-09 — 04-02-PLAN.md 전체 실행: src/04-mongolia/day-3-0815.md(욜링암, 협곡 코어 차폐 경고 + 입구/트인 곳 권장), day-4-0816.md(바가가즈링 촐로, 코어 최저 고도 14.6° 강조), day-5-0817.md(공항, 최소 분량·야간 촬영 없음) 신규 생성 + 이미지 폴더 3개 .gitkeep + SUMMARY.md 3부 · 몽골 6개 draft 링크 flip. mdbook build src exit 0(3회), grep -c "04-mongolia/" SUMMARY.md == 6 검증 통과. 커밋 da2add0(Task1), 6d7ec71(Task2).
 
-Progress: [████████░░] Phase 1 100%, Phase 2 in progress (checkpoint paused), Phase 4 in progress (04-01/2 done)
+Progress: [████████░░] Phase 1 100%, Phase 2 in progress (checkpoint paused), Phase 4 100% (04-01/04-02 완료)
 
 ## Performance Metrics
 
 **Velocity:**
-- Total plans completed: 6
-- Average duration: ~12 min
-- Total execution time: ~1.15 hours
+- Total plans completed: 7
+- Average duration: ~11 min
+- Total execution time: ~1.27 hours
 
 **By Phase:**
 
 | Phase | Plans | Total | Avg/Plan |
 |-------|-------|-------|----------|
 | 1 | 5/5 | ~63 min | ~13 min |
-| 4 | 1/2(est) | 6 min | 6 min |
+| 4 | 2/2 | 13 min | 6.5 min |
 
 **Recent Trend:**
-- Last plans: 01-03 (~20 min), 01-02 (9 min), 01-04 (~15 min), 01-05 (~15 min), 04-01 (6 min)
-- Trend: stable (content-only plans like 04-01 run faster — no code/build complexity)
+- Last plans: 01-02 (9 min), 01-04 (~15 min), 01-05 (~15 min), 04-01 (6 min), 04-02 (7 min)
+- Trend: stable (content-only plans like 04-01/04-02 run faster — no code/build complexity)
 
 *Updated after each plan completion*
 
@@ -67,6 +67,10 @@ Recent decisions affecting current work:
 - [04-01]: 코어 "방향(orientation)"과 "고도(altitude)"를 명확히 구분 서술 — 이 위도대(43~46°N)는 코어 최대고도가 15~18°로 낮으므로 남쪽 지평선이 트인 전경을 우선 권장.
 - [04-01]: 손계산 코어 방위각·고도·남중시각은 전부 "추정"으로 헤지 + "PhotoPills로 현장 재확인" 문구를 overview·Day 페이지마다 반복 명시. PhotoPills/Stellarium은 accessories.md에서 이미 소개된 것으로 전제해 재소개 없음.
 - [04-01]: 몽골 Day 페이지는 two-pass 템플릿(사전 계획 완전히 채움 + 촬영 결과는 Phase 5 placeholder) 적용 — 03-practice 연습 로그와 달리 사전 계획은 저작 시점에 확정.
+- [04-02]: 욜링암(Day 3)은 협곡 벽 최대 200m·코어 최대고도 17.5°의 트레이드오프를 명시 경고하고 협곡 입구/트인 곳 촬영을 권장, 협곡 깊은 안쪽은 낮 트레킹 소재로 재배치 — 협곡 축 방향 불명확이라 "현장에서 남쪽 지평선 확인" 보수적 서술 유지.
+- [04-02]: 바가가즈링 촐로(Day 4)는 코어 최대고도가 4곳 중 최저(14.6°)임을 강조, 남쪽 트인 바위군락 우선 스카우팅 권장.
+- [04-02]: Day 5(공항)는 확정 일정과 안 맞는 상세 콘텐츠를 억지로 채우지 않고 이동 로지스틱스 + 여정 마무리 회고로 최소 분량 유지(달/코어 상세표 생략).
+- [04-02]: SUMMARY.md 3부 · 몽골 6개 링크만 surgical flip — 2부 연습·4부 후보정·부록 draft는 무변화 확인 완료. Phase 4는 이제 실질적으로 완료(04-01+04-02), Phase 5는 실제 여행(8/13~8/17) 이후에만 착수 가능.
 
 ### Known Facts (user-provided)
 
@@ -82,7 +86,7 @@ Recent decisions affecting current work:
 
 - [Phase 2 / 02-01] 사용자가 집 연습(1차)을 **나중에** 하기로 함(2026-07-09 결정). 실제 촬영 후 사진 폴더 경로 + 세팅 + 배운 점 + 다음 세션 개선(→2차 목표)을 보고하면 `/gsd:execute-phase 2`로 재개해 Task 3(데이터 반영 + SUMMARY flip) 완료.
 - [Phase 2 / 02-02] 연습 2차 서해안은 2026-07-17(또는 직후) 촬영 후에만 진행 가능 (하드 날짜 게이트). 02-01 완료 후 착수.
-- [Phase 4 / 04-01 완료] 다음은 04-02 — Day 3(욜링암, 협곡 리스크 명시)·Day 4(바가가즈링 촐로)·Day 5(공항, 최소 분량) + SUMMARY.md 6개 draft 링크 flip + 최종 mdbook build 검증. 체크포인트 없음, 블로커 없음 — `/gsd:execute-phase 4`로 바로 진행 가능.
+- [Phase 4 완료] 04-01·04-02 모두 완료 — 몽골 5일 사전 계획 + SUMMARY flip 전부 끝남. 다음은 Phase 5(실제 여행 후 각 Day "촬영 결과" 섹션 채우기)이며, 8/13~8/17 실제 여행 이후에만 착수 가능(하드 날짜 게이트). 그 전까지는 Phase 2(연습) 진행에 집중.
 
 ### Blockers/Concerns
 
@@ -97,6 +101,6 @@ Recent decisions affecting current work:
 ## Session Continuity
 
 Last session: 2026-07-09
-Stopped at: [Phase 2] 02-01-PLAN.md Task 1 완료·커밋(a786f12), Task 2 checkpoint:human-action에서 대기 — 연습 1차(집) 실제 세션 진행 후 사진 폴더 경로(또는 "사진 없음") + 장비·세팅/촬영 환경/배운 점/다음 세션 개선 사항을 텍스트로 보고 필요. [Phase 4] 04-01-PLAN.md 전체 완료(fb7e2f9, cb7c927) — 04-02(Day 3~5 + SUMMARY flip)가 다음, 블로커 없음.
+Stopped at: [Phase 2] 02-01-PLAN.md Task 1 완료·커밋(a786f12), Task 2 checkpoint:human-action에서 대기 — 연습 1차(집) 실제 세션 진행 후 사진 폴더 경로(또는 "사진 없음") + 장비·세팅/촬영 환경/배운 점/다음 세션 개선 사항을 텍스트로 보고 필요. [Phase 4] 04-02-PLAN.md 전체 완료(da2add0, 6d7ec71) — Phase 4 전체(04-01+04-02) 완료. 다음은 Phase 5(여행 후)이며 8/13~8/17 이후 착수 가능.
 Resume file (Phase 2): .planning/phases/02-연습-1차-집-2차-서해안/02-01-PLAN.md (Task 3부터 재개)
-Resume file (Phase 4): .planning/phases/04-몽골-사전-계획/04-02-PLAN.md (아직 미생성 — `/gsd:plan-phase 4` 또는 다음 실행 시 04-02 플랜부터)
+Resume file (Phase 4): 없음 — Phase 4 완료. Phase 5는 실제 몽골 여행(8/13~8/17) 이후 `/gsd:plan-phase 5`로 착수.
