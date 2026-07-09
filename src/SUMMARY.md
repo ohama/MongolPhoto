@@ -5,7 +5,7 @@
 # 1부 · 준비하기
 
 - [장비 가이드](01-gear/index.md)
-  - [카메라 & 렌즈 추천](01-gear/camera-lens.md)
+  - [카메라와 렌즈 고르기](01-gear/camera-lens.md)
   - [필수 액세서리 & 앱](01-gear/accessories.md)
   - [출발 전 체크리스트](01-gear/checklist.md)
 - [촬영 기초](02-fundamentals/index.md)
@@ -39,6 +39,7 @@
 
 # 부록
 
+- [카메라 · 렌즈 추천 목록](06-appendix/camera-lens-picks.md)
 - [현장 치트시트]()
 - [체크리스트 모음]()
 - [앱·소프트웨어 가이드]()

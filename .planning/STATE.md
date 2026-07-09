@@ -60,6 +60,7 @@ Recent decisions affecting current work:
 - [01-03]: 500룰 공식·워크드 예제는 PITFALLS.md Pitfall #2를 그대로 인용 (재도출 안 함); NPF 룰은 손계산 대신 PhotoPills Spot Stars/온라인 계산기 안내로 대체 (FEATURES.md 교수 순서).
 - [01-02]: 카메라 바디 추천은 STACK.md에 전용 표가 없어 "~급" 예시 + "정확한 최신 모델은 바뀔 수 있음" 헤지 문구로 서술 (없는 사실을 단정하지 않기 위함).
 - [01-02]: 본문에서 "구매"라는 단어 자체를 배제 — 가격대는 표기하되 판매처·구매 절차는 언급하지 않는 방식으로 추천만 원칙을 지킴.
+- [2026-07-09 사용자 요청]: 장비 챕터 재구성 — 앞쪽 01-gear/camera-lens.md는 **일반론(카메라·렌즈 필수/있으면 좋은 기능)**만, **구체 모델·마운트별 표·가격·크롭계수 계산법**은 부록 `src/06-appendix/camera-lens-picks.md`로 이동. SUMMARY 부록에 링크 추가, 500-npf-rule 백링크도 부록으로 갱신. (Phase 6 부록 페이지 하나가 앞당겨 생성됨 — Phase 6 계획 시 중복 생성 금지.)
 - [01-04]: 달 위상·Bortle 수치는 FEATURES.md를 그대로 인용 (재도출 없음) — 7/17 ≈13% 초승달, 8/12 신월(몽골 8/13~17 전체 유리), 고비 Bortle 1-2 vs 국내 5-8.
 - [01-04]: PhotoPills/Stellarium은 01-gear/accessories.md에서 이미 소개된 것으로 전제하고 finding-the-milkyway.md에서는 운영적 사용법만 서술 (재소개 없음).
 - [01-04]: 연습 로그 템플릿(03-practice/template.md)은 fenced code block으로 감싸 복사-붙여넣기 가능한 리터럴 텍스트로 제공 — 실제 이미지 파일은 생성하지 않고 상대경로 예시만 표기.
