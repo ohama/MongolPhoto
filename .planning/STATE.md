@@ -12,26 +12,26 @@ See: .planning/PROJECT.md (updated 2026-07-09)
 Phase: 1 of 6 (mdBook 뼈대 + 장비 + 기초 촬영법)
 Plan: 4 of 5 in current phase
 Status: In progress
-Last activity: 2026-07-09 — Completed 01-02-PLAN.md (병렬 실행된 01-03-PLAN.md도 완료됨, Wave 2 종료)
+Last activity: 2026-07-09 — Completed 01-04-PLAN.md (RAW·화밸, 은하수 타이밍, 현장 워크플로, 연습 로그 템플릿) — Wave 2 전체 종료, 남은 것은 01-05(배포)뿐
 
-Progress: [██████░░░░] 60%
+Progress: [████████░░] 80%
 
 ## Performance Metrics
 
 **Velocity:**
-- Total plans completed: 3
-- Average duration: 11 min
-- Total execution time: 0.55 hours
+- Total plans completed: 4
+- Average duration: ~12 min
+- Total execution time: ~0.8 hours
 
 **By Phase:**
 
 | Phase | Plans | Total | Avg/Plan |
 |-------|-------|-------|----------|
-| 1 | 3/5 | 33 min | 11 min |
+| 1 | 4/5 | ~48 min | ~12 min |
 
 **Recent Trend:**
-- Last 5 plans: 01-01 (4 min), 01-03 (~20 min), 01-02 (9 min)
-- Trend: -
+- Last plans: 01-01 (4 min), 01-03 (~20 min), 01-02 (9 min), 01-04 (~15 min)
+- Trend: stable
 
 *Updated after each plan completion*
 
@@ -53,6 +53,9 @@ Recent decisions affecting current work:
 - [01-03]: 500룰 공식·워크드 예제는 PITFALLS.md Pitfall #2를 그대로 인용 (재도출 안 함); NPF 룰은 손계산 대신 PhotoPills Spot Stars/온라인 계산기 안내로 대체 (FEATURES.md 교수 순서).
 - [01-02]: 카메라 바디 추천은 STACK.md에 전용 표가 없어 "~급" 예시 + "정확한 최신 모델은 바뀔 수 있음" 헤지 문구로 서술 (없는 사실을 단정하지 않기 위함).
 - [01-02]: 본문에서 "구매"라는 단어 자체를 배제 — 가격대는 표기하되 판매처·구매 절차는 언급하지 않는 방식으로 추천만 원칙을 지킴.
+- [01-04]: 달 위상·Bortle 수치는 FEATURES.md를 그대로 인용 (재도출 없음) — 7/17 ≈13% 초승달, 8/12 신월(몽골 8/13~17 전체 유리), 고비 Bortle 1-2 vs 국내 5-8.
+- [01-04]: PhotoPills/Stellarium은 01-gear/accessories.md에서 이미 소개된 것으로 전제하고 finding-the-milkyway.md에서는 운영적 사용법만 서술 (재소개 없음).
+- [01-04]: 연습 로그 템플릿(03-practice/template.md)은 fenced code block으로 감싸 복사-붙여넣기 가능한 리터럴 텍스트로 제공 — 실제 이미지 파일은 생성하지 않고 상대경로 예시만 표기.
 
 ### Known Facts (user-provided)
 
@@ -80,5 +83,5 @@ None yet.
 ## Session Continuity
 
 Last session: 2026-07-09
-Stopped at: Completed 01-02-PLAN.md (장비 가이드: 마운트별 카메라·렌즈, 크롭계수 계산법, 액세서리·앱, 체크리스트) — Wave 2 전체(01-02, 01-03) 완료, 다음은 01-04-PLAN.md
+Stopped at: Completed 01-04-PLAN.md (RAW·화밸/은하수 타이밍/현장 워크플로/연습 로그 템플릿) — 01-01~04 모두 완료, 남은 것은 01-05-PLAN.md(GitHub Pages 배포)뿐
 Resume file: None
