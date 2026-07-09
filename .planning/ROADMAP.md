@@ -69,10 +69,10 @@ Plans:
   1. 독자가 RAW 현상 기본(노출·화밸·대비·색감) 절차를 따라 할 수 있다.
   2. 독자가 스태킹으로 노이즈를 줄이는 법(Sequator[Win]/Starry Landscape Stacker[Mac])을 안다.
   3. 독자가 은하수를 강조하는 보정과 전/후 비교로 효과를 이해한다.
-**Plans**: TBD
+**Plans**: 1 plan
 
 Plans:
-- [ ] 04-01: TBD
+- [ ] 04-01-PLAN.md — 후보정 4개 페이지(EDIT-01/02/03/04, src/05-postprocessing/) + SUMMARY 4부 flip·camera-lens/raw-and-wb 스테일 참조 정리
 
 ### Phase 5: 몽골 여행지별 촬영 가이드
 **Goal**: 독자가 고비 촬영의 일반 원리와 명소별 "이렇게 찍으면 좋다"를 참고해 현지에서 촬영 판단을 내릴 수 있다.
