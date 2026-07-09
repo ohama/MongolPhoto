@@ -10,27 +10,27 @@ See: .planning/PROJECT.md (updated 2026-07-09)
 ## Current Position
 
 Phase: 1 of 6 (mdBook 뼈대 + 장비 + 기초 촬영법)
-Plan: 3 of 5 in current phase
+Plan: 4 of 5 in current phase
 Status: In progress
-Last activity: 2026-07-09 — Completed 01-03-PLAN.md
+Last activity: 2026-07-09 — Completed 01-02-PLAN.md (병렬 실행된 01-03-PLAN.md도 완료됨, Wave 2 종료)
 
-Progress: [████░░░░░░] 40%
+Progress: [██████░░░░] 60%
 
 ## Performance Metrics
 
 **Velocity:**
-- Total plans completed: 2
-- Average duration: 12 min
-- Total execution time: 0.4 hours
+- Total plans completed: 3
+- Average duration: 11 min
+- Total execution time: 0.55 hours
 
 **By Phase:**
 
 | Phase | Plans | Total | Avg/Plan |
 |-------|-------|-------|----------|
-| 1 | 2/5 | 24 min | 12 min |
+| 1 | 3/5 | 33 min | 11 min |
 
 **Recent Trend:**
-- Last 5 plans: 01-01 (4 min), 01-03 (~20 min)
+- Last 5 plans: 01-01 (4 min), 01-03 (~20 min), 01-02 (9 min)
 - Trend: -
 
 *Updated after each plan completion*
@@ -51,6 +51,8 @@ Recent decisions affecting current work:
 - [01-01]: edit-url-template은 main 브랜치 기준 (skill 기본값 master 아님).
 - [01-01]: 연습 로그 템플릿은 03-practice/template.md로 독자에게 공개된 실제 페이지로 발행 (숨김 _template.md 아님).
 - [01-03]: 500룰 공식·워크드 예제는 PITFALLS.md Pitfall #2를 그대로 인용 (재도출 안 함); NPF 룰은 손계산 대신 PhotoPills Spot Stars/온라인 계산기 안내로 대체 (FEATURES.md 교수 순서).
+- [01-02]: 카메라 바디 추천은 STACK.md에 전용 표가 없어 "~급" 예시 + "정확한 최신 모델은 바뀔 수 있음" 헤지 문구로 서술 (없는 사실을 단정하지 않기 위함).
+- [01-02]: 본문에서 "구매"라는 단어 자체를 배제 — 가격대는 표기하되 판매처·구매 절차는 언급하지 않는 방식으로 추천만 원칙을 지킴.
 
 ### Known Facts (user-provided)
 
@@ -78,5 +80,5 @@ None yet.
 ## Session Continuity
 
 Last session: 2026-07-09
-Stopped at: Completed 01-03-PLAN.md (촬영 기초: M모드 노출 3요소, 크롭보정 500/NPF룰, 별 수동 초점)
+Stopped at: Completed 01-02-PLAN.md (장비 가이드: 마운트별 카메라·렌즈, 크롭계수 계산법, 액세서리·앱, 체크리스트) — Wave 2 전체(01-02, 01-03) 완료, 다음은 01-04-PLAN.md
 Resume file: None
