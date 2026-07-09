@@ -30,4 +30,4 @@
 
 ## 편집 소프트웨어 메모
 
-후보정은 Windows·Mac 어느 쪽에서도 동일하게 가능하다. Lightroom / Adobe Camera Raw 계열은 두 OS 모두 지원하며, 화이트밸런스·노출 조정 UI도 동일하다. 노이즈 감소를 위한 스태킹 도구는 Windows(Sequator)·Mac(Starry Landscape Stacker)로 갈리는데, 이는 후보정 챕터에서 다룬다.
+후보정은 Windows·Mac 어느 쪽에서도 동일하게 가능하다. Lightroom / Adobe Camera Raw 계열은 두 OS 모두 지원하며, 화이트밸런스·노출 조정 UI도 동일하다. 노이즈 감소를 위한 스태킹 도구는 Windows(Sequator)·Mac(Starry Landscape Stacker)로 갈리는데, 이는 [스태킹으로 노이즈 줄이기](../05-postprocessing/stacking.md)에서 다룬다.
