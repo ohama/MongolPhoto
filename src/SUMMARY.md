@@ -26,14 +26,13 @@
 - [야외 준비와 현장 워크플로 리허설](03-practice/field-prep-and-hazards.md)
 - [야외 연습 결과 점검](03-practice/field-review.md)
 
-# 3부 · 몽골 (8/13 ~ 8/17)
+# 3부 · 몽골 여행지별 촬영 가이드
 
-- [여행 개요](04-mongolia/overview.md)
-- [Day 1 · 8/13](04-mongolia/day-1-0813.md)
-- [Day 2 · 8/14](04-mongolia/day-2-0814.md)
-- [Day 3 · 8/15](04-mongolia/day-3-0815.md)
-- [Day 4 · 8/16](04-mongolia/day-4-0816.md)
-- [Day 5 · 8/17](04-mongolia/day-5-0817.md)
+- [고비 촬영 일반 원리](04-mongolia/overview.md)
+- [차강소브라가 (Tsagaan Suvarga)](04-mongolia/tsagaan-suvarga.md)
+- [홍고린엘스 (Khongoryn Els)](04-mongolia/khongoryn-els.md)
+- [욜링암 (Yolyn Am)](04-mongolia/yolyn-am.md)
+- [바가가즈링 촐로 (Baga Gazriin Chuluu)](04-mongolia/baga-gazriin-chuluu.md)
 
 # 4부 · 후보정
 
