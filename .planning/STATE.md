@@ -5,13 +5,13 @@
 See: .planning/PROJECT.md (updated 2026-07-09)
 
 **Core value:** 트래킹 장비 없이도 은하수 사진이 "잘 나오게" 하는 전 과정(장비 선택 → 촬영 → 후보정)을, 초보자가 따라 하며 몽골에서 실제로 성공할 수 있도록 담아낸다.
-**Current focus:** Phase 1 — mdBook 뼈대 + 장비(추천) + 기초 촬영법 (7/17 서해안 촬영 전 완료 목표)
+**Current focus:** Phase 1 완료·검증 통과(5/5, goal verified). 다음 → Phase 2 (연습 1차 집 + 2차 7/17 서해안).
 
 ## Current Position
 
 Phase: 1 of 6 (mdBook 뼈대 + 장비 + 기초 촬영법)
 Plan: 5 of 5 in current phase
-Status: Phase 1 execution complete (5/5 plans) — GitHub Pages 라이브 사이트 사람 검증·승인 완료, phase verifier 확인 대기
+Status: Phase 1 완료 — 5/5 plans, phase verifier PASSED (5/5 must-haves). GitHub Pages 라이브 사이트 사람 검증·승인 완료.
 Last activity: 2026-07-09 — 01-05-PLAN.md 완료 (checkpoint:human-verify 승인됨). https://ohama.github.io/MongolPhoto/ 공개 배포 확인. Phase 1 전체 완료.
 
 Progress: [██████████] 100%

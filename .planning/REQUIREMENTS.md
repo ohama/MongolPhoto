@@ -7,33 +7,33 @@
 
 ### 출판·배포 (PUB)
 
-- [ ] **PUB-01**: mdBook 프로젝트가 한국어로 빌드되고 로컬에서 미리보기된다 (Noto Sans KR, `word-break: keep-all`)
-- [ ] **PUB-02**: GitHub Pages(Actions)로 자동 배포되어 지인이 링크로 볼 수 있다
-- [ ] **PUB-03**: 사진이 웹 최적화(리사이즈·EXIF 제거)되어 챕터 트리에 맞는 폴더 구조로 수록된다
+- [x] **PUB-01**: mdBook 프로젝트가 한국어로 빌드되고 로컬에서 미리보기된다 (Noto Sans KR, `word-break: keep-all`)
+- [x] **PUB-02**: GitHub Pages(Actions)로 자동 배포되어 지인이 링크로 볼 수 있다
+- [x] **PUB-03**: 사진이 웹 최적화(리사이즈·EXIF 제거)되어 챕터 트리에 맞는 폴더 구조로 수록된다
 
 ### 장비 (GEAR)
 
 > 장비는 **추천만** 제공한다 — 구매 링크·리드타임·구매 결정 프로세스는 다루지 않으며, 보유 장비로도 촬영 가능하게 안내한다.
 
-- [ ] **GEAR-01**: 트래킹 없는 은하수 촬영용 카메라 추천 (소니 E·후지 X·니콘 Z DX 등 마운트별, 가벼움·가성비·초보 친화 기준)
-- [ ] **GEAR-02**: APS-C 광각·밝은 렌즈 추천 (모델명·대략 가격·선택 이유 포함)
-- [ ] **GEAR-03**: 삼각대·전원·인터벌 타이머·레드 라이트 등 액세서리 추천
-- [ ] **GEAR-04**: 촬영 계획·별 찾기 앱 안내 (PhotoPills, Stellarium 등)
-- [ ] **GEAR-05**: 출발 전 준비물 체크리스트
-- [ ] **GEAR-06**: 사용자의 실제 카메라 기종을 확인해 세팅·화각 계산을 그 기종에 맞춘다
+- [x] **GEAR-01**: 트래킹 없는 은하수 촬영용 카메라 추천 (소니 E·후지 X·니콘 Z DX 등 마운트별, 가벼움·가성비·초보 친화 기준)
+- [x] **GEAR-02**: APS-C 광각·밝은 렌즈 추천 (모델명·대략 가격·선택 이유 포함)
+- [x] **GEAR-03**: 삼각대·전원·인터벌 타이머·레드 라이트 등 액세서리 추천
+- [x] **GEAR-04**: 촬영 계획·별 찾기 앱 안내 (PhotoPills, Stellarium 등)
+- [x] **GEAR-05**: 출발 전 준비물 체크리스트
+- [x] **GEAR-06**: 사용자의 실제 카메라 기종을 확인해 세팅·화각 계산을 그 기종에 맞춘다
 
 ### 기초 촬영법 (FUND)
 
-- [ ] **FUND-01**: 수동(M)모드 노출 3요소(ISO·조리개·셔터) 설명
-- [ ] **FUND-02**: 크롭 센서 보정 NPF/500 룰로 최대 셔터속도 계산법
-- [ ] **FUND-03**: 별에 수동 초점 맞추는 방법 (초보 실패 1순위 대비)
-- [ ] **FUND-04**: RAW 촬영과 화이트밸런스 기본
-- [ ] **FUND-05**: 은하수 찾기·타이밍 (계절/시간/방향, 달 위상, 광해/Bortle, 날씨)
-- [ ] **FUND-06**: 현장 촬영 워크플로 (도착 → 구도 → 세팅 → 촬영 순서)
+- [x] **FUND-01**: 수동(M)모드 노출 3요소(ISO·조리개·셔터) 설명
+- [x] **FUND-02**: 크롭 센서 보정 NPF/500 룰로 최대 셔터속도 계산법
+- [x] **FUND-03**: 별에 수동 초점 맞추는 방법 (초보 실패 1순위 대비)
+- [x] **FUND-04**: RAW 촬영과 화이트밸런스 기본
+- [x] **FUND-05**: 은하수 찾기·타이밍 (계절/시간/방향, 달 위상, 광해/Bortle, 날씨)
+- [x] **FUND-06**: 현장 촬영 워크플로 (도착 → 구도 → 세팅 → 촬영 순서)
 
 ### 연습 세션 (PRAC)
 
-- [ ] **PRAC-01**: 재사용 가능한 연습 로그 템플릿 (목표/장비·세팅/환경/결과 사진/배운 점/다음 개선)
+- [x] **PRAC-01**: 재사용 가능한 연습 로그 템플릿 (목표/장비·세팅/환경/결과 사진/배운 점/다음 개선)
 - [ ] **PRAC-02**: 1차 집 연습 기록 (기본 장비·수동 설정 익히기)
 - [ ] **PRAC-03**: 2차 7/17 밤 서해안 연습 기록 (첫 실전 필드 테스트)
 - [ ] **PRAC-04**: 3차 집 연습 기록 (서해안 결과 복기·보완)
@@ -89,22 +89,22 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| PUB-01 | Phase 1 | Pending |
-| PUB-02 | Phase 1 | Pending |
-| PUB-03 | Phase 1 | Pending |
-| GEAR-01 | Phase 1 | Pending |
-| GEAR-02 | Phase 1 | Pending |
-| GEAR-03 | Phase 1 | Pending |
-| GEAR-04 | Phase 1 | Pending |
-| GEAR-05 | Phase 1 | Pending |
-| GEAR-06 | Phase 1 | Pending |
-| FUND-01 | Phase 1 | Pending |
-| FUND-02 | Phase 1 | Pending |
-| FUND-03 | Phase 1 | Pending |
-| FUND-04 | Phase 1 | Pending |
-| FUND-05 | Phase 1 | Pending |
-| FUND-06 | Phase 1 | Pending |
-| PRAC-01 | Phase 1 | Pending |
+| PUB-01 | Phase 1 | Complete |
+| PUB-02 | Phase 1 | Complete |
+| PUB-03 | Phase 1 | Complete |
+| GEAR-01 | Phase 1 | Complete |
+| GEAR-02 | Phase 1 | Complete |
+| GEAR-03 | Phase 1 | Complete |
+| GEAR-04 | Phase 1 | Complete |
+| GEAR-05 | Phase 1 | Complete |
+| GEAR-06 | Phase 1 | Complete |
+| FUND-01 | Phase 1 | Complete |
+| FUND-02 | Phase 1 | Complete |
+| FUND-03 | Phase 1 | Complete |
+| FUND-04 | Phase 1 | Complete |
+| FUND-05 | Phase 1 | Complete |
+| FUND-06 | Phase 1 | Complete |
+| PRAC-01 | Phase 1 | Complete |
 | PRAC-02 | Phase 2 | Pending |
 | PRAC-03 | Phase 2 | Pending |
 | PRAC-04 | Phase 3 | Pending |
@@ -131,4 +131,4 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 ---
 *Requirements defined: 2026-07-09*
-*Last updated: 2026-07-09 after roadmap creation (traceability filled, coverage count corrected)*
+*Last updated: 2026-07-09 after Phase 1 완료 (16개 요구사항 Complete)*
