@@ -10,27 +10,27 @@ See: .planning/PROJECT.md (updated 2026-07-09)
 ## Current Position
 
 Phase: 1 of 6 (mdBook 뼈대 + 장비 + 기초 촬영법)
-Plan: 1 of 5 in current phase
+Plan: 3 of 5 in current phase
 Status: In progress
-Last activity: 2026-07-09 — Completed 01-01-PLAN.md
+Last activity: 2026-07-09 — Completed 01-03-PLAN.md
 
-Progress: [██░░░░░░░░] 20%
+Progress: [████░░░░░░] 40%
 
 ## Performance Metrics
 
 **Velocity:**
-- Total plans completed: 1
-- Average duration: 4 min
-- Total execution time: 0.07 hours
+- Total plans completed: 2
+- Average duration: 12 min
+- Total execution time: 0.4 hours
 
 **By Phase:**
 
 | Phase | Plans | Total | Avg/Plan |
 |-------|-------|-------|----------|
-| 1 | 1/5 | 4 min | 4 min |
+| 1 | 2/5 | 24 min | 12 min |
 
 **Recent Trend:**
-- Last 5 plans: 01-01 (4 min)
+- Last 5 plans: 01-01 (4 min), 01-03 (~20 min)
 - Trend: -
 
 *Updated after each plan completion*
@@ -50,6 +50,7 @@ Recent decisions affecting current work:
 - [01-01]: Noto Sans KR 폰트는 google-webfonts-helper API(subsets=korean)로 받음 — CSS2 API는 한글을 ~120개 파일로 쪼개 제공해 "block 하나만 grep" 방식이 불가능함이 확인됨.
 - [01-01]: edit-url-template은 main 브랜치 기준 (skill 기본값 master 아님).
 - [01-01]: 연습 로그 템플릿은 03-practice/template.md로 독자에게 공개된 실제 페이지로 발행 (숨김 _template.md 아님).
+- [01-03]: 500룰 공식·워크드 예제는 PITFALLS.md Pitfall #2를 그대로 인용 (재도출 안 함); NPF 룰은 손계산 대신 PhotoPills Spot Stars/온라인 계산기 안내로 대체 (FEATURES.md 교수 순서).
 
 ### Known Facts (user-provided)
 
@@ -77,5 +78,5 @@ None yet.
 ## Session Continuity
 
 Last session: 2026-07-09
-Stopped at: Completed 01-01-PLAN.md (mdBook 뼈대 + Korean fonts + SUMMARY skeleton + image pipeline)
+Stopped at: Completed 01-03-PLAN.md (촬영 기초: M모드 노출 3요소, 크롭보정 500/NPF룰, 별 수동 초점)
 Resume file: None
