@@ -5,16 +5,16 @@
 See: .planning/PROJECT.md (updated 2026-07-09)
 
 **Core value:** 트래킹 장비 없이도 은하수 사진이 "잘 나오게" 하는 전 과정(장비 선택 → 촬영 → 후보정)을, 초보자가 따라 하며 몽골에서 실제로 성공할 수 있도록 담아낸다.
-**Current focus:** Phase 1 완료·검증 통과(5/5, goal verified). 다음 → Phase 2 (연습 1차 집 + 2차 7/17 서해안).
+**Current focus:** Phase 1 완료·검증 통과(5/5, goal verified). 현재 Phase 2 진행 중 — 02-01 플랜이 checkpoint:human-action에서 대기 중(연습 1차 집 세션 실제 수행 결과 대기).
 
 ## Current Position
 
-Phase: 1 of 6 (mdBook 뼈대 + 장비 + 기초 촬영법)
-Plan: 5 of 5 in current phase
-Status: Phase 1 완료 — 5/5 plans, phase verifier PASSED (5/5 must-haves). GitHub Pages 라이브 사이트 사람 검증·승인 완료.
-Last activity: 2026-07-09 — 01-05-PLAN.md 완료 (checkpoint:human-verify 승인됨). https://ohama.github.io/MongolPhoto/ 공개 배포 확인. Phase 1 전체 완료.
+Phase: 2 of 6 (연습 1차 집 + 2차 서해안)
+Plan: 1 of N in current phase (02-01)
+Status: 02-01 Task 1 완료·커밋됨 (연습 1차 챕터 스캐폴드 + 목표 섹션). Task 2 checkpoint:human-action에서 대기 중 — 사용자가 실제 홈 리허설 세션을 진행하고 사진/세팅/배운 점을 보고해야 Task 3(데이터 반영 + SUMMARY 링크 flip)로 이어짐.
+Last activity: 2026-07-09 — 02-01-PLAN.md Task 1 실행: src/03-practice/session-1-home.md 신규 생성(6개 섹션, 목표=홈 리허설 드릴), src/images/practice/session-1/.gitkeep 생성. mdbook build src exit 0 확인. 커밋 a786f12. Task 2 체크포인트에서 일시정지.
 
-Progress: [██████████] 100%
+Progress: [████████░░] Phase 1 100%, Phase 2 in progress (checkpoint paused)
 
 ## Performance Metrics
 
@@ -84,5 +84,5 @@ None yet.
 ## Session Continuity
 
 Last session: 2026-07-09
-Stopped at: Completed 01-05-PLAN.md (checkpoint:human-verify 승인됨) — Phase 1 (5/5 plans) 전체 완료
-Resume file: None
+Stopped at: 02-01-PLAN.md Task 1 완료·커밋(a786f12), Task 2 checkpoint:human-action에서 대기 — 연습 1차(집) 실제 세션 진행 후 사진 폴더 경로(또는 "사진 없음") + 장비·세팅/촬영 환경/배운 점/다음 세션 개선 사항을 텍스트로 보고 필요.
+Resume file: .planning/phases/02-연습-1차-집-2차-서해안/02-01-PLAN.md (Task 3부터 재개)
