@@ -5,22 +5,28 @@
 See: .planning/PROJECT.md (updated 2026-07-09)
 
 **Core value:** 트래킹 장비 없이도 은하수 사진이 "잘 나오게" 하는 전 과정(장비 선택 → 촬영 → 후보정)을, 초보자가 따라 하며 몽골에서 실제로 성공할 수 있도록 담아낸다.
-**Current focus:** Phase 1 완료·검증(5/5). Phase 4(몽골 사전 계획) 완료·검증(9/9, MONG-01·02 Complete). Phase 2는 02-01이 checkpoint:human-action에서 대기 중(연습 1차 집 촬영 후 재개). 다음 실행 가능: Phase 2 재개(촬영 후) 또는 Phase 3(Phase 2 서해안 결과 의존).
+**Current focus:** Phase 1 완료·검증(5/5). **2026-07-09 방향 전환** — 2~5부를 개인 일지·여행 결과에서 **일반 가이드**로 재구성(HOME/FIELD/EDIT/SITE). 로드맵·요구사항 재작성 완료. 구 Phase 2/4 산출물은 `.planning/archive/`로 이동. 다음: Phase 2(집에서 연습할 사항)부터 재계획 — `/gsd:plan-phase 2`.
 
 ## Current Position
 
-**Phase 2 (연습 1차 집 + 2차 서해안)** — 사용자 액션 대기로 일시정지:
-Phase: 2 of 6
-Plan: 1 of N in current phase (02-01)
-Status: 02-01 Task 1 완료·커밋됨 (연습 1차 챕터 스캐폴드 + 목표 섹션). Task 2 checkpoint:human-action에서 대기 중 — 사용자가 실제 홈 리허설 세션을 진행하고 사진/세팅/배운 점을 보고해야 Task 3(데이터 반영 + SUMMARY 링크 flip)로 이어짐.
+**방향 전환 후 — 재구성된 로드맵 (6 phase):**
+- Phase 1 (mdBook·장비·기초): ✓ 완료
+- Phase 2 (집에서 연습할 사항, 일반 가이드): 계획 대기 (HOME-01~03)
+- Phase 3 (야외에서 연습할 사항, 일반 가이드): 계획 대기 (FIELD-01~03)
+- Phase 4 (후보정 연습, 일반 가이드): 계획 대기 (EDIT-01~04)
+- Phase 5 (몽골 여행지별 촬영 가이드, 일반): 계획 대기 (SITE-01~03) — 아카이브된 몽골 리서치·`src/04-mongolia/` 재활용
+- Phase 6 (부록·보너스·배포): 계획 대기 (REF/BONUS; REF-05 카메라·렌즈 추천 목록은 이미 완료)
 
-**Phase 4 (몽골 사전 계획)** — 완료:
-Phase: 4 of 6
-Plan: 2 of 2(est) in current phase (04-02) — 완료
-Status: 04-01·04-02 모두 완료·커밋됨. 몽골 5일(Day 1~5) 사전 계획 + overview.md + SUMMARY 3부 · 몽골 6개 링크 flip까지 전부 완료. Phase 4는 실질적으로 마무리, Phase 5(실제 여행 후 촬영 결과 채우기)는 8/13~8/17 여행 이후에만 착수 가능(하드 날짜 게이트).
-Last activity: 2026-07-09 — 04-02-PLAN.md 전체 실행: src/04-mongolia/day-3-0815.md(욜링암, 협곡 코어 차폐 경고 + 입구/트인 곳 권장), day-4-0816.md(바가가즈링 촐로, 코어 최저 고도 14.6° 강조), day-5-0817.md(공항, 최소 분량·야간 촬영 없음) 신규 생성 + 이미지 폴더 3개 .gitkeep + SUMMARY.md 3부 · 몽골 6개 draft 링크 flip. mdbook build src exit 0(3회), grep -c "04-mongolia/" SUMMARY.md == 6 검증 통과. 커밋 da2add0(Task1), 6d7ec71(Task2).
+날짜 게이트 없음 — 일반 가이드라 전부 지금 작성 가능.
 
-Progress: [████████░░] Phase 1 100%, Phase 2 in progress (checkpoint paused), Phase 4 100% (04-01/04-02 완료)
+**아카이브(superseded):** `.planning/archive/02-연습-1차-집-2차-서해안/`(개인 연습 로그 plan·research), `.planning/archive/04-몽골-사전-계획/`(개인 몽골 계획 plan·research·verification). Phase 5는 04 리서치의 검증 데이터(GPS·달·코어) 재활용.
+
+**전환 시 남은 book 콘텐츠(다음 phase 실행에서 정리):**
+- `src/03-practice/session-1-home.md` — 구 개인 연습 1차 스캐폴드(오펀, SUMMARY 미연결). Phase 2에서 일반 가이드로 대체.
+- `src/04-mongolia/{overview,day-1~5}.md` — 구 개인 여행 Day 페이지(SUMMARY 3부 연결됨). Phase 5에서 일반 "여행지별 가이드"로 재구성.
+- `src/03-practice/template.md`(PRAC-01) — 유지(독자용 연습 로그 템플릿).
+
+Progress: [██░░░░░░░░] Phase 1 100%, Phase 2~6 재계획 대기 (일반 가이드)
 
 ## Performance Metrics
 
@@ -85,9 +91,8 @@ Recent decisions affecting current work:
 
 ### Pending Todos
 
-- [Phase 2 / 02-01] 사용자가 집 연습(1차)을 **나중에** 하기로 함(2026-07-09 결정). 실제 촬영 후 사진 폴더 경로 + 세팅 + 배운 점 + 다음 세션 개선(→2차 목표)을 보고하면 `/gsd:execute-phase 2`로 재개해 Task 3(데이터 반영 + SUMMARY flip) 완료.
-- [Phase 2 / 02-02] 연습 2차 서해안은 2026-07-17(또는 직후) 촬영 후에만 진행 가능 (하드 날짜 게이트). 02-01 완료 후 착수.
-- [Phase 4 완료] 04-01·04-02 모두 완료 — 몽골 5일 사전 계획 + SUMMARY flip 전부 끝남. 다음은 Phase 5(실제 여행 후 각 Day "촬영 결과" 섹션 채우기)이며, 8/13~8/17 실제 여행 이후에만 착수 가능(하드 날짜 게이트). 그 전까지는 Phase 2(연습) 진행에 집중.
+- [2026-07-09 방향 전환] 2~5부를 일반 가이드로 재구성함. 구 개인화 todo(연습 1차 촬영 후 재개, 7/17 서해안 게이트, 몽골 여행 후 결과 채우기)는 모두 폐기 — 이제 날짜 게이트 없이 지금 전부 작성 가능.
+- [Phase 5] 일반 "몽골 여행지별 촬영 가이드" 작성 시 `.planning/archive/04-몽골-사전-계획/04-RESEARCH.md`의 검증 데이터(GPS·달·코어)와 기존 `src/04-mongolia/` 페이지를 재활용 — 개인 "Day N / 촬영 결과" 프레이밍만 일반 "명소별 가이드"로 바꾸면 됨.
 
 ### Blockers/Concerns
 
