@@ -82,10 +82,10 @@ Plans:
   1. 고비 촬영 일반 원리(달·은하수 코어 방향/고도·타이밍·다크스카이)가 설명되어 있다.
   2. 명소별(차강소브라가·홍고린엘스·욜링암·바가가즈링 촐로) 추천 피사체·구도 가이드가 있다.
   3. 여행지별 주의사항(저고도 코어, 협곡 코어 차폐, 바람·모래, 이동)이 명시되어 있다.
-**Plans**: TBD
+**Plans**: 1 plan
 
 Plans:
-- [ ] 05-01: TBD
+- [ ] 05-01-PLAN.md — overview→SITE-01 일반 원리(달 표 예시화) + Day→명소 4개 rename/재작성(SITE-02/03) + day-5 삭제 + SUMMARY 3부 재제목·5링크 + finding-the-milkyway/introduction fold-in + build
 
 ### Phase 6: 부록 + 보너스 기법 + 배포 검증
 **Goal**: book이 완결된 참고자료로 마무리되고 최종 배포가 검증된다.
