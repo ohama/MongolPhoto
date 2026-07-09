@@ -41,8 +41,8 @@
 
 ### 몽골 현지 (MONG)
 
-- [ ] **MONG-01**: 몽골 사전 촬영 계획 (달·방향·은하수 코어 위치, 촬영지 GPS)
-- [ ] **MONG-02**: 날짜별(8/13~8/17) 촬영 대상 추천 및 촬영 계획
+- [x] **MONG-01**: 몽골 사전 촬영 계획 (달·방향·은하수 코어 위치, 촬영지 GPS)
+- [x] **MONG-02**: 날짜별(8/13~8/17) 촬영 대상 추천 및 촬영 계획
 - [ ] **MONG-03**: 날짜별 촬영 결과·사진 수록 (여행 후 작성)
 
 ### 후보정 (POST)
@@ -112,8 +112,8 @@ Which phases cover which requirements. Updated during roadmap creation.
 | POST-01 | Phase 3 | Pending |
 | POST-02 | Phase 3 | Pending |
 | POST-03 | Phase 3 | Pending |
-| MONG-01 | Phase 4 | Pending |
-| MONG-02 | Phase 4 | Pending |
+| MONG-01 | Phase 4 | Complete |
+| MONG-02 | Phase 4 | Complete |
 | MONG-03 | Phase 5 | Pending |
 | POST-04 | Phase 5 | Pending |
 | REF-01 | Phase 6 | Pending |
@@ -131,4 +131,4 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 ---
 *Requirements defined: 2026-07-09*
-*Last updated: 2026-07-09 after Phase 1 완료 (16개 요구사항 Complete)*
+*Last updated: 2026-07-09 after Phase 4 완료 (MONG-01·02 Complete; Phase 1도 완료)*

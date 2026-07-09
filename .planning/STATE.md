@@ -5,7 +5,7 @@
 See: .planning/PROJECT.md (updated 2026-07-09)
 
 **Core value:** 트래킹 장비 없이도 은하수 사진이 "잘 나오게" 하는 전 과정(장비 선택 → 촬영 → 후보정)을, 초보자가 따라 하며 몽골에서 실제로 성공할 수 있도록 담아낸다.
-**Current focus:** Phase 1 완료·검증 통과(5/5, goal verified). Phase 2는 02-01 플랜이 checkpoint:human-action에서 대기 중(연습 1차 집 세션 실제 수행 결과 대기) — 그동안 Phase 4(몽골 사전 계획)를 병행 진행 중, 04-01 완료.
+**Current focus:** Phase 1 완료·검증(5/5). Phase 4(몽골 사전 계획) 완료·검증(9/9, MONG-01·02 Complete). Phase 2는 02-01이 checkpoint:human-action에서 대기 중(연습 1차 집 촬영 후 재개). 다음 실행 가능: Phase 2 재개(촬영 후) 또는 Phase 3(Phase 2 서해안 결과 의존).
 
 ## Current Position
 
