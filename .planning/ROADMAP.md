@@ -15,7 +15,7 @@
 - [x] **Phase 1: mdBook 뼈대 + 장비 + 기초 촬영법** - book 골격, 장비(추천), 기초 촬영법, 연습 로그 템플릿 ✓ (2026-07-09)
 - [x] **Phase 2: 집에서 연습할 사항 (가이드)** - 가기 전 집에서 익혀 둘 조작·세팅·초점·구도 연습
 - [x] **Phase 3: 야외에서 연습할 사항 (가이드)** - 가기 전 근교 어두운 곳에서 할 실전 연습·현장 리허설
-- [ ] **Phase 4: 후보정(post-processing) 연습** - RAW 현상 → 스태킹 → 은하수 강조 → 전/후 비교
+- [x] **Phase 4: 후보정(post-processing) 연습** - RAW 현상 → 스태킹 → 은하수 강조 → 전/후 비교
 - [ ] **Phase 5: 몽골 여행지별 촬영 가이드** - 고비 촬영 일반 원리 + 명소별 "이렇게 찍으면 좋다"
 - [ ] **Phase 6: 부록 + 보너스 기법 + 배포 검증** - 치트시트, 체크리스트, 용어사전, 보너스 기법, 최종 배포 확인
 
@@ -69,10 +69,10 @@ Plans:
   1. 독자가 RAW 현상 기본(노출·화밸·대비·색감) 절차를 따라 할 수 있다.
   2. 독자가 스태킹으로 노이즈를 줄이는 법(Sequator[Win]/Starry Landscape Stacker[Mac])을 안다.
   3. 독자가 은하수를 강조하는 보정과 전/후 비교로 효과를 이해한다.
-**Plans**: 1 plan
+**Plans**: 1 plan (1/1 complete)
 
 Plans:
-- [ ] 04-01-PLAN.md — 후보정 4개 페이지(EDIT-01/02/03/04, src/05-postprocessing/) + SUMMARY 4부 flip·camera-lens/raw-and-wb 스테일 참조 정리
+- [x] 04-01-PLAN.md — 후보정 4개 페이지(EDIT-01/02/03/04, src/05-postprocessing/) + SUMMARY 4부 flip·camera-lens/raw-and-wb 스테일 참조 정리
 
 ### Phase 5: 몽골 여행지별 촬영 가이드
 **Goal**: 독자가 고비 촬영의 일반 원리와 명소별 "이렇게 찍으면 좋다"를 참고해 현지에서 촬영 판단을 내릴 수 있다.
@@ -112,6 +112,6 @@ Phases execute in numeric order: 1 → 2 → 3 → 4 → 5 → 6
 | 1. mdBook 뼈대 + 장비 + 기초 촬영법 | 5/5 | ✓ Complete | 2026-07-09 |
 | 2. 집에서 연습할 사항 | 1/1 | ✓ Complete | 2026-07-09 |
 | 3. 야외에서 연습할 사항 | 1/1 | ✓ Complete | 2026-07-09 |
-| 4. 후보정 연습 | 0/TBD | Not started | - |
+| 4. 후보정 연습 | 1/1 | ✓ Complete | 2026-07-09 |
 | 5. 몽골 여행지별 촬영 가이드 | 0/TBD | Not started | - |
 | 6. 부록 + 보너스 + 배포 검증 | 0/TBD | Not started | - |

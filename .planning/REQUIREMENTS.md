@@ -51,10 +51,10 @@
 
 ### 후보정 연습 (EDIT) — 일반 가이드
 
-- [ ] **EDIT-01**: RAW 현상 기본 워크플로 (노출·화밸·대비·색감)
-- [ ] **EDIT-02**: 스태킹으로 노이즈 감소 (Sequator[Windows] + Starry Landscape Stacker[Mac] 둘 다 안내)
-- [ ] **EDIT-03**: 은하수 강조 보정 (대비·디테일·색)
-- [ ] **EDIT-04**: 전/후 비교로 배우는 후보정 (예시 기반 설명)
+- [x] **EDIT-01**: RAW 현상 기본 워크플로 (노출·화밸·대비·색감)
+- [x] **EDIT-02**: 스태킹으로 노이즈 감소 (Sequator[Windows] + Starry Landscape Stacker[Mac] 둘 다 안내)
+- [x] **EDIT-03**: 은하수 강조 보정 (대비·디테일·색)
+- [x] **EDIT-04**: 전/후 비교로 배우는 후보정 (예시 기반 설명)
 
 ### 몽골 여행지별 촬영 가이드 (SITE) — 일반 가이드
 
@@ -134,10 +134,10 @@
 | FIELD-01 | Phase 3 | Complete |
 | FIELD-02 | Phase 3 | Complete |
 | FIELD-03 | Phase 3 | Complete |
-| EDIT-01 | Phase 4 | Pending |
-| EDIT-02 | Phase 4 | Pending |
-| EDIT-03 | Phase 4 | Pending |
-| EDIT-04 | Phase 4 | Pending |
+| EDIT-01 | Phase 4 | Complete |
+| EDIT-02 | Phase 4 | Complete |
+| EDIT-03 | Phase 4 | Complete |
+| EDIT-04 | Phase 4 | Complete |
 | SITE-01 | Phase 5 | Pending |
 | SITE-02 | Phase 5 | Pending |
 | SITE-03 | Phase 5 | Pending |
