@@ -10,27 +10,27 @@ See: .planning/PROJECT.md (updated 2026-07-09)
 ## Current Position
 
 Phase: 1 of 6 (mdBook 뼈대 + 장비 + 기초 촬영법)
-Plan: 4 of 5 in current phase
-Status: In progress
-Last activity: 2026-07-09 — Completed 01-04-PLAN.md (RAW·화밸, 은하수 타이밍, 현장 워크플로, 연습 로그 템플릿) — Wave 2 전체 종료, 남은 것은 01-05(배포)뿐
+Plan: 5 of 5 in current phase
+Status: Phase 1 execution complete (5/5 plans) — GitHub Pages 라이브 사이트 사람 검증·승인 완료, phase verifier 확인 대기
+Last activity: 2026-07-09 — 01-05-PLAN.md 완료 (checkpoint:human-verify 승인됨). https://ohama.github.io/MongolPhoto/ 공개 배포 확인. Phase 1 전체 완료.
 
-Progress: [████████░░] 80%
+Progress: [██████████] 100%
 
 ## Performance Metrics
 
 **Velocity:**
-- Total plans completed: 4
-- Average duration: ~12 min
-- Total execution time: ~0.8 hours
+- Total plans completed: 5
+- Average duration: ~13 min
+- Total execution time: ~1.0 hours
 
 **By Phase:**
 
 | Phase | Plans | Total | Avg/Plan |
 |-------|-------|-------|----------|
-| 1 | 4/5 | ~48 min | ~12 min |
+| 1 | 5/5 | ~63 min | ~13 min |
 
 **Recent Trend:**
-- Last plans: 01-01 (4 min), 01-03 (~20 min), 01-02 (9 min), 01-04 (~15 min)
+- Last plans: 01-01 (4 min), 01-03 (~20 min), 01-02 (9 min), 01-04 (~15 min), 01-05 (~15 min)
 - Trend: stable
 
 *Updated after each plan completion*
@@ -78,10 +78,11 @@ None yet.
 - [Phase 4] 울란바토르/고비 지역 월출·월몰·은하수 코어 방위각/고도는 리서치 중 조회 실패(403) — PhotoPills/Stellarium/timeanddate.com으로 각 날짜·촬영지별 재확인 필요.
 - [Phase 4] 각 촬영지 GPS 좌표는 계획 시 확정 필요 (코스는 1안으로 확보됨).
 - REQUIREMENTS.md 기존 Coverage 카운트("31 total")는 오기였음 — 실제 v1 요구사항은 34개 (BONUS 3개 포함). 로드맵 생성 시 정정함.
-- [01-01] docs/ 빌드 산출물과 .claude/ 디렉토리가 현재 git에서 미추적 상태 (repo에 .gitignore 없음). 배포/CI 설정(01-05 plan, GitHub Pages)에서 한 줄 결정 필요 — 현재는 블로커 아님.
+- [01-01→01-05 해결] docs/ 빌드 산출물은 01-05에서 커밋됨(Deploy-from-branch 패턴). .claude/는 개별 git add로 커밋 대상에서 계속 제외(.gitignore 없이도 안전 — git add -A 미사용 원칙).
+- [01-05 해결] GitHub Pages 최초 빌드 지연(수분간 `status: building`, 일시 404)은 전파 대기 후 자연 해소됨. https://ohama.github.io/MongolPhoto/ 는 현재 status=built, HTTP 200. 사람이 브라우저에서 한국어 렌더링·6부 목차·1부 실콘텐츠를 직접 확인 후 "승인" 응답 — Phase 1 배포 완료.
 
 ## Session Continuity
 
 Last session: 2026-07-09
-Stopped at: Completed 01-04-PLAN.md (RAW·화밸/은하수 타이밍/현장 워크플로/연습 로그 템플릿) — 01-01~04 모두 완료, 남은 것은 01-05-PLAN.md(GitHub Pages 배포)뿐
+Stopped at: Completed 01-05-PLAN.md (checkpoint:human-verify 승인됨) — Phase 1 (5/5 plans) 전체 완료
 Resume file: None
