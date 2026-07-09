@@ -26,12 +26,12 @@
 
 # 3부 · 몽골 (8/13 ~ 8/17)
 
-- [여행 개요]()
-- [Day 1 · 8/13]()
-- [Day 2 · 8/14]()
-- [Day 3 · 8/15]()
-- [Day 4 · 8/16]()
-- [Day 5 · 8/17]()
+- [여행 개요](04-mongolia/overview.md)
+- [Day 1 · 8/13](04-mongolia/day-1-0813.md)
+- [Day 2 · 8/14](04-mongolia/day-2-0814.md)
+- [Day 3 · 8/15](04-mongolia/day-3-0815.md)
+- [Day 4 · 8/16](04-mongolia/day-4-0816.md)
+- [Day 5 · 8/17](04-mongolia/day-5-0817.md)
 
 # 4부 · 후보정
 
