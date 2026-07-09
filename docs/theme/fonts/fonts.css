@@ -1,0 +1,22 @@
+/*
+ * Self-hosted Noto Sans KR (weights 400 / 700, Korean subset).
+ * Source: Google Fonts, fetched via google-webfonts-helper API
+ * (https://gwfh.mranftl.com/api/fonts/noto-sans-kr?subsets=korean), OFL license.
+ * Local relative paths keep the book independent of a live Google Fonts CDN call.
+ */
+
+@font-face {
+  font-family: "Noto Sans KR";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("NotoSansKR-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Noto Sans KR";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("NotoSansKR-Bold.woff2") format("woff2");
+}
