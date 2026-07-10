@@ -132,4 +132,4 @@
 | `images/intro/star-trails.jpg` | 스타트레일 (이집트 화이트 사막) | Ahmed Khalil | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:White_Desert_star_trail.jpg) |
 | `images/intro/silhouette.jpg` | 은하수 아래 사람 실루엣 (칠레 라 시야 천문대, ESO) | ESO / A. Fitzsimmons | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Admiring_the_Galaxy.jpg) |
 
-원본은 리사이즈(최대 2000px)·EXIF 제거 후 재압축했습니다. `bayanzag.jpg`·`yolyn-am.jpg`는 실제 현지를 담은 사진이지만 저자가 직접 촬영한 것은 아니며 주간에 촬영되었습니다(은하수는 없음). 보정 전/후 비교 사진과, 몽골 현지에서 은하수까지 함께 담은 사진은 저자의 실제 촬영본을 위해 비워 두었습니다.
+원본은 리사이즈(최대 2000px)·EXIF 제거 후 재압축했습니다. `bayanzag.jpg`·`yolyn-am.jpg`는 실제 현지를 담은 사진이지만 저자가 직접 촬영한 것은 아니며 주간에 촬영되었습니다(은하수는 없음). 보정 전/후 비교 사진과, 몽골 현지에서 은하수까지 함께 담은 사진은 저자의 실제 촬영본으로 채우기 위해 비워 두었습니다.

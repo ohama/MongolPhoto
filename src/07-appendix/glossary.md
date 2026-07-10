@@ -14,7 +14,7 @@
 - **이슬점 / 결로** — 기온이 이슬점 아래로 내려가면 렌즈 앞면에 이슬이 맺혀 화면이 뿌옇게 나오는 현상. → [필수 액세서리 & 앱](../01-gear/accessories.md)
 - **인터벌 타이머 / 릴리즈** — 셔터를 손으로 누르지 않고 자동·원격으로 촬영해 흔들림을 막는 장치·기능. → [필수 액세서리 & 앱](../01-gear/accessories.md)
 - **자오선 통과(Meridian Transit / Culmination)** — 천체가 정남쪽(또는 정북쪽) 하늘에서 가장 높은 고도에 이르는 순간. → [고비 촬영 일반 원리](../04-mongolia/overview.md)
-- **천문박명(Astronomical Twilight)** — 해가 지평선 아래 18도까지 내려가 하늘이 완전히 어두워지는 시점. 이후부터가 은하수 촬영의 실질적인 시작 시각. → [고비 촬영 일반 원리](../04-mongolia/overview.md)
+- **천문박명(Astronomical Twilight)** — 해가 지평선 아래 18도까지 내려가 하늘이 완전히 어두워지는 시점. 이때부터 은하수 촬영이 실질적으로 시작된다. → [고비 촬영 일반 원리](../04-mongolia/overview.md)
 - **코마수차(Coma Aberration)** — 조리개를 최대 개방했을 때 화면 가장자리 별이 새 날개처럼 번지는 렌즈 수차. → [카메라 · 렌즈 추천 목록](camera-lens-picks.md)
 - **크러시된 블랙(Crushed Blacks)** — 블랙 레벨을 과도하게 내려 어두운 부분의 디테일이 통째로 사라지는 현상. → [은하수 강조 보정](../05-postprocessing/enhance-milkyway.md)
 - **크롭계수(Crop Factor)** — 센서 크기가 풀프레임보다 작을 때, 실제 초점거리를 풀프레임 환산 화각으로 바꿔주는 배율. → [500 / NPF 룰](../02-fundamentals/500-npf-rule.md)

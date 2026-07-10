@@ -13,4 +13,4 @@
 
 ---
 
-기본 톤을 잡았다면 강조 2차 패스는 [은하수 강조 보정](enhance-milkyway.md)으로 이어가고, 결과는 [연습 로그 템플릿](../03-practice/template.md)에 기록해 보세요.
+기본 톤을 잡았다면 [은하수 강조 보정](enhance-milkyway.md)에서 강조 2차 패스를 이어가고, 결과는 [연습 로그 템플릿](../03-practice/template.md)에 기록해 보세요.
