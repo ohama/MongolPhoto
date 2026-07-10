@@ -55,3 +55,11 @@
 - [체크리스트 모음](07-appendix/checklists.md)
 - [앱·소프트웨어 가이드](07-appendix/app-software.md)
 - [용어 사전](07-appendix/glossary.md)
+
+# 참고 자료
+
+- [촬영 기법 참고 자료](08-references/technique-references.md)
+- [사용 소프트웨어](08-references/software-references.md)
+- [연습용 무료 RAW·샘플](08-references/practice-raw-samples.md)
+- [몽골 천체사진 링크 모음](08-references/mongolia-astrophotography-links.md)
+- [몽골 여행 실무 정보](08-references/mongolia-travel-info.md)

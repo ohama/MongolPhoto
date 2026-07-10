@@ -28,7 +28,7 @@
 - [The Ultimate Mongolia Travel Guide 2026](https://meanwhileinmongolia.com/mongolia-travel-guide/) — 여행 가이드 사이트(개인 운영, Meanwhile in Mongolia). 여름(6~8월, 평균 25~32°C)이 성수기, 가을(9~11월)이 저자 개인 선호 시기, 겨울은 -30°C까지, 봄은 "여전히 불편할 정도로 춥다"고 설명. **주의**: 이 페이지에는 은하수·다크스카이 관련 언급이 없었습니다(확인 결과 없음).
 - [The Gobi Desert Mongolia: Our Guide](https://eternal-landscapes.co.uk/the-gobi-desert-mongolia-our-guide/) — Eternal Landscapes(몽골 전문 여행사) 공식 블로그. 고비는 연간 강우량 100mm 미만의 건조 지역이며, 봄철 모래폭풍("ugalz")이 잦고 겨울은 극저온, 여름은 일교차가 매우 크다고 설명.
 
-**책 내 관련**: [3부 · 고비 촬영 일반 원리](../src/04-mongolia/overview.md) — 신월 전후 다크윈도우, 코어 방향·고도, 박명 길이 등 촬영 타이밍은 여기서 정량적으로 다룹니다. [은하수 찾기와 타이밍](../src/02-fundamentals/finding-the-milkyway.md)도 참고.
+**책 내 관련**: [3부 · 고비 촬영 일반 원리](../04-mongolia/overview.md) — 신월 전후 다크윈도우, 코어 방향·고도, 박명 길이 등 촬영 타이밍은 여기서 정량적으로 다룹니다. [은하수 찾기와 타이밍](../02-fundamentals/finding-the-milkyway.md)도 참고.
 
 ---
 
@@ -40,7 +40,7 @@
 
 **방한 준비**: 침낭·핫팩·방한 겉옷·장갑·목도리 등은 여름 일정이라도 챙기는 것이 일반적으로 권장됩니다(야간 촬영 시 오래 서 있어야 하는 천체사진 특성상 특히 중요). 정확한 기온은 출발 직전 기상 예보 앱(Windy, Clear Outside 등 — [소프트웨어 참고자료](software-references.md))으로 재확인하세요.
 
-**책 내 관련**: [3부 · 고비 촬영 일반 원리](../src/04-mongolia/overview.md)의 신월·다크윈도우 표 참고(계절별 박명 길이 등).
+**책 내 관련**: [3부 · 고비 촬영 일반 원리](../04-mongolia/overview.md)의 신월·다크윈도우 표 참고(계절별 박명 길이 등).
 
 ---
 
@@ -53,7 +53,7 @@
 
 **셀프드라이브 주의**: 대한민국 외교부 해외안전여행 정보에 따르면 **한국에서 발급한 국제운전면허증이 몽골에서 인정되지 않아**, 운전 시 무면허로 간주될 수 있습니다(아래 "건강/안전" 절 참고). 현지 가이드·운전기사를 고용하는 편을 권장합니다.
 
-**책 내 관련**: [3부 · 몽골 여행지별 촬영 가이드](../src/04-mongolia/overview.md)의 촬영지 GPS 좌표 표(차강소브라가·홍고린엘스·욜링암·바가가즈링 촐로·바양작) — 이동 경로 계획 시 함께 참고.
+**책 내 관련**: [3부 · 몽골 여행지별 촬영 가이드](../04-mongolia/overview.md)의 촬영지 GPS 좌표 표(차강소브라가·홍고린엘스·욜링암·바가가즈링 촐로·바양작) — 이동 경로 계획 시 함께 참고.
 
 ---
 
@@ -64,7 +64,7 @@
 - [Mongolian Ger Camps: The Complete Guide to Staying in a Traditional Ger](https://www.discovermongolia.mn/blogs/tourist-ger-camp) — Discover Mongolia(현지 여행사) 공식 블로그. 확인 결과: 표준 관광 게르 캠프(1인당 1박 약 $40~70, 공용 화장실, 저녁 6~10시경만 전기), 유목민 홈스테이(1인당 1박 약 $20~40, 전기 매우 제한적, 실외 공동 화장실), 디럭스/글램핑 게르 캠프(1인당 1박 약 $150~400, 개인 욕실, 24시간 전기)로 구분. **가격은 조사 시점 근사치이므로 예약 전 반드시 재확인**하세요.
 - [The Gobi Desert Mongolia: Our Guide](https://eternal-landscapes.co.uk/the-gobi-desert-mongolia-our-guide/) — 위와 동일 출처(이동/투어 절 참고). 표준 게르 캠프와 현지 유목민 가족 게르 숙박을 함께 소개.
 
-**책 내 관련**: 게르 캠프 위치는 촬영 장소 선정과도 연결됩니다 — [3부 · 몽골 여행지별 촬영 가이드](../src/04-mongolia/overview.md)의 명소별 GPS 참고.
+**책 내 관련**: 게르 캠프 위치는 촬영 장소 선정과도 연결됩니다 — [3부 · 몽골 여행지별 촬영 가이드](../04-mongolia/overview.md)의 명소별 GPS 참고.
 
 ---
 
@@ -76,7 +76,7 @@
 
 **실무 팁(일반적으로 알려진 내용 — 별도 링크는 없음)**: 낮 이동 중 차량 시거잭으로 충전하고, 밤에는 보조배터리(파워뱅크)로 카메라 배터리를 채우는 방식이 널리 쓰입니다. 카메라 예비 배터리를 넉넉히(최소 3~4개) 챙기고, 멀티탭·서지 보호 콘센트를 준비하는 것이 안전합니다.
 
-**책 내 관련**: [필수 액세서리 & 앱](../src/01-gear/accessories.md) — 배터리·충전 관련 장비 목록이 있다면 함께 참고.
+**책 내 관련**: [필수 액세서리 & 앱](../01-gear/accessories.md) — 배터리·충전 관련 장비 목록이 있다면 함께 참고.
 
 ---
 

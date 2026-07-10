@@ -28,7 +28,7 @@
 | [Homework: Download and Stack my Data!](https://www.photographingspace.com/homework-download-stack-data/) | PhotographingSpace.com(저자 개인 블로그) · 페이지에 별도 라이선스 문구는 없으나 "결과물을 댓글/SNS로 공유해달라"는 요청만 있음(연습용 공유 취지로 판단, 재배포 전 저자에게 확인 권장) · 다운로드 링크 2개 모두 이번 세션에 HTTP 200으로 직접 확인: [전체 11장 zip(300MB+)](https://www.photographingspace.com/downloads/11x_ISO6400_f2.8_15s_5DMkIII_raw.zip), [단일 RAW 1장](https://www.photographingspace.com/downloads/CSM30803.CR2) | **11장, Canon CR2**. 남아프리카·나미비아 국경 칼라하리 사막에서 Canon 5D Mark III, 24mm f/2.8, ISO 6400, 15초로 촬영한 실제 은하수 프레임(고온 환경이라 열노이즈도 있음) — **Sequator나 Starry Landscape Stacker 스태킹 연습에 그대로 적합** |
 | [Stacking Nightscapes with Starry Landscape Stacker](https://nightscapephotographer.com/stacking-nightscapes-with-starry-landscape-stacker/) | Nightscape Photographer(저자 Daniel Gangur) · 페이지에 "재판매·인쇄 등은 금지, 튜토리얼을 따라 후보정을 배우는 용도로만 무료 제공"이라고 명시. [Dropbox 폴더 링크](https://www.dropbox.com/sh/qfta1j767nyv9wi/AAD-XeQHuGchxs6MV2RfU08Ja?dl=0)는 이번 세션에 실제 폴더로 리다이렉트되는 것을 확인(HTTP 302 → 정상 Dropbox 폴더) | **10장** — 파일 형식은 페이지·폴더 미리보기(JS 렌더링이라 자동 확인 불가)에 명시돼 있지 않아 직접 열어 확인 필요. **Starry Landscape Stacker 튜토리얼 전용 연습 세트**(Mac 사용자에게 적합) |
 
-**직접 촬영해서 연습하는 것도 방법입니다**: 위 두 세트 외에는 신뢰할 만한 "다운로드 가능한 은하수 다중 프레임" 자료를 찾지 못했습니다. 대안으로, 맑은 밤 삼각대를 고정한 채 같은 구도로 은하수를 8~15장 연속 촬영해두면(책의 [스태킹으로 노이즈 줄이기](../src/05-postprocessing/stacking.md) 조건과 동일하게 노출·화이트밸런스 고정) 그 자체로 최고의 연습 세트가 됩니다.
+**직접 촬영해서 연습하는 것도 방법입니다**: 위 두 세트 외에는 신뢰할 만한 "다운로드 가능한 은하수 다중 프레임" 자료를 찾지 못했습니다. 대안으로, 맑은 밤 삼각대를 고정한 채 같은 구도로 은하수를 8~15장 연속 촬영해두면(책의 [스태킹으로 노이즈 줄이기](../05-postprocessing/stacking.md) 조건과 동일하게 노출·화이트밸런스 고정) 그 자체로 최고의 연습 세트가 됩니다.
 
 > 참고로 [AstroBackyard의 DeepSkyStacker 연습 파일](https://astrobackyard.com/dss-practice-files/)도 검색에 걸렸지만, 이는 **북아메리카 성운(딥스카이 천체)을 적도의 추적 장비로 찍은 라이트/다크 프레임**이라 이 책이 다루는 삼각대 고정 은하수 촬영과는 장르가 다릅니다(딥스카이 스태킹을 별도로 공부하고 싶을 때만 참고).
 
@@ -51,7 +51,7 @@
 
 ---
 
-**책 내 관련 챕터**: [RAW 현상 기본](../src/05-postprocessing/raw-develop.md), [스태킹으로 노이즈 줄이기](../src/05-postprocessing/stacking.md), [은하수 강조 보정](../src/05-postprocessing/enhance-milkyway.md)
+**책 내 관련 챕터**: [RAW 현상 기본](../05-postprocessing/raw-develop.md), [스태킹으로 노이즈 줄이기](../05-postprocessing/stacking.md), [은하수 강조 보정](../05-postprocessing/enhance-milkyway.md)
 
 ---
 

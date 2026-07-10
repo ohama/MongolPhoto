@@ -19,7 +19,7 @@
 | Clear Outside | 웹 + iOS 앱(무료) + Android 앱(무료) | 무료 | 천문 관측용 시간대별 구름량·달 위상·천문박명 예보 | [clearoutside.com](https://clearoutside.com/) |
 | Light Pollution Map | 웹 | 무료 | VIIRS 위성 자료·SQM 실측값 기반 광해 지도, Bortle 등급 가늠 | [lightpollutionmap.info](https://www.lightpollutionmap.info/) |
 
-**책에서의 쓰임**: [필수 액세서리 & 앱](../src/01-gear/accessories.md), [은하수 찾기와 타이밍](../src/02-fundamentals/finding-the-milkyway.md), [500 / NPF 룰](../src/02-fundamentals/500-npf-rule.md)
+**책에서의 쓰임**: [필수 액세서리 & 앱](../01-gear/accessories.md), [은하수 찾기와 타이밍](../02-fundamentals/finding-the-milkyway.md), [500 / NPF 룰](../02-fundamentals/500-npf-rule.md)
 
 **비고**
 - Clear Outside는 이번 세션에 공식 사이트를 직접 확인해 "웹 + 무료 iOS/Android 앱" 형태가 맞다는 것과 제작사(First Light Optics)를 확인했습니다.
@@ -36,7 +36,7 @@
 | darktable | Windows / macOS / Linux | 무료·오픈소스 | RAW 파일 현상(화이트밸런스·노출·대비·채도 등) | [darktable.org](https://www.darktable.org/) |
 | Adobe Lightroom | Windows / macOS (+ 모바일) | 구독(가격은 변동 — 공식 페이지 확인 필요) | RAW 파일 현상, 이미 구독 중이면 대안 | 미검증 — 아래 "참고/미검증" 절 참고 |
 
-**책에서의 쓰임**: [RAW 현상 기본](../src/05-postprocessing/raw-develop.md), [밤하늘 타임랩스](../src/06-bonus/timelapse.md)(배치 현상)
+**책에서의 쓰임**: [RAW 현상 기본](../05-postprocessing/raw-develop.md), [밤하늘 타임랩스](../06-bonus/timelapse.md)(배치 현상)
 
 **비고**
 - 이 책은 darktable을 기본으로 추천하고, Lightroom은 "이미 구독 중이면 그대로 사용"이라는 대안으로 언급합니다.
@@ -51,7 +51,7 @@
 | Sequator | Windows 전용 | 무료 | 같은 구도로 찍은 여러 프레임을 정렬·평균해 노이즈 감소(하늘/전경 분리 고정 지원) | [sites.google.com/view/sequator](https://sites.google.com/view/sequator/) |
 | Starry Landscape Stacker | macOS 전용 | 유료(대략 $40 안팎 — 정확한 가격은 공식 페이지 확인) | 위와 동일, 하늘/땅을 브러시로 마스킹하는 수동 방식 | [sites.google.com/site/starrylandscapestacker](https://sites.google.com/site/starrylandscapestacker/home) |
 
-**책에서의 쓰임**: [스태킹으로 노이즈 줄이기](../src/05-postprocessing/stacking.md)
+**책에서의 쓰임**: [스태킹으로 노이즈 줄이기](../05-postprocessing/stacking.md)
 
 **비고**
 - 두 도구는 OS로 갈립니다 — Windows면 Sequator(무료), Mac이면 Starry Landscape Stacker(유료)가 사실상 선택지입니다.
@@ -68,7 +68,7 @@
 | Microsoft ICE (Image Composite Editor) | Windows | 무료였음 — **단종(프로젝트 지원 종료, retired)** | 위와 동일 (신규 설치·최신 Windows 동작은 보장되지 않음) | [microsoft.com/.../image-composite-editor](https://www.microsoft.com/en-us/research/project/image-composite-editor/) |
 | PTGui | Windows / macOS | 유료(트라이얼 무료, 정확한 가격은 공식 페이지 확인) | 위와 동일, 업계 표준으로 꼽히는 파노라마 병합 도구 | [ptgui.com](https://www.ptgui.com/) |
 
-**책에서의 쓰임**: [은하수 파노라마 촬영·병합](../src/06-bonus/panorama.md)
+**책에서의 쓰임**: [은하수 파노라마 촬영·병합](../06-bonus/panorama.md)
 
 **비고**
 - Microsoft ICE는 공식 페이지에 "이 프로젝트는 지원이 종료되었습니다(retired)"라고 명시되어 있습니다. 책은 무료 대안으로 함께 언급하지만, 새로 설치할 도구로는 Hugin을 우선 고려하는 편이 안전합니다.
@@ -83,7 +83,7 @@
 |---|---|---|---|---|
 | StarStaX | Windows / macOS | 무료(상업적 이용 포함) | 짧은 노출 수십~수백 장을 Lighten 블렌드로 합성해 별궤적 생성 | [markus-enzweiler.de/software/starstax](https://markus-enzweiler.de/software/starstax/) |
 
-**책에서의 쓰임**: [스타트레일(별궤적) 촬영·합성](../src/06-bonus/star-trails.md)
+**책에서의 쓰임**: [스타트레일(별궤적) 촬영·합성](../06-bonus/star-trails.md)
 
 **비고**
 - 이번 세션에 공식 페이지를 재확인한 결과 **Windows·macOS만 지원하며 Linux는 지원하지 않습니다.** ("StarStaX runs on macOS and Windows... not available for Linux" — 공식 페이지 문구 기준)
@@ -98,7 +98,7 @@
 | FFmpeg | Windows / macOS / Linux (크로스플랫폼) | 무료·오픈소스 | 이미지 시퀀스를 영상으로 조립하는 커맨드라인 도구 | [ffmpeg.org](https://ffmpeg.org/) |
 | LRTimelapse | Windows / macOS | 유료(가격은 변동 — 공식 페이지 확인 필요) | 디플리커(Visual Deflicker) 및 Lightroom 연동 타임랩스 워크플로 | [lrtimelapse.com](https://lrtimelapse.com/) |
 
-**책에서의 쓰임**: [밤하늘 타임랩스](../src/06-bonus/timelapse.md)
+**책에서의 쓰임**: [밤하늘 타임랩스](../06-bonus/timelapse.md)
 
 **비고**
 - 이번 세션에 ffmpeg.org를 재확인해 크로스플랫폼(Windows/macOS/Linux/Android 등) 지원과 오픈소스 성격을 확인했습니다. 다만 페이지에 라이선스 문구가 명시적으로 보이지 않아 "free and open source"라는 서술은 페이지의 문맥(GSoC 참여 등)에서 간접 확인한 수준입니다.
@@ -114,7 +114,7 @@
 | DeepSkyStacker | Windows (일반적으로 알려진 사실, 이번 세션 공식 페이지에서 재확인 못함) | 무료로 알려짐 (공식 페이지 미검증) | 딥스카이(망원경) 촬영용 스태킹 도구 | 미검증 — 아래 "참고/미검증" 절 참고 | 전경 블렌딩 기능이 없어, 이 책이 다루는 "은하수 + 지평선" 구도에는 적합하지 않음 |
 | Topaz Photo AI | Windows 10/11, macOS 12~15 | **구독 전용**(Personal 플랜 등, 정확한 가격은 공식 페이지 확인 필요 — 이번 세션 확인 시 연 $199부터 시작하는 구독형 플랜만 존재) | AI 기반 샤프닝·노이즈 제거·업스케일 | [topazlabs.com/topaz-photo-ai](https://www.topazlabs.com/topaz-photo-ai) | 2025년 10월부터 구독 전용으로 전환되어(이번 세션에 공식 페이지에서 구독형 플랜만 확인됨), 한 번 쓰고 마는 여행용·가성비 위주 워크플로에는 맞지 않음 |
 
-**책에서의 쓰임**: [스태킹으로 노이즈 줄이기](../src/05-postprocessing/stacking.md) — "추천하지 않는 도구" 절
+**책에서의 쓰임**: [스태킹으로 노이즈 줄이기](../05-postprocessing/stacking.md) — "추천하지 않는 도구" 절
 
 **비고**
 - Topaz Photo AI는 이번 세션에 공식 페이지(topazlabs.com)를 직접 열어 확인한 결과, 일회성 구매 옵션 없이 구독제(Personal/Pro 플랜, 연 단위 결제 시 $199/년 안팎부터)만 제공하고 있어 책의 "구독 전용 전환" 서술과 일치했습니다. 다만 페이지에 "2025년 10월부터"라는 전환 시점 자체가 명시되어 있지는 않았습니다 — 그 시점은 책 본문의 서술을 그대로 옮긴 것이며, 이번 세션에 독립적으로 재확인하지는 못했습니다.
@@ -135,4 +135,4 @@
 - 이 문서의 모든 가격(PTGui, Starry Landscape Stacker, LRTimelapse, Topaz Photo AI, PhotoPills, Lightroom 등)은 조사 시점 기준이거나 정확한 숫자를 확인하지 못한 항목은 "확인 필요"로 남겼습니다. 실제 구매·구독 전에는 반드시 각 공식 페이지에서 최신 가격을 다시 확인하세요.
 - 소프트웨어 공식 페이지(darktable, Sequator, Starry Landscape Stacker, Hugin, PTGui, StarStaX, ffmpeg, LRTimelapse, Topaz Photo AI)는 버전이 계속 올라가므로, 실제로 설치하기 전 다운로드 페이지의 최신 버전·시스템 요구사항을 다시 확인하세요.
 
-카메라·렌즈 장비 추천은 [카메라 · 렌즈 추천 목록](../src/07-appendix/camera-lens-picks.md), 학습용 외부 자료는 [촬영 기법별 참고 자료 모음](technique-references.md) 참고.
+카메라·렌즈 장비 추천은 [카메라 · 렌즈 추천 목록](../07-appendix/camera-lens-picks.md), 학습용 외부 자료는 [촬영 기법별 참고 자료 모음](technique-references.md) 참고.
