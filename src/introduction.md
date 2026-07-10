@@ -70,27 +70,37 @@
 
 ## 몽골의 밤하늘
 
-말보다 사진이 매력을 더 잘 전합니다. 이 책을 따라 찍은 결과물을 아래에 모읍니다. *(아래 중 하나는 이해를 돕기 위한 예시 이미지이며, 나머지는 추후 실제 촬영본으로 채워집니다.)*
+말보다 사진이 매력을 더 잘 전합니다. 이 책을 따라 찍은 결과물을 아래에 모읍니다. *(아래 사진 대부분은 이해를 돕기 위한 예시 이미지이거나 실제 몽골 현지(바양작·욜링암)를 낮에 찍은 참고 사진입니다 — 은하수가 함께 찍힌 몽골 현지 사진, 그리고 보정 전/후 비교 사진은 저자의 실제 촬영본으로 추후 채워집니다.)*
 
 <!-- 이미지: src/images/intro/gallery-milkyway-1.jpg — 예시 이미지 (미국 옐로스톤 국립공원) -->
 ![은하수 예시 이미지](images/intro/gallery-milkyway-1.jpg)
 
 *예시 이미지 — 은하수 코어와 주변 별빛의 색·디테일을 보여 주는 사진입니다(미국 옐로스톤 국립공원). 실제 홍고린엘스 사진은 아닙니다. 사진: NPS / Neal Herbert (Public Domain).*
 
-<!-- 이미지: src/images/intro/gallery-02-bayanzag.jpg -->
-> 📷 *바양작 — 노을에 붉게 물든 절벽 실루엣과 그 위의 은하수.*
+<!-- 이미지: src/images/intro/bayanzag.jpg — 실제 바양작(주간) -->
+![바양작 주간 사진](images/intro/bayanzag.jpg)
 
-<!-- 이미지: src/images/intro/gallery-03-yolyn-am.jpg -->
-> 📷 *욜링암 — 협곡 입구의 트인 하늘에 걸린 은하수.*
+*바양작(Bayanzag, Flaming Cliffs) — 붉은 절벽, 주간 촬영. 밤에는 이 실루엣 위로 은하수가 뜬다. 사진: amanderson2 ([CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)).*
 
-<!-- 이미지: src/images/intro/gallery-04-panorama.jpg -->
-> 📷 *은하수 아치 파노라마 — 여러 장을 이어 붙여 담은 하늘 전체.*
+<!-- 이미지: src/images/intro/yolyn-am.jpg — 실제 욜링암(주간) -->
+![욜링암 주간 사진](images/intro/yolyn-am.jpg)
 
-<!-- 이미지: src/images/intro/gallery-05-startrail.jpg -->
-> 📷 *스타트레일 — 별이 그리는 동심원 궤적과 사막의 실루엣.*
+*욜링암(Yolyn Am), 고르왕사이한 국립공원 — 협곡 입구, 주간 촬영. 사진: Bernard Gagnon (CC0 / Public Domain).*
 
-<!-- 이미지: src/images/intro/gallery-06-silhouette.jpg -->
-> 📷 *은하수 아래 사람 실루엣 — 하늘의 스케일을 보여 주는 한 컷.*
+<!-- 이미지: src/images/intro/panorama.jpg — 예시 이미지 (칠레 세로파라날, ESO) -->
+![은하수 아치 파노라마 예시 이미지](images/intro/panorama.jpg)
+
+*예시 이미지 — 지평선부터 지평선까지 이어지는 은하수 아치 파노라마입니다(칠레 아타카마 사막, 세로 파라날 ESO 천문대). 실제 몽골 촬영지는 아닙니다. 사진: Bruno Gilli / ESO (CC BY 4.0).*
+
+<!-- 이미지: src/images/intro/star-trails.jpg — 예시 이미지 (이집트 화이트사막) -->
+![스타트레일 예시 이미지](images/intro/star-trails.jpg)
+
+*예시 이미지 — 별이 그리는 궤적(스타트레일)과 사막의 실루엣입니다(이집트 화이트 사막). 실제 몽골 촬영지는 아닙니다. 사진: Ahmed Khalil (CC BY-SA 4.0).*
+
+<!-- 이미지: src/images/intro/silhouette.jpg — 예시 이미지 (칠레 라시야 천문대, ESO) -->
+![은하수 아래 사람 실루엣 예시 이미지](images/intro/silhouette.jpg)
+
+*예시 이미지 — 은하수 아래 선 사람의 실루엣으로 하늘의 스케일을 보여 줍니다(칠레 라 시야 천문대). 실제 몽골 촬영지는 아닙니다. 사진: ESO / A. Fitzsimmons (CC BY 4.0).*
 
 *(사진을 추가할 때는 [사진 준비](07-appendix/checklists.md) 규칙대로 웹용으로 리사이즈해 `src/images/intro/`에 넣고, 위 주석 자리를 `![캡션](images/intro/파일명.jpg)` 형식으로 바꾸면 됩니다.)*
 
@@ -108,7 +118,7 @@
 
 ## 이미지 출처
 
-이 페이지에 쓰인 예시 이미지는 저자가 몽골에서 촬영한 사진이 아니며, 아래와 같이 라이선스가 확인된 무료 이미지입니다.
+이 페이지에 쓰인 사진은 저자가 촬영한 것이 아니며, 아래와 같이 라이선스가 확인된 무료 이미지입니다(`bayanzag.jpg`·`yolyn-am.jpg`는 실제 몽골 현지를 담은 사진이고, 나머지는 이해를 돕기 위한 예시 이미지입니다).
 
 | 파일 | 설명 | 저작자 | 라이선스 | 출처 |
 |---|---|---|---|---|
@@ -116,5 +126,10 @@
 | `images/intro/dark-sky-nightscape.jpg` | 은하수·사막 야경 흑백 파노라마 (미국 데스밸리 국립공원) | NPS / Dan Duriscoe | Public Domain (미 연방정부 저작물) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Deathvalleysky_nps_big.jpg) |
 | `images/intro/camera-tripod.jpg` | 카메라·렌즈·삼각대 | James Niland | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:DSLR_Camera_with_Lens_on_a_Tripod_head.jpg) |
 | `images/intro/gallery-milkyway-1.jpg` | 은하수 (미국 옐로스톤 국립공원) | NPS / Neal Herbert | Public Domain (미 연방정부 저작물) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Milky_Way_above_Grand_Prismatic_Spring_(33668265111).jpg) |
+| `images/intro/bayanzag.jpg` | 바양작(Flaming Cliffs), 몽골 남고비 — 실제 현지 사진(주간) | amanderson2 | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flaming_cliffs_in_Gobi.jpg) |
+| `images/intro/yolyn-am.jpg` | 욜링암(Yolyn Am), 고르왕사이한 국립공원, 몽골 — 실제 현지 사진(주간) | Bernard Gagnon | CC0 1.0 (Public Domain) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Yolyn_Am_01.jpg) |
+| `images/intro/panorama.jpg` | 은하수 아치 파노라마 (칠레 세로 파라날, ESO 천문대) | Bruno Gilli / ESO | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Milky_Way_Arch.jpg) |
+| `images/intro/star-trails.jpg` | 스타트레일 (이집트 화이트 사막) | Ahmed Khalil | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:White_Desert_star_trail.jpg) |
+| `images/intro/silhouette.jpg` | 은하수 아래 사람 실루엣 (칠레 라 시야 천문대, ESO) | ESO / A. Fitzsimmons | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Admiring_the_Galaxy.jpg) |
 
-원본은 리사이즈(최대 2000px)·EXIF 제거 후 재압축했습니다. 나머지 갤러리 자리는 저자의 실제 촬영본을 위해 비워 두었습니다.
+원본은 리사이즈(최대 2000px)·EXIF 제거 후 재압축했습니다. `bayanzag.jpg`·`yolyn-am.jpg`는 실제 현지를 담은 사진이지만 저자가 직접 촬영한 것은 아니며 주간에 촬영되었습니다(은하수는 없음). 보정 전/후 비교 사진과, 몽골 현지에서 은하수까지 함께 담은 사진은 저자의 실제 촬영본을 위해 비워 두었습니다.
