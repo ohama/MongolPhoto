@@ -55,7 +55,7 @@
 
 ### 바가가즈링 촐로 (Baga Gazriin Chuluu)
 
-- **검증된 사진을 찾지 못했습니다.** Wikimedia Commons에 이 지명의 전용 카테고리가 없고(비슷한 이름의 "Ikh Gazriin Chuluu"는 다른 장소), 검색으로 찾은 결과는 여행 블로그의 스톡/미상 이미지뿐이라 출처·라이선스를 신뢰성 있게 확인할 수 없었습니다. 필요하면 직접 방문한 여행 블로그(discoveraltai.com, wefreespirits.com 등)를 참고하되, 사진 사용 전 별도로 저작권을 확인하세요.
+- **검증된 사진을 찾지 못했습니다.** Wikimedia Commons에 이 지명의 전용 카테고리가 없고(비슷한 이름의 "Ikh Gazriin Chuluu"는 다른 장소), 검색으로 찾은 결과는 여행 블로그의 스톡/미상 이미지뿐이라 출처·라이선스를 신뢰성 있게 확인할 수 없었습니다. 필요하면 현지를 직접 방문한 여행 블로거의 글(discoveraltai.com, wefreespirits.com 등)을 참고하되, 사진 사용 전 별도로 저작권을 확인하세요.
 
 ### 고비 / 몽골 밤하늘 일반
 
