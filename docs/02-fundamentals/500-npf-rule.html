@@ -36,7 +36,7 @@
             const path_to_root = "../";
             const default_light_theme = "light";
             const default_dark_theme = "navy";
-            window.path_to_searchindex_js = "../searchindex-99a19b2c.js";
+            window.path_to_searchindex_js = "../searchindex-4db805c8.js";
         </script>
         <!-- Start loading toc.js asap -->
         <script src="../toc-39b79241.js"></script>
@@ -184,7 +184,7 @@
                         <h1 id="500--npf-룰--크롭센서-셔터속도-계산"><a class="header" href="#500--npf-룰--크롭센서-셔터속도-계산">500 / NPF 룰 — 크롭센서 셔터속도 계산</a></h1>
 <h2 id="별이-점이-아니라-선으로-찍히는-이유"><a class="header" href="#별이-점이-아니라-선으로-찍히는-이유">별이 점이 아니라 선으로 찍히는 이유</a></h2>
 <p>지구는 쉬지 않고 자전합니다. 카메라를 삼각대에 고정해 두어도, 셔터가 열려 있는 동안 별은 하늘을 가로질러 아주 조금씩 움직입니다. 노출 시간이 짧으면 이 움직임이 한 픽셀 안에 들어와 별이 점으로 남지만, 노출이 길어지면 별빛이 여러 픽셀에 걸쳐 번져 짧은 선(궤적)으로 찍히기 시작합니다.</p>
-<p>즉 “얼마나 밝게 찍을까“만큼 “얼마나 길게 노출해야 별이 아직 점으로 남는가“도 미리 계산해야 합니다. 이 상한을 구하는 가장 널리 쓰이는 방법이 <strong>500 룰</strong>이고, 더 정밀한 대안이 <strong>NPF 룰</strong>입니다.</p>
+<p>즉 “얼마나 밝게 찍을까“만큼 “얼마나 길게 노출해도 별이 점으로 남는가“도 미리 계산해야 합니다. 이 상한을 구하는 가장 널리 쓰이는 방법이 <strong>500 룰</strong>이고, 더 정밀한 대안이 <strong>NPF 룰</strong>입니다.</p>
 <h2 id="크롭보정-500-룰"><a class="header" href="#크롭보정-500-룰">크롭보정 500 룰</a></h2>
 <p>500 룰은 다음 공식으로 최대 노출 시간(별이 점으로 남는 셔터속도의 상한)을 구합니다.</p>
 <pre><code>최대 노출시간(초) = 500 ÷ (렌즈 초점거리 × 크롭계수)
