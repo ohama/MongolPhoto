@@ -97,6 +97,38 @@
 
 ---
 
+## ⑤ 유튜브 영상 (몽골 아스트로 / 야경 / 타임랩스)
+
+**감상용 자료입니다 — 영상 저작권은 각 채널/제작자에게 있으며, 책에 프레임을 캡처해 싣거나 재편집해 쓰지 마세요.** 아래 "개별 영상"은 이번 세션에 `watch?v=...` URL을 YouTube 공식 oEmbed API(`youtube.com/oembed?url=...&format=json`)로 직접 조회해, 반환된 JSON의 `title`(영상 제목)과 `author_name`/`author_url`(채널명·채널 링크)이 실존하고 몽골 야간·은하수 내용과 부합하는지 확인한 것만 실었습니다. oEmbed는 존재하지 않는 영상에는 응답하지 않으므로, 여기 실린 영상 ID는 전부 실제로 존재하는 영상입니다. 검증에 실패했거나 몽골 야간 내용과의 연관성을 확신할 수 없었던 후보는 신지 않고 ④ 미검증 목록에 남겼습니다.
+
+### 개별 영상 (oEmbed로 제목·채널 확인됨)
+
+- [starry night and milkyway mongolia 몽골 별밤 은하수 4K milkyway night sky Timelapse](https://www.youtube.com/watch?v=bOPTPdoaRJQ) — nightsky films ([채널](https://www.youtube.com/@chakanwolf)). 몽골 겨울 여행 중 촬영한 4K 은하수 타임랩스.
+- [Soul of Mongolia - Milky way Time Lapse (4k)](https://www.youtube.com/watch?v=Ar0Qxou2qtU) — HyeonYong Kim ([채널](https://www.youtube.com/@hyeonyongkim1652)). 몽골 자연 풍경과 은하수를 담은 4K 타임랩스. **주의**: 검색 결과 스니펫에는 Daniel Kordan 관련 문맥으로 뜨기도 하지만, oEmbed로 확인한 실제 채널명은 HyeonYong Kim이며 Daniel Kordan 본인의 영상이 아닙니다.
+- [몽골 은하수 타임랩스 mongolia milky way timelapse](https://www.youtube.com/watch?v=p1_vNzZE9z4) — 문근호 ([채널](https://www.youtube.com/@%EB%AC%B8%EA%B7%BC%ED%98%B8-c4y)). 몽골 현지에서 촬영한 은하수 타임랩스.
+- [[Doris Photo TV] Mongolia Milky way Time Lapse](https://www.youtube.com/watch?v=nx7Kj2i19k8) — 사진작가 김갑수(수중·풍경·프로필) / Doris Photo TV ([채널](https://www.youtube.com/@rainday774)). 몽골 은하수 타임랩스 영상.
+- [몽골 은하수 타임랩스 #02 #몽골여행 #고비사막 #사막은하수 #타임랩스 #시네마틱은하수타임랩스 #드론은하수](https://www.youtube.com/watch?v=4fK1KIHy4is) — 셋바람TV-동쪽에서 부는 바람 ([채널](https://www.youtube.com/@SeungjinParkPhotography)). 고비 사막 은하수 타임랩스(드론 촬영분 포함), 시네마틱 편집.
+- [몽골 은하수 타임랩스 영상! #고비투어 #몽골여행](https://www.youtube.com/watch?v=gSQQ5i-HvOY) — 셋바람TV-동쪽에서 부는 바람 ([채널](https://www.youtube.com/@SeungjinParkPhotography)). 위 영상과 같은 채널의 고비 투어 은하수 타임랩스(연작으로 추정).
+- [LIVE: Perseid Meteor Shower and Milky Way from Mongolia](https://www.youtube.com/watch?v=WprVmNYt4vg) — Astronomers Without Borders ([채널](https://www.youtube.com/@AstronomerswithoutbordersOrg)). 국제 아마추어 천문 비영리단체가 진행한 라이브 스트림(다시보기)으로, 몽골 현지에서 페르세우스 유성우와 은하수를 함께 중계한 영상. 개인 사진가 영상이 아니라 단체의 관측 이벤트 중계라는 점에 유의하세요.
+
+**참고**: 검색 스니펫에는 "Milkeyway in Mongolia!!"라는 제목으로 뜨는 결과가 있었지만, 실제로 `watch?v=4fK1KIHy4is`를 oEmbed로 조회하면 위에 적은 "몽골 은하수 타임랩스 #02..."가 정확한 제목입니다 — 검색 스니펫 제목을 그대로 믿지 말고 항상 oEmbed/영상 자체로 재확인하세요.
+
+### 채널 · 재생목록
+
+- [셋바람TV-동쪽에서 부는 바람](https://www.youtube.com/@SeungjinParkPhotography) — 위 두 영상(4fK1KIHy4is, gSQQ5i-HvOY)을 올린 채널. 몽골 고비 투어 은하수 타임랩스를 다수 올리는 것으로 보이나, 채널 전체 목록까지는 이번 세션에 확인하지 못했습니다(개별 영상 2건만 확인).
+- [Astronomers Without Borders](https://www.youtube.com/@AstronomerswithoutbordersOrg) — 위 라이브 영상을 올린 국제 천문 비영리단체 공식 채널. Milky Way Star Festival 등 전 세계 관측 이벤트를 중계하며, 몽골 관련 영상이 최소 1건 확인됩니다.
+- [Daniel Kordan — YouTube 채널](https://www.youtube.com/@danielkordan2115) — ③에서 다룬 포트폴리오 사진가 Daniel Kordan의 공식 채널(페이지 타이틀 "Daniel Kordan - YouTube"로 존재는 확인). **주의**: 이번 세션에 채널 자체를 검색·탐색해 봤지만, 몽골 은하수를 담은 그의 영상을 특정하지는 못했습니다(그의 몽골 투어 사진 포트폴리오에서도 ③과 마찬가지로 은하수 사진을 확인 못 한 것과 같은 패턴). 채널 링크만 참고용으로 남깁니다.
+- [Eternal Landscapes Mongolia — YouTube 채널](https://www.youtube.com/user/EternalLandscapes) — ③의 "Star Gazing in Mongolia" 블로그를 쓴 여행사의 공식 채널(페이지 타이틀로 존재는 확인). **주의**: 채널 내 몽골 야간·은하수 영상이 실제로 있는지는 이번 세션에 확인하지 못했습니다(유튜브 채널 페이지가 자바스크립트로 렌더링돼 텍스트 추출이 되지 않음) — 미확인.
+
+### 검색 진입점
+
+- [YouTube 검색: "mongolia milky way"](https://www.youtube.com/results?search_query=mongolia+milky+way) — 표준 유튜브 검색 URL 형식이며 위 개별 영상들이 실제로 이 검색어로 발견되었습니다. 다만 검색 결과 페이지 자체는 자바스크립트로 렌더링되는 SPA라, 이번 세션에 WebFetch로 목록 내용까지 확인하지는 못했습니다(직접 브라우저로 열어보는 것을 권장).
+- [YouTube 검색: "gobi desert night sky timelapse"](https://www.youtube.com/results?search_query=gobi+desert+night+sky+timelapse) — 위와 동일한 사유로 페이지 렌더링 확인은 안 됐지만, 표준 검색 URL이며 더 폭넓게 훑어볼 진입점으로 유효합니다.
+
+> **정직한 요약**: 이번 세션에 oEmbed로 "실존 + 몽골 야간/은하수 관련"까지 확인한 유튜브 영상은 **총 7건**(그중 셋바람TV 채널의 2건 포함)입니다. 그 외 Daniel Kordan·Eternal Landscapes 채널은 존재 자체는 확인했지만 몽골 은하수 영상을 특정하지는 못했고, 검색 결과 페이지는 URL 형식만 표준적임을 확인했을 뿐 내용 렌더링은 못 했습니다. Alyn Wallace 등 해외 유명 아스트로 유튜버 채널도 검색해 봤으나 몽골 관련 영상은 찾지 못해 싣지 않았습니다.
+
+---
+
 ## ④ 참고 / 더 찾는 법
 
 **검색 팁**
@@ -114,6 +146,10 @@
 - National Geographic Expeditions "Mongolia Photo Tour" — 페이지 로드는 되었으나 이미지·캡션이 텍스트로 추출되지 않아 실사진 유무를 확인하지 못했습니다.
 - 500px 검색 페이지(500px.com/search/mongolia khuvsgul-photos) — 자바스크립트 SPA라 검색 결과가 텍스트로 렌더링되지 않아 확인 실패. "site:500px.com mongolia milky way" 구글 검색으로도 몽골 관련 개별 사진 페이지를 찾지 못했습니다.
 - Iurie Belegurschi, Kah-Wai Lin, 아트오브시잉(artofseeing.com/mongolia), Iceland Photo Tours 등 다수의 포토투어 페이지가 "천체사진/은하수 촬영 세션"을 일정에 명시하지만, 텍스트 추출로는 실제 은하수 사진 자체를 확인하지 못한 경우가 많았습니다(Kah-Wai Lin은 명확히 야간 사진 없음으로 확인됨). 상세 갤러리는 각 사이트를 직접 브라우저로 열어 확인하세요.
+- (⑤ 유튜브 관련) [몽골여행🇲🇳ㅣ몽골에서 정말 별똥별을 볼 수 있을까?!?💫💫 9시간 오프로드와 게르에서의 밤](https://www.youtube.com/watch?v=fgqvOIZqa-4) — 채널 J'SSO. oEmbed로 제목·채널 존재는 확인했지만, 제목이 "별똥별을 볼 수 있을까?"라는 질문형이라 실제로 은하수/별 촬영 장면이 영상에 포함돼 있는지까지는 확인하지 못해 ⑤ 개별 영상 목록에는 신지 않았습니다.
+- (⑤ 유튜브 관련) Alyn Wallace, Lonely Speck, Ollie Taylor 등 해외 유명 아스트로포토그래피 유튜버 채널을 검색했으나, 몽골에서 촬영한 영상은 찾지 못했습니다.
+- (⑤ 유튜브 관련) Daniel Kordan 공식 유튜브 채널(@danielkordan2115), Eternal Landscapes Mongolia 공식 채널(youtube.com/user/EternalLandscapes) — 채널 페이지 자체(타이틀)는 존재를 확인했지만, 자바스크립트 SPA라 영상 목록이 텍스트로 추출되지 않아 몽골 은하수 영상이 실제로 있는지는 미확인입니다.
+- (⑤ 유튜브 관련) `youtube.com/results?search_query=...` 검색 결과 페이지 — URL 형식은 표준적이나 SPA 렌더링이라 WebFetch로 목록 내용을 확인하지 못했습니다.
 
 **라이선스 재확인**
 - 책에 실제로 쓸 사진은 반드시 ①의 파일을 Commons File: 페이지에서 다시 열어, 라이선스·저작자 표기가 이 문서 작성 시점과 같은지 확인하세요(파일이 삭제되거나 라이선스 태그가 바뀌는 경우가 드물게 있습니다).
