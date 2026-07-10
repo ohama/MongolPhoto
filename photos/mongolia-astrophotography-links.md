@@ -20,13 +20,14 @@
 | 욜링암(Yolyn Am) 주간 사진 — 이미 `introduction.md`에서 사용 중 | Bernard Gagnon | CC0 1.0 (Public Domain) | [File:Yolyn_Am_01.jpg](https://commons.wikimedia.org/wiki/File:Yolyn_Am_01.jpg) |
 | 차강소브라가(Tsagaan Suvarga, White Stupa) 주간 사진 — 석회암 절벽 | Ujin bold | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [File:Tsagaan_Suvarga_Limestone_Cliffs_from_Mongolia.jpg](https://commons.wikimedia.org/wiki/File:Tsagaan_Suvarga_Limestone_Cliffs_from_Mongolia.jpg) |
 | **실제 몽골 현지에서 촬영된 은하수 코어·성운 천체사진** (Rho Ophiuchi 영역, 혜성 252P/LINEAR 포함) — 울란바토르(UB)에서 촬영. Nikon D810, 70mm, ISO1600, 177초 노출 | Lwcc enhee | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [File:Rho_Ophiuchi_from_UB,_Mongolia.jpg](https://commons.wikimedia.org/wiki/File:Rho_Ophiuchi_from_UB,_Mongolia.jpg) |
+| **몽골 현지에서 촬영된 은하수 사진** — 궁갈루트(Gun Galuut), 바가누르(Baganuur) 인근, 해발 약 1700m. 2013년 7월 나담(Naadam) 축제 기간 촬영 | sergelen1 (Flickr) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | [Milky Way seen from Mongolia, Summer 2013](https://www.flickr.com/photos/30342811@N04/9281336927) |
 | Wikimedia Commons "몽골 상공의 은하수" 카테고리 (파일 1개 — 위 Rho Ophiuchi 파일이 유일) | Wikimedia Commons | 카테고리 내 파일별 라이선스 확인 필요 | [Category:Milky_Way_Galaxy_over_Mongolia](https://commons.wikimedia.org/wiki/Category:Milky_Way_Galaxy_over_Mongolia) |
 | Wikimedia Commons "바양작" 카테고리 (총 90개 파일, 확인 결과 대부분 주간 사진) | Wikimedia Commons | 파일별 확인 필요 | [Category:Bayanzag](https://commons.wikimedia.org/wiki/Category:Bayanzag) |
 | Wikimedia Commons "홍고린엘스" 카테고리 (총 74개 파일, 확인 결과 전부 주간 사진 — 밤하늘 사진 없음) | Wikimedia Commons | 파일별 확인 필요 | [Category:Khongoryn_Els](https://commons.wikimedia.org/wiki/Category:Khongoryn_Els) |
 | Wikimedia Commons "욜링암" 카테고리 (총 63개 파일, 확인 결과 전부 주간 사진 — 밤하늘 사진 없음) | Wikimedia Commons | 파일별 확인 필요 | [Category:Yolyn_Am](https://commons.wikimedia.org/wiki/Category:Yolyn_Am) |
 | Wikimedia Commons "고비 사막" 카테고리 (총 약 270개 파일 + 21개 하위 카테고리 — "Sunsets of Gobi Desert" 등 포함, 야간 은하수 사진은 확인 안 됨) | Wikimedia Commons | 파일별 확인 필요 | [Category:Gobi_Desert](https://commons.wikimedia.org/wiki/Category:Gobi_Desert) |
 
-> **정직한 요약**: Wikimedia Commons에서 "몽골 현지에서 찍힌, 라이선스가 명확한 은하수/밤하늘 사진"은 실제로 **딱 1장**(Rho Ophiuchi from UB)뿐이었습니다. 바양작·홍고린엘스·욜링암 카테고리를 전부 확인했지만 야간 촬영본은 없었습니다.
+> **정직한 요약**: 이번 세션까지 확인된 "몽골 현지에서 찍힌, 라이선스가 명확한 은하수/밤하늘 사진"은 **총 2장**입니다 — Wikimedia Commons의 Rho Ophiuchi from UB(CC BY-SA 4.0)와 Flickr의 Gun Galuut 은하수 사진(CC BY 2.0, sergelen1). 바양작·홍고린엘스·욜링암 카테고리를 전부 확인했지만 야간 촬영본은 없었고, Flickr 쪽은 ③에서 추가로 찾은 것입니다.
 
 ---
 
@@ -73,6 +74,27 @@
 - [Eternal Landscapes — Star Gazing in Mongolia](https://eternal-landscapes.co.uk/star-gazing-in-mongolia/) — 몽골 전문 여행사 Eternal Landscapes의 블로그 글(저자 Jessica Brooks). 몽골의 광해·계절별 관측 조건을 설명하며, 게스트 참가자가 찍은 실사 사진(Janette Asche, Kairi Aun 촬영분)과 스톡 사진이 섞여 있음. © Eternal Landscapes Mongolia, 감상용(재사용 불가).
 - [Under the night sky, Khongoryn Els dunes — Smithsonian Photo Contest](https://photocontest.smithsonianmag.com/photocontest/detail/under-the-night-sky-khongoryn-els-dunes-in-the-gobi-desert-mongolia/) — ②의 홍고린엘스 항목과 동일(중복 게재). David Sinclair · 감상용.
 
+### 사진가 포트폴리오 · 포토투어 갤러리
+
+- [Colby Brown Photography — Mongolia Photo Workshop Adventure](https://www.colbybrownphotography.com/photography-workshops/mongolia-photo-workshop-adventure/) — © Colby Brown, 감상용(재사용 불가). 풍경·다큐멘터리 사진가 Colby Brown의 몽골 투어 페이지. "Star Trails Over Ger's in Mongolia"라는 제목의 고비 사막 별궤적 사진이 실려 있고, 참가자 후기에 "가장 어두운 밤하늘과 은하수"라는 언급이 있어 몽골 야간 촬영이 실제 프로그램에 포함된 것을 확인했습니다.
+- [Kevin Pepper Photography — 2022 Mongolia Photo Workshop Trip Report](https://www.kevinpepperphotography.com/blog/2022-mongolia-photo-workshop-trip-report) — © Kevin Pepper, 감상용(재사용 불가). 2013년부터 몽골 워크숍을 이끌어온 사진가의 2022년 9월 여행기. "고비 사막 모래언덕 위로 은하수 코어를 촬영했다(photographed the galactic core over the sand dunes)"는 서술을 페이지에서 확인했습니다. 사진이 다수 실려 있으나 개별 이미지 링크 형태라, 은하수 사진 자체가 이 페이지에 임베드돼 있는지까지는 확인하지 못했습니다.
+- [OFFBEAT Photography — Mongolia + Gobi Desert Photo Workshop](https://offbeatphoto.ca/mysticmongolia) — © Kris Andres 등, 감상용(재사용 불가). 야간·오로라 사진가 Paul Zizka와 Kris Andres가 진행하는 2026년 6월 워크숍 페이지. "초급부터 고급까지 몽골의 어두운 밤하늘을 담는 천체사진 기법"을 명시하며, 게재 사진 다수가 "© Kris Andres"로 표기되어 실사진임을 확인했습니다(다만 은하수가 찍힌 특정 사진을 개별 식별하지는 못했습니다).
+- [Iurie Belegurschi — Mongolia Photography Tour](https://www.iuriebelegurschi.com/Mongolia-Photography-Tour) — © Iurie Belegurschi, 감상용(재사용 불가). 아이슬란드 기반 풍경 사진가 겸 투어 가이드의 몽골 투어 페이지. 일정표에 "3일차, 고비에서 밤하늘의 수많은 별을 담는 천체사진 세션"이 명시되어 있어 몽골 은하수 촬영이 프로그램에 포함된 것은 확인했습니다. **주의**: 페이지가 SmugMug 기반이라 텍스트 추출로는 갤러리 이미지 자체를 확인하지 못했습니다 — 몽골 은하수 사진이 실제로 게시돼 있는지는 미확인입니다.
+- Daniel Kordan 포트폴리오 후속 확인 — 기존 항목(2019년판)에 이어 [2024년판](https://danielkordan.com/portfolio-item/silk-road-mongolia-epic-photo-adventure-eagle-hunters-gobi-desert-2-12-august-2024/)과 [2026년판](https://danielkordan.com/portfolio-item/the-silk-road-mongolia-epic-photo-adventure-eagle-hunters-and-gobi-desert-2026/) 투어 페이지도 이번 세션에 추가로 열어봤습니다. 두 페이지 모두 "무월광 날짜에 야간 촬영을 진행한다"는 설명은 있지만, 게재된 사진은 사구·독수리 사냥꾼·인물 사진뿐이고 은하수가 찍힌 사진은 이번에도 확인하지 못했습니다. (Pinterest에서 "Milky Way. Gobi desert of Mongolia. Danielkordan"이라는 핀을 발견했으나, 원본 링크가 Instagram으로만 연결되어 실제 사진을 검증하지는 못했습니다.)
+
+### 갤러리 · 개별 사진 (Flickr, 추가 검증분)
+
+- [Milky Way in Mongolia — 바양작 인근 게르 캠프](https://www.flickr.com/photos/7272097@N08/44365352072) — Janette Asche(NettyA) · © 저작자, 감상용(재사용 불가, All rights reserved). "바양작(Flaming Cliffs) 인근 게르 캠프에서 새벽 1시경 촬영"이라는 캡션 확인(2018년 7월 7일 촬영). ③의 Eternal Landscapes 항목에 언급된 게스트 사진가와 동일 인물로 보입니다 — ②의 바양작 항목에도 참고할 만합니다.
+- [Milky Way seen from Mongolia, Summer 2013](https://www.flickr.com/photos/30342811@N04/9281336927) — sergelen1 · **CC BY 2.0(재사용 가능, 저작자 표기 필수)**. 궁갈루트(Gun Galuut, 바가누르 인근) 해발 약 1700m 지점에서 2013년 나담(Naadam) 축제 기간에 촬영. **①에도 동일 항목을 추가했습니다.**
+
+### 갤러리 · 커뮤니티 진입점
+
+- [Flickr 그룹 "The Milky Way" 사진 풀](https://www.flickr.com/groups/milky_way/pool/) — 2006년 개설, 회원 7,736명, 등록 사진 48,400여 장을 확인했습니다. 몽골 전용 그룹은 아니지만 전 세계 은하수 사진을 훑어볼 진입점으로 유효합니다.
+
+### 기사 · 특집
+
+- [TRVL — "5 Special Photo Moments from Mongolia"](https://trvlphotography.com/photo-moments-mongolia/) — 여행 사진 매체의 특집 글. "#3 Ger Life" 항목에서 사진가 Efstathios Spinos(Instagram [@fotografosspinos](https://www.instagram.com/fotografosspinos/))가 촬영한 "게르 위 은하수" 사진을 "매우 인상적인 사진(epic photo)"이라 언급합니다. **주의**: 실제 사진은 이 기사 페이지가 아니라 Instagram 링크로 연결되며, Instagram 프로필 자체는 로그인 없이 게시물이 보이지 않아 사진을 직접 검증하지는 못했습니다 — 기사에서 언급한 사실 자체만 검증된 상태입니다.
+
 ---
 
 ## ④ 참고 / 더 찾는 법
@@ -83,11 +105,15 @@
 - 몽골은 다크스카이 조건이 뛰어난데도 "몽골 은하수"를 주제로 한 무료 라이선스 사진이 매우 적습니다. 상업 스톡 사이트(Getty, Shutterstock, Adobe Stock, Alamy, 123RF 등)에는 몽골 고비 은하수 사진이 다수 있으나 전부 유료·저작권 보호 상태라 이 문서에는 싣지 않았습니다.
 
 **이번 세션에서 접속·검증에 실패한 후보 (참고만 하고 링크는 싣지 않음)**
-- AstroBin(astrobin.com) — 홈페이지·검색 페이지 모두 자동 접속 시 403 Forbidden으로 차단되어 특정 URL을 검증하지 못했습니다. 트래킹 장비로 찍은 딥스카이 사진이 많은 사이트이니, 브라우저로 직접 "Mongolia" 검색해 보는 것을 권장합니다.
-- PhotoPills 아티클 태그 페이지(photopills.com/articles/tags/milky-way) — 403으로 접속 실패.
+- AstroBin(astrobin.com) — 이번 세션에 `welcome.astrobin.com/search?q=Mongolia`로 재시도한 결과 이번에는 403은 아니었지만, 검색이 자바스크립트로 렌더링되는 SPA라 네비게이션·푸터만 보이고 실제 몽골 검색 결과(이미지)는 텍스트 추출로 확인하지 못했습니다. 여전히 미검증입니다 — 브라우저로 직접 "Mongolia" 검색해 보는 것을 권장합니다.
+- PhotoPills — 아티클 태그 페이지(photopills.com/articles/tags/milky-way)와 메인 홈페이지(photopills.com) 모두 이번 세션에 재시도했으나 여전히 403 Forbidden으로 접속 실패.
 - Pixabay 검색 페이지(pixabay.com, "mongolia milkyway") — 403으로 접속 실패.
 - Canon Asia Snapshot "Mongolian Night Sky" 스토리 — 403으로 접속 실패.
 - National Geographic Your Shot 개별 사진 페이지(구 서비스, ID 6128844) — 두 차례 시도 모두 타임아웃으로 접속 실패(서비스 자체가 종료되었을 가능성 있음).
+- National Geographic "38 Dazzling Photos of the Night Sky"(nationalgeographic.com/culture/article/adventure-in-the-night-skies) — 페이지 자체는 로드되지만 개별 사진 캡션이 텍스트 추출에 나오지 않아 몽골 사진 포함 여부를 확인하지 못했습니다.
+- National Geographic Expeditions "Mongolia Photo Tour" — 페이지 로드는 되었으나 이미지·캡션이 텍스트로 추출되지 않아 실사진 유무를 확인하지 못했습니다.
+- 500px 검색 페이지(500px.com/search/mongolia khuvsgul-photos) — 자바스크립트 SPA라 검색 결과가 텍스트로 렌더링되지 않아 확인 실패. "site:500px.com mongolia milky way" 구글 검색으로도 몽골 관련 개별 사진 페이지를 찾지 못했습니다.
+- Iurie Belegurschi, Kah-Wai Lin, 아트오브시잉(artofseeing.com/mongolia), Iceland Photo Tours 등 다수의 포토투어 페이지가 "천체사진/은하수 촬영 세션"을 일정에 명시하지만, 텍스트 추출로는 실제 은하수 사진 자체를 확인하지 못한 경우가 많았습니다(Kah-Wai Lin은 명확히 야간 사진 없음으로 확인됨). 상세 갤러리는 각 사이트를 직접 브라우저로 열어 확인하세요.
 
 **라이선스 재확인**
 - 책에 실제로 쓸 사진은 반드시 ①의 파일을 Commons File: 페이지에서 다시 열어, 라이선스·저작자 표기가 이 문서 작성 시점과 같은지 확인하세요(파일이 삭제되거나 라이선스 태그가 바뀌는 경우가 드물게 있습니다).
