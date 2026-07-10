@@ -2,7 +2,7 @@
 
 **목적**: 이 책(『몽골 은하수 촬영기』)이 다루는 촬영·후보정 기법을 더 깊이 배우고 싶을 때 참고할 외부 학습 자료 모음입니다. 책 각 챕터에서 "출발점"만 간단히 짚고 넘어간 내용을, 더 자세히 읽고 싶을 때 찾아가는 용도입니다.
 
-**작성 방법**: 아래 링크는 전부 이번 조사 세션에서 WebSearch로 후보를 찾은 뒤 WebFetch로 직접 접속해, 실제로 열리고 해당 주제를 다루는지 확인한 것만 실었습니다. 403/타임아웃 등으로 접속에 실패했거나 내용을 확인하지 못한 후보는 싣지 않고 마지막 "참고 / 미검증" 절에 정직하게 남겨두었습니다. 자료 제목·저자·URL을 지어내지 않았습니다.
+**수록 기준**: 이 목록의 링크는 WebSearch로 후보를 찾은 뒤 WebFetch로 직접 열어, 실제로 열리고 해당 주제를 다루는지 확인한 것만 실었습니다. 403/타임아웃 등으로 접속에 실패했거나 내용을 확인하지 못한 후보는 싣지 않고 마지막 "참고 / 미검증" 절에 따로 정리했습니다.
 
 **학습·참고용 자료입니다**: 아래 글·영상은 대부분 각 사이트·저자의 저작물(©)입니다. 읽고 배우는 용도로만 쓰고, 문장이나 이미지를 그대로 책 본문에 옮기지 마세요. 접근 유형은 각 항목에 표기했습니다 — **무료 글**(로그인 없이 읽을 수 있는 블로그·아티클), **공식 문서·다운로드**(소프트웨어/앱 제작사의 공식 페이지), **영상**(유튜브 등), **유료**(구매·구독이 필요한 도구나 강의). 언어를 따로 적지 않은 항목은 영어입니다.
 
@@ -23,7 +23,7 @@
 - [La Règle NPF](https://sahavre.fr/wp/regle-npf-rule/) — Société Astronomique du Havre(NPF 룰을 처음 제안한 Frédéric Michaud 소속 단체) · 무료 글·원문(프랑스어). NPF 공식(간이식·완전식)의 원출처입니다.
 - [NPF Calculator](https://www.npfcalculator.com/) — 무료 온라인 계산기. 카메라·렌즈·조리개를 입력하면 NPF 룰 기준 최대 셔터속도를 바로 계산해줍니다.
 
-> PhotoPills의 "Spot Stars" 계산기(공식 NPF 계산기 겸 이 책이 앱으로 추천하는 도구)는 이번 세션에도 photopills.com 전체가 403으로 접속되지 않아 검증하지 못했습니다 — 아래 미검증 절 참고.
+> PhotoPills의 "Spot Stars" 계산기(공식 NPF 계산기 겸 이 책이 앱으로 추천하는 도구)는 photopills.com 전체가 403으로 접속되지 않아 검증하지 못했습니다 — 아래 미검증 절 참고.
 
 ## 별에 수동 초점 (무한대 초점)
 
@@ -49,7 +49,7 @@
 - [Clear Outside](https://clearoutside.com/) — 공식 사이트(First Light Optics 제작) · 공식 도구(무료). 천문 관측자용으로 설계된 시간대별 구름량·달 위상·천문박명 예보 도구입니다.
 - [Windy](https://www.windy.com/) — 공식 사이트 · 공식 도구(무료). 구름·바람 등 기상 레이어를 지도로 확인할 수 있는 날씨 서비스입니다.
 
-> PhotoPills(이 책이 추천하는 또 다른 필수 앱, 코어 뜨는 방위·고도 계산용)는 이번 세션에도 photopills.com 전체가 403으로 접속되지 않아 공식 페이지를 직접 검증하지 못했습니다.
+> PhotoPills(이 책이 추천하는 또 다른 필수 앱, 코어 뜨는 방위·고도 계산용)는 photopills.com 전체가 403으로 접속되지 않아 공식 페이지를 직접 검증하지 못했습니다.
 
 ## 현장 촬영 워크플로 / 종합 은하수 촬영 튜토리얼
 
@@ -58,7 +58,7 @@
 - [How to Photograph the Milky Way + Viewing Chart](https://capturetheatlas.com/how-to-photograph-the-milky-way/) — Capture the Atlas(저자 Dan Zafra) · 무료 글. 계획→구도→촬영→후보정까지 이어지는 9단계 종합 가이드로, PhotoPills 활용법과 광해·달 위상 고려까지 함께 다룹니다.
 - [Astrophotography 101: A Lesson Series on Photographing the Milky Way](https://www.lonelyspeck.com/astrophotography-101/) — Lonely Speck(저자 Ian Norman·Diana Southern) · 무료 글 시리즈. 장비·촬영·후보정·심화까지 단계별로 이어지는 무료 강좌 형태의 튜토리얼 모음입니다.
 
-> B&H eXplora의 "Photographing the Milky Way: An Astrophotographer's Primer"와 Photography Life의 "How to Photograph the Milky Way"도 유명한 종합 가이드로 후보에 올렸으나, 이번 세션에 각각 403(B&H)·402(Photography Life)로 접속이 막혀 내용을 검증하지 못했습니다.
+> B&H eXplora의 "Photographing the Milky Way: An Astrophotographer's Primer"와 Photography Life의 "How to Photograph the Milky Way"도 유명한 종합 가이드로 후보에 올렸으나, 각각 403(B&H)·402(Photography Life)로 접속이 막혀 내용을 검증하지 못했습니다.
 
 ## RAW 현상 (darktable / Lightroom)
 
@@ -68,7 +68,7 @@
 - [darktable user manual](https://darktable-org.github.io/dtdocs/en/) — 공식 문서(무료). 화이트밸런스·노출·모듈별 상세 사용법을 다루는 공식 매뉴얼입니다.
 - [How to Process Milky Way Astrophotography in Adobe Lightroom](https://www.lonelyspeck.com/how-to-process-milky-way-astrophotography-in-adobe-lightroom/) — Lonely Speck · 무료 글(영상 포함). 화이트밸런스→노출→대비→채도로 이어지는 현상 순서를 실제 RAW 파일 예제로 보여줍니다. (Lightroom 기준이지만 darktable에도 개념은 그대로 적용됩니다.)
 
-> Adobe의 Lightroom 공식 제품 페이지는 이번 세션에 두 차례 접속을 시도했으나 모두 타임아웃(60초)으로 실패해 싣지 못했습니다.
+> Adobe의 Lightroom 공식 제품 페이지는 두 차례 접속을 시도했으나 모두 타임아웃(60초)으로 실패해 싣지 못했습니다.
 
 ## 스태킹 (노이즈 감소): Sequator / Starry Landscape Stacker
 
@@ -85,7 +85,7 @@
 - [Lightroom series part 11: Enhance your Milky Way photos the easy way](https://www.digitalcameraworld.com/tutorials/lightroom-tutorial-11-enhance-your-milky-way-photos-the-easy-way) — Digital Camera World · 무료 글. 색온도·디헤이즈·명료도(Clarity)를 브러시로 은하수 영역에만 선택적으로 적용하는, 과보정을 피하는 접근을 설명합니다.
 - 위 "RAW 현상" 절의 [Lonely Speck Lightroom 튜토리얼](https://www.lonelyspeck.com/how-to-process-milky-way-astrophotography-in-adobe-lightroom/)도 명료도를 "+50 이하로" 등 과보정 방지 기준을 함께 제시해 이 주제에도 그대로 참고할 만합니다.
 
-> Photography Life의 "How to Edit Milky Way Photos in Lightroom - 12 Steps"도 평판 좋은 후보였지만, 이번 세션에 photographylife.com 전체가 402(Payment Required)로 접속되지 않아 검증하지 못했습니다.
+> Photography Life의 "How to Edit Milky Way Photos in Lightroom - 12 Steps"도 평판 좋은 후보였지만, photographylife.com 전체가 402(Payment Required)로 접속되지 않아 검증하지 못했습니다.
 
 ## 보너스 — 파노라마 (Hugin / Microsoft ICE / PTGui)
 
@@ -123,12 +123,12 @@
 ## 참고 / 미검증
 
 **검색 팁**
-- PhotoPills 관련 자료가 필요하면 `photopills.com/articles/...`, `photopills.com/calculators/spotstars` 등을 브라우저로 직접 열어보세요 — 이번 세션에는 WebFetch로 접속할 때마다 도메인 전체가 403 Forbidden을 반환해 단 한 페이지도 검증하지 못했습니다(이전 조사 `mongolia-astrophotography-links.md`에서도 동일한 현상이 기록되어 있습니다). 앱 자체의 존재와 기능(Spot Stars = NPF 계산기, Milky Way 플래너)은 다른 사이트의 설명을 통해 간접적으로는 확인됩니다.
-- Photography Life(`photographylife.com`)도 이번 세션에 여러 URL(`/how-to-photograph-the-milky-way`, `/how-to-edit-milky-way-lightroom`)에서 매번 402 Payment Required를 반환해 검증하지 못했습니다. 평판이 좋은 사이트이므로 브라우저로 직접 확인해볼 가치는 있습니다.
+- PhotoPills 관련 자료가 필요하면 `photopills.com/articles/...`, `photopills.com/calculators/spotstars` 등을 브라우저로 직접 열어보세요 — WebFetch로 접속할 때마다 도메인 전체가 403 Forbidden을 반환해 단 한 페이지도 검증하지 못했습니다([몽골 천체사진 링크 모음](mongolia-astrophotography-links.md)에서도 동일한 현상이 기록되어 있습니다). 앱 자체의 존재와 기능(Spot Stars = NPF 계산기, Milky Way 플래너)은 다른 사이트의 설명을 통해 간접적으로는 확인됩니다.
+- Photography Life(`photographylife.com`)도 여러 URL(`/how-to-photograph-the-milky-way`, `/how-to-edit-milky-way-lightroom`)에서 매번 402 Payment Required를 반환해 검증하지 못했습니다. 평판이 좋은 사이트이므로 브라우저로 직접 확인해볼 가치는 있습니다.
 - B&H eXplora의 "Photographing the Milky Way: An Astrophotographer's Primer"(`bhphotovideo.com/explora/...`)는 403으로 접속 실패했습니다.
 - Adobe의 Lightroom 공식 제품 페이지(`adobe.com/products/photoshop-lightroom.html`, `adobe.com/creativecloud/photography.html`)는 두 차례 모두 60초 타임아웃으로 실패했습니다.
 
-**이번 세션에서 접속·검증에 실패한 후보 (참고만 하고 링크는 싣지 않음)**
+**접속·검증에 실패한 후보 (참고만 하고 링크는 싣지 않음)**
 - PhotoPills 공식 사이트·아티클·계산기 전반 (403)
 - Photography Life 전반 (402)
 - B&H eXplora Milky Way 가이드 (403)

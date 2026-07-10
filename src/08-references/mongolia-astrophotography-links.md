@@ -1,8 +1,8 @@
 # 몽골 천체사진 참고 링크 모음
 
-**목적**: 이 책(『몽골 은하수 촬영기』) 작업 중 참고할 몽골 밤하늘·은하수 사진 링크를 모아 둔 개인용 자료입니다. 책 본문에 실제로 넣을 사진을 고를 때, 그리고 촬영지별 구도·톤을 참고할 때 사용하세요.
+**목적**: 이 책(『몽골 은하수 촬영기』)에 관련된 몽골 밤하늘·은하수 사진 링크를 모아 둔 참고 자료입니다. 책의 사진을 고르거나 촬영지별 구도·톤을 참고할 때 사용하세요.
 
-**작성 방법**: 모든 링크는 이번 조사 세션에서 WebSearch/WebFetch로 직접 접속·확인한 것만 담았습니다. 접속되지 않거나(403 등) 라이선스를 확인할 수 없었던 후보는 싣지 않고 ⑤에 목록만 남겼습니다. 사진가·라이선스를 지어내지 않았습니다.
+**수록 기준**: 이 목록의 링크는 실제 페이지를 WebSearch/WebFetch로 직접 열어 존재·주제·라이선스를 확인한 것만 담았습니다. 접속되지 않거나(403 등) 라이선스를 확인할 수 없었던 후보는 싣지 않고 ⑤에 '미검증'으로 따로 정리했습니다.
 
 ## 라이선스 주의
 
@@ -27,7 +27,7 @@
 | Wikimedia Commons "욜링암" 카테고리 (총 63개 파일, 확인 결과 전부 주간 사진 — 밤하늘 사진 없음) | Wikimedia Commons | 파일별 확인 필요 | [Category:Yolyn_Am](https://commons.wikimedia.org/wiki/Category:Yolyn_Am) |
 | Wikimedia Commons "고비 사막" 카테고리 (총 약 270개 파일 + 21개 하위 카테고리 — "Sunsets of Gobi Desert" 등 포함, 야간 은하수 사진은 확인 안 됨) | Wikimedia Commons | 파일별 확인 필요 | [Category:Gobi_Desert](https://commons.wikimedia.org/wiki/Category:Gobi_Desert) |
 
-> **정직한 요약**: 이번 세션까지 확인된 "몽골 현지에서 찍힌, 라이선스가 명확한 은하수/밤하늘 사진"은 **총 2장**입니다 — Wikimedia Commons의 Rho Ophiuchi from UB(CC BY-SA 4.0)와 Flickr의 Gun Galuut 은하수 사진(CC BY 2.0, sergelen1). 바양작·홍고린엘스·욜링암 카테고리를 전부 확인했지만 야간 촬영본은 없었고, Flickr 쪽은 ③에서 추가로 찾은 것입니다.
+> **정직한 요약**: 확인된 "몽골 현지에서 찍힌, 라이선스가 명확한 은하수/밤하늘 사진"은 **총 2장**입니다 — Wikimedia Commons의 Rho Ophiuchi from UB(CC BY-SA 4.0)와 Flickr의 Gun Galuut 은하수 사진(CC BY 2.0, sergelen1). 바양작·홍고린엘스·욜링암 카테고리를 전부 확인했지만 야간 촬영본은 없었고, Flickr 쪽은 ③에서 추가로 찾았습니다.
 
 ---
 
@@ -80,7 +80,7 @@
 - [Kevin Pepper Photography — 2022 Mongolia Photo Workshop Trip Report](https://www.kevinpepperphotography.com/blog/2022-mongolia-photo-workshop-trip-report) — © Kevin Pepper, 감상용(재사용 불가). 2013년부터 몽골 워크숍을 이끌어온 사진가의 2022년 9월 여행기. "고비 사막 모래언덕 위로 은하수 코어를 촬영했다(photographed the galactic core over the sand dunes)"는 서술을 페이지에서 확인했습니다. 사진이 다수 실려 있으나 개별 이미지 링크 형태라, 은하수 사진 자체가 이 페이지에 임베드돼 있는지까지는 확인하지 못했습니다.
 - [OFFBEAT Photography — Mongolia + Gobi Desert Photo Workshop](https://offbeatphoto.ca/mysticmongolia) — © Kris Andres 등, 감상용(재사용 불가). 야간·오로라 사진가 Paul Zizka와 Kris Andres가 진행하는 2026년 6월 워크숍 페이지. "초급부터 고급까지 몽골의 어두운 밤하늘을 담는 천체사진 기법"을 명시하며, 게재 사진 다수가 "© Kris Andres"로 표기되어 실사진임을 확인했습니다(다만 은하수가 찍힌 특정 사진을 개별 식별하지는 못했습니다).
 - [Iurie Belegurschi — Mongolia Photography Tour](https://www.iuriebelegurschi.com/Mongolia-Photography-Tour) — © Iurie Belegurschi, 감상용(재사용 불가). 아이슬란드 기반 풍경 사진가 겸 투어 가이드의 몽골 투어 페이지. 일정표에 "3일차, 고비에서 밤하늘의 수많은 별을 담는 천체사진 세션"이 명시되어 있어 몽골 은하수 촬영이 프로그램에 포함된 것은 확인했습니다. **주의**: 페이지가 SmugMug 기반이라 텍스트 추출로는 갤러리 이미지 자체를 확인하지 못했습니다 — 몽골 은하수 사진이 실제로 게시돼 있는지는 미확인입니다.
-- Daniel Kordan 포트폴리오 후속 확인 — 기존 항목(2019년판)에 이어 [2024년판](https://danielkordan.com/portfolio-item/silk-road-mongolia-epic-photo-adventure-eagle-hunters-gobi-desert-2-12-august-2024/)과 [2026년판](https://danielkordan.com/portfolio-item/the-silk-road-mongolia-epic-photo-adventure-eagle-hunters-and-gobi-desert-2026/) 투어 페이지도 이번 세션에 추가로 열어봤습니다. 두 페이지 모두 "무월광 날짜에 야간 촬영을 진행한다"는 설명은 있지만, 게재된 사진은 사구·독수리 사냥꾼·인물 사진뿐이고 은하수가 찍힌 사진은 이번에도 확인하지 못했습니다. (Pinterest에서 "Milky Way. Gobi desert of Mongolia. Danielkordan"이라는 핀을 발견했으나, 원본 링크가 Instagram으로만 연결되어 실제 사진을 검증하지는 못했습니다.)
+- Daniel Kordan 포트폴리오 후속 확인 — 기존 항목(2019년판)에 이어 [2024년판](https://danielkordan.com/portfolio-item/silk-road-mongolia-epic-photo-adventure-eagle-hunters-gobi-desert-2-12-august-2024/)과 [2026년판](https://danielkordan.com/portfolio-item/the-silk-road-mongolia-epic-photo-adventure-eagle-hunters-and-gobi-desert-2026/) 투어 페이지도 추가로 열어봤습니다. 두 페이지 모두 "무월광 날짜에 야간 촬영을 진행한다"는 설명은 있지만, 게재된 사진은 사구·독수리 사냥꾼·인물 사진뿐이고 은하수가 찍힌 사진은 확인하지 못했습니다. (Pinterest에서 "Milky Way. Gobi desert of Mongolia. Danielkordan"이라는 핀을 발견했으나, 원본 링크가 Instagram으로만 연결되어 실제 사진을 검증하지는 못했습니다.)
 
 ### 갤러리 · 개별 사진 (Flickr, 추가 검증분)
 
@@ -99,7 +99,7 @@
 
 ## ④ 유튜브 영상 (몽골 아스트로 / 야경 / 타임랩스)
 
-**감상용 자료입니다 — 영상 저작권은 각 채널/제작자에게 있으며, 책에 프레임을 캡처해 싣거나 재편집해 쓰지 마세요.** 아래 "개별 영상"은 이번 세션에 `watch?v=...` URL을 YouTube 공식 oEmbed API(`youtube.com/oembed?url=...&format=json`)로 직접 조회해, 반환된 JSON의 `title`(영상 제목)과 `author_name`/`author_url`(채널명·채널 링크)이 실존하고 몽골 야간·은하수 내용과 부합하는지 확인한 것만 실었습니다. oEmbed는 존재하지 않는 영상에는 응답하지 않으므로, 여기 실린 영상 ID는 전부 실제로 존재하는 영상입니다. 검증에 실패했거나 몽골 야간 내용과의 연관성을 확신할 수 없었던 후보는 신지 않고 ⑤ 미검증 목록에 남겼습니다.
+**감상용 자료입니다 — 영상 저작권은 각 채널/제작자에게 있으며, 책에 프레임을 캡처해 싣거나 재편집해 쓰지 마세요.** 아래 "개별 영상"은 `watch?v=...` URL을 YouTube 공식 oEmbed API(`youtube.com/oembed?url=...&format=json`)로 직접 조회해, 반환된 JSON의 `title`(영상 제목)과 `author_name`/`author_url`(채널명·채널 링크)이 실존하고 몽골 야간·은하수 내용과 부합하는지 확인한 것만 실었습니다. oEmbed는 존재하지 않는 영상에는 응답하지 않으므로, 여기 실린 영상 ID는 전부 실제로 존재하는 영상입니다. 검증에 실패했거나 몽골 야간 내용과의 연관성을 확신할 수 없었던 후보는 신지 않고 ⑤ 미검증 목록에 남겼습니다.
 
 ### 개별 영상 (oEmbed로 제목·채널 확인됨)
 
@@ -115,30 +115,30 @@
 
 ### 채널 · 재생목록
 
-- [셋바람TV-동쪽에서 부는 바람](https://www.youtube.com/@SeungjinParkPhotography) — 위 두 영상(4fK1KIHy4is, gSQQ5i-HvOY)을 올린 채널. 몽골 고비 투어 은하수 타임랩스를 다수 올리는 것으로 보이나, 채널 전체 목록까지는 이번 세션에 확인하지 못했습니다(개별 영상 2건만 확인).
+- [셋바람TV-동쪽에서 부는 바람](https://www.youtube.com/@SeungjinParkPhotography) — 위 두 영상(4fK1KIHy4is, gSQQ5i-HvOY)을 올린 채널. 몽골 고비 투어 은하수 타임랩스를 다수 올리는 것으로 보이나, 채널 전체 목록까지는 확인하지 못했습니다(개별 영상 2건만 확인).
 - [Astronomers Without Borders](https://www.youtube.com/@AstronomerswithoutbordersOrg) — 위 라이브 영상을 올린 국제 천문 비영리단체 공식 채널. Milky Way Star Festival 등 전 세계 관측 이벤트를 중계하며, 몽골 관련 영상이 최소 1건 확인됩니다.
-- [Daniel Kordan — YouTube 채널](https://www.youtube.com/@danielkordan2115) — ③에서 다룬 포트폴리오 사진가 Daniel Kordan의 공식 채널(페이지 타이틀 "Daniel Kordan - YouTube"로 존재는 확인). **주의**: 이번 세션에 채널 자체를 검색·탐색해 봤지만, 몽골 은하수를 담은 그의 영상을 특정하지는 못했습니다(그의 몽골 투어 사진 포트폴리오에서도 ③과 마찬가지로 은하수 사진을 확인 못 한 것과 같은 패턴). 채널 링크만 참고용으로 남깁니다.
-- [Eternal Landscapes Mongolia — YouTube 채널](https://www.youtube.com/user/EternalLandscapes) — ③의 "Star Gazing in Mongolia" 블로그를 쓴 여행사의 공식 채널(페이지 타이틀로 존재는 확인). **주의**: 채널 내 몽골 야간·은하수 영상이 실제로 있는지는 이번 세션에 확인하지 못했습니다(유튜브 채널 페이지가 자바스크립트로 렌더링돼 텍스트 추출이 되지 않음) — 미확인.
+- [Daniel Kordan — YouTube 채널](https://www.youtube.com/@danielkordan2115) — ③에서 다룬 포트폴리오 사진가 Daniel Kordan의 공식 채널(페이지 타이틀 "Daniel Kordan - YouTube"로 존재는 확인). **주의**: 채널 자체를 검색·탐색해 봤지만, 몽골 은하수를 담은 그의 영상을 특정하지는 못했습니다(그의 몽골 투어 사진 포트폴리오에서도 ③과 마찬가지로 은하수 사진을 확인 못 한 것과 같은 패턴). 채널 링크만 참고용으로 남깁니다.
+- [Eternal Landscapes Mongolia — YouTube 채널](https://www.youtube.com/user/EternalLandscapes) — ③의 "Star Gazing in Mongolia" 블로그를 쓴 여행사의 공식 채널(페이지 타이틀로 존재는 확인). **주의**: 채널 내 몽골 야간·은하수 영상이 실제로 있는지는 확인하지 못했습니다(유튜브 채널 페이지가 자바스크립트로 렌더링돼 텍스트 추출이 되지 않음) — 미확인.
 
 ### 검색 진입점
 
-- [YouTube 검색: "mongolia milky way"](https://www.youtube.com/results?search_query=mongolia+milky+way) — 표준 유튜브 검색 URL 형식이며 위 개별 영상들이 실제로 이 검색어로 발견되었습니다. 다만 검색 결과 페이지 자체는 자바스크립트로 렌더링되는 SPA라, 이번 세션에 WebFetch로 목록 내용까지 확인하지는 못했습니다(직접 브라우저로 열어보는 것을 권장).
+- [YouTube 검색: "mongolia milky way"](https://www.youtube.com/results?search_query=mongolia+milky+way) — 표준 유튜브 검색 URL 형식이며 위 개별 영상들이 실제로 이 검색어로 발견되었습니다. 다만 검색 결과 페이지 자체는 자바스크립트로 렌더링되는 SPA라, WebFetch로 목록 내용까지 확인하지는 못했습니다(직접 브라우저로 열어보는 것을 권장).
 - [YouTube 검색: "gobi desert night sky timelapse"](https://www.youtube.com/results?search_query=gobi+desert+night+sky+timelapse) — 위와 동일한 사유로 페이지 렌더링 확인은 안 됐지만, 표준 검색 URL이며 더 폭넓게 훑어볼 진입점으로 유효합니다.
 
-> **정직한 요약**: 이번 세션에 oEmbed로 "실존 + 몽골 야간/은하수 관련"까지 확인한 유튜브 영상은 **총 7건**(그중 셋바람TV 채널의 2건 포함)입니다. 그 외 Daniel Kordan·Eternal Landscapes 채널은 존재 자체는 확인했지만 몽골 은하수 영상을 특정하지는 못했고, 검색 결과 페이지는 URL 형식만 표준적임을 확인했을 뿐 내용 렌더링은 못 했습니다. Alyn Wallace 등 해외 유명 아스트로 유튜버 채널도 검색해 봤으나 몽골 관련 영상은 찾지 못해 싣지 않았습니다.
+> **정직한 요약**: oEmbed로 "실존 + 몽골 야간/은하수 관련"까지 확인한 유튜브 영상은 **총 7건**(그중 셋바람TV 채널의 2건 포함)입니다. 그 외 Daniel Kordan·Eternal Landscapes 채널은 존재 자체는 확인했지만 몽골 은하수 영상을 특정하지는 못했고, 검색 결과 페이지는 URL 형식만 표준적임을 확인했을 뿐 내용 렌더링은 못 했습니다. Alyn Wallace 등 해외 유명 아스트로 유튜버 채널도 검색해 봤으나 몽골 관련 영상은 찾지 못해 싣지 않았습니다.
 
 ---
 
 ## ⑤ 참고 / 더 찾는 법
 
 **검색 팁**
-- Wikimedia Commons에서는 `incategory:"Mongolia" Milky Way`, `incategory:"Bayanzag"` 같은 카테고리 교차 검색이 유용합니다(단, 이번 조사에서는 몽골 관련 결과가 거의 없었습니다).
+- Wikimedia Commons에서는 `incategory:"Mongolia" Milky Way`, `incategory:"Bayanzag"` 같은 카테고리 교차 검색이 유용합니다(다만 몽골 관련 결과는 거의 없었습니다).
 - Flickr는 사진 개별 페이지에서 라이선스 배지("All rights reserved" vs "Some rights reserved")를 반드시 확인하세요 — 검색 결과 목록만으로는 라이선스를 알 수 없습니다.
 - 몽골은 다크스카이 조건이 뛰어난데도 "몽골 은하수"를 주제로 한 무료 라이선스 사진이 매우 적습니다. 상업 스톡 사이트(Getty, Shutterstock, Adobe Stock, Alamy, 123RF 등)에는 몽골 고비 은하수 사진이 다수 있으나 전부 유료·저작권 보호 상태라 이 문서에는 싣지 않았습니다.
 
-**이번 세션에서 접속·검증에 실패한 후보 (참고만 하고 링크는 싣지 않음)**
-- AstroBin(astrobin.com) — 이번 세션에 `welcome.astrobin.com/search?q=Mongolia`로 재시도한 결과 이번에는 403은 아니었지만, 검색이 자바스크립트로 렌더링되는 SPA라 네비게이션·푸터만 보이고 실제 몽골 검색 결과(이미지)는 텍스트 추출로 확인하지 못했습니다. 여전히 미검증입니다 — 브라우저로 직접 "Mongolia" 검색해 보는 것을 권장합니다.
-- PhotoPills — 아티클 태그 페이지(photopills.com/articles/tags/milky-way)와 메인 홈페이지(photopills.com) 모두 이번 세션에 재시도했으나 여전히 403 Forbidden으로 접속 실패.
+**접속·검증에 실패한 후보 (참고만 하고 링크는 싣지 않음)**
+- AstroBin(astrobin.com) — `welcome.astrobin.com/search?q=Mongolia`로 재시도한 결과 403은 아니었지만, 검색이 자바스크립트로 렌더링되는 SPA라 네비게이션·푸터만 보이고 실제 몽골 검색 결과(이미지)는 텍스트 추출로 확인하지 못했습니다. 여전히 미검증입니다 — 브라우저로 직접 "Mongolia" 검색해 보는 것을 권장합니다.
+- PhotoPills — 아티클 태그 페이지(photopills.com/articles/tags/milky-way)와 메인 홈페이지(photopills.com) 모두 재시도했으나 여전히 403 Forbidden으로 접속 실패.
 - Pixabay 검색 페이지(pixabay.com, "mongolia milkyway") — 403으로 접속 실패.
 - Canon Asia Snapshot "Mongolian Night Sky" 스토리 — 403으로 접속 실패.
 - National Geographic Your Shot 개별 사진 페이지(구 서비스, ID 6128844) — 두 차례 시도 모두 타임아웃으로 접속 실패(서비스 자체가 종료되었을 가능성 있음).
