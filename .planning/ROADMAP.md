@@ -90,10 +90,12 @@ Plans:
   2. DJI Mini 5 Pro 사양·장비·촬영 기법 튜토리얼 링크 페이지가 존재한다.
   3. 드론 항공사진 예시 갤러리가 라이선스 출처 표기와 함께 존재한다.
   4. `mdbook build`가 green이고, 드론 참고 자료 파트가 SUMMARY에서 은하수 파트보다 앞(또는 드론 파트 직후)에 렌더되며, 전체 링크(내부·외부 참고)가 깨지지 않는다.
-**Plans**: TBD
+**Plans**: 3 plans (0/3 complete)
 
 Plans:
-- [ ] 10-01: TBD
+- [ ] 10-01-PLAN.md — 몽골 드론 규제 참고(CAAM Part 101/102 원출처 확인 사실 vs 등록비·250g·국립공원 미확인 구분, 날짜 디스클레이머, 09-drone 역링크) (DREF-01)
+- [ ] 10-02-PLAN.md — DJI Mini 5 Pro 사양·튜토리얼 링크(DJI 공식 3건 + YouTube 6건 제목 기준 요약 + 텍스트 튜토리얼, 사양 재덤프 없이 큐레이션) (DREF-02)
+- [ ] 10-03-PLAN.md — 드론 항공사진 갤러리(드론촬영 미확인 캐비어트 + 3단 라이선스: Commons 파일별 CC BY/BY-SA·Unsplash License·SkyPixel 감상 전용) + Phase 10 최종 전체 빌드 검증 (DREF-03)
 
 ## Progress
 
@@ -113,4 +115,4 @@ Phases execute in numeric order: 7 → 8 → 9 → 10
 | 7. 구조·제목 확장 | v1.1 | 1/1 | ✓ Complete | 2026-07-13 |
 | 8. 드론 기초 (09-drone/) | v1.1 | 3/3 | ✓ Complete | 2026-07-13 |
 | 9. 명소별 항공 촬영 (10-drone-sites/) | v1.1 | 3/3 | ✓ Complete | 2026-07-13 |
-| 10. 드론 참고 자료 (08-references/) | v1.1 | 0/TBD | Not started | - |
+| 10. 드론 참고 자료 (08-references/) | v1.1 | 0/3 | Planned | - |
