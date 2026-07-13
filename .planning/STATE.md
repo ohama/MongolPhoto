@@ -5,16 +5,16 @@
 See: .planning/PROJECT.md (updated 2026-07-13)
 
 **Core value:** 트래킹 장비 없이도 은하수 사진이 "잘 나오게" 하는 전 과정(장비 → 촬영 → 후보정)을 초보자가 따라 성공하도록 담는다. (v1.1: 몽골 드론 사진으로 범위 확장)
-**Current focus:** v1.1 드론 사진 마일스톤 — Phase 7 (구조·제목 확장) 완료. 다음: Phase 8 (드론 기초) 계획.
+**Current focus:** v1.1 드론 사진 마일스톤 — Phase 8 (드론 기초) 진행 중 (3개 plan 중 08-02 완료, 08-01/08-03 병렬 진행).
 
 ## Current Position
 
-Phase: 7 of 10 (구조·제목 확장) — 완료
-Plan: 1 of 1 (07-01)
-Status: Phase complete
-Last activity: 2026-07-13 — 07-01-PLAN.md 완료 (드론 스텁 16개 + SUMMARY 재편 + book.toml/introduction/README 확장, mdbook build 그린)
+Phase: 8 of 10 (드론 기초) — 진행 중
+Plan: 2 of 3 (08-02)
+Status: In progress
+Last activity: 2026-07-13 — 08-02-PLAN.md 완료 (composition.md 항공 구도 4대 기법 + flight-and-battery.md 비행 기초·배터리/RTH, mdbook build 그린)
 
-Progress: v1.0 ✅ SHIPPED (Phase 1-6, 10 plans) / v1.1 🚧 [██░░░░░░░░] Phase 7/10 완료, plan 1/1 (Phase 8-10 plans TBD)
+Progress: v1.0 ✅ SHIPPED (Phase 1-6, 10 plans) / v1.1 🚧 [███░░░░░░░] Phase 7 완료 + Phase 8 plan 2/3 완료 (Phase 9-10 plans TBD)
 
 ## Performance Metrics
 
@@ -23,8 +23,9 @@ Progress: v1.0 ✅ SHIPPED (Phase 1-6, 10 plans) / v1.1 🚧 [██░░░░
 - By phase: Phase 1 (5 plans), Phase 2-6 (1 plan each)
 
 **v1.1:**
-- Total plans completed: 1 (07-01)
+- Total plans completed: 2 (07-01, 08-02)
 - Phase 7: 1 plan, ~3 min (순수 구조 재편 + 스텁 — 콘텐츠 없음, 이후 phase 소요시간 참고치로는 부적합)
+- Phase 8: 08-02 ~15min (composition.md + flight-and-battery.md 콘텐츠 작성, 08-01/08-03과 병렬 실행)
 
 *Updated after each plan completion*
 
@@ -53,5 +54,5 @@ None yet.
 ## Session Continuity
 
 Last session: 2026-07-13
-Stopped at: 07-01-PLAN.md 완료 — SUMMARY.md 재편, 16개 드론 스텁, book.toml/introduction/README 확장, `mdbook build src` exit 0 확인. 다음: `/gsd:plan-phase 8`.
+Stopped at: 08-02-PLAN.md 완료 — composition.md(항공 구도 4대 기법+빛 읽기), flight-and-battery.md(비행 기초+배터리/RTH) 작성, `mdbook build src` exit 0 확인. 08-01/08-03은 병렬 실행 중(다른 세션) — 완료 여부 확인 후 Phase 8 종합 필요.
 Resume file: None
