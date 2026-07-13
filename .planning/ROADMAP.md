@@ -43,10 +43,10 @@
   2. `introduction.md`/`README.md`가 드론 파트와 은하수 파트를 함께 소개하고, "이 책을 읽는 법"이 새 구조(드론 → 은하수 → 참고 자료)를 반영한다.
   3. `SUMMARY.md`에서 드론 파트(09-drone, 10-drone-sites)가 기존 은하수 파트보다 앞에 있고, 기존 01-08 폴더는 그대로 두되 부 번호(2부~)만 재조정되어 있다.
   4. `SUMMARY.md`의 모든 항목(드론 신규 페이지 포함)에 대응하는 실제 파일(스텁 포함)이 존재해 `mdbook build`가 성공한다.
-**Plans**: TBD
+**Plans**: 1 plan
 
 Plans:
-- [ ] 07-01: TBD (SUMMARY 재편 + 스텁 + book.toml/introduction/README 재작성)
+- [ ] 07-01-PLAN.md — 드론 스텁 16개 생성 + SUMMARY 재편(드론 먼저) + book.toml/introduction/README를 "몽골 사진 가이드"로 확장 + 빌드 그린 검증
 
 ### Phase 8: 드론 기초 (09-drone/)
 **Goal**: 독자가 DJI Mini 5 Pro로 몽골에서 주간·황혼 항공 사진을 안전하고 정직한 규제 이해 위에서 촬영하는 기초를 익힌다.
@@ -106,7 +106,7 @@ Phases execute in numeric order: 7 → 8 → 9 → 10
 | 4. 후보정 연습 | v1.0 | 1/1 | ✓ Complete | 2026-07-09 |
 | 5. 몽골 여행지별 촬영 가이드 | v1.0 | 1/1 | ✓ Complete | 2026-07-09 |
 | 6. 부록 + 보너스 + 배포 검증 | v1.0 | 1/1 | ✓ Complete | 2026-07-10 |
-| 7. 구조·제목 확장 | v1.1 | 0/TBD | Not started | - |
+| 7. 구조·제목 확장 | v1.1 | 0/1 | Not started | - |
 | 8. 드론 기초 (09-drone/) | v1.1 | 0/TBD | Not started | - |
 | 9. 명소별 항공 촬영 (10-drone-sites/) | v1.1 | 0/TBD | Not started | - |
 | 10. 드론 참고 자료 (08-references/) | v1.1 | 0/TBD | Not started | - |
