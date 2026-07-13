@@ -15,12 +15,12 @@
 
 ### 드론 사진 (DRONE)
 
-- [ ] **DRONE-01**: 드론 사진 개요·매력 + 이 파트 범위 명시(사진 중심·주간/황혼, 야간 제외 이유: 법+하드웨어)
-- [ ] **DRONE-02**: 드론 규제·안전 (간략) — 핵심 규칙(주간·VLOS·고도 상한·공항 이격) + "출발 전 CAAM/현장 재확인", 250g 면제·국립공원 규정은 **미확인** 표기, 상세는 참고 자료로
-- [ ] **DRONE-03**: DJI Mini 5 Pro로 사진 찍기 — 기본 조작 + 카메라 설정(DNG RAW·노출·ND 필터·히스토그램)
-- [ ] **DRONE-04**: 항공 구도(탑다운·45°·리딩라인·스케일) + 비행 기초(호버·오빗·리빌)·배터리/RTH 관리
-- [ ] **DRONE-05**: 고비 드론 촬영 환경 주의(바람·모래·저온·원격지 충전) — 기존 야외 위험 챕터 재활용/링크
-- [ ] **DRONE-06**: 드론 사진 후보정 — 기존 RAW 현상 챕터 링크 + 드론 델타(렌즈 왜곡·먼지 얼룩·낮은 노이즈)
+- [x] **DRONE-01**: 드론 사진 개요·매력 + 이 파트 범위 명시(사진 중심·주간/황혼, 야간 제외 이유: 법+하드웨어)
+- [x] **DRONE-02**: 드론 규제·안전 (간략) — 핵심 규칙(주간·VLOS·고도 상한·공항 이격) + "출발 전 CAAM/현장 재확인", 250g 면제·국립공원 규정은 **미확인** 표기, 상세는 참고 자료로
+- [x] **DRONE-03**: DJI Mini 5 Pro로 사진 찍기 — 기본 조작 + 카메라 설정(DNG RAW·노출·ND 필터·히스토그램)
+- [x] **DRONE-04**: 항공 구도(탑다운·45°·리딩라인·스케일) + 비행 기초(호버·오빗·리빌)·배터리/RTH 관리
+- [x] **DRONE-05**: 고비 드론 촬영 환경 주의(바람·모래·저온·원격지 충전) — 기존 야외 위험 챕터 재활용/링크
+- [x] **DRONE-06**: 드론 사진 후보정 — 기존 RAW 현상 챕터 링크 + 드론 델타(렌즈 왜곡·먼지 얼룩·낮은 노이즈)
 
 ### 명소별 드론 촬영 (DSITE)
 
@@ -55,12 +55,12 @@
 |-------------|-------|--------|
 | BOOK-01 | Phase 7 | Complete |
 | BOOK-02 | Phase 7 | Complete |
-| DRONE-01 | Phase 8 | Pending |
-| DRONE-02 | Phase 8 | Pending |
-| DRONE-03 | Phase 8 | Pending |
-| DRONE-04 | Phase 8 | Pending |
-| DRONE-05 | Phase 8 | Pending |
-| DRONE-06 | Phase 8 | Pending |
+| DRONE-01 | Phase 8 | Complete |
+| DRONE-02 | Phase 8 | Complete |
+| DRONE-03 | Phase 8 | Complete |
+| DRONE-04 | Phase 8 | Complete |
+| DRONE-05 | Phase 8 | Complete |
+| DRONE-06 | Phase 8 | Complete |
 | DSITE-01 | Phase 9 | Pending |
 | DSITE-02 | Phase 9 | Pending |
 | DREF-01 | Phase 10 | Pending |
