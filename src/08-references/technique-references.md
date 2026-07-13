@@ -93,7 +93,7 @@
 
 - [Hugin](https://hugin.sourceforge.io/) — 공식 사이트 · 공식 문서·다운로드(무료, 오픈소스, Win/Mac/Linux). 이 책이 추천하는 무료 파노라마 병합 도구의 공식 홈페이지입니다.
 - [PTGui](https://www.ptgui.com/) — 공식 사이트 · 공식 문서·다운로드(유료, 트라이얼 무료). 업계 표준으로 꼽히는 파노라마 병합 소프트웨어의 공식 페이지입니다.
-- [Image Composite Editor (ICE)](https://www.microsoft.com/en-us/research/project/image-composite-editor/) — Microsoft Research 공식 페이지 · 공식 문서(무료였으나 **"프로젝트 지원 종료(retired)"**가 페이지에 명시되어 있습니다 — 참고용으로만 남기고, 실제로 새로 설치할 도구로는 권하기 어렵습니다).
+- [Image Composite Editor (ICE)](https://www.microsoft.com/en-us/research/project/image-composite-editor/) — Microsoft Research 공식 페이지 · 공식 문서(무료였으나 페이지에 **"프로젝트 지원 종료(retired)"**라고 명시되어 있습니다. 참고용으로만 남기며, 실제로 새로 설치할 도구로는 권하기 어렵습니다).
 - [How to Shoot a Milky Way Panorama – Step by Step Guide](https://capturetheatlas.com/how-to-shoot-milky-way-panorama/) — Capture the Atlas(저자 Dan Zafra) · 무료 글. 겹침 비율, PTGui·ICE·Hugin 비교, 상단·측면 여백을 남기는 실전 팁을 다룹니다.
 
 ## 보너스 — 스타트레일 (StarStaX)

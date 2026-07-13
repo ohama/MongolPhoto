@@ -101,7 +101,7 @@
 **책에서의 쓰임**: [밤하늘 타임랩스](../06-bonus/timelapse.md)
 
 **비고**
-- ffmpeg.org를 재확인해 크로스플랫폼(Windows/macOS/Linux/Android 등) 지원과 오픈소스 성격을 확인했습니다. 다만 페이지에 라이선스 문구가 명시적으로 보이지 않아 "free and open source"라는 서술은 페이지의 문맥(GSoC 참여 등)에서 간접 확인한 수준입니다.
+- ffmpeg.org를 재확인해 크로스플랫폼(Windows/macOS/Linux/Android 등) 지원과 오픈소스 성격을 확인했습니다. 다만 페이지에 라이선스 문구가 명시적으로 보이지 않아 "free and open source"라는 서술은 페이지의 문맥(GSoC 참여 등)에서 간접적으로만 확인했습니다.
 - LRTimelapse 링크는 [촬영 기법별 참고 자료 모음](technique-references.md)에서 이미 검증된 공식 페이지를 재사용했습니다.
 - 책은 정교한 디플리커가 필요할 때만 LRTimelapse를 "고려하라"는 선택지로 제시합니다 — 기본은 ffmpeg(무료)로 충분합니다.
 

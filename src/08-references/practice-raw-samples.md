@@ -15,7 +15,7 @@
 | [Signature Edits — Free Raw Photos](https://www.signatureedits.com/free-raw-photos/) | 커뮤니티 기고 2,000장 이상, [이용약관](https://www.signatureedits.com/free-raw-license-terms/)에 "개인·상업적 사용 모두 허용, 다운로드·복제·수정·배포 가능, 저작자 표시 의무 없음(단 원저작자를 자기 것처럼 사칭 금지, 동일 서비스 경쟁 목적 재판매 금지)"이라고 명시 · 무료, 다운로드 자체에 이메일 등록이 필수인지는 명확히 확인하지 못함(뉴스레터 가입 유도 배너만 확인) | 대부분 Canon CR2, 일부 Panasonic/Sony/Adobe DNG로 알려짐(개별 카테고리 목록까지는 확인 못함) |
 | [Raw-Files.com](https://www.raw-files.com/download.html) | Tao Jiang 운영, 최신 카메라(Nikon Z, Sony A7C II, Fujifilm X 시리즈, Ricoh GR IV 등) 위주 무료 다운로드 링크 제공 · 사이트 자체는 "© 2024 Tao Jiang. All Rights Reserved" 표기가 있으나 샘플 파일에 대한 별도 이용약관 문구는 페이지에서 확인하지 못함(연습용으로 무난하나 재배포 전 문의 권장) | NEF / ARW / RAF / DNG |
 
-**야간·고감도·아스트로 사진 여부**: 위 4곳 모두 확인한 범위에서는 **야간/은하수 RAW를 별도로 제공하지 않습니다.** raw.pixls.us는 "저조도 대신 노출이 잘 된 저ISO 샷"을 명시적으로 요청하는 사이트라 야간 샷과는 정반대 성격입니다. 그래도 화이트밸런스·노출·대비 등 **RAW 현상의 기본기(라이트룸/darktable 조작법)를 익히는 연습에는 형식·용량이 실제 카메라 RAW와 동일**해 충분히 유용합니다.
+**야간·고감도·아스트로 사진 여부**: 위 4곳 모두 확인한 범위에서는 **야간/은하수 RAW를 별도로 제공하지 않습니다.** raw.pixls.us는 "저조도 대신 노출이 잘 된 저ISO 샷"을 명시적으로 요청하는 사이트라 야간 샷과는 정반대 성격입니다. 그래도 형식·용량이 실제 카메라 RAW와 동일해서, 화이트밸런스·노출·대비 등 **RAW 현상의 기본기(라이트룸/darktable 조작법)를 익히는 연습**에 충분히 유용합니다.
 
 ---
 
