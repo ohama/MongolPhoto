@@ -2,7 +2,29 @@
 
 [소개](introduction.md)
 
-# 1부 · 준비하기
+# 1부 · 드론 사진
+
+- [드론 사진 개요](09-drone/index.md)
+- [DJI Mini 5 Pro 기본 조작](09-drone/dji-mini5pro-basics.md)
+- [DJI Mini 5 Pro 카메라 설정](09-drone/dji-mini5pro-settings.md)
+- [항공 구도의 기초](09-drone/composition.md)
+- [비행 기초와 배터리·RTH 관리](09-drone/flight-and-battery.md)
+- [고비 사막 드론 환경 주의](09-drone/gobi-environment.md)
+- [드론 사진 후보정](09-drone/drone-postprocessing.md)
+- [명소별 드론 촬영 원리](10-drone-sites/overview.md)
+- [차강소브라가 (Tsagaan Suvarga)](10-drone-sites/tsagaan-suvarga.md)
+- [바양작 (Bayanzag)](10-drone-sites/bayanzag.md)
+- [홍고린엘스 (Khongoryn Els)](10-drone-sites/khongoryn-els.md)
+- [욜링암 (Yolyn Am)](10-drone-sites/yolyn-am.md)
+- [바가가즈링 촐로 (Baga Gazriin Chuluu)](10-drone-sites/baga-gazriin-chuluu.md)
+
+# 드론 참고 자료
+
+- [몽골 드론 비행 규제·허가](08-references/drone-mongolia-regulations.md)
+- [DJI Mini 5 Pro 사양·튜토리얼](08-references/drone-gear-tutorials.md)
+- [드론 항공사진 예시 갤러리](08-references/drone-galleries.md)
+
+# 2부 · 준비하기
 
 - [장비 가이드](01-gear/index.md)
   - [카메라와 렌즈 고르기](01-gear/camera-lens.md)
@@ -17,7 +39,7 @@
   - [현장 촬영 워크플로](02-fundamentals/field-workflow.md)
 - [연습 로그 템플릿](03-practice/template.md)
 
-# 2부 · 가기 전 연습
+# 3부 · 가기 전 연습
 
 - [카메라 조작·세팅 연습](03-practice/home-camera-controls.md)
 - [초점·구도·인터벌 연습](03-practice/home-focus-and-interval.md)
@@ -26,7 +48,7 @@
 - [야외 준비와 현장 워크플로 리허설](03-practice/field-prep-and-hazards.md)
 - [야외 연습 결과 점검](03-practice/field-review.md)
 
-# 3부 · 몽골 여행지별 촬영 가이드
+# 4부 · 몽골 여행지별 촬영 가이드
 
 - [고비 촬영 일반 원리](04-mongolia/overview.md)
 - [차강소브라가 (Tsagaan Suvarga)](04-mongolia/tsagaan-suvarga.md)
@@ -35,7 +57,7 @@
 - [욜링암 (Yolyn Am)](04-mongolia/yolyn-am.md)
 - [바가가즈링 촐로 (Baga Gazriin Chuluu)](04-mongolia/baga-gazriin-chuluu.md)
 
-# 4부 · 후보정
+# 5부 · 후보정
 
 - [RAW 현상 기본](05-postprocessing/raw-develop.md)
 - [스태킹으로 노이즈 줄이기](05-postprocessing/stacking.md)
