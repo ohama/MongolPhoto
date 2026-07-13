@@ -53,11 +53,24 @@
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| (roadmap 생성 시 채워짐) | — | Pending |
+| BOOK-01 | Phase 7 | Pending |
+| BOOK-02 | Phase 7 | Pending |
+| DRONE-01 | Phase 8 | Pending |
+| DRONE-02 | Phase 8 | Pending |
+| DRONE-03 | Phase 8 | Pending |
+| DRONE-04 | Phase 8 | Pending |
+| DRONE-05 | Phase 8 | Pending |
+| DRONE-06 | Phase 8 | Pending |
+| DSITE-01 | Phase 9 | Pending |
+| DSITE-02 | Phase 9 | Pending |
+| DREF-01 | Phase 10 | Pending |
+| DREF-02 | Phase 10 | Pending |
+| DREF-03 | Phase 10 | Pending |
 
 **Coverage:**
 - v1.1 requirements: 13 total (BOOK 2 + DRONE 6 + DSITE 2 + DREF 3)
-- Mapped to phases: 0 (roadmap 대기)
+- Mapped to phases: 13/13 (100%) ✓
 
 ---
 *Requirements defined: 2026-07-13 (v1.1 드론 사진)*
+*Roadmap created: 2026-07-13 (Phase 7-10)*
