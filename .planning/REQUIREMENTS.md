@@ -24,8 +24,8 @@
 
 ### 명소별 드론 촬영 (DSITE)
 
-- [ ] **DSITE-01**: 명소 5곳(차강소브라가·바양작·홍고린엘스·욜링암·바가가즈링 촐로) 항공 구도·피사체 가이드
-- [ ] **DSITE-02**: 명소별 드론 주의사항 — 국립공원 규정 미확인 → 현장 확인(욜링암·홍고린엘스), 지형별 위험
+- [x] **DSITE-01**: 명소 5곳(차강소브라가·바양작·홍고린엘스·욜링암·바가가즈링 촐로) 항공 구도·피사체 가이드
+- [x] **DSITE-02**: 명소별 드론 주의사항 — 국립공원 규정 미확인 → 현장 확인(욜링암·홍고린엘스), 지형별 위험
 
 ### 드론 참고 자료 (DREF)
 
@@ -61,8 +61,8 @@
 | DRONE-04 | Phase 8 | Complete |
 | DRONE-05 | Phase 8 | Complete |
 | DRONE-06 | Phase 8 | Complete |
-| DSITE-01 | Phase 9 | Pending |
-| DSITE-02 | Phase 9 | Pending |
+| DSITE-01 | Phase 9 | Complete |
+| DSITE-02 | Phase 9 | Complete |
 | DREF-01 | Phase 10 | Pending |
 | DREF-02 | Phase 10 | Pending |
 | DREF-03 | Phase 10 | Pending |
