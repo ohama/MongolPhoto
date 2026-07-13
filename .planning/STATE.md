@@ -5,16 +5,16 @@
 See: .planning/PROJECT.md (updated 2026-07-13)
 
 **Core value:** 트래킹 장비 없이도 은하수 사진이 "잘 나오게" 하는 전 과정(장비 → 촬영 → 후보정)을 초보자가 따라 성공하도록 담는다. (v1.1: 몽골 드론 사진으로 범위 확장)
-**Current focus:** v1.1 드론 사진 마일스톤 — Phase 8 (드론 기초) 완료, Phase 9 (명소별 항공 촬영) 완료(3개 plan 09-01·09-02·09-03 모두 완료, 명소 5곳 전부 작성). 다음: Phase 10 (참고 자료/규제) 계획.
+**Current focus:** v1.1 드론 사진 마일스톤 — Phase 7-10 전부 완료. Phase 10(참고 자료/규제) 3개 plan(10-01·10-02·10-03) 병렬 실행 후 전부 완료, 전체 책 mdbook build 최종 그린.
 
 ## Current Position
 
-Phase: 9 of 10 (명소별 항공 촬영) — 완료
-Plan: 3 of 3 (09-03, 병렬로 09-01·09-02와 함께 완료)
-Status: Phase complete
-Last activity: 2026-07-13 — 09-03-PLAN.md 완료 (bayanzag.md 붉은 사암 절벽 구도+화석지 보호, baga-gazriin-chuluu.md 화강암 기암 구도+근접비행/GPS 다중경로/최북단 저온, mdbook build 그린) — 이로써 Phase 9의 3개 plan(09-01/09-02/09-03) 모두 완료, 명소 5곳(차강소브라가·바양작·홍고린엘스·욜링암·바가가즈링 촐로) 전부 작성
+Phase: 10 of 10 (드론 참고 자료) — 완료
+Plan: 3 of 3 (10-01·10-02·10-03 모두 완료)
+Status: Phase complete — v1.1 드론 사진 마일스톤 전체 완료
+Last activity: 2026-07-13 — 10-03-PLAN.md 완료 (drone-galleries.md: 상단 드론촬영 미확인 캐비어트 + 3단 라이선스 구분(Commons CC 재사용 가능·Unsplash 재사용 가능하나 CC0 아님·SkyPixel 감상 전용), 차강소브라가·바가가즈링 촐로 카테고리 부재로 제외; Phase 10 최종 전체 책 mdbook build src 그린 + 드론 참고 자료 3페이지 docs/08-references/ HTML 렌더 확인)
 
-Progress: v1.0 ✅ SHIPPED (Phase 1-6, 10 plans) / v1.1 🚧 [██████░░░░] Phase 7-9 완료 (Phase 10 plans TBD)
+Progress: v1.0 ✅ SHIPPED (Phase 1-6, 10 plans) / v1.1 ✅ [██████████] Phase 7-10 전부 완료
 
 ## Performance Metrics
 
@@ -23,10 +23,11 @@ Progress: v1.0 ✅ SHIPPED (Phase 1-6, 10 plans) / v1.1 🚧 [██████
 - By phase: Phase 1 (5 plans), Phase 2-6 (1 plan each)
 
 **v1.1:**
-- Total plans completed: 7 (07-01, 08-01, 08-02, 08-03, 09-01, 09-02, 09-03)
+- Total plans completed: 10 (07-01, 08-01, 08-02, 08-03, 09-01, 09-02, 09-03, 10-01, 10-02, 10-03)
 - Phase 7: 1 plan, ~3 min (순수 구조 재편 + 스텁 — 콘텐츠 없음, 이후 phase 소요시간 참고치로는 부적합)
 - Phase 8: 08-01 ~10min (index.md + dji-mini5pro-basics.md + dji-mini5pro-settings.md, 08-02/08-03과 병렬 실행), 08-02 ~15min (composition.md + flight-and-battery.md 콘텐츠 작성, 08-01/08-03과 병렬 실행), 08-03 ~15min (gobi-environment.md + drone-postprocessing.md, 08-01/08-02와 병렬 실행) — Phase 8 전체 3-plan 병렬 실행, 세 plan 모두 완료 후 mdbook build src 통합 검증 그린
 - Phase 9: 09-01 ~10min (10-drone-sites/overview.md 허브 + tsagaan-suvarga.md, 09-02/09-03과 병렬 실행), 09-02 병렬 완료(홍고린엘스·욜링암), 09-03 ~12min(바양작·바가가즈링 촐로) — Phase 9 전체 3-plan 병렬 실행으로 명소 5곳 전부 완료
+- Phase 10: 10-01 ~10min (drone-mongolia-regulations.md — 확인/미확인 시각 분리 정직성 페이지, 10-02/10-03과 병렬 실행), 10-02 ~6min (drone-gear-tutorials.md — DJI 공식 3건+YouTube 6건(제목 기준)+텍스트 튜토리얼 5건, 10-01/10-03과 병렬 실행), 10-03 ~8min (drone-galleries.md — Commons/Unsplash/SkyPixel 3단 라이선스 구분 갤러리, 10-01/10-02와 병렬 실행 + Phase 10 최종 전체 책 mdbook build src 그린 검증) — Phase 10 전체 3-plan 병렬 실행 완료, v1.1 드론 사진 마일스톤 전체 완료
 
 *Updated after each plan completion*
 
@@ -45,6 +46,8 @@ Progress: v1.0 ✅ SHIPPED (Phase 1-6, 10 plans) / v1.1 🚧 [██████
 - (09-01) 명소별 항공 페이지의 공통 골격 확립: 도입(한 문장 주제) → GPS/공통이론은 04-mongolia·09-drone 링크로만 재사용(재기입 금지) → 지형 특화 항공 구도 → 지형 특화 위험 → 고비 공통 환경 링크. 국립공원 캐비어트는 욜링암·홍고린엘스를 명시 지목하되 특정 허가비/절차는 지어내지 않고 "현지 재확인"으로만 안내. 지상 은하수 콘텐츠(코어 방위각·남중 시각)는 항공 페이지에 전혀 가져오지 않음.
 - (09-02) 국립공원(고비 구르왕사이한) 영역에 걸친 홍고린엘스·욜링암 두 페이지 모두에 "미확인 — 재확인" 캐비어트를 각 페이지 내부에 독립적으로 배치(한쪽이 다른 쪽 링크로 대체되지 않도록) — 정직성 하드 제약(성공기준 3) 검증에서 가장 잦은 누락 지점이라 09-01 골격을 그대로 따르되 캐비어트 중복 배치를 의도적으로 유지.
 - (09-03) 바가가즈링 촐로 페이지에서 GPS 좌표(46.383°N)를 지형 설명 문장에서도 숫자로 노출하지 않고 "가장 북쪽"이라는 정성적 표현만 사용 — GPS 표 재기입 금지 규칙을 서술 문장까지 일관 적용. 두 페이지 모두 국립공원 밖이지만 관리·보호구역 가능성을 언급한 뒤 overview.md 규제 절로 링크해 규제 문구 유지보수 지점을 하나로 수렴.
+- (10-01) drone-mongolia-regulations.md에서 propelrc.com을 "접속 확인 필요" 캐비어트로 남기는 대신 도메인명 자체를 본문에서 완전히 제거(완전 배제) — 미확인 정직성 페이지에서는 실패한 2차 소스를 아예 언급하지 않는 편이 검증(grep)과 정직성 양쪽에 더 안전하다고 판단. 국립공원 특칙은 특별보호구역법 PDF를 "링크 생존만 확인, 내용은 미확인"으로 정확히 한정.
+- (10-02) drone-gear-tutorials.md의 YouTube 6건은 oEmbed로 제목·채널·실재만 검증됐으므로 서술을 "~다루는 것으로 보입니다"로 일관 표기해 프레임별 내용을 지어내지 않음. DJI 사양은 09-drone/basics·settings로 역링크만 하고 재나열하지 않음. medium.com/@hayekesteloo(403)는 완전 배제, 동일 저자 내용은 dronexl.co 링크로 대체.
 
 ### Pending Todos
 
@@ -54,11 +57,11 @@ None yet.
 
 ### Blockers/Concerns
 
-- **Phase 10 (규제) 검증 필요**: CAAM Part 102 미독해, 국립공원(욜링암·홍고린엘스) 드론 정책 출처 없음 — planning 단계에서 재시도, 안 되면 "미확인" 프레이밍으로 출간.
+- **Phase 10 (규제) 검증**: (10-01 완료로 갱신) CAAM Part 102는 이번 조사에서 텍스트 추출·독해 완료했으나 등록비/처리기간/250g 면제 조항은 여전히 미확인. 국립공원(욜링암·홍고린엘스) 드론 정책 출처는 특별보호구역법 PDF 생존만 확인, 내용은 여전히 미확인 — drone-mongolia-regulations.md에 "미확인" 프레이밍으로 정직하게 출간 완료.
 - 몽골 출발일(8/13) 전 완결 목표 — 날짜 게이트는 아니지만 타임라인 인지 필요.
 
 ## Session Continuity
 
 Last session: 2026-07-13
-Stopped at: Phase 9 (명소별 항공 촬영) 완료 — 09-01(overview.md + tsagaan-suvarga.md), 09-02(홍고린엘스·욜링암), 09-03(바양작·바가가즈링 촐로) 모두 병렬 완료. src/10-drone-sites/ 전 페이지에 "작성 예정" 없음, 각 plan 단위로 `mdbook build src` exit 0 확인. 다음: 세 plan 통합 후 Phase 9 전체 mdbook build 재검증, `/gsd:plan-phase 10`.
+Stopped at: Phase 10 (드론 참고 자료) 진행 중 — 10-01(drone-mongolia-regulations.md, 확인/미확인 시각 분리 완료) 완료, 10-02(DJI 사양·튜토리얼)도 병렬로 완료. 10-03(항공사진 갤러리) 진행 중일 수 있음. 각 plan 단위로 `mdbook build src` exit 0 확인. 다음: 10-03까지 모두 완료되면 Phase 10 전체 mdbook build 재검증.
 Resume file: None
