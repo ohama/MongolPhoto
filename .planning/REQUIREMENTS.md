@@ -10,8 +10,8 @@
 
 ### 책 확장 (BOOK)
 
-- [ ] **BOOK-01**: 책을 "몽골 사진 가이드"로 확장 — 제목(book.toml)·소개(introduction)·README를 드론+은하수 포괄로 재구성
-- [ ] **BOOK-02**: SUMMARY 재편 — 드론 파트를 은하수 파트 앞에 배치(기존 은하수 파트 내용은 그대로, 파트 표시 번호만 조정)
+- [x] **BOOK-01**: 책을 "몽골 사진 가이드"로 확장 — 제목(book.toml)·소개(introduction)·README를 드론+은하수 포괄로 재구성
+- [x] **BOOK-02**: SUMMARY 재편 — 드론 파트를 은하수 파트 앞에 배치(기존 은하수 파트 내용은 그대로, 파트 표시 번호만 조정)
 
 ### 드론 사진 (DRONE)
 
@@ -53,8 +53,8 @@
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| BOOK-01 | Phase 7 | Pending |
-| BOOK-02 | Phase 7 | Pending |
+| BOOK-01 | Phase 7 | Complete |
+| BOOK-02 | Phase 7 | Complete |
 | DRONE-01 | Phase 8 | Pending |
 | DRONE-02 | Phase 8 | Pending |
 | DRONE-03 | Phase 8 | Pending |
