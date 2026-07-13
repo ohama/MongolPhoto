@@ -87,7 +87,7 @@
 
 **비고**
 - 공식 페이지를 재확인한 결과 **Windows·macOS만 지원하며 Linux는 지원하지 않습니다.** ("StarStaX runs on macOS and Windows... not available for Linux" — 공식 페이지 문구 기준)
-- 은하수 코어 스태킹에 쓰는 Sequator/Starry Landscape Stacker와는 목적이 다른 별도 도구입니다(짧은 노출 다수를 겹쳐 궤적을 만드는 용도).
+- 은하수 코어 스태킹에 쓰는 Sequator/Starry Landscape Stacker와는 목적이 다른 도구입니다(짧은 노출 다수를 겹쳐 궤적을 만드는 용도).
 
 ---
 
