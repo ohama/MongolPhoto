@@ -112,5 +112,5 @@ Phases execute in numeric order: 7 → 8 → 9 → 10
 | 6. 부록 + 보너스 + 배포 검증 | v1.0 | 1/1 | ✓ Complete | 2026-07-10 |
 | 7. 구조·제목 확장 | v1.1 | 1/1 | ✓ Complete | 2026-07-13 |
 | 8. 드론 기초 (09-drone/) | v1.1 | 3/3 | ✓ Complete | 2026-07-13 |
-| 9. 명소별 항공 촬영 (10-drone-sites/) | v1.1 | 0/TBD | Not started | - |
+| 9. 명소별 항공 촬영 (10-drone-sites/) | v1.1 | 0/3 | Planned | - |
 | 10. 드론 참고 자료 (08-references/) | v1.1 | 0/TBD | Not started | - |
