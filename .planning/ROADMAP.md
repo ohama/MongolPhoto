@@ -30,7 +30,7 @@
 - [x] **Phase 7: 구조·제목 확장** - SUMMARY 재편(드론 파트 최상단), book.toml/소개/README를 "몽골 사진 가이드"로 확장, 전체 스텁 파일로 빌드 그린 유지
 - [x] **Phase 8: 드론 기초 (09-drone/)** - 개요·규제 요약·DJI Mini 5 Pro 조작/설정·항공 구도·비행 기초·고비 환경 주의·드론 후보정
 - [x] **Phase 9: 명소별 항공 촬영 (10-drone-sites/)** - 고비 명소 5곳 항공 구도·피사체 가이드 + 명소별 주의사항(국립공원 미확인 캐비어트 포함)
-- [ ] **Phase 10: 드론 참고 자료 (08-references/)** - 몽골 드론 규제/허가(검증·미확인 구분) + 장비/튜토리얼 링크 + 예시 갤러리, 최종 빌드/링크 검증
+- [x] **Phase 10: 드론 참고 자료 (08-references/)** - 몽골 드론 규제/허가(검증·미확인 구분) + 장비/튜토리얼 링크 + 예시 갤러리, 최종 빌드/링크 검증
 
 ## Phase Details
 
@@ -90,12 +90,12 @@ Plans:
   2. DJI Mini 5 Pro 사양·장비·촬영 기법 튜토리얼 링크 페이지가 존재한다.
   3. 드론 항공사진 예시 갤러리가 라이선스 출처 표기와 함께 존재한다.
   4. `mdbook build`가 green이고, 드론 참고 자료 파트가 SUMMARY에서 은하수 파트보다 앞(또는 드론 파트 직후)에 렌더되며, 전체 링크(내부·외부 참고)가 깨지지 않는다.
-**Plans**: 3 plans (0/3 complete)
+**Plans**: 3 plans (3/3 complete)
 
 Plans:
-- [ ] 10-01-PLAN.md — 몽골 드론 규제 참고(CAAM Part 101/102 원출처 확인 사실 vs 등록비·250g·국립공원 미확인 구분, 날짜 디스클레이머, 09-drone 역링크) (DREF-01)
-- [ ] 10-02-PLAN.md — DJI Mini 5 Pro 사양·튜토리얼 링크(DJI 공식 3건 + YouTube 6건 제목 기준 요약 + 텍스트 튜토리얼, 사양 재덤프 없이 큐레이션) (DREF-02)
-- [ ] 10-03-PLAN.md — 드론 항공사진 갤러리(드론촬영 미확인 캐비어트 + 3단 라이선스: Commons 파일별 CC BY/BY-SA·Unsplash License·SkyPixel 감상 전용) + Phase 10 최종 전체 빌드 검증 (DREF-03)
+- [x] 10-01-PLAN.md — 몽골 드론 규제 참고(CAAM Part 101/102 원출처 확인 사실 vs 등록비·250g·국립공원 미확인 구분, 날짜 디스클레이머, 09-drone 역링크) (DREF-01)
+- [x] 10-02-PLAN.md — DJI Mini 5 Pro 사양·튜토리얼 링크(DJI 공식 3건 + YouTube 6건 제목 기준 요약 + 텍스트 튜토리얼, 사양 재덤프 없이 큐레이션) (DREF-02)
+- [x] 10-03-PLAN.md — 드론 항공사진 갤러리(드론촬영 미확인 캐비어트 + 3단 라이선스: Commons 파일별 CC BY/BY-SA·Unsplash License·SkyPixel 감상 전용) + Phase 10 최종 전체 빌드 검증 (DREF-03)
 
 ## Progress
 
@@ -115,4 +115,4 @@ Phases execute in numeric order: 7 → 8 → 9 → 10
 | 7. 구조·제목 확장 | v1.1 | 1/1 | ✓ Complete | 2026-07-13 |
 | 8. 드론 기초 (09-drone/) | v1.1 | 3/3 | ✓ Complete | 2026-07-13 |
 | 9. 명소별 항공 촬영 (10-drone-sites/) | v1.1 | 3/3 | ✓ Complete | 2026-07-13 |
-| 10. 드론 참고 자료 (08-references/) | v1.1 | 0/3 | Planned | - |
+| 10. 드론 참고 자료 (08-references/) | v1.1 | 3/3 | ✓ Complete | 2026-07-13 |

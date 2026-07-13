@@ -29,9 +29,9 @@
 
 ### 드론 참고 자료 (DREF)
 
-- [ ] **DREF-01**: 몽골 드론 규제·허가 참고 링크 (CAAM 등, 검증/미검증 구분)
-- [ ] **DREF-02**: DJI Mini 5 Pro·장비·촬영 기법 튜토리얼 링크
-- [ ] **DREF-03**: 드론 항공사진 예시 갤러리 (가능하면 몽골/고비, 라이선스 표기)
+- [x] **DREF-01**: 몽골 드론 규제·허가 참고 링크 (CAAM 등, 검증/미검증 구분)
+- [x] **DREF-02**: DJI Mini 5 Pro·장비·촬영 기법 튜토리얼 링크
+- [x] **DREF-03**: 드론 항공사진 예시 갤러리 (가능하면 몽골/고비, 라이선스 표기)
 
 ## Future Requirements (이후 마일스톤)
 
@@ -63,9 +63,9 @@
 | DRONE-06 | Phase 8 | Complete |
 | DSITE-01 | Phase 9 | Complete |
 | DSITE-02 | Phase 9 | Complete |
-| DREF-01 | Phase 10 | Pending |
-| DREF-02 | Phase 10 | Pending |
-| DREF-03 | Phase 10 | Pending |
+| DREF-01 | Phase 10 | Complete |
+| DREF-02 | Phase 10 | Complete |
+| DREF-03 | Phase 10 | Complete |
 
 **Coverage:**
 - v1.1 requirements: 13 total (BOOK 2 + DRONE 6 + DSITE 2 + DREF 3)
