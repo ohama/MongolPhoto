@@ -64,5 +64,5 @@ None yet.
 ## Session Continuity
 
 Last session: 2026-07-13
-Stopped at: Phase 10 (드론 참고 자료) 진행 중 — 10-01(drone-mongolia-regulations.md, 확인/미확인 시각 분리 완료) 완료, 10-02(DJI 사양·튜토리얼)도 병렬로 완료. 10-03(항공사진 갤러리) 진행 중일 수 있음. 각 plan 단위로 `mdbook build src` exit 0 확인. 다음: 10-03까지 모두 완료되면 Phase 10 전체 mdbook build 재검증.
+Stopped at: Phase 10 (드론 참고 자료) 완료 — 10-01(drone-mongolia-regulations.md)·10-02(drone-gear-tutorials.md)·10-03(drone-galleries.md) 3개 plan 모두 병렬 완료. 10-03에서 Phase 10 최종 전체 책 `mdbook build src` exit 0 재검증, 드론 참고 자료 3페이지 모두 `docs/08-references/`에 HTML 렌더 확인, "작성 예정" 전무 확인. **v1.1 드론 사진 마일스톤(Phase 7-10) 전체 완료.** 다음: 통합 리뷰/출간 준비 또는 다음 마일스톤 계획.
 Resume file: None
