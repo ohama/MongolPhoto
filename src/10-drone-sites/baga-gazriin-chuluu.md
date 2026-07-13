@@ -2,6 +2,10 @@
 
 바가가즈링 촐로는 화강암 바위지대로, 아치·기암(奇巖, 기이한 형상의 바위) 등 다양한 바위 지형이 모여 있습니다. 고비 코스 4곳 중 가장 북쪽에 위치합니다. 이곳의 항공 주제는 **"화강암 기암·아치의 입체와 군락 패턴"**입니다. GPS·접근은 [고비 촬영 일반 원리](../04-mongolia/overview.md)의 GPS 표를 참고하세요(좌표는 여기서 다시 옮겨 적지 않습니다). 아래 내용은 [항공 구도의 기초](../09-drone/composition.md)와 [비행 기초와 배터리·RTH 관리](../09-drone/flight-and-battery.md)에서 다룬 공통 원리를 이 지형에 어떻게 적용하는지를 다루므로, 먼저 그 페이지들을 읽고 오는 것을 권합니다.
 
+![실제 바가가즈링 촐로 화강암 지대](../images/drone-sites/baga-gazriin-chuluu.jpg)
+
+*실제 바가가즈링 촐로 — 화강암 기암 군락과 옛 사원 터·나무(주간, 지상 촬영). 드론으로는 이 기암·아치의 입체와 군락 패턴을 위에서·비스듬히 담게 됩니다. 사진: Arabsalam ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Baga_Gazaryn_Chuluu13.JPG).*
+
 ## 항공 구도·피사체
 
 - **45° 오블리크(비스듬한 시점)**: 아치·기암의 입체감과 그림자를 살리는 기본 구도입니다. 바위 하나하나를 조형물처럼 담아보세요.

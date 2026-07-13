@@ -4,6 +4,10 @@
 
 GPS·접근은 [고비 촬영 일반 원리](../04-mongolia/overview.md)의 GPS 표를 참고하세요(좌표는 이 페이지에 다시 옮겨 적지 않습니다). 공통 구도·비행 이론은 이미 [항공 구도의 기초](../09-drone/composition.md)·[비행 기초와 배터리·RTH 관리](../09-drone/flight-and-battery.md)에서 다뤘으니 여기서는 전제로 삼고, 이 지형에 어떻게 적용하는지만 다룹니다.
 
+![실제 차강소브라가 절벽](../images/drone-sites/tsagaan-suvarga.jpg)
+
+*실제 차강소브라가 — 켜켜이 쌓인 층리와 아래로 떨어지는 낙차가 드러난 절벽(황혼, 지상 촬영). 드론으로는 이 층리와 낙차를 위에서·비스듬히 담게 됩니다. 사진: Rob Oo ([CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tsagaan_Suvraga_(20268223089).jpg).*
+
 ## 항공 구도·피사체
 
 - **탑다운/나디르(90° 수직 하강 시점)**: 절벽 상단에서 곧장 아래를 내려다보면 층리의 결과 침식 패턴이 그림자 없는 순수한 평면 그래픽으로 드러납니다. 정오처럼 그림자가 거의 없는 시간대가 오히려 이 패턴 컷에 유리합니다.

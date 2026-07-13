@@ -72,6 +72,7 @@
 
 # 부록
 
+- [드론 비행 규제 요약 (몽골)](07-appendix/drone-regulations.md)
 - [카메라 · 렌즈 추천 목록](07-appendix/camera-lens-picks.md)
 - [현장 치트시트](07-appendix/cheat-sheet.md)
 - [체크리스트 모음](07-appendix/checklists.md)
