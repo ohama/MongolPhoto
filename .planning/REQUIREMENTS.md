@@ -15,15 +15,15 @@
 
 ### 여행 카메라 설정·장비 (GEAR)
 
-- [ ] **GEAR-01**: 여행 사진 개요·매력 + 이 파트 범위 명시(지상·주간/황혼, 야간/항공 제외 이유)
-- [ ] **GEAR-02**: Canon R7 + 삼양 AF 12mm F2.0(RF-S)·RF 50mm F1.8 카메라 설정 (노출·Av↔M 판단·CR3 RAW·화이트밸런스 — 기존 RAW 이론은 링크, 여행 델타만)
-- [ ] **GEAR-03**: 렌즈 활용·추천 — 12mm(≈19mm 초광각) vs RF 50mm(≈80mm 준망원)의 쓰임, 중간(24–70mm 환산) 공백과 RF-S 18-150mm 추천, 방진 차이(바디·12mm 방진 / 50mm·18-150 비방진)와 현장 관리
+- [x] **GEAR-01**: 여행 사진 개요·매력 + 이 파트 범위 명시(지상·주간/황혼, 야간/항공 제외 이유)
+- [x] **GEAR-02**: Canon R7 + 삼양 AF 12mm F2.0(RF-S)·RF 50mm F1.8 카메라 설정 (노출·Av↔M 판단·CR3 RAW·화이트밸런스 — 기존 RAW 이론은 링크, 여행 델타만)
+- [x] **GEAR-03**: 렌즈 활용·추천 — 12mm(≈19mm 초광각) vs RF 50mm(≈80mm 준망원)의 쓰임, 중간(24–70mm 환산) 공백과 RF-S 18-150mm 추천, 방진 차이(바디·12mm 방진 / 50mm·18-150 비방진)와 현장 관리
 
 ### 여행 사진 기법 (SHOOT)
 
-- [ ] **SHOOT-01**: 여행 사진 구도·빛·타이밍 기초 (지상 관점 — 드론/은하수 구도 이론은 링크, 여행 델타만; 골든아워·날씨·전경/배경)
-- [ ] **SHOOT-02**: 초광각·준망원 실전 활용 (12mm 왜곡·수평 유지·선스타, RF 50mm 압축·인물·디테일)
-- [ ] **SHOOT-03**: 사람·현지 촬영 에티켓 (동의·유목민·게르·오보·무보수 원칙 등 몽골 특화, 2차 출처는 "일반적으로 통용" 정직 표기; 드론 파트 CAAM 동의 규정 링크) + 사막 먼지·렌즈 교체 현장 관리
+- [x] **SHOOT-01**: 여행 사진 구도·빛·타이밍 기초 (지상 관점 — 드론/은하수 구도 이론은 링크, 여행 델타만; 골든아워·날씨·전경/배경)
+- [x] **SHOOT-02**: 초광각·준망원 실전 활용 (12mm 왜곡·수평 유지·선스타, RF 50mm 압축·인물·디테일)
+- [x] **SHOOT-03**: 사람·현지 촬영 에티켓 (동의·유목민·게르·오보·무보수 원칙 등 몽골 특화, 2차 출처는 "일반적으로 통용" 정직 표기; 드론 파트 CAAM 동의 규정 링크) + 사막 먼지·렌즈 교체 현장 관리
 
 ### 명소별 여행 사진 (TSITE)
 
@@ -57,12 +57,12 @@
 |-------------|-------|--------|
 | STRUCT-01 | Phase 11 | Complete |
 | STRUCT-02 | Phase 11 | Complete |
-| GEAR-01 | Phase 12 | Pending |
-| GEAR-02 | Phase 12 | Pending |
-| GEAR-03 | Phase 12 | Pending |
-| SHOOT-01 | Phase 12 | Pending |
-| SHOOT-02 | Phase 12 | Pending |
-| SHOOT-03 | Phase 12 | Pending |
+| GEAR-01 | Phase 12 | Complete |
+| GEAR-02 | Phase 12 | Complete |
+| GEAR-03 | Phase 12 | Complete |
+| SHOOT-01 | Phase 12 | Complete |
+| SHOOT-02 | Phase 12 | Complete |
+| SHOOT-03 | Phase 12 | Complete |
 | TSITE-01 | Phase 13 | Pending |
 | TSITE-02 | Phase 13 | Pending |
 | TREF-01 | Phase 14 | Pending |
