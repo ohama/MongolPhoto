@@ -82,11 +82,11 @@ Plans:
   2. 튜토리얼 참고 페이지가 R7·삼양 12mm·RF 50mm 사양/촬영 기법 링크를 제공한다.
   3. 책 전체 `mdbook build`가 최종적으로 그린이다.
   4. 여행 파트를 포함한 모든 신규·기존 링크(내부/외부)가 전수 검증되어 있다.
-**Plans**: 2 plans
+**Plans**: 2 plans (2/2 complete)
 
 Plans:
-- [ ] 14-01-PLAN.md — travel-galleries.md(TREF-01): 5개 명소 CC0/CC BY/CC BY-SA 사진 임베드(다운로드→optimize→src/images/travel-gallery/) + 이미지 출처 표 + ARR·Instagram·500px·인물 Unsplash 링크만
-- [ ] 14-02-PLAN.md — travel-gear-tutorials.md(TREF-02): Canon Camera Museum·Samyang 공식 + YouTube 8건(제목 기준) + 기법 아티클 10건 + 책 전체 최종 mdbook build 그린 + 내부 링크 전수 정합성 검증
+- [x] 14-01-PLAN.md — travel-galleries.md(TREF-01): 5개 명소 CC0/CC BY/CC BY-SA 사진 임베드(다운로드→optimize→src/images/travel-gallery/) + 이미지 출처 표 + ARR·Instagram·500px·인물 Unsplash 링크만
+- [x] 14-02-PLAN.md — travel-gear-tutorials.md(TREF-02): Canon Camera Museum·Samyang 공식 + YouTube 8건(제목 기준) + 기법 아티클 10건 + 책 전체 최종 mdbook build 그린 + 내부 링크 전수 정합성 검증
 
 ## Progress
 
@@ -100,5 +100,5 @@ Phases execute in numeric order: 11 → 12 → 13 → 14
 | 11. 구조·제목 재편 + 스텁 | v1.2 | 1/1 | ✓ Complete | 2026-07-14 |
 | 12. 여행 사진 기초 | v1.2 | 2/2 | ✓ Complete | 2026-07-14 |
 | 13. 코스 명소별 여행 사진 | v1.2 | 2/2 | ✓ Complete | 2026-07-14 |
-| 14. 여행 참고 자료 + 최종 검증 | v1.2 | 0/2 | Planned | - |
+| 14. 여행 참고 자료 + 최종 검증 | v1.2 | 2/2 | ✓ Complete | 2026-07-14 |
 </content>

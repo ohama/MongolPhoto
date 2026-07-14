@@ -32,8 +32,8 @@
 
 ### 여행 참고 자료 (TREF)
 
-- [ ] **TREF-01**: 여행 사진 참고·갤러리 — CC0/CC BY/CC BY-SA만 임베드(출처 표기), 라이선스 불가(All-Rights-Reserved·Instagram·500px·Google 이미지 등)는 링크만. 인물 포함 Unsplash도 링크 기본(모델 릴리스 미보장).
-- [ ] **TREF-02**: R7·삼양 12mm·RF 50mm 사양/촬영 기법 튜토리얼 참고 링크 + 최종 빌드·전체 링크 검증
+- [x] **TREF-01**: 여행 사진 참고·갤러리 — CC0/CC BY/CC BY-SA만 임베드(출처 표기), 라이선스 불가(All-Rights-Reserved·Instagram·500px·Google 이미지 등)는 링크만. 인물 포함 Unsplash도 링크 기본(모델 릴리스 미보장).
+- [x] **TREF-02**: R7·삼양 12mm·RF 50mm 사양/촬영 기법 튜토리얼 참고 링크 + 최종 빌드·전체 링크 검증
 
 ## Future Requirements (이후 마일스톤)
 
@@ -65,8 +65,8 @@
 | SHOOT-03 | Phase 12 | Complete |
 | TSITE-01 | Phase 13 | Complete |
 | TSITE-02 | Phase 13 | Complete |
-| TREF-01 | Phase 14 | Pending |
-| TREF-02 | Phase 14 | Pending |
+| TREF-01 | Phase 14 | Complete |
+| TREF-02 | Phase 14 | Complete |
 
 **Coverage:**
 - v1.2 requirements: 12 total (STRUCT 2 + GEAR 3 + SHOOT 3 + TSITE 2 + TREF 2)
