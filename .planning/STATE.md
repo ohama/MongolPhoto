@@ -4,29 +4,29 @@
 
 See: .planning/PROJECT.md (updated 2026-07-14)
 
-**Core value:** 트래킹 장비 없이도 은하수 사진이 "잘 나오게" 하는 전 과정(장비 → 촬영 → 후보정)을 초보자가 따라 성공하도록 담는다. (v1.1: 드론 사진으로 확장 / v1.2: 여행 사진으로 확장 중)
-**Current focus:** v1.2 몽골 여행 사진 — Phase 11·12·13 완료. Phase 14 (여행 참고 자료) 진행 중 — 14-01(갤러리) 완료, 14-02(튜토리얼 링크+최종 검증) 남음.
+**Core value:** 트래킹 장비 없이도 은하수 사진이 "잘 나오게" 하는 전 과정(장비 → 촬영 → 후보정)을 초보자가 따라 성공하도록 담는다. (v1.1: 드론 사진으로 확장 / v1.2: 여행 사진으로 확장 완료)
+**Current focus:** v1.2 몽골 여행 사진 — Phase 11-14 전부 완료. v1.2 마일스톤 출판 준비 완료(책 전체 mdbook build 그린 + 내부 링크 전수 검증 dead link 0건).
 
 ## Current Position
 
-Phase: 14 of 14 (여행 참고 자료) — 진행 중
-Plan: 1 of 2 (14-01)
-Status: In progress
-Last activity: 2026-07-14 — 14-01-PLAN.md 완료 (travel-galleries.md: Wikimedia Commons CC 사진 9장(5개 명소 전부+일반 참고 3장) 다운로드·최적화(EXIF 제거·2000px)해 임베드, 3단 라이선스 구분(EMBED CC/Unsplash 링크만/감상전용 링크만), 이미지 출처 표. mdbook build 그린). 다음: 14-02(TREF-02 튜토리얼 링크 + Phase 14 최종 검증).
+Phase: 14 of 14 (여행 참고 자료) — 완료
+Plan: 2 of 2 (14-02) — 완료
+Status: Phase complete — v1.2 마일스톤 완료
+Last activity: 2026-07-14 — 14-02-PLAN.md 완료 (travel-gear-tutorials.md: Canon Camera Museum/Samyang 공식 스펙 4건 + YouTube 8건(제목 기준 요약) + 기법 아티클 10건 작성. v1.2 최종 검증: 책 전체 `mdbook build src` exit 0, 여행·드론·은하수 전 파트 71개 md 파일 + SUMMARY.md 내부 링크/이미지 전수 검증 dead link 0건 — v1.2 출판 게이트 통과). 다음: v1.2 마일스톤 shipped 처리(다음 세션에서 사용자 확인 후 결정) 또는 신규 마일스톤 계획.
 
-Progress: v1.0 ✅ SHIPPED (Phase 1-6, 10 plans) / v1.1 ✅ SHIPPED (Phase 7-10, 10 plans) / v1.2 🚧 [████████░░] 14-01/14-02 완료 (6/7 plans, Phase 14 진행 중)
+Progress: v1.0 ✅ SHIPPED (Phase 1-6, 10 plans) / v1.1 ✅ SHIPPED (Phase 7-10, 10 plans) / v1.2 🚧 [██████████] 7/7 plans 완료 — 출판 게이트 통과, shipped 처리 대기
 
 ## Performance Metrics
 
 **Velocity:**
-- Total plans completed: 26 (v1.0: 10, v1.1: 10, v1.2: 6)
-- v1.2: Phase 11 — 1 plan, ~20 min (순수 구조 재편 + 스텁 — 콘텐츠 없음) / Phase 12 plan 01 — ~25 min (index.md + camera-settings.md, 병렬 실행) / Phase 12 plan 02 — ~25 min (composition-and-light.md + landscape-and-street.md, 병렬 실행) / Phase 13 plan 01 — ~20 min (overview.md + tsagaan-suvarga.md + bayanzag.md, 13-02와 병렬 실행) / Phase 13 plan 02 — ~20 min (khongoryn-els.md + yolyn-am.md + baga-gazriin-chuluu.md, 13-01과 병렬 실행) / Phase 14 plan 01 — ~20 min (CC 사진 9장 다운로드·최적화 + travel-galleries.md 작성)
+- Total plans completed: 27 (v1.0: 10, v1.1: 10, v1.2: 7 — v1.2 완료)
+- v1.2: Phase 11 — 1 plan, ~20 min (순수 구조 재편 + 스텁 — 콘텐츠 없음) / Phase 12 plan 01 — ~25 min (index.md + camera-settings.md, 병렬 실행) / Phase 12 plan 02 — ~25 min (composition-and-light.md + landscape-and-street.md, 병렬 실행) / Phase 13 plan 01 — ~20 min (overview.md + tsagaan-suvarga.md + bayanzag.md, 13-02와 병렬 실행) / Phase 13 plan 02 — ~20 min (khongoryn-els.md + yolyn-am.md + baga-gazriin-chuluu.md, 13-01과 병렬 실행) / Phase 14 plan 01 — ~20 min (CC 사진 9장 다운로드·최적화 + travel-galleries.md 작성) / Phase 14 plan 02 — ~25 min (travel-gear-tutorials.md 작성 + v1.2 최종 검증: 책 전체 빌드 그린 + 전수 링크 정합성 dead link 0건, v1.2 출판 게이트 통과)
 
 **Recent Trend:**
 - v1.0/v1.1 완주 실적 기준 — v1.2도 유사 4-phase 구조(v1.1 패턴 재사용), Phase 11이 v1.1 Phase 7과 동일 패턴으로 재검증됨
 - Phase 12는 wave 1에서 12-01·12-02가 병렬로 11-travel/ 4개 파일(index/camera-settings/composition-and-light/landscape-and-street)을 파일 단위로 충돌 없이 나눠 완료
 - Phase 13도 동일 패턴 — 13-01·13-02가 병렬로 12-travel-sites/ 5개 명소 파일(overview+tsagaan-suvarga+bayanzag / khongoryn-els+yolyn-am+baga-gazriin-chuluu)을 파일 단위로 충돌 없이 나눠 완료, Phase 13 전체 완료
-- Phase 14는 wave 구조 — 14-01(갤러리, 이 플랜)이 wave 1으로 먼저 완료, 14-02(튜토리얼 링크+최종검증)가 wave 2로 뒤이어 실행 예정
+- Phase 14는 wave 구조 — 14-01(갤러리)이 wave 1으로 먼저 완료, 14-02(튜토리얼 링크+최종검증)가 wave 2로 뒤이어 완료. Phase 14 전체 완료, v1.2 마일스톤 7/7 plans 완료
 
 *Updated after each plan completion*
 
@@ -50,6 +50,8 @@ v1.2 관련 최근 결정: 여행 파트를 최상단 1부로 배치, 기준 장
 - (13-02) 얼음(욜링암)처럼 계절에 따라 있을 수도/없을 수도 있는 요소는 "~할 가능성이 높다"로, 야생동물·낙타·유목민 조우는 "보이면/방목 만나면/조우 가능성"으로 통일해 정직성 표기 수준을 명소 전체에서 일관되게 유지(야크도 수염수리·아이벡스와 동일한 기회성 등급).
 - (14-01) 드론 갤러리(Phase 10)가 카테고리 부재를 이유로 제외했던 차강소브라가·바가가즈링촐로도, 이번 세션 검색 API 재조사로 개별 파일 존재가 확인되어 여행 갤러리는 5개 명소 전부 커버(드론 갤러리와의 커버리지 차이는 의도된 정정).
 - (14-01) Unsplash에서 Commons로 CC0 재라이선스 임포트된 "Hiking in Khongoryn Els" 파일은 인물 등장 가능성이 RESEARCH에 캐비어트로 명시되어, 확신 없이 임베드하지 않고 갤러리에서 제외.
+- (14-02) Canon 지역 도메인(canon-europe.com 등)은 403으로 이번 세션 접속 불가하여 URL을 페이지에 싣지 않고, Camera Museum(global.canon)을 1차 공식 소스로 사용 — 캐비어트는 도메인명 없는 문장으로만 표기.
+- (14-02) v1.2 최종 링크 정합성 검증에서 발견된 4건의 후보(자동링크 `<url>` 형식 2건, template.md 펜스 코드블록 placeholder 1건, introduction.md 인라인 코드span 예시 1건)는 전부 검증 스크립트의 정규식 한계였음을 원본 확인 후, 콘텐츠가 아닌 검증 스크립트를 보강해 재검증 — 실제 dead link 0건 확정.
 
 ### Pending Todos
 
@@ -57,14 +59,14 @@ None.
 
 ### Blockers/Concerns
 
-- 여행 참고 자료 갤러리(14-01)는 완료 — 남은 Phase 14 작업(14-02, TREF-02 Canon/삼양 튜토리얼 링크)은 Canon 지역 공식 도메인 403 이슈(RESEARCH 기록)를 감안해 global.canon(Camera Museum)을 1차 소스로 사용 필요.
 - 몽골 사람·현지 예절 콘텐츠는 2차 관광업계 출처 기반(MEDIUM confidence) — "일반적으로 통용" 정직 표기 유지.
 - 실제 몽골 여행/드론/은하수 촬영본으로 명소 갤러리·전후 비교를 채우려면 저자 촬영이 필요(현재는 CC 예시 사진).
-- 몽골 출발일 2026-08-13 — 그 전에 v1.2 콘텐츠 완결 필요.
+- 몽골 출발일 2026-08-13 — v1.2 콘텐츠는 완결(출판 게이트 통과), 실사용 전 최종 열람 검토 권장.
+- v1.2 마일스톤은 콘텐츠·검증 완료 상태 — 공식 "shipped" 마킹(ROADMAP.md·milestones/ 아카이브) 여부는 다음 세션에서 사용자 확인 후 처리.
 
 ## Session Continuity
 
 Last session: 2026-07-14
-Stopped at: 14-01-PLAN.md 완료 — src/images/travel-gallery/에 Wikimedia Commons CC 사진 9장(5개 명소 전부 + 일반 참고 3장) 다운로드·최적화(EXIF 제거·2000px), src/08-references/travel-galleries.md 전면 재작성(3단 라이선스 구분 + 이미지 출처 표 + 관련 링크), `mdbook build src` exit 0 확인. 다음: 14-02-PLAN.md (TREF-02 Canon R7/삼양12mm/RF50mm 튜토리얼 링크 + Phase 14 최종 검증, wave 2).
+Stopped at: 14-02-PLAN.md 완료 — src/08-references/travel-gear-tutorials.md 전면 재작성(Canon Camera Museum/Samyang 공식 스펙 4건 + YouTube 8건 제목 기준 + 기법 아티클 10건), v1.2 최종 검증(책 전체 `mdbook build src` exit 0 + 여행·드론·은하수 전 파트 내부 링크/이미지/SUMMARY 전수 검증 dead link 0건) 완료. Phase 14 완료로 **v1.2 몽골 여행 사진 마일스톤 전체 완료(7/7 plans)**. 다음: v1.2 shipped 마킹 여부 확인 또는 신규 작업 계획.
 Resume file: None
 </content>
