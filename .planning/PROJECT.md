@@ -5,7 +5,16 @@
 **v1.2 SHIPPED (2026-07-14)** — 🔗 https://ohama.github.io/MongolPhoto/
 드론·은하수 파트 앞에 "몽골 여행 사진"을 새 최상단 1부로 추가 — Canon R7 + 삼양 AF 12mm F2.0(RF-S) + RF 50mm F1.8 기준 카메라 설정·상황별 세팅·구도/빛·현지 예절·코스 명소별 가이드·참고 자료. 책이 여행·드론·은하수 3-트랙 가이드로 완성됨(신규 여행 챕터 13개 + CC 갤러리 9장). (v1.1: 드론 사진 2026-07-14, v1.0: 은하수 2026-07-13.) 상세는 `.planning/MILESTONES.md`.
 
-**다음 마일스톤:** 미정 — `/gsd:new-milestone`로 정의. 후보: 실제 몽골 촬영본으로 명소 갤러리·전후 채우기, 초보자 눈높이 보강, 영어판/PDF.
+## Current Milestone: v1.3 사진 보정 (Lightroom Classic)
+
+**Goal:** 여행 사진 파트 바로 다음에 "사진 보정" 파트를 새로 넣어, 찍은 여행 사진을 **Lightroom Classic 기준**으로 실제로 더 낫게 만드는 전 과정을 초보자가 따라 할 수 있게 담는다.
+
+**Target features:**
+- 후보정의 목적·철학 + RAW의 힘(왜 보정이 사진을 "더 낫게" 만드는가)
+- Lightroom Classic 실전 워크플로 — 수입/카탈로그 → 기본 패널 순서(WB·노출·톤·명료도·HSL·렌즈보정·크롭·노이즈/샤픈·마스킹) 단계별 설명
+- 여행 사진 상황별 실전 보정 예시(사막 풍경·황혼/역광·현장) — CC0/무료 RAW 샘플로 before/after
+- Lightroom Classic vs 유사 앱 비교(Lightroom CC·Capture One·darktable·RawTherapee·모바일 Snapseed 등) — 검증된 요금·특징
+- 촬영 시 고려사항 — SW를 염두에 둔 촬영법(RAW로 찍기·하이라이트 보호·ETTR·WB·렌즈 프로파일·HDR/파노라마 브라케팅)
 
 ## What This Is
 
@@ -36,9 +45,14 @@
 - ✓ 코스 명소별 여행 사진 가이드(고비 5곳 지형별·야생 기회성 정직 표기) — v1.2
 - ✓ 여행 참고 자료(CC 갤러리 임베드/링크·튜토리얼) + 책 전체 링크 전수 검증 — v1.2
 
-### Active (다음 마일스톤 — 미정)
+### Active (v1.3 사진 보정 — 정의 중)
 
-(없음 — `/gsd:new-milestone`로 정의)
+- [ ] 여행 사진 다음에 "사진 보정" 파트 신설(SUMMARY 재편, 드론 파트 뒤로 밀림)
+- [ ] 후보정 목적·철학 + RAW의 힘
+- [ ] Lightroom Classic 실전 워크플로(수입/카탈로그·기본 패널 순서 단계별)
+- [ ] 여행 사진 상황별 실전 보정 예시(CC0/무료 RAW로 before/after)
+- [ ] Lightroom Classic vs 유사 앱 비교(검증된 요금·특징)
+- [ ] 촬영 시 고려사항(SW 연동: RAW·하이라이트·ETTR·WB·렌즈 프로파일·브라케팅)
 
 ### Backlog (이후 마일스톤 후보)
 
@@ -103,4 +117,4 @@
 | (v1.2) 4부 "몽골 여행지별" → "5부 · 은하수 명소별 촬영 가이드" 개칭 | 신규 여행 파트와 명칭 충돌 회피 | ✓ Good |
 
 ---
-*Last updated: 2026-07-14 — v1.2 몽골 여행 사진 마일스톤 완료*
+*Last updated: 2026-07-14 — v1.3 사진 보정(Lightroom Classic) 마일스톤 시작*
