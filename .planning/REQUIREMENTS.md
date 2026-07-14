@@ -55,10 +55,23 @@
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| (roadmap 생성 시 채움) | | |
+| STRUCT-01 | Phase 11 | Pending |
+| STRUCT-02 | Phase 11 | Pending |
+| GEAR-01 | Phase 12 | Pending |
+| GEAR-02 | Phase 12 | Pending |
+| GEAR-03 | Phase 12 | Pending |
+| SHOOT-01 | Phase 12 | Pending |
+| SHOOT-02 | Phase 12 | Pending |
+| SHOOT-03 | Phase 12 | Pending |
+| TSITE-01 | Phase 13 | Pending |
+| TSITE-02 | Phase 13 | Pending |
+| TREF-01 | Phase 14 | Pending |
+| TREF-02 | Phase 14 | Pending |
 
 **Coverage:**
 - v1.2 requirements: 12 total (STRUCT 2 + GEAR 3 + SHOOT 3 + TSITE 2 + TREF 2)
+- Mapped: 12/12 ✓ (no orphans, no duplicates)
 
 ---
 *Requirements defined: 2026-07-14 (v1.2 몽골 여행 사진)*
+</content>
