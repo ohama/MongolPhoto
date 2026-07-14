@@ -64,8 +64,8 @@
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| STRUCT-01 | Phase 15 | Pending |
-| STRUCT-02 | Phase 15 | Pending |
+| STRUCT-01 | Phase 15 | Complete |
+| STRUCT-02 | Phase 15 | Complete |
 | EDIT-01 | Phase 16 | Pending |
 | EDIT-03 | Phase 16 | Pending |
 | TOOL-01 | Phase 16 | Pending |
