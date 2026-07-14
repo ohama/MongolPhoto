@@ -2,7 +2,25 @@
 
 [소개](introduction.md)
 
-# 1부 · 드론 사진
+# 1부 · 여행 사진
+
+- [여행 사진 개요](11-travel/index.md)
+- [Canon R7 카메라 설정 & 렌즈 선택](11-travel/camera-settings.md)
+- [구도와 빛 · 타이밍](11-travel/composition-and-light.md)
+- [풍경과 현장 · 사람](11-travel/landscape-and-street.md)
+- [코스 명소별 여행 사진 가이드](12-travel-sites/overview.md)
+- [차강소브라가 (Tsagaan Suvarga)](12-travel-sites/tsagaan-suvarga.md)
+- [바양작 (Bayanzag)](12-travel-sites/bayanzag.md)
+- [홍고린엘스 (Khongoryn Els)](12-travel-sites/khongoryn-els.md)
+- [욜링암 (Yolyn Am)](12-travel-sites/yolyn-am.md)
+- [바가가즈링 촐로 (Baga Gazriin Chuluu)](12-travel-sites/baga-gazriin-chuluu.md)
+
+# 여행 사진 참고 자료
+
+- [카메라 사용법·촬영 팁 튜토리얼](08-references/travel-gear-tutorials.md)
+- [여행 사진 예시 갤러리](08-references/travel-galleries.md)
+
+# 2부 · 드론 사진
 
 - [드론 사진 개요](09-drone/index.md)
 - [DJI Mini 5 Pro 기본 조작](09-drone/dji-mini5pro-basics.md)
@@ -24,7 +42,7 @@
 - [DJI Mini 5 Pro 사양·튜토리얼](08-references/drone-gear-tutorials.md)
 - [드론 항공사진 예시 갤러리](08-references/drone-galleries.md)
 
-# 2부 · 준비하기
+# 3부 · 준비하기
 
 - [장비 가이드](01-gear/index.md)
   - [카메라와 렌즈 고르기](01-gear/camera-lens.md)
@@ -39,7 +57,7 @@
   - [현장 촬영 워크플로](02-fundamentals/field-workflow.md)
 - [연습 로그 템플릿](03-practice/template.md)
 
-# 3부 · 가기 전 연습
+# 4부 · 가기 전 연습
 
 - [카메라 조작·세팅 연습](03-practice/home-camera-controls.md)
 - [초점·구도·인터벌 연습](03-practice/home-focus-and-interval.md)
@@ -48,7 +66,7 @@
 - [야외 준비와 현장 워크플로 리허설](03-practice/field-prep-and-hazards.md)
 - [야외 연습 결과 점검](03-practice/field-review.md)
 
-# 4부 · 몽골 여행지별 촬영 가이드
+# 5부 · 은하수 명소별 촬영 가이드
 
 - [고비 촬영 일반 원리](04-mongolia/overview.md)
 - [차강소브라가 (Tsagaan Suvarga)](04-mongolia/tsagaan-suvarga.md)
@@ -57,7 +75,7 @@
 - [욜링암 (Yolyn Am)](04-mongolia/yolyn-am.md)
 - [바가가즈링 촐로 (Baga Gazriin Chuluu)](04-mongolia/baga-gazriin-chuluu.md)
 
-# 5부 · 후보정
+# 6부 · 후보정
 
 - [RAW 현상 기본](05-postprocessing/raw-develop.md)
 - [스태킹으로 노이즈 줄이기](05-postprocessing/stacking.md)
