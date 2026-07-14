@@ -21,7 +21,19 @@
 - [카메라 사용법·촬영 팁 튜토리얼](08-references/travel-gear-tutorials.md)
 - [여행 사진 예시 갤러리](08-references/travel-galleries.md)
 
-# 2부 · 드론 사진
+# 2부 · 여행 사진 보정
+
+- [여행 사진 보정 개요](13-editing/index.md)
+- [왜 보정하나 · 비파괴 편집과 카탈로그](13-editing/lightroom-workflow.md)
+- [Lightroom Classic vs 다른 편집 앱](13-editing/software-comparison.md)
+- [필수 보정 순서 (현상 모듈 17단계)](13-editing/develop-order.md)
+- [몽골 여행 상황별 보정 레시피](13-editing/travel-recipes.md)
+- [국소 보정 — 마스킹 · 디테일 · 노이즈](13-editing/masking-and-detail.md)
+- [합치기 — 파노라마 · HDR 병합](13-editing/panorama-hdr.md)
+- [촬영 시 고려사항 — SW를 염두에 둔 촬영](13-editing/shoot-for-edit.md)
+- [예시 사진 출처 · 라이선스 · 참고 자료](13-editing/credits.md)
+
+# 3부 · 드론 사진
 
 - [드론 사진 개요](09-drone/index.md)
 - [DJI Mini 5 Pro 기본 조작](09-drone/dji-mini5pro-basics.md)
@@ -43,7 +55,7 @@
 - [DJI Mini 5 Pro 사양·튜토리얼](08-references/drone-gear-tutorials.md)
 - [드론 항공사진 예시 갤러리](08-references/drone-galleries.md)
 
-# 3부 · 준비하기
+# 4부 · 준비하기
 
 - [장비 가이드](01-gear/index.md)
   - [카메라와 렌즈 고르기](01-gear/camera-lens.md)
@@ -58,7 +70,7 @@
   - [현장 촬영 워크플로](02-fundamentals/field-workflow.md)
 - [연습 로그 템플릿](03-practice/template.md)
 
-# 4부 · 가기 전 연습
+# 5부 · 가기 전 연습
 
 - [카메라 조작·세팅 연습](03-practice/home-camera-controls.md)
 - [초점·구도·인터벌 연습](03-practice/home-focus-and-interval.md)
@@ -67,7 +79,7 @@
 - [야외 준비와 현장 워크플로 리허설](03-practice/field-prep-and-hazards.md)
 - [야외 연습 결과 점검](03-practice/field-review.md)
 
-# 5부 · 은하수 명소별 촬영 가이드
+# 6부 · 은하수 명소별 촬영 가이드
 
 - [고비 촬영 일반 원리](04-mongolia/overview.md)
 - [차강소브라가 (Tsagaan Suvarga)](04-mongolia/tsagaan-suvarga.md)
@@ -76,7 +88,7 @@
 - [욜링암 (Yolyn Am)](04-mongolia/yolyn-am.md)
 - [바가가즈링 촐로 (Baga Gazriin Chuluu)](04-mongolia/baga-gazriin-chuluu.md)
 
-# 6부 · 후보정
+# 7부 · 은하수 후보정
 
 - [RAW 현상 기본](05-postprocessing/raw-develop.md)
 - [스태킹으로 노이즈 줄이기](05-postprocessing/stacking.md)
