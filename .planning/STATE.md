@@ -9,12 +9,12 @@ See: .planning/PROJECT.md (updated 2026-07-14)
 
 ## Current Position
 
-Phase: 16 of 19 (개념·카탈로그·도구 선택) — 진행 중
-Plan: 1 of 2 in Phase 16 (완료). 다음: 16-02(software-comparison.md)
-Status: In progress
-Last activity: 2026-07-14 — Completed 16-01-PLAN.md (여행 보정 개요 + 비파괴·카탈로그 워크플로 + P1/P2 경고 박스, 빌드 그린)
+Phase: 16 of 19 (개념·카탈로그·도구 선택) — Phase complete
+Plan: 2 of 2 in Phase 16 (완료). Phase 16 종료 → 다음: Phase 17 계획
+Status: Phase complete
+Last activity: 2026-07-14 — Completed 16-02-PLAN.md (구독 전용 경고 + 8개 앱 비교표 + 무료/영구 대안, 원화 미확인 처리)
 
-Progress: v1.0 ✅ (Phase 1-6) / v1.1 ✅ (Phase 7-10) / v1.2 ✅ (Phase 11-14) / v1.3 🚧 [██░░░░░░░░] 22% (2/9 plans)
+Progress: v1.0 ✅ (Phase 1-6) / v1.1 ✅ (Phase 7-10) / v1.2 ✅ (Phase 11-14) / v1.3 🚧 [███░░░░░░░] 33% (3/9 plans)
 
 ## Accumulated Context
 
@@ -39,5 +39,5 @@ None.
 ## Session Continuity
 
 Last session: 2026-07-14
-Stopped at: Completed 16-01-PLAN.md. src/13-editing/index.md·lightroom-workflow.md 실제 본문 교체(왜 보정하나·비파괴·카탈로그·P1/P2 경고 박스·스크린샷 플레이스홀더), 교차 링크 3개, 가격 서술 없음(16-02 위임), mdbook build 그린(docs/ 원복·미커밋). 다음: `/gsd:execute-phase 16` → 16-02(software-comparison.md).
+Stopped at: Completed 16-02-PLAN.md. src/13-editing/software-comparison.md 스텁 교체(구독 전용 경고 박스·LR Classic/CC 구분 표·8개 앱 비교표·무료/영구/모바일 대안·교차 링크 3개), 원화 숫자 미기재→Adobe KR URL 안내, 검증 USD만 인용, darktable "최신 4.x 필수", 커밋 cfaf184(docs/ 미커밋). Phase 16 완료(2/2). 다음: `/gsd:plan-phase 17`.
 Resume file: None

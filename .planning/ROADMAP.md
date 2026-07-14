@@ -24,7 +24,7 @@
 - Decimal phases (15.1 등): 계획 후 긴급 삽입 시에만 (INSERTED 표기)
 
 - [x] **Phase 15: 구조 재편 + 스텁** — SUMMARY 재편·부 번호 시프트·챕터 스텁·빌드 그린 (완료 2026-07-14)
-- [ ] **Phase 16: 개념·카탈로그·도구 선택** — 왜 보정하나·비파괴/카탈로그·앱 비교표
+- [x] **Phase 16: 개념·카탈로그·도구 선택** — 왜 보정하나·비파괴/카탈로그·앱 비교표 (완료 2026-07-14)
 - [ ] **Phase 17: 필수 보정 순서 + 상황별 레시피** — 17단계 척추 + 고비 레시피 a~e + before/after
 - [ ] **Phase 18: 국소 보정 + 합치기** — 마스킹·디테일/노이즈 + 파노라마·HDR 병합
 - [ ] **Phase 19: 촬영 연동 + 참고·크레딧 + 최종 검증** — SW 염두 촬영법·크레딧·전체 빌드/링크 게이트
@@ -58,7 +58,7 @@ Plans:
 
 Plans:
 - [x] 16-01 — index.md(왜 보정하나·비파괴·이 파트 범위·은하수 파트와 구분) + lightroom-workflow.md(카탈로그·가져오기·현상 모듈 개요, P1/P2 경고 박스, 스크린샷 플레이스홀더) ✅ 2026-07-14
-- [ ] 16-02 — software-comparison.md(구독 전용 경고 + LR CC/Capture One/DxO/ON1/darktable/RawTherapee/Snapseed 비교표 + 무료/영구 대안 경로)
+- [x] 16-02 — software-comparison.md(구독 전용 경고 + LR CC/Capture One/DxO/ON1/darktable/RawTherapee/Snapseed 비교표 + 무료/영구 대안 경로) ✅ 2026-07-14
 
 ### Phase 17: 필수 보정 순서 + 상황별 레시피
 **Goal**: 독자가 Lightroom Classic 표준 편집 순서를 왜 그 순서인지와 함께 따라 하고, 몽골 여행 대표 상황별 레시피를 실제 before/after 예시와 함께 적용한다.
