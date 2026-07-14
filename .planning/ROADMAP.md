@@ -96,7 +96,7 @@ Phases execute in numeric order: 11 → 12 → 13 → 14
 | 1-6. (은하수 초판) | v1.0 | 10/10 | Complete | 2026-07-13 |
 | 7-10. (드론 사진) | v1.1 | 10/10 | Complete | 2026-07-14 |
 | 11. 구조·제목 재편 + 스텁 | v1.2 | 1/1 | ✓ Complete | 2026-07-14 |
-| 12. 여행 사진 기초 | v1.2 | 0/2 | Not started | - |
+| 12. 여행 사진 기초 | v1.2 | 0/2 | Planned | - |
 | 13. 코스 명소별 여행 사진 | v1.2 | 0/TBD | Not started | - |
 | 14. 여행 참고 자료 + 최종 검증 | v1.2 | 0/TBD | Not started | - |
 </content>
