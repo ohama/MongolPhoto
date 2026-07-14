@@ -9,12 +9,12 @@ See: .planning/PROJECT.md (updated 2026-07-14)
 
 ## Current Position
 
-Phase: 15 of 19 (구조 재편 + 스텁) — 완료. 다음: Phase 16 계획
-Plan: 1 of 1 in Phase 15 (완료)
-Status: Phase 15 complete
-Last activity: 2026-07-14 — Completed 15-01-PLAN.md (2부 보정 파트 구조 재편 + 스텁 9개, 빌드 그린)
+Phase: 16 of 19 (개념·카탈로그·도구 선택) — 진행 중
+Plan: 1 of 2 in Phase 16 (완료). 다음: 16-02(software-comparison.md)
+Status: In progress
+Last activity: 2026-07-14 — Completed 16-01-PLAN.md (여행 보정 개요 + 비파괴·카탈로그 워크플로 + P1/P2 경고 박스, 빌드 그린)
 
-Progress: v1.0 ✅ (Phase 1-6) / v1.1 ✅ (Phase 7-10) / v1.2 ✅ (Phase 11-14) / v1.3 🚧 [█░░░░░░░░░] 11% (1/9 plans)
+Progress: v1.0 ✅ (Phase 1-6) / v1.1 ✅ (Phase 7-10) / v1.2 ✅ (Phase 11-14) / v1.3 🚧 [██░░░░░░░░] 22% (2/9 plans)
 
 ## Accumulated Context
 
@@ -39,5 +39,5 @@ None.
 ## Session Continuity
 
 Last session: 2026-07-14
-Stopped at: Completed 15-01-PLAN.md. src/13-editing/ 스텁 9개, SUMMARY 재편(2부 삽입·부 시프트·7부 개칭), introduction/README/참조 파일 갱신, mdbook build 그린(docs/ 원복·미커밋). 다음: `/gsd:plan-phase 16`.
+Stopped at: Completed 16-01-PLAN.md. src/13-editing/index.md·lightroom-workflow.md 실제 본문 교체(왜 보정하나·비파괴·카탈로그·P1/P2 경고 박스·스크린샷 플레이스홀더), 교차 링크 3개, 가격 서술 없음(16-02 위임), mdbook build 그린(docs/ 원복·미커밋). 다음: `/gsd:execute-phase 16` → 16-02(software-comparison.md).
 Resume file: None

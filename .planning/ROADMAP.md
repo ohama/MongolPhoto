@@ -57,7 +57,7 @@ Plans:
 **Plans**: 2 plans (병렬 — 파일 분리)
 
 Plans:
-- [ ] 16-01 — index.md(왜 보정하나·비파괴·이 파트 범위·은하수 파트와 구분) + lightroom-workflow.md(카탈로그·가져오기·현상 모듈 개요, P1/P2 경고 박스, 스크린샷 플레이스홀더)
+- [x] 16-01 — index.md(왜 보정하나·비파괴·이 파트 범위·은하수 파트와 구분) + lightroom-workflow.md(카탈로그·가져오기·현상 모듈 개요, P1/P2 경고 박스, 스크린샷 플레이스홀더) ✅ 2026-07-14
 - [ ] 16-02 — software-comparison.md(구독 전용 경고 + LR CC/Capture One/DxO/ON1/darktable/RawTherapee/Snapseed 비교표 + 무료/영구 대안 경로)
 
 ### Phase 17: 필수 보정 순서 + 상황별 레시피
