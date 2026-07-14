@@ -36,10 +36,10 @@
   3. `book.toml` 설명·`introduction.md`·`README.md`가 여행·드론·은하수 3-트랙 구조와 "이 책을 읽는 법"을 정확히 설명한다.
   4. `introduction.md`의 깨진 "사진 준비" 링크가 유효한 대상으로 수정되어 있다.
   5. `mdbook build src`가 에러 없이 성공한다.
-**Plans**: TBD
+**Plans**: 1 plan
 
 Plans:
-- [ ] 11-01: TBD
+- [ ] 11-01-PLAN.md — 여행 파트를 새 1부로 삽입: 스텁 12개 + SUMMARY 재편(4부→5부 은하수 명소별 개칭) + book.toml/introduction/README 3-트랙 확장 + 깨진 링크 수정 + mdbook build green
 
 #### Phase 12: 여행 사진 기초 (11-travel/)
 **Goal**: 독자가 Canon R7 + 삼양 AF 12mm F2.0 + RF 50mm F1.8(+RF-S 18-150mm 추천)로 몽골에서 주간·황혼 여행 사진을 카메라 설정·구도·빛·현지 예절까지 갖춰 촬영할 수 있다.
