@@ -42,7 +42,7 @@
 **Plans**: 1 plan
 
 Plans:
-- [ ] 15-01 — `src/13-editing/` 스텁 8개(index·lightroom-workflow·software-comparison·develop-order·travel-recipes·masking-and-detail·panorama-hdr·shoot-for-edit·credits) + SUMMARY 재편(2부 삽입·부 번호 시프트·6부→"7부 · 은하수 후보정" 개칭) + introduction/README 갱신 + 빌드 그린
+- [ ] 15-01 — `src/13-editing/` 스텁 9개(index·lightroom-workflow·software-comparison·develop-order·travel-recipes·masking-and-detail·panorama-hdr·shoot-for-edit·credits) + SUMMARY 재편(2부 삽입·부 번호 시프트·6부→"7부 · 은하수 후보정" 개칭) + introduction/README 갱신 + 빌드 그린
 
 ### Phase 16: 개념·카탈로그·도구 선택
 **Goal**: 독자가 왜/무엇을 편집하는지(비파괴·카탈로그)를 이해하고, 자신에게 맞는 편집 도구(LR Classic 구독 또는 무료/영구 대안)를 고른 뒤 편집을 시작할 준비를 한다.
