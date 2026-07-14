@@ -2,7 +2,7 @@
 title = "몽골 사진 가이드"
 authors = ["ohama"]
 language = "ko"
-description = "몽골 고비에서 드론 사진과 은하수 사진을 찍는 법 — 장비부터 촬영, 후보정까지"
+description = "몽골 고비에서 여행 사진·드론 사진·은하수 사진을 찍는 법 — 장비부터 촬영, 후보정까지"
 src = "."
 
 [build]
