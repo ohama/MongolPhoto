@@ -10,8 +10,8 @@
 
 ### 여행 구조·제목 (STRUCT)
 
-- [ ] **STRUCT-01**: 여행 사진 파트를 최상단 새 1부로 삽입 — SUMMARY 재편(드론→2부, 은하수→3부~), 신규 폴더 스텁, `mdbook build` green. 기존 01-10 폴더 renumbering 없음.
-- [ ] **STRUCT-02**: 책을 3-트랙(여행·드론·은하수)으로 확장 — book.toml/introduction/README 갱신 + "이 책을 읽는 법" 재구성 + 기존 4부 제목을 "은하수 명소별 촬영 가이드"로 개칭(여행 파트와 충돌 방지) + introduction.md의 깨진 "사진 준비" 링크 수정.
+- [x] **STRUCT-01**: 여행 사진 파트를 최상단 새 1부로 삽입 — SUMMARY 재편(드론→2부, 은하수→3부~), 신규 폴더 스텁, `mdbook build` green. 기존 01-10 폴더 renumbering 없음.
+- [x] **STRUCT-02**: 책을 3-트랙(여행·드론·은하수)으로 확장 — book.toml/introduction/README 갱신 + "이 책을 읽는 법" 재구성 + 기존 4부 제목을 "은하수 명소별 촬영 가이드"로 개칭(여행 파트와 충돌 방지) + introduction.md의 깨진 "사진 준비" 링크 수정.
 
 ### 여행 카메라 설정·장비 (GEAR)
 
@@ -55,8 +55,8 @@
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| STRUCT-01 | Phase 11 | Pending |
-| STRUCT-02 | Phase 11 | Pending |
+| STRUCT-01 | Phase 11 | Complete |
+| STRUCT-02 | Phase 11 | Complete |
 | GEAR-01 | Phase 12 | Pending |
 | GEAR-02 | Phase 12 | Pending |
 | GEAR-03 | Phase 12 | Pending |
