@@ -48,10 +48,10 @@
   2. `mdbook build src`가 그린 — 신규 스텁 8개(video-index·video-shooting·video-movements·capcut-index·capcut-basics·capcut-cut·capcut-grade-speed·capcut-export·capcut-storyboard) + SUMMARY 항목이 함께 존재하고, retire된 `video-editing.md`·`postprocessing-index.md`로의 죽은 링크가 0이다.
   3. 독자가 introduction(~line 114 "영상 보정은 추후 보강")·README의 드론 파트 소개에서 영상 촬영·편집 포함으로 갱신된 문구를 본다.
   4. (정직성) 각 스텁이 실촬영본·UI 캡처 트립 후 교체 방침과 어떤 본문이 들어올지 한 줄 안내를 담아, 빈 페이지가 아니라 "작성 예정" 상태임이 정직하게 드러난다.
-**Plans**: TBD
+**Plans**: 1 plan
 
 Plans:
-- [ ] 20-01: SUMMARY 2부 재편(제목 개칭·결합 그룹 retire·drone-postprocessing 승격·2개 신규 랜딩 그룹) + 스텁 8개 생성 + introduction/README 갱신 + 빌드 그린 게이트
+- [ ] 20-01-PLAN.md — SUMMARY 2부 재편(제목 개칭·결합 그룹 retire·drone-postprocessing 승격·2개 신규 랜딩 그룹) + 스텁 9개 생성 + introduction/README 갱신 + 빌드 그린 게이트
 
 ### Phase 21: 드론 영상 촬영
 **Goal**: 독자가 DJI Mini 5 Pro로 편집을 염두에 둔 시네마틱 드론 영상을 왜 그렇게 설정·촬영하는지 이해하며 안전·규제 안에서 찍는다.
