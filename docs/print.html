@@ -37,7 +37,7 @@
             const path_to_root = "";
             const default_light_theme = "light";
             const default_dark_theme = "navy";
-            window.path_to_searchindex_js = "searchindex-5674719c.js";
+            window.path_to_searchindex_js = "searchindex-26c372a4.js";
         </script>
         <!-- Start loading toc.js asap -->
         <script src="toc-2e274557.js"></script>
@@ -2493,18 +2493,103 @@
 </blockquote>
 <div style="break-before: page; page-break-before: always;"></div>
 <h1 id="예시-편집--고비-드론-스토리보드"><a class="header" href="#예시-편집--고비-드론-스토리보드">예시 편집 — 고비 드론 스토리보드</a></h1>
-<p>앞의 장들에서 익힌 편집 단계를 하나로 이어, 대표적인 고비 드론 클립으로 한 편의 짧은 영상을 완성해 보는 예시입니다. 이 장은 가져오기부터 내보내기까지를 스텝바이스텝으로 따라가도록 안내할 예정입니다.</p>
-<h2 id="이-장에서-다룰-내용-1"><a class="header" href="#이-장에서-다룰-내용-1">이 장에서 다룰 내용</a></h2>
+<p>앞의 장들에서 익힌 편집 단계를 하나로 이어, 대표적인 고비 드론 클립 6개로 약 50초짜리 한 편을 처음부터 끝까지 완성해 보는 예시입니다. 촬영(<a href="#드론-영상-촬영-기초">드론 영상 촬영 기초</a>·<a href="#시네마틱-움직임-샷">시네마틱 움직임 샷</a>)에서 만든 재료를, 컷(<a href="#컷-편집과-순서--속도">컷 편집과 순서 · 속도</a>)·색보정과 음악(<a href="#색보정과-음악">색보정과 음악</a>)·내보내기(<a href="#내보내기-설정">내보내기 설정</a>)의 기법으로 한 흐름에 통합 적용하는 것이 이 장의 목표입니다.</p>
+<blockquote>
+<p>⚠️ <strong>정직성 라벨 — 이것은 “대표 시나리오“입니다.</strong></p>
+<p>아래는 저자에게 아직 <strong>실제 촬영본이 없어</strong> 교육용으로 구성한 **대표 시나리오(representative scenario, 이런 재료가 있다고 가정한 예시 구성)**입니다. 진짜 드론 영상 프레임과 CapCut 화면 캡처는 트립(2026-08-13) 이후 저자가 직접 촬영·캡처해 교체할 예정입니다.</p>
+<p>또한 <strong>자체 영상은 임베드(문서에 직접 삽입)하지 않습니다.</strong> GitHub Pages(이 책을 배포하는 곳)의 용량 한계 때문입니다. 대신 <strong>스토리보드 표 + 정지프레임(멈춘 한 장) + 텍스트</strong>로 “완성 감각“을 전달합니다. 아래 실린 정지프레임은 드론 영상이 아니라 <strong>지상에서 찍은 CC0(퍼블릭 도메인) 사진</strong>이며, 실제 드론 영상 프레임은 트립 후 교체됩니다.</p>
+</blockquote>
+<h2 id="1-무엇을-만들-것인가--목표물"><a class="header" href="#1-무엇을-만들-것인가--목표물">1. 무엇을 만들 것인가 — 목표물</a></h2>
 <ul>
-<li>클립 가져오기 — 대표 고비 클립을 프로젝트로 불러오기</li>
-<li>컷 — 쓸 장면만 골라 순서대로 배치하기</li>
-<li>색보정 — 사막의 색과 빛을 자연스럽게 다듬기</li>
-<li>음악 — 분위기에 맞는 배경음악 얹기(라이선스 확인 포함)</li>
-<li>내보내기 — 공유용 파일로 마무리하기</li>
+<li><strong>길이:</strong> 약 <strong>50초</strong> 고비 드론 하이라이트 한 편.</li>
+<li><strong>방향:</strong> 기본 가로 16:9(유튜브 기본). 세로 Shorts·Reels가 필요하면 9:16로 리프레임(구도 재조정)해 별도로 출력합니다(→ <a href="#내보내기-설정">내보내기 설정</a>).</li>
+<li><strong>가정한 대표 클립 6개:</strong> ① 사구 리빌 ② 붉은 절벽 오빗(선회) ③ 낙타 카라반 탑다운(수직 하향) ④ 협곡 플라이스루(저고도 통과) ⑤ 사구 물결 탑다운 디테일 ⑥ 드로니 풀백(피사체 고정 후진+상승).</li>
+</ul>
+<p>이 여섯 개를 어떤 순서로·얼마나 길게·어떤 리듬으로 이을지를 먼저 표로 설계한 다음, CapCut 11단계에 하나씩 매핑해 조립합니다.</p>
+<h2 id="2-스토리보드-표-6클립--약-50초"><a class="header" href="#2-스토리보드-표-6클립--약-50초">2. 스토리보드 표 (6클립 · 약 50초)</a></h2>
+<div class="table-wrapper">
+<table>
+<thead>
+<tr><th>#</th><th>클립</th><th>최종 길이</th><th>움직임</th><th>편집 처리</th><th>왜</th></tr>
+</thead>
+<tbody>
+<tr><td>1</td><td>사구 리빌</td><td>0:00–0:07 (7초)</td><td>능선 뒤 상승 리빌(감춰 둔 대상을 드러냄)</td><td><strong>스피드 램프</strong>(한 클립 안에서 속도가 변함): 느리게 시작 → 공개 순간 정상속도</td><td>후크(도입 낚아채기)·“여기가 어디지?“의 답을 지연시켜 긴장</td></tr>
+<tr><td>2</td><td>붉은 절벽 오빗</td><td>0:07–0:15 (8초)</td><td>POI 선회(피사체를 중심으로 도는 비행)</td><td>정상속도, <strong>첫 비트싱크 컷 인(#1)</strong></td><td>규모·입체감, 리듬 시작</td></tr>
+<tr><td>3</td><td>낙타 카라반 탑다운</td><td>0:15–0:22 (7초)</td><td>나디르(수직 하향 시점) 트래킹</td><td>약간 슬로모(느린 재생) + 옵티컬 플로(부드럽게 채우는 보간)</td><td>생명 요소·감정 준비</td></tr>
+<tr><td>4</td><td>협곡 플라이스루</td><td>0:22–0:30 (8초)</td><td>저고도 전진 통과</td><td>정상속도, <strong>비트싱크 하드컷(#2)으로 진입</strong></td><td>속도감·몰입, 리듬 상승</td></tr>
+<tr><td>5</td><td>사구 물결 탑다운 디테일</td><td>0:30–0:37 (7초)</td><td>완만 상승 나디르</td><td>정상~약슬로모</td><td>호흡 고르기(숨 돌리는 비트)</td></tr>
+<tr><td>6</td><td>드로니 풀백</td><td>0:37–0:50 (13초)</td><td>후진+상승으로 멀어짐</td><td>뒤로 갈수록 느려지는 <strong>엔딩 램프</strong> + 타이틀 페이드(제목이 서서히 사라짐)</td><td>규모로 마무리·여운</td></tr>
+</tbody>
+</table>
+</div>
+<p><strong>리듬 설계:</strong> 음악 인트로(0:00–0:07, 샷1은 잔잔하게) → <strong>첫 다운비트</strong>(강박, 리듬이 세게 떨어지는 지점)에서 샷1→샷2 컷인(0:07) → 비트마다 샷2~5 전환 → 브레이크(잠시 비는 구간)에서 샷6 엔딩. 이 편은 총 <strong>5회 전환</strong> 중 <strong>2회를 비트에 정확히 싱크</strong>하고, **스피드 램프는 1회(샷1 리빌)**만 씁니다. 즉 이 예제의 리듬 장치는 <strong>스피드 램프 1회 + 비트싱크 컷 2회</strong>로 요약됩니다. 넓은 풍경 샷은 호흡을 조금 길게, 빠른 전개부는 다운비트마다 짧게 끊어 완급을 만듭니다.</p>
+<h2 id="3-대표-장면-정지프레임-지상-촬영-cc0-예시"><a class="header" href="#3-대표-장면-정지프레임-지상-촬영-cc0-예시">3. 대표 장면 정지프레임 (지상 촬영 CC0 예시)</a></h2>
+<p>아래 3장은 <strong>드론 영상이 아니라 지상에서 찍은 CC0 사진</strong>입니다. 실제 드론 컷이 어떤 대상을 담게 되는지 감을 잡도록 참고용으로만 싣습니다. 신규 이미지는 만들지 않고 이 책이 이미 보유한 파일을 재사용했습니다.</p>
+<p><label class="checkbox-label"><input class="checkbox-img" type="checkbox"><img src="images/drone-sites/khongoryn-els.jpg" alt="대표 장면 — 사구"><span class="img-wrapper"><img src="images/drone-sites/khongoryn-els.jpg" alt="대표 장면 — 사구"></span></label></p>
+<p><em>지상 촬영 예시(홍고린엘스) — 드론으로는 이 사구의 물결·능선을 위에서·비스듬히 담습니다(샷 1·3·5 사구 계열 대표). <strong>실제 드론 영상 프레임은 트립 후 교체.</strong> 사진: Bernard Gagnon (CC0 / 퍼블릭 도메인), <a href="https://commons.wikimedia.org/wiki/File:Khongoryn_Els_04.jpg">Wikimedia Commons</a>.</em></p>
+<p><label class="checkbox-label"><input class="checkbox-img" type="checkbox"><img src="images/drone-sites/bayanzag.jpg" alt="대표 장면 — 붉은 절벽"><span class="img-wrapper"><img src="images/drone-sites/bayanzag.jpg" alt="대표 장면 — 붉은 절벽"></span></label></p>
+<p><em>지상 촬영 예시(바양작) — 드론으로는 이 붉은 색·굴곡 능선을 골든아워(해 뜨고 진 직후)에 선회로 담습니다(샷 2 오빗 대표). <strong>실제 드론 영상 프레임은 트립 후 교체.</strong> 사진: Bernard Gagnon (CC0 / 퍼블릭 도메인), <a href="https://commons.wikimedia.org/wiki/File:Bayanzag_10.jpg">Wikimedia Commons</a>.</em></p>
+<p><label class="checkbox-label"><input class="checkbox-img" type="checkbox"><img src="images/drone-sites/yolyn-am.jpg" alt="대표 장면 — 협곡"><span class="img-wrapper"><img src="images/drone-sites/yolyn-am.jpg" alt="대표 장면 — 협곡"></span></label></p>
+<p><em>지상 촬영 예시(욜링암) — 드론으로는 이 협곡 깊이와 능선을 저고도 전진으로 담습니다(샷 4 플라이스루 대표). <strong>실제 드론 영상 프레임은 트립 후 교체.</strong> 사진: Bernard Gagnon (CC0 / 퍼블릭 도메인), <a href="https://commons.wikimedia.org/wiki/File:Yolyn_Am_05.jpg">Wikimedia Commons</a>.</em></p>
+<!-- 이미지: src/images/drone/capcut-storyboard-timeline.png — 저자 직접 캡처 예정 -->
+<h2 id="4-capcut-조립-스텝바이스텝-11단계-매핑"><a class="header" href="#4-capcut-조립-스텝바이스텝-11단계-매핑">4. CapCut 조립 스텝바이스텝 (11단계 매핑)</a></h2>
+<p>스토리보드를 실제 편집으로 옮깁니다. 각 스텝 끝 괄호는 CapCut 편집 워크플로 <strong>11단계 척추</strong>의 어느 단계인지를 표시합니다. 정확한 메뉴 위치는 앱 버전마다 다르므로 “무엇을·왜“에 집중합니다.</p>
+<ol>
+<li><strong>6개 대표 클립과 음악 1곡을 프로젝트로 임포트(불러오기)합니다.</strong> 프로젝트 해상도·기준 fps(초당 프레임 수)를 촬영 때 값과 맞춰 먼저 정합니다. ⚠️ 음악은 반드시 <strong>라이선스 안전 소스</strong>에서 가져오세요(아래 <a href="#크레딧참고">크레딧·참고</a> 참조). <em>(가져오기)</em></li>
+<li><strong>스토리보드 순서 ①→⑥으로 타임라인(편집 시간축)에 배치합니다.</strong> 아직 정교한 편집이 아니라 재료를 무대에 올리는 단계입니다. <em>(배치/순서)</em></li>
+<li><strong>각 클립에서 흔들림·이착륙·표류(목표로 떠내려가는) 구간을 잘라 “좋은 구간“만 남깁니다.</strong> 이때 목표 길이보다 살짝 길게 남겨, 뒤에서 순서·전환을 다듬을 여유 프레임을 확보합니다(→ <a href="#컷-편집과-순서--속도">컷 편집과 순서 · 속도</a>). <em>(컷/트림)</em></li>
+<li><strong>스피드 램프 1회 — 샷1 리빌.</strong> 샷1을 선택 → 속도 → <strong>곡선(커브)</strong> 을 열어, 느리게 시작했다가 리빌 순간 정상속도로 올라가는 커브를 만듭니다. 초보라면 프리셋(미리 만들어진) 커브에서 시작해 포인트(속도가 바뀌는 지점)를 조금씩 옮기세요. 속도 개념 전반은 <a href="#컷-편집과-순서--속도">컷 편집과 순서 · 속도</a>를 참고합니다. <em>(속도 — 스피드 램프)</em></li>
+<li><strong>슬로모 — 샷3·샷5.</strong> 완만한 슬로모를 걸고, 부드러움을 위해 옵티컬 플로 옵션을 켭니다. 슬로모는 편집에서 만드는 게 아니라 촬영 때 높은 fps 헤드룸(여유분)을 남겨 둬야 부드럽습니다(→ <a href="#드론-영상-촬영-기초">드론 영상 촬영 기초</a>). <em>(속도 — 슬로모)</em></li>
+<li><strong>잔떨림이 있는 클립(예: 샷4 플라이스루)에만 안정화를 아껴서 적용합니다.</strong> 안정화는 크롭(화면 잘림)을 부르므로 4K 소스의 여유를 활용하고, 과안정화 경고는 <a href="#컷-편집과-순서--속도">컷 편집과 순서 · 속도</a>를 따르세요. <em>(안정화)</em></li>
+<li><strong>음악 배치 + 비트싱크 컷 2회.</strong> 음악을 0:00에 정렬 → 파형(소리의 물결 모양)에서 <strong>첫 다운비트</strong> 프레임을 찾아 <strong>샷1→샷2 컷을 그 프레임에 스냅(딱 맞춰 붙임)</strong> 합니다(비트싱크 #1). 이어 <strong>샷4 진입</strong>도 비트에 맞춰 하드컷으로 넣습니다(비트싱크 #2). ⚠️ 음악 라이선스는 아래 <a href="#크레딧참고">크레딧·참고</a>와 <a href="#색보정과-음악">색보정과 음악</a>의 경고를 반드시 확인하세요. <em>(음악 + 비트싱크)</em></li>
+<li><strong>색보정.</strong> Normal(일반)로 찍었으면 클립별 밝기·대비·채도·온도를 소폭 + 클립 간 색 매칭만 합니다. <strong>D-Log M(로그)으로 찍었으면</strong> Log→Rec.709 변환을 <strong>먼저</strong> 한 뒤 노출·WB → 룩 순서를 지키세요(→ <a href="#색보정과-음악">색보정과 음악</a>의 순서 계약). <em>(색·LUT 메뉴 위치는 앱에서 확인 — 미확인.)</em> <em>(색보정)</em></li>
+<li><strong>자막·타이틀.</strong> 오프닝 장소 타이틀(선택)과 엔딩 샷6의 타이틀 페이드 정도만 넣습니다. 자동 자막은 나레이션(해설 음성)이 없으면 생략합니다. <em>(자막·타이틀)</em></li>
+<li><strong>전환.</strong> 기본은 하드컷입니다. 샷5→샷6 같은 곳에 <strong>1회만</strong> 부드러운 전환을 허용하고 남발하지 마세요. <em>(전환)</em></li>
+<li><strong>내보내기.</strong> 소스 fps에 맞춰 내보내고 <strong>촬영보다 높은 fps는 금지</strong>(저더·끊김 방지)합니다. 자체 편집한 <strong>1080p는 무료·무워터마크</strong>이며, 4K·HDR는 Pro(유료)가 필요합니다(→ <a href="#내보내기-설정">내보내기 설정</a>). <em>(내보내기)</em></li>
+</ol>
+<!-- 이미지: src/images/drone/capcut-storyboard-steps.png — 저자 직접 캡처 예정 -->
+<h2 id="5-이-대표-시나리오를-내-촬영본에-적용하기"><a class="header" href="#5-이-대표-시나리오를-내-촬영본에-적용하기">5. 이 대표 시나리오를 내 촬영본에 적용하기</a></h2>
+<p>위 여섯 클립은 “이런 재료가 있다고 가정한” 대표 구성일 뿐입니다. 트립 후 여러분(또는 저자)이 실제로 촬영본을 손에 넣었을 때, 이 틀을 다음처럼 옮겨 쓰면 됩니다.</p>
+<ul>
+<li><strong>먼저 스토리보드부터 채우세요.</strong> 편집 프로그램을 열기 전에, 위 6행 표처럼 “어떤 샷을 · 몇 초 · 어떤 움직임 · 어떤 처리 · 왜“를 종이나 메모에 먼저 적습니다. 재료가 부족한 칸이 보이면 그 샷을 트립에서 추가로 찍어야 한다는 뜻입니다.</li>
+<li><strong>리듬 장치는 딱 최소만.</strong> 이 예제의 핵심은 화려함이 아니라 <strong>스피드 램프 1회 + 비트싱크 컷 2회</strong>라는 절제입니다. 처음 편집에서는 이 세 지점만 정확히 맞춰도 완성도가 크게 오릅니다. 더 넣고 싶은 유혹은 다음 편으로 미루세요.</li>
+<li><strong>길이가 안 맞으면 클립을 빼세요.</strong> 50초에 억지로 맞추려 각 샷을 늘이지 말고, 약한 샷을 통째로 덜어 내는 편이 낫습니다. 남긴 클립을 목표보다 살짝 길게 두는 습관(→ <a href="#컷-편집과-순서--속도">컷 편집과 순서 · 속도</a>)이 여기서 여유가 됩니다.</li>
+<li><strong>정지프레임은 최종본이 아닙니다.</strong> 위 3장은 감을 잡기 위한 지상 CC0 사진이고, 실제 드론 영상 프레임은 트립 후 교체됩니다. 여러분의 편집에서는 이 자리에 진짜 드론 컷이 들어갑니다.</li>
+</ul>
+<h2 id="크레딧참고"><a class="header" href="#크레딧참고">크레딧·참고</a></h2>
+<p>이 예제에 쓴 자료의 출처와 라이선스를 검증된 것만 정리합니다. 미확인 값은 단정하지 않고 <code>[verify@write]</code>/미확인으로 남깁니다.</p>
+<h3 id="정지프레임-출처"><a class="header" href="#정지프레임-출처">정지프레임 출처</a></h3>
+<ul>
+<li>위 3장은 모두 <strong>Bernard Gagnon · CC0 1.0(퍼블릭 도메인) · Wikimedia Commons</strong>입니다 — File:Khongoryn_Els_04.jpg / File:Bayanzag_10.jpg / File:Yolyn_Am_05.jpg. 전체 출처 표는 <a href="#여행-사진-예시-갤러리">여행 사진 예시 갤러리</a>를 참고하세요.</li>
+<li><strong>이 정지프레임은 지상에서 찍은 CC0 사진이며 드론 영상이 아닙니다.</strong> 실제 드론 영상 프레임은 트립 후 저자 촬영본으로 교체됩니다.</li>
+</ul>
+<h3 id="라이선스-안전-음원"><a class="header" href="#라이선스-안전-음원">라이선스 안전 음원</a></h3>
+<ul>
+<li><strong>초보 기본값 = <a href="https://studio.youtube.com">YouTube Studio 오디오 보관함</a></strong>(유튜브가 직접 제공하는 무료 음원 라이브러리). 유튜브에서 안전이 정의상 보장되고 무료라 첫 선택으로 권장합니다.</li>
+<li>대안은 유튜브·수익화를 명시적으로 커버하는 로열티프리(정액 사용료형) 서비스 — Epidemic Sound·Artlist·Uppbeat 같은 이름이 있습니다(<strong>이름만</strong> 소개하며 요금·약관은 각 서비스에서 직접 확인 <code>[verify@write]</code>).</li>
+<li>원칙 한 줄: <strong>“TikTok 허용 ≠ YouTube 허용.”</strong> CapCut 내장 음악의 “commercial” 라벨은 대체로 TikTok·CapCut 한정이라 유튜브 안전을 보장하지 않습니다.</li>
+<li><strong>공개 전 Unlisted(일부 공개)로 올려 Content ID(유튜브 저작권 자동 검출) 클레임을 먼저 확인</strong>하고 공개로 전환하세요. 자세한 경고는 <a href="#색보정과-음악">색보정과 음악</a>의 음악 라이선스 절을 따르세요.</li>
+<li>지어낸 트랙명은 쓰지 않으며, 스톡(무료 소재 사이트) 음원을 CC0로 표기하지 않습니다.</li>
+</ul>
+<h3 id="djicapcut-검증-링크"><a class="header" href="#djicapcut-검증-링크">DJI/CapCut 검증 링크</a></h3>
+<ul>
+<li>DJI Mini 5 Pro 사양·매뉴얼은 <a href="#dji-mini-5-pro-사양튜토리얼">드론 장비·튜토리얼 참고</a>의 검증 링크를 재사용하세요 — <a href="https://www.dji.com/mini-5-pro/specs">DJI 공식 사양</a>, <a href="https://support.dji.com/help/content?customId=01700043582&amp;spaceId=17&amp;re=AU&amp;lang=en&amp;paperDocType=ARTICLE">DJI 공식 지원 문서</a>.</li>
+<li>CapCut 공식은 <a href="https://www.capcut.com">capcut.com</a>입니다 — <strong>요금·기능 경계(무료 vs Pro)는 미확인</strong>이라 공식/앱 결제 화면에서 확인하세요 <code>[verify@write]</code>.</li>
+<li>기존 드론 자료 전체는 <a href="#드론-참고-자료">참고자료 인덱스</a>에서 모아 볼 수 있습니다.</li>
+<li>요금·정확한 메뉴 위치·비트레이트 등 미확인 항목은 <code>[verify@write]</code>/미확인으로 남기고 단정하지 않습니다.</li>
 </ul>
 <blockquote>
-<p>📝 이 장은 <strong>작성 예정</strong>입니다. 대표 시나리오와 저자의 실제 촬영본·편집 화면 캡처는 트립(8/13) 후 저자가 직접 촬영·캡처해 채웁니다.</p>
+<p>📝 실제 드론 영상·CapCut 화면 캡처는 트립(8/13) 이후 저자가 직접 촬영·캡처로 교체할 예정입니다. 요금·정확한 메뉴 위치는 버전·지역에 따라 달라지는 미확인 항목이라 확인 후 확정합니다.</p>
 </blockquote>
+<h2 id="이-예제가-되짚는-장들"><a class="header" href="#이-예제가-되짚는-장들">이 예제가 되짚는 장들</a></h2>
+<p>이 한 편을 완성하며 적용한 기법은 앞의 장들에 흩어져 있습니다. 특정 단계가 막히면 해당 장으로 돌아가 확인하세요.</p>
+<ul>
+<li><a href="#드론-영상-촬영-기초">드론 영상 촬영 기초</a> — 프레임레이트·슬로모 헤드룸·D-Log M vs Normal(편집 색보정 부담을 좌우).</li>
+<li><a href="#시네마틱-움직임-샷">시네마틱 움직임 샷</a> — 리빌·오빗·나디르·플라이스루·드로니 같은 움직임을 촬영 단계에서 확보.</li>
+<li><a href="#컷-편집과-순서--속도">컷 편집과 순서 · 속도</a> — 컷/트림·스토리 순서·스피드 램프·안정화(1~6단계).</li>
+<li><a href="#색보정과-음악">색보정과 음악</a> — 색보정 순서 계약·비트싱크·음악 라이선스 경고(7~8단계).</li>
+<li><a href="#내보내기-설정">내보내기 설정</a> — 자막·전환 절제·저더 방지 내보내기(9~11단계).</li>
+</ul>
 <div style="break-before: page; page-break-before: always;"></div>
 <h1 id="드론-참고-자료"><a class="header" href="#드론-참고-자료">드론 참고 자료</a></h1>
 <p>2부 · 드론 사진의 규제·장비·예시를 확인할 자료입니다.</p>
