@@ -10,7 +10,7 @@
 
 ## 노출 기초 (M모드 노출 3요소)
 
-**책 내 관련 챕터**: [노출의 기본: M모드 3요소](../02-fundamentals/exposure-basics.md)
+**책 내 관련 챕터**: [노출의 기본 — 3요소](../02-fundamentals/exposure-basics.md)
 
 - [Milky Way Exposure Calculator](https://www.lonelyspeck.com/milky-way-exposure-calculator/) — Lonely Speck · 무료 글. ISO·조리개·셔터속도를 계산기와 함께 설명하고, 히스토그램으로 노출을 검증하는 법까지 다룹니다.
 - [Camera basics: Understanding The Exposure Triangle](https://photofocus.com/photography/camera-basics-understanding-the-exposure-triangle-shutter-speed-aperture-iso/) — Photofocus(저자 Ken Lee) · 무료 글. 노출 삼각형 개념을 야간 사진(별을 점으로 남기기 위한 셔터속도·조리개·ISO 트레이드오프) 예시로 풀어 설명합니다.

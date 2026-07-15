@@ -5,6 +5,9 @@
 # 1부 · 여행 사진
 
 - [여행 사진 개요](11-travel/index.md)
+- [여행 사진 촬영](11-travel/shooting.md)
+  - [노출의 기본 — 3요소 (노출 삼각형)](02-fundamentals/exposure-basics.md)
+  - [RAW와 화이트밸런스](02-fundamentals/raw-and-wb.md)
   - [Canon R7 카메라 설정 · 렌즈 선택](11-travel/camera-settings.md)
   - [Av 모드 · Auto ISO · 최소 셔터속도 완전 정리](11-travel/av-mode-auto-iso.md)
   - [출발 전 R7 세팅 — 메뉴 · 버튼 · 커스텀 모드](11-travel/setup-and-custom-modes.md)
@@ -33,6 +36,7 @@
 # 2부 · 드론 사진·영상
 
 - [드론 사진·영상 개요](09-drone/index.md)
+- [드론 사진 촬영](09-drone/photo-shooting.md)
   - [DJI Mini 5 Pro 기본 조작](09-drone/dji-mini5pro-basics.md)
   - [DJI Mini 5 Pro 카메라 설정](09-drone/dji-mini5pro-settings.md)
   - [항공 구도의 기초](09-drone/composition.md)
@@ -66,11 +70,9 @@
   - [카메라와 렌즈 고르기](01-gear/camera-lens.md)
   - [필수 액세서리 · 앱](01-gear/accessories.md)
   - [출발 전 체크리스트](01-gear/checklist.md)
-- [촬영 기초](02-fundamentals/index.md)
-  - [노출의 기본: M모드 3요소](02-fundamentals/exposure-basics.md)
+- [은하수 촬영 기초](02-fundamentals/index.md)
   - [500 / NPF 룰 — 크롭센서 셔터속도 계산](02-fundamentals/500-npf-rule.md)
   - [별에 초점 맞추기](02-fundamentals/focusing.md)
-  - [RAW와 화이트밸런스](02-fundamentals/raw-and-wb.md)
   - [은하수 찾기와 타이밍](02-fundamentals/finding-the-milkyway.md)
   - [현장 촬영 워크플로](02-fundamentals/field-workflow.md)
 - [가기 전 연습](03-practice/index.md)
