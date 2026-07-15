@@ -62,11 +62,11 @@ Plans:
   2. 독자가 `video-movements.md`에서 대표 시네마틱 움직임 샷(리빌·오빗·플라이오버·탑다운·드로니·크레인·사이드트랙)을 부드럽게(느린 스틱·Cine/Tripod 모드·샷당 한 움직임·앞뒤 여유 10초) 찍는 법과, 편집용 커버리지(설정+움직임+디테일, 다양한 길이·앵글) 확보를 이해한다.
   3. 독자가 초보자 기본값으로 Normal 프로파일을 권장받고(D-Log M은 고급 옵트인), 고비 환경·주간 VLOS 규제를 기존 [드론 규제](../08-references/drone-mongolia-regulations.md) 링크로 승계해(재도출 없이) 지킨다.
   4. (정직성) DJI Mini 5 Pro 정확 fps 상한·true-vertical 모드가 `[verify@write]`/미확인으로 표기되고(공식 spec 재확인 전 단정 금지, Mini 4 Pro 수치 혼입 금지), 실제 촬영 프레임은 트립 후 교체 문구가 붙는다.
-**Plans**: TBD
+**Plans**: 2 plans
 
 Plans:
-- [ ] 21-01: video-shooting.md (설정 논리 — 프레임레이트·180도 셔터·ND·D-Log M vs Normal·WB 고정, [verify@write] 격리)
-- [ ] 21-02: video-movements.md (7종 움직임 샷 + 부드러운 비행 크래프트 + 커버리지)
+- [ ] 21-01-PLAN.md — video-index.md 랜딩 + video-shooting.md 설정 논리(프레임레이트→180도 셔터→ND→D-Log M vs Normal→WB 고정, [verify@write] 격리). 빌드 게이트 소유 [wave 1]
+- [ ] 21-02-PLAN.md — video-movements.md 7종 움직임 샷 + 부드러운 비행 크래프트 + 편집용 커버리지 [wave 1]
 
 ### Phase 22: CapCut 편집 워크플로
 **Goal**: 독자가 CapCut으로 드론 클립을 가져와 완성 영상까지 만드는 11단계 워크플로를 단계별로 따라 하고, 무료/Pro 경계와 색보정·음악 라이선스를 정직하게 안다.
