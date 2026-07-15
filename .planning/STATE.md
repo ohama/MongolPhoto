@@ -9,12 +9,12 @@ See: .planning/PROJECT.md (updated 2026-07-14)
 
 ## Current Position
 
-Phase: 17 of 19 (필수 보정 순서 + 상황별 레시피) — In progress
-Plan: 1 of 2 in Phase 17 (완료). 다음: 17-02 (travel-recipes.md + before/after + 빌드 게이트)
-Status: In progress
-Last activity: 2026-07-15 — Completed 17-01-PLAN.md (현상 모듈 17단계 편집 순서, 관례 정직 표기·Alt-drag 클리핑·렌즈 프로파일 미확인 대응·마스킹 Phase 18 이월)
+Phase: 17 of 19 (필수 보정 순서 + 상황별 레시피) — Complete
+Plan: 2 of 2 in Phase 17 (완료). Phase 17 종결. 다음: Phase 18 (국소 보정 + 합치기)
+Status: Phase complete
+Last activity: 2026-07-15 — Completed 17-02-PLAN.md (travel-recipes.md 레시피 a~e 슬라이더 방향/이유 + P3 과보정 박스 + CC0 before/after 2쌍 정직 캡션 + 촬영 예방 콜백 + 마스킹 Phase 18 이월, ImageMagick 파생 이미지 4개, 빌드 게이트 그린)
 
-Progress: v1.0 ✅ (Phase 1-6) / v1.1 ✅ (Phase 7-10) / v1.2 ✅ (Phase 11-14) / v1.3 🚧 [████░░░░░░] 44% (4/9 plans)
+Progress: v1.0 ✅ (Phase 1-6) / v1.1 ✅ (Phase 7-10) / v1.2 ✅ (Phase 11-14) / v1.3 🚧 [█████░░░░░] 56% (5/9 plans)
 
 ## Accumulated Context
 
@@ -39,5 +39,5 @@ None.
 ## Session Continuity
 
 Last session: 2026-07-15
-Stopped at: Completed 17-01-PLAN.md. src/13-editing/develop-order.md 스텁 교체(현상 모듈 17단계 = 단계별 소제목+한 줄 rationale, "관례" 정직 프레이밍 3회, 전역→국소 원리, "한눈에 보기" 표 + 1~10/17 코어·11~16 선택 팁, Alt/Option 드래그 클리핑 미리보기, 렌즈 프로파일 미확인→LR 검색+수동 교정+supported-lenses URL·프로파일명 무조작, 마스킹은 Phase 18 masking-and-detail.md로 이월, 다음 장 travel-recipes.md 링크). grep 검증 전부 통과, 가격 숫자 0, 빌드 미실행(17-02 소유), 커밋 4793bd9(docs/ 미커밋·개별 스테이징). Phase 17 진행 중(1/2). 다음: `/gsd:execute-phase 17` → 17-02.
+Stopped at: Completed 17-02-PLAN.md. src/13-editing/travel-recipes.md 스텁 교체(레시피 a~e 대낮·골든아워·역광·인물·날린 하늘 = 슬라이더 방향/이유, 방향은 상대 안내 명시, P3 과보정 박스 헤일로·과채도·크러시드 블랙·과디헤이즈+예방법, CC0 before/after 2쌍 midday·goldenhour 정직 캡션 4항목[시연·인위적 플랫 파생·트립 2026-08-13 후 교체·Bernard Gagnon/CC0/Wikimedia], 촬영 예방 콜백 camera-settings/av-mode/shoot-for-edit, 마스킹 Select Subject/People/Sky 도구명+Phase 18 이월). ImageMagick로 src/images/editing/ 신규 파생 이미지 4개(≤2000px·-strip·q82, before=인위적 플랫·after=재최적화 원본). 빌드 게이트 그린, docs/ 복원·미커밋, 커밋 ba25f2a(개별 스테이징 5파일). grep 검증 전부 통과. Phase 17 완료(2/2). 다음: `/gsd:plan-phase 18` → 국소 보정 + 합치기.
 Resume file: None
