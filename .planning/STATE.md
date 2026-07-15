@@ -9,12 +9,12 @@ See: .planning/PROJECT.md (updated 2026-07-14)
 
 ## Current Position
 
-Phase: 17 of 19 (필수 보정 순서 + 상황별 레시피) — Complete
-Plan: 2 of 2 in Phase 17 (완료). Phase 17 종결. 다음: Phase 18 (국소 보정 + 합치기)
-Status: Phase complete
-Last activity: 2026-07-15 — Completed 17-02-PLAN.md (travel-recipes.md 레시피 a~e 슬라이더 방향/이유 + P3 과보정 박스 + CC0 before/after 2쌍 정직 캡션 + 촬영 예방 콜백 + 마스킹 Phase 18 이월, ImageMagick 파생 이미지 4개, 빌드 게이트 그린)
+Phase: 18 of 19 (국소 보정 + 합치기) — In progress
+Plan: 1 of 2 in Phase 18 (완료). 다음: 18-02 (panorama-hdr.md)
+Status: In progress
+Last activity: 2026-07-15 — Completed 18-01-PLAN.md (masking-and-detail.md 스텁→국소 보정 완성본: 마스킹 자동 5종/수동 4종 언제-무엇 + 샤픈 Masking Alt-drag + AI Denoise RAW전용·새 DNG·샤픈보다 먼저 + 국소 과보정 회피 박스, Phase 17 forward 링크 이행, 빌드 게이트 단독 소유 그린, 신규 이미지 없음)
 
-Progress: v1.0 ✅ (Phase 1-6) / v1.1 ✅ (Phase 7-10) / v1.2 ✅ (Phase 11-14) / v1.3 🚧 [█████░░░░░] 56% (5/9 plans)
+Progress: v1.0 ✅ (Phase 1-6) / v1.1 ✅ (Phase 7-10) / v1.2 ✅ (Phase 11-14) / v1.3 🚧 [██████░░░░] 67% (6/9 plans)
 
 ## Accumulated Context
 
@@ -39,5 +39,5 @@ None.
 ## Session Continuity
 
 Last session: 2026-07-15
-Stopped at: Completed 17-02-PLAN.md. src/13-editing/travel-recipes.md 스텁 교체(레시피 a~e 대낮·골든아워·역광·인물·날린 하늘 = 슬라이더 방향/이유, 방향은 상대 안내 명시, P3 과보정 박스 헤일로·과채도·크러시드 블랙·과디헤이즈+예방법, CC0 before/after 2쌍 midday·goldenhour 정직 캡션 4항목[시연·인위적 플랫 파생·트립 2026-08-13 후 교체·Bernard Gagnon/CC0/Wikimedia], 촬영 예방 콜백 camera-settings/av-mode/shoot-for-edit, 마스킹 Select Subject/People/Sky 도구명+Phase 18 이월). ImageMagick로 src/images/editing/ 신규 파생 이미지 4개(≤2000px·-strip·q82, before=인위적 플랫·after=재최적화 원본). 빌드 게이트 그린, docs/ 복원·미커밋, 커밋 ba25f2a(개별 스테이징 5파일). grep 검증 전부 통과. Phase 17 완료(2/2). 다음: `/gsd:plan-phase 18` → 국소 보정 + 합치기.
+Stopped at: Completed 18-01-PLAN.md. src/13-editing/masking-and-detail.md 스텁 교체(국소 보정 완성본). 인트로=현상 순서 15단계 마스킹·14단계 디테일 되짚기(develop-order 링크)+Phase 17 forward 약속 이행 명시. 섹션1 마스킹=자동 5종(Select Sky/Subject/People/Background/Objects) 언제-무엇 + travel-recipes 레시피 (c)역광/(d)인물/(e)날린하늘 실제 조작 이행, 수동 4종(Brush/Linear·Radial Gradient/Range Mask), Add/Subtract 조합. 섹션2 디테일=샤픈 Masking 슬라이더 Alt/Option 드래그(매끈면 제외·윤곽만·100%)+정직 콜아웃(소프트포커스 복구불가), AI Denoise=Enhance군·v14.4 Detail 직접·RAW/CR3 전용·새 DNG 생성(원본 불변), 순서규칙 Denoise를 샤픈보다 먼저. 섹션3 국소 과보정 회피 박스(헤일로·과채도·크러시드 블랙·과디헤이즈·샤픈과다→Alt-drag·섀도우과리프트→Denoise먼저)+예방원칙+상황별 전체표는 travel-recipes 위임. 닫는=panorama-hdr 다음장 링크. 신규 이미지 없음. 빌드 게이트 단독 소유 그린, docs/ 복원·미커밋, 커밋 92d7fbf(개별 스테이징 1파일). grep 검증 전부 통과. 다음: 18-02 panorama-hdr.md(grep 검증만·빌드 미실행).
 Resume file: None
