@@ -86,8 +86,8 @@ Plans:
 **Plans**: 2 plans (병렬 — 파일 분리)
 
 Plans:
-- [ ] 18-01 — masking-and-detail.md: Select Sky/Gradient/Brush/Select People + 샤픈 + AI Denoise + 과보정 회피, CC0/CC BY 이미지 전/후
-- [ ] 18-02 — panorama-hdr.md: Photo Merge Panorama / HDR / HDR Panorama, Deghost, R7 AEB(3/2/5/7장·±3EV) → 병합 DNG 재현상 콜백
+- [ ] 18-01-PLAN.md — masking-and-detail.md: 마스킹(자동 Select Sky/Subject/People/Background/Objects + 수동 Brush/Linear·Radial Gradient/Range Mask 언제-무엇) + 샤픈(Masking Alt-drag) + AI Denoise(RAW 전용·새 DNG·샤픈보다 먼저) + 국소 과보정 회피 박스; Phase 17 이월 링크 이행; 빌드 게이트 단독 소유(신규 이미지 없음)
+- [ ] 18-02-PLAN.md — panorama-hdr.md: Photo Merge Panorama/HDR/HDR Panorama + Deghost + 병합 DNG 재현상 콜백(develop-order) + R7 AEB 검증 사양(기본 3·2/5/7·±3 EV·1/3스톱) HDR 연결 + 파노라마 중첩(30~50%·노출/WB/초점 수동 고정) + shoot-for-edit 링크; grep 검증만(빌드 미실행)
 
 ### Phase 19: 촬영 연동 + 참고·크레딧 + 최종 검증
 **Goal**: 독자가 편집을 대비한 촬영법을 이해하고, 검증된 크레딧·연습 자료로 파트를 마무리하며, 책 전체 빌드·내부 링크 정합성이 통과한다.
