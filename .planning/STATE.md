@@ -5,14 +5,14 @@
 See: .planning/PROJECT.md (updated 2026-07-15)
 
 **Core value:** 트래킹 장비 없이도 은하수 사진이 "잘 나오게" 하는 전 과정(장비 → 촬영 → 후보정)을 초보자가 따라 성공하도록 담는다. (v1.1 드론 / v1.2 여행 사진 / v1.3 여행 사진 보정으로 확장 완료)
-**Current focus:** 다음 마일스톤 계획 대기 — `/gsd:new-milestone`.
+**Current focus:** v1.4 드론 영상(촬영 + CapCut 편집) — 요구사항 정의 중.
 
 ## Current Position
 
-Phase: — (v1.3 완료, 다음 마일스톤 미정)
+Phase: Not started (defining requirements)
 Plan: —
-Status: Ready to plan next milestone
-Last activity: 2026-07-15 — v1.3 여행 사진 보정 마일스톤 완료·아카이브·태그
+Status: Defining requirements
+Last activity: 2026-07-15 — v1.4 드론 영상 마일스톤 시작(리서치 진행)
 
 Progress: v1.0 ✅ SHIPPED (Phase 1-6) / v1.1 ✅ SHIPPED (Phase 7-10) / v1.2 ✅ SHIPPED (Phase 11-14) / v1.3 ✅ SHIPPED (Phase 15-19, 9 plans)
 
