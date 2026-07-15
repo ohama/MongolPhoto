@@ -5,16 +5,16 @@
 See: .planning/PROJECT.md (updated 2026-07-15)
 
 **Core value:** 트래킹 장비 없이도 은하수 사진이 "잘 나오게" 하는 전 과정(장비 → 촬영 → 후보정)을 초보자가 따라 성공하도록 담는다. (v1.1 드론 / v1.2 여행 사진 / v1.3 여행 사진 보정으로 확장 완료)
-**Current focus:** v1.4 드론 영상(촬영 + CapCut 편집) — Phase 22-01 실행 완료(CapCut 입문·컷/속도). 다음: 22-02(grade-speed·export) 또는 21-02(움직임 샷).
+**Current focus:** v1.4 드론 영상(촬영 + CapCut 편집) — Phase 22-02 실행 완료(색보정·음악·내보내기). 다음: 23(예시 스토리보드+최종 게이트) 또는 21-02(움직임 샷).
 
 ## Current Position
 
-Phase: 22 (CapCut 편집 워크플로) — In progress
-Plan: 22-01 complete (VEDIT-01 앞부분: 설치·무료/Pro + 워크플로 1~6단계)
-Status: In progress — 22-02(grade-speed·export) 대기, 21-02(움직임 샷)도 대기
-Last activity: 2026-07-15 — 22-01 실행 완료(capcut-index 랜딩 + basics·cut 본문·빌드 그린, 빌드 게이트 소유)
+Phase: 22 (CapCut 편집 워크플로) — Complete
+Plan: 22-02 complete (VEDIT-02 색보정·음악 라이선스 + VEDIT-01 내보내기 부분)
+Status: Phase 22 complete — 다음 23(스토리보드+최종 게이트) 대기, 21-02(움직임 샷)도 대기
+Last activity: 2026-07-15 — 22-02 실행 완료(grade-speed·export 본문: D-Log 순서·음악 라이선스 콜아웃·저더 방지 내보내기, grep-verify 통과)
 
-Progress: v1.0 ✅ SHIPPED (Phase 1-6) / v1.1 ✅ SHIPPED (Phase 7-10) / v1.2 ✅ SHIPPED (Phase 11-14) / v1.3 ✅ SHIPPED (Phase 15-19) / v1.4 🚧 진행 중 (Phase 20 ✅ / 21 진행 중 / 22-23 대기)
+Progress: v1.0 ✅ SHIPPED (Phase 1-6) / v1.1 ✅ SHIPPED (Phase 7-10) / v1.2 ✅ SHIPPED (Phase 11-14) / v1.3 ✅ SHIPPED (Phase 15-19) / v1.4 🚧 진행 중 (Phase 20 ✅ / 21 진행 중 / 22 ✅ / 23 대기)
 
 ## Roadmap (v1.4)
 
@@ -51,9 +51,14 @@ v1.4 Phase 22-01 실행 사항:
 - VEDIT-01 앞부분 확정: capcut-basics(모바일vs데스크톱 — 외부 LUT 임포트 데스크톱 전용→D-Log M 데스크톱 필수, 무료 1080p 무워터마크 / 4K·HDR·Pro 딱지=Pro·워터마크, DaVinci 무료 대안, ByteDance 캐비어트) + capcut-cut(11단계 척추 1~6단계, 슬로모 vs 스피드 램프, 과안정화 크롭 경고) + capcut-index 실 랜딩(5링크, 스텁 티저 제거).
 - 빌드 게이트 소유(mdbook build 그린·죽은 링크 0, docs/ 미커밋). 요금·메뉴 위치 [verify@write] 격리, 스크린샷=저자 캡처 예정. 커밋은 태스크별 원자 커밋 3개(개별 스테이징).
 
+v1.4 Phase 22-02 실행 사항:
+- VEDIT-02 + VEDIT-01 내보내기 확정: capcut-grade-speed(색보정 7단계 — Normal 가벼운 1패스 / D-Log M 고정 순서 ①Log→Rec.709 변환 먼저 ②노출·WB ③룩, 생 raw Log 룩 LUT 금지, 데스크톱 전용 LUT, video-shooting.md 계약 이행 백링크; 음악·비트싱크 8단계; **음악 라이선스 blockquote ⚠️ 콜아웃** = Content ID·"TikTok≠YouTube"·YouTube Studio 오디오 보관함 기본값·Unlisted 선확인) + capcut-export(자막·전환 절제, 내보내기 = 소스 fps 매칭·촬영보다 높은 fps 금지 저더 방지·1080p 무료 무워터마크·4K=Pro, 비트레이트 범위 [verify@write]).
+- 빌드 게이트 미소유(22-01 소유) — grep-verify만·mdbook build 미실행. 스코프 격리: 음악 라이선스 본문 grade-speed 전용(export는 링크만, Content ID grep=0). 요금 숫자 0·지어낸 URL 0. 단일 커밋(개별 스테이징).
+
 ### Pending Todos
 
-- Phase 22-02: video-shooting.md·22-01이 약속한 D-Log M 그레이딩 순서(Log→Rec.709→노출·WB→룩)를 capcut-grade-speed.md에 실제 채우기 + 음악 라이선스(Content ID) 경고 + capcut-export.md(자막·전환·해상도/fps/비트레이트).
+- Phase 23: 예시 편집 — 고비 드론 스토리보드(capcut-storyboard.md) 본문 + 크레딧 + **전체 빌드/링크 최종 게이트**(wave 2 직렬). grade-speed·export 신규 링크 죽은 링크 검증 포함.
+- Phase 21-02(선택): 시네마틱 움직임 샷(video-movements.md).
 
 ### Blockers/Concerns
 
