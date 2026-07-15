@@ -5,16 +5,16 @@
 See: .planning/PROJECT.md (updated 2026-07-15)
 
 **Core value:** 트래킹 장비 없이도 은하수 사진이 "잘 나오게" 하는 전 과정(장비 → 촬영 → 후보정)을 초보자가 따라 성공하도록 담는다. (v1.1 드론 / v1.2 여행 사진 / v1.3 여행 사진 보정으로 확장 완료)
-**Current focus:** v1.4 드론 영상(촬영 + CapCut 편집) — Phase 22-02 실행 완료(색보정·음악·내보내기). 다음: 23(예시 스토리보드+최종 게이트) 또는 21-02(움직임 샷).
+**Current focus:** v1.4 드론 영상(촬영 + CapCut 편집) — Phase 23 완료(예시 스토리보드+크레딧+최종 빌드/링크 게이트 PASS). 잔여 선택: 21-02(움직임 샷).
 
 ## Current Position
 
-Phase: 23 (예시 스토리보드 + 최종 게이트) — In progress (1/2 plans)
-Plan: 23-01 complete (VEXAMPLE-01 스토리보드·11단계 매핑 + VREF-01 크레딧)
-Status: 23-01 실행 완료 — 다음 23-02(전체 최종 빌드/링크 게이트, wave 2 직렬) 대기, 21-02(움직임 샷)도 대기
-Last activity: 2026-07-15 — 23-01 실행 완료(capcut-storyboard.md 실 본문: 6클립 표·11단계 스텝바이스텝·3 CC0 정지프레임·크레딧, mdbook 그린·docs 미커밋·단일 커밋)
+Phase: 23 (예시 스토리보드 + 최종 게이트) — Complete (2/2 plans)
+Plan: 23-02 complete (전체 mdbook build 그린 + 내부 링크 715개 전수 스캔 DEAD 0 → 게이트 PASS)
+Status: Phase 23 완료 — v1.4 콘텐츠 빌드·링크 무결성 게이트 PASS(GREEN). 잔여 선택: 21-02(움직임 샷, 마일스톤 필수 아님)
+Last activity: 2026-07-15 — 23-02 실행 완료(mdbook build src 그린·create-missing=false, 링크 전수 스캔 TOTAL 715·DEAD 0(known FP 2건 제외), 23-02-LINK-CHECK 리포트, docs 미커밋·리포트만 커밋 0944dee)
 
-Progress: v1.0 ✅ SHIPPED (Phase 1-6) / v1.1 ✅ SHIPPED (Phase 7-10) / v1.2 ✅ SHIPPED (Phase 11-14) / v1.3 ✅ SHIPPED (Phase 15-19) / v1.4 🚧 진행 중 (Phase 20 ✅ / 21 진행 중 / 22 ✅ / 23 진행 중 1/2)
+Progress: v1.0 ✅ SHIPPED (Phase 1-6) / v1.1 ✅ SHIPPED (Phase 7-10) / v1.2 ✅ SHIPPED (Phase 11-14) / v1.3 ✅ SHIPPED (Phase 15-19) / v1.4 🚧 진행 중 (Phase 20 ✅ / 21 진행 중 / 22 ✅ / 23 ✅)
 
 ## Roadmap (v1.4)
 
@@ -57,8 +57,9 @@ v1.4 Phase 22-02 실행 사항:
 
 ### Pending Todos
 
-- Phase 23: 예시 편집 — 고비 드론 스토리보드(capcut-storyboard.md) 본문 + 크레딧 + **전체 빌드/링크 최종 게이트**(wave 2 직렬). grade-speed·export 신규 링크 죽은 링크 검증 포함.
-- Phase 21-02(선택): 시네마틱 움직임 샷(video-movements.md).
+- Phase 21-02(선택): 시네마틱 움직임 샷(video-movements.md) — 마일스톤 필수 아님.
+- v1.4 마일스톤 마감: 콘텐츠 게이트 PASS. `/gsd:complete-milestone` 또는 21-02 추가 후 마감 선택.
+- 실촬영본·CapCut/DJI UI 캡처는 트립(8/13) 후 교체(콘텐츠 무결성 무관).
 
 ### Blockers/Concerns
 
@@ -70,5 +71,5 @@ v1.4 Phase 22-02 실행 사항:
 ## Session Continuity
 
 Last session: 2026-07-15
-Stopped at: Phase 23-01 실행 완료 — capcut-storyboard.md 실 본문(대표 시나리오·6클립 표·11단계 스텝바이스텝(램프1·비트싱크2)·3 CC0 정지프레임·크레딧)·mdbook 그린·docs 미커밋·단일 커밋(5fa8022). 다음: 23-02(전체 최종 빌드/링크 게이트) 또는 21-02(움직임 샷).
+Stopped at: Phase 23-02 실행 완료 — v1.4 최종 게이트 PASS(mdbook build src 그린, 내부 링크 전수 스캔 TOTAL 715·DEAD 0·known FP 2건 제외). 23-02-LINK-CHECK 리포트·SUMMARY 기록, 리포트만 커밋(0944dee)·docs 미커밋. Phase 23 완료. 다음: v1.4 마감(complete-milestone) 또는 21-02(움직임 샷, 선택).
 Resume file: None

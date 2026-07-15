@@ -35,7 +35,7 @@
 - [x] **Phase 20: 2부 재구성 + 스텁** — 사진/영상 분리 재편, 새 파트 스텁·랜딩, 빌드 그린
 - [ ] **Phase 21: 드론 영상 촬영** — DJI Mini 5 Pro 영상 설정 + 시네마틱 움직임 샷
 - [x] **Phase 22: CapCut 편집 워크플로** — 가져오기→내보내기 단계별 + 색보정·음악 라이선스
-- [ ] **Phase 23: 예시 편집 스토리보드 + 크레딧 + 최종 게이트** (1/2 plans) — 대표 고비 클립 스텝바이스텝 + 참고·크레딧 + 전체 빌드/링크 검증 [23-01 ✅ 본문·크레딧 / 23-02 최종 게이트 대기]
+- [x] **Phase 23: 예시 편집 스토리보드 + 크레딧 + 최종 게이트** (2/2 plans) — 대표 고비 클립 스텝바이스텝 + 참고·크레딧 + 전체 빌드/링크 검증 [23-01 ✅ 본문·크레딧 / 23-02 ✅ 최종 게이트 PASS: build 그린·링크 715·DEAD 0]
 
 ## Phase Details
 
@@ -95,8 +95,8 @@ Plans:
 **Plans**: 2 plans
 
 Plans:
-- [ ] 23-01: capcut-storyboard.md (6클립 스토리보드 + 스텝바이스텝, CC0 스틸·대표 시나리오 정직 라벨) + credits/참고 정리 (VREF) [wave 1]
-- [ ] 23-02: 책 전체 최종 `mdbook build src` 그린 + 내부 링크 전수 스캔(dead 0) + LINK-CHECK 리포트 [wave 2, depends_on 23-01]
+- [x] 23-01: capcut-storyboard.md (6클립 스토리보드 + 스텝바이스텝, CC0 스틸·대표 시나리오 정직 라벨) + credits/참고 정리 (VREF) [wave 1]
+- [x] 23-02: 책 전체 최종 `mdbook build src` 그린 + 내부 링크 전수 스캔(dead 0) + LINK-CHECK 리포트 [wave 2, depends_on 23-01] — PASS(TOTAL 715·DEAD 0)
 
 ## Progress
 
@@ -107,4 +107,4 @@ Plans:
 | 20. 2부 재구성 + 스텁 | v1.4 | 1/1 | Complete | 2026-07-15 |
 | 21. 드론 영상 촬영 | v1.4 | 1/2 | In progress | - |
 | 22. CapCut 편집 워크플로 | v1.4 | 2/2 | Complete | 2026-07-15 |
-| 23. 예시 스토리보드 + 최종 게이트 | v1.4 | 0/2 | Not started | - |
+| 23. 예시 스토리보드 + 최종 게이트 | v1.4 | 2/2 | Complete | 2026-07-15 |
