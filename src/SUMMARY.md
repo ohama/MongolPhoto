@@ -30,7 +30,7 @@
   - [카메라 사용법·촬영 팁 튜토리얼](08-references/travel-gear-tutorials.md)
   - [여행 사진 예시 갤러리](08-references/travel-galleries.md)
 
-# 2부 · 드론 사진
+# 2부 · 드론 사진·영상
 
 - [드론 사진 개요](09-drone/index.md)
   - [DJI Mini 5 Pro 기본 조작](09-drone/dji-mini5pro-basics.md)
@@ -44,9 +44,16 @@
   - [홍고린엘스 (Khongoryn Els)](10-drone-sites/khongoryn-els.md)
   - [욜링암 (Yolyn Am)](10-drone-sites/yolyn-am.md)
   - [바가가즈링 촐로 (Baga Gazriin Chuluu)](10-drone-sites/baga-gazriin-chuluu.md)
-- [드론 사진·영상 보정](09-drone/postprocessing-index.md)
-  - [드론 사진 후보정](09-drone/drone-postprocessing.md)
-  - [드론 영상 보정](09-drone/video-editing.md)
+- [드론 사진 후보정](09-drone/drone-postprocessing.md)
+- [드론 영상 촬영](09-drone/video-index.md)
+  - [드론 영상 촬영 기초](09-drone/video-shooting.md)
+  - [시네마틱 움직임 샷](09-drone/video-movements.md)
+- [CapCut 영상 편집](09-drone/capcut-index.md)
+  - [CapCut 시작하기 · 무료/Pro](09-drone/capcut-basics.md)
+  - [컷 편집과 순서 · 속도](09-drone/capcut-cut.md)
+  - [색보정과 음악](09-drone/capcut-grade-speed.md)
+  - [내보내기 설정](09-drone/capcut-export.md)
+  - [예시 편집 — 고비 드론 스토리보드](09-drone/capcut-storyboard.md)
 - [드론 참고 자료](08-references/drone-index.md)
   - [몽골 드론 비행 규제·허가](08-references/drone-mongolia-regulations.md)
   - [DJI Mini 5 Pro 사양·튜토리얼](08-references/drone-gear-tutorials.md)
