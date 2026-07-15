@@ -59,7 +59,7 @@
 | VSHOOT-02 | Phase 21 | Complete |
 | VEDIT-01 | Phase 22 | Complete |
 | VEDIT-02 | Phase 22 | Complete |
-| VEXAMPLE-01 | Phase 23 | Pending |
-| VREF-01 | Phase 23 | Pending |
+| VEXAMPLE-01 | Phase 23 | Complete |
+| VREF-01 | Phase 23 | Complete |
 
 **Coverage:** 8/8 v1.4 requirements mapped ✓ — no orphans, no duplicates.
