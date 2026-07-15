@@ -102,7 +102,7 @@ Plans:
 
 Plans:
 - [x] 19-01-PLAN.md — shoot-for-edit.md(A1~A7 RAW·하이라이트·ETTR(규칙 아닌 선택)·WB·렌즈 프로파일(미확인)·AEB 브라케팅·인카메라 초점 + 촬영/편집 배치표) + credits.md(recipe before/after 4장 CC0 크레딧 표 + 무료 RAW/LR 학습 참고는 08-references·07-appendix 링크 재사용) [wave 1]
-- [ ] 19-02-PLAN.md — 책 전체 최종 `mdbook build src` 그린 + 내부 링크 전수 스캔(dead 0) + LINK-CHECK 리포트 [wave 2, depends_on 19-01]
+- [x] 19-02-PLAN.md — 책 전체 최종 `mdbook build src` 그린 + 내부 링크 전수 스캔(dead 0) + LINK-CHECK 리포트 [wave 2, depends_on 19-01] ✅ PASS (591 links, dead 0)
 
 ## Progress
 
@@ -114,7 +114,7 @@ Plans:
 | 16. 개념·카탈로그·도구 선택 | 0/2 | Not started | - |
 | 17. 필수 보정 순서 + 레시피 | 2/2 | Complete | 2026-07-15 |
 | 18. 국소 보정 + 합치기 | 2/2 | Complete | 2026-07-15 |
-| 19. 촬영 연동 + 크레딧 + 최종 검증 | 1/2 | In progress | - |
+| 19. 촬영 연동 + 크레딧 + 최종 검증 | 2/2 | Complete | 2026-07-15 |
 
 ---
 
