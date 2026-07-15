@@ -65,7 +65,7 @@ Plans:
 **Plans**: 2 plans
 
 Plans:
-- [ ] 21-01-PLAN.md — video-index.md 랜딩 + video-shooting.md 설정 논리(프레임레이트→180도 셔터→ND→D-Log M vs Normal→WB 고정, [verify@write] 격리). 빌드 게이트 소유 [wave 1]
+- [x] 21-01-PLAN.md — video-index.md 랜딩 + video-shooting.md 설정 논리(프레임레이트→180도 셔터→ND→D-Log M vs Normal→WB 고정, [verify@write] 격리). 빌드 게이트 소유 [wave 1]
 - [ ] 21-02-PLAN.md — video-movements.md 7종 움직임 샷 + 부드러운 비행 크래프트 + 편집용 커버리지 [wave 1]
 
 ### Phase 22: CapCut 편집 워크플로
@@ -105,6 +105,6 @@ Plans:
 | Phase | Milestone | Plans Complete | Status | Completed |
 |-------|-----------|----------------|--------|-----------|
 | 20. 2부 재구성 + 스텁 | v1.4 | 1/1 | Complete | 2026-07-15 |
-| 21. 드론 영상 촬영 | v1.4 | 0/2 | Not started | - |
+| 21. 드론 영상 촬영 | v1.4 | 1/2 | In progress | - |
 | 22. CapCut 편집 워크플로 | v1.4 | 0/2 | Not started | - |
 | 23. 예시 스토리보드 + 최종 게이트 | v1.4 | 0/2 | Not started | - |

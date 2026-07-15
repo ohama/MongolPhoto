@@ -5,16 +5,16 @@
 See: .planning/PROJECT.md (updated 2026-07-15)
 
 **Core value:** 트래킹 장비 없이도 은하수 사진이 "잘 나오게" 하는 전 과정(장비 → 촬영 → 후보정)을 초보자가 따라 성공하도록 담는다. (v1.1 드론 / v1.2 여행 사진 / v1.3 여행 사진 보정으로 확장 완료)
-**Current focus:** v1.4 드론 영상(촬영 + CapCut 편집) — Phase 20 완료(2부 재편+스텁). 다음: `/gsd:plan-phase 21`.
+**Current focus:** v1.4 드론 영상(촬영 + CapCut 편집) — Phase 21-01 실행 완료(영상 설정 논리 척추). 다음: 21-02(움직임 샷) 또는 Phase 22(CapCut, 병렬).
 
 ## Current Position
 
-Phase: 20 (2부 재구성 + 스텁) — Complete
-Plan: 1 of 1 complete
-Status: Phase complete — Phase 21(21·22 병렬 가능)로 진행 준비
-Last activity: 2026-07-15 — 20-01 실행 완료(2부 재편·스텁 9개·빌드 그린)
+Phase: 21 (드론 영상 촬영) — In progress
+Plan: 21-01 complete (VSHOOT-01 설정 인과 사슬)
+Status: In progress — 21-02(VSHOOT-02 움직임 샷) 대기, Phase 22 병렬 가능
+Last activity: 2026-07-15 — 21-01 실행 완료(video-index 랜딩 + video-shooting 인과 사슬·빌드 그린)
 
-Progress: v1.0 ✅ SHIPPED (Phase 1-6) / v1.1 ✅ SHIPPED (Phase 7-10) / v1.2 ✅ SHIPPED (Phase 11-14) / v1.3 ✅ SHIPPED (Phase 15-19) / v1.4 🚧 진행 중 (Phase 20 ✅ / 21-23 대기)
+Progress: v1.0 ✅ SHIPPED (Phase 1-6) / v1.1 ✅ SHIPPED (Phase 7-10) / v1.2 ✅ SHIPPED (Phase 11-14) / v1.3 ✅ SHIPPED (Phase 15-19) / v1.4 🚧 진행 중 (Phase 20 ✅ / 21 진행 중 / 22-23 대기)
 
 ## Roadmap (v1.4)
 
@@ -42,9 +42,14 @@ v1.4 Phase 20 실행 사항:
 - 2부 재편 확정: `# 2부 · 드론 사진·영상`, 결합 그룹 retire(postprocessing-index·video-editing 삭제), drone-postprocessing 단독 리프 승격, 2개 클릭 랜딩(video-index·capcut-index) + 스텁 9개.
 - 정직 스텁 원칙: 미확인 수치(CapCut 요금·DJI fps·LUT 위치) 단정 금지, 음악 라이선스는 flat 단정 아닌 '확인 예정' 주제로 표기(Phase 22가 검증 채움).
 
+v1.4 Phase 21-01 실행 사항:
+- VSHOOT-01 확정: video-shooting.md에 프레임레이트→180도 셔터(관례)→영상용 ND(사진 대비 왜 필수)→D-Log M vs Normal→WB·노출 고정 인과 사슬. 초보 기본값 Normal, D-Log M 고급 옵트인.
+- [verify@write] 격리: 정확 fps 상한·true-vertical만 플래그(공식 URL), 검증 사실(10-bit H.265·ISO 3200/12800·f/1.8·180도 관례) 단정. Mini 4 Pro 수치 0.
+- 전방 링크 계약: video-shooting → capcut-index에 "Log→Rec.709→노출·WB→룩" 그레이딩 순서 약속(Phase 22가 실제로 채워야 함).
+
 ### Pending Todos
 
-None (Phase 21 계획 대기 — 21·22 병렬 가능).
+- Phase 22 CapCut 파트: video-shooting.md가 약속한 D-Log M 그레이딩 순서(Log→Rec.709→노출·WB→룩) 실제 채우기.
 
 ### Blockers/Concerns
 
@@ -56,5 +61,5 @@ None (Phase 21 계획 대기 — 21·22 병렬 가능).
 ## Session Continuity
 
 Last session: 2026-07-15
-Stopped at: Phase 20-01 실행 완료 — 2부 재편·스텁 9개·retire 2개·intro/README 갱신·mdbook 그린. 다음: `/gsd:plan-phase 21`.
+Stopped at: Phase 21-01 실행 완료 — video-index 랜딩 + video-shooting 설정 인과 사슬(VSHOOT-01)·mdbook 그린·단일 커밋(c743b03). 다음: 21-02(움직임 샷) 또는 Phase 22(CapCut, 병렬).
 Resume file: None
