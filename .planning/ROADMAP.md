@@ -101,8 +101,8 @@ Plans:
 **Plans**: 2 plans (wave 1 → wave 2 최종 게이트 직렬)
 
 Plans:
-- [ ] 19-01 — shoot-for-edit.md: A1~A7(RAW·하이라이트·ETTR·WB·렌즈 프로파일·브라케팅·초점) 촬영 vs 편집 배치 + credits.md(출처·라이선스·변경 표) + raw-develop 무료 실습 링크
-- [ ] 19-02 — 책 전체 최종 `mdbook build` 그린 + 내부 링크 전수 검증(dead 0)
+- [ ] 19-01-PLAN.md — shoot-for-edit.md(A1~A7 RAW·하이라이트·ETTR(규칙 아닌 선택)·WB·렌즈 프로파일(미확인)·AEB 브라케팅·인카메라 초점 + 촬영/편집 배치표) + credits.md(recipe before/after 4장 CC0 크레딧 표 + 무료 RAW/LR 학습 참고는 08-references·07-appendix 링크 재사용) [wave 1]
+- [ ] 19-02-PLAN.md — 책 전체 최종 `mdbook build src` 그린 + 내부 링크 전수 스캔(dead 0) + LINK-CHECK 리포트 [wave 2, depends_on 19-01]
 
 ## Progress
 
