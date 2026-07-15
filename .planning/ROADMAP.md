@@ -77,11 +77,11 @@ Plans:
   2. 독자가 CapCut 무료 티어(자체 편집 1080p 워터마크 없음)와 Pro 필요 지점(4K·HDR·프리미엄 템플릿·템플릿 워터마크)을 구분하고, 내보내기 설정(해상도·fps·비트레이트 매칭, 촬영보다 높은 fps 금지)과 과안정화·과전환 함정을 안다(대안 DaVinci Resolve 간단 언급).
   3. 독자가 D-Log M 색보정을 순서 있는 워크플로(Log→Rec709 변환 먼저 → 노출·WB → 룩)로 이해하고(생 Log에 룩 LUT 금지, LUT 임포트는 데스크톱 전용), Normal 소스는 가벼운 보정만 필요함을 안다.
   4. (정직성·최대 지뢰) 독자가 CapCut 내장 음원은 TikTok/CapCut 생태계 한정 라이선스라 유튜브 업로드 시 Content ID 위험(뮤트·수익화 제한)이 있음을 눈에 띄는 콜아웃으로 이해하고, 기본값으로 YouTube Studio Audio Library/로열티프리를 안내받는다(유료 소스는 요금 `[verify@write]`). CapCut 요금 USD/KRW·free-vs-Pro 경계·LUT 메뉴 위치는 미확인/저자 직접 캡처 예정, "ByteDance 소유·정책 변동 가능" 캐비어트 포함.
-**Plans**: TBD
+**Plans**: 2 plans (wave 1)
 
 Plans:
-- [ ] 22-01: capcut-basics.md (설치·인터페이스·프로젝트) + capcut-cut.md (컷/트림·스토리 순서)
-- [ ] 22-02: capcut-grade-speed.md (색보정·안정화·속도, D-Log M 순서 워크플로) + capcut-export.md (음악·자막·내보내기, 음악 라이선스 콜아웃)
+- [ ] 22-01-PLAN.md — capcut-index.md 랜딩 + capcut-basics.md(설치·무료/Pro·데스크톱·DaVinci) + capcut-cut.md(워크플로 1~6단계). 빌드 게이트 소유
+- [ ] 22-02-PLAN.md — capcut-grade-speed.md(D-Log M 순서 워크플로 + 음악 라이선스 콜아웃) + capcut-export.md(자막·전환·내보내기 저더 방지). grep-verify
 
 ### Phase 23: 예시 편집 스토리보드 + 크레딧 + 최종 게이트
 **Goal**: 독자가 대표 고비 드론 클립 시나리오로 45~60초 영상을 스토리보드부터 CapCut 스텝바이스텝까지 따라 하며 "완성 감각"을 얻고, 파트가 검증된 참고·크레딧으로 마무리되며, 책 전체 빌드·내부 링크가 통과한다.
