@@ -61,6 +61,7 @@
 
 # 3부 · 천체사진 (은하수)
 
+- [천체사진 (은하수) 개요](astro-overview.md)
 - [장비 가이드](01-gear/index.md)
   - [카메라와 렌즈 고르기](01-gear/camera-lens.md)
   - [필수 액세서리 & 앱](01-gear/accessories.md)
