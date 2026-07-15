@@ -57,8 +57,8 @@
 | STRUCT-02 | Phase 20 | Complete |
 | VSHOOT-01 | Phase 21 | Complete |
 | VSHOOT-02 | Phase 21 | Complete |
-| VEDIT-01 | Phase 22 | Pending |
-| VEDIT-02 | Phase 22 | Pending |
+| VEDIT-01 | Phase 22 | Complete |
+| VEDIT-02 | Phase 22 | Complete |
 | VEXAMPLE-01 | Phase 23 | Pending |
 | VREF-01 | Phase 23 | Pending |
 
