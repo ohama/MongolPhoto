@@ -75,7 +75,7 @@
 | RECIPE-02 | Phase 17 | Complete |
 | LOCAL-01 | Phase 18 | Complete |
 | LOCAL-02 | Phase 18 | Complete |
-| SHOOT-01 | Phase 19 | Pending |
-| REF-01 | Phase 19 | Pending |
+| SHOOT-01 | Phase 19 | Complete |
+| REF-01 | Phase 19 | Complete |
 
 **Coverage:** 13/13 requirements mapped ✓ (no orphans, no duplicates)
