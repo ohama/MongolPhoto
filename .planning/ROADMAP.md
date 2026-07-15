@@ -80,7 +80,7 @@ Plans:
 **Plans**: 2 plans (wave 1)
 
 Plans:
-- [ ] 22-01-PLAN.md — capcut-index.md 랜딩 + capcut-basics.md(설치·무료/Pro·데스크톱·DaVinci) + capcut-cut.md(워크플로 1~6단계). 빌드 게이트 소유
+- [x] 22-01-PLAN.md — capcut-index.md 랜딩 + capcut-basics.md(설치·무료/Pro·데스크톱·DaVinci) + capcut-cut.md(워크플로 1~6단계). 빌드 게이트 소유 ✅ 2026-07-15
 - [ ] 22-02-PLAN.md — capcut-grade-speed.md(D-Log M 순서 워크플로 + 음악 라이선스 콜아웃) + capcut-export.md(자막·전환·내보내기 저더 방지). grep-verify
 
 ### Phase 23: 예시 편집 스토리보드 + 크레딧 + 최종 게이트
@@ -106,5 +106,5 @@ Plans:
 |-------|-----------|----------------|--------|-----------|
 | 20. 2부 재구성 + 스텁 | v1.4 | 1/1 | Complete | 2026-07-15 |
 | 21. 드론 영상 촬영 | v1.4 | 1/2 | In progress | - |
-| 22. CapCut 편집 워크플로 | v1.4 | 0/2 | Not started | - |
+| 22. CapCut 편집 워크플로 | v1.4 | 1/2 | In progress | - |
 | 23. 예시 스토리보드 + 최종 게이트 | v1.4 | 0/2 | Not started | - |
