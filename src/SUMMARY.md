@@ -38,6 +38,7 @@
 - [드론 사진·영상 개요](09-drone/index.md)
 - [드론 사진 촬영](09-drone/photo-shooting.md)
   - [DJI Mini 5 Pro 기본 조작](09-drone/dji-mini5pro-basics.md)
+  - [첫 비행 — 스위치부터 사진 확인까지](09-drone/first-flight.md)
   - [DJI Mini 5 Pro 카메라 설정](09-drone/dji-mini5pro-settings.md)
   - [항공 구도의 기초](09-drone/composition.md)
   - [비행 기초와 배터리·RTH 관리](09-drone/flight-and-battery.md)
