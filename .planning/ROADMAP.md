@@ -92,7 +92,7 @@ Plans:
   2. 독자가 예제가 실촬영본 부재로 "대표 시나리오"임을 명확히 인지한다 — 3장 Bernard Gagnon CC0 정지프레임(khongoryn-els·bayanzag·yolyn-am, "지상 촬영 예시 — 실제 드론 영상 프레임은 트립 후 교체" 캡션), 자체 영상 임베드 없음(GitHub Pages 한계), 스톡을 CC0로 오표기하지 않음.
   3. 독자가 새 파트의 크레딧에서 DJI/CapCut 검증 링크, 라이선스 안전 음원 소스, 정지프레임 출처·라이선스를 검증된 것만(미확인 표기, 기존 08-references 드론 자료 재사용) 정리된 형태로 본다.
   4. (게이트) `mdbook build src`가 그린이고 책 전체 내부 링크 전수 스캔에서 dead 0 — 이 최종 검증은 wave 2로 직렬화되어 콘텐츠 플랜 완료 후 실행된다(v1.2/v1.3 false-PASS 레이스 방지).
-**Plans**: TBD
+**Plans**: 2 plans
 
 Plans:
 - [ ] 23-01: capcut-storyboard.md (6클립 스토리보드 + 스텝바이스텝, CC0 스틸·대표 시나리오 정직 라벨) + credits/참고 정리 (VREF) [wave 1]
