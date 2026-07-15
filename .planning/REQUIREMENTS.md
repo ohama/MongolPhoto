@@ -51,4 +51,15 @@
 
 ## Traceability
 
-(로드맵 생성 시 채움)
+| Requirement | Phase | Status |
+|-------------|-------|--------|
+| STRUCT-01 | Phase 20 | Pending |
+| STRUCT-02 | Phase 20 | Pending |
+| VSHOOT-01 | Phase 21 | Pending |
+| VSHOOT-02 | Phase 21 | Pending |
+| VEDIT-01 | Phase 22 | Pending |
+| VEDIT-02 | Phase 22 | Pending |
+| VEXAMPLE-01 | Phase 23 | Pending |
+| VREF-01 | Phase 23 | Pending |
+
+**Coverage:** 8/8 v1.4 requirements mapped ✓ — no orphans, no duplicates.
