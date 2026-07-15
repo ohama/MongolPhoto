@@ -72,7 +72,7 @@ Plans:
 **Plans**: 2 plans (병렬 — 파일 분리; 이미지 라이선스 육안 재확인 필요)
 
 Plans:
-- [ ] 17-01 — develop-order.md: 17단계 척추 각 단계 = 한 섹션 + 한 줄 rationale("관례" 정직 표기), Alt-drag 클리핑·렌즈 프로파일 in-app 검색+수동, 마스킹은 Phase 18 링크 (텍스트 전용·이미지 생성 없음)
+- [x] 17-01 — develop-order.md: 17단계 척추 각 단계 = 한 섹션 + 한 줄 rationale("관례" 정직 표기), Alt-drag 클리핑·렌즈 프로파일 in-app 검색+수동, 마스킹은 Phase 18 링크 (텍스트 전용·이미지 생성 없음) ✅ 2026-07-15
 - [ ] 17-02 — travel-recipes.md: 레시피 a~e(대낮·황혼·역광·인물·하늘 복원) + 과보정(P3) 박스 + "촬영으로 예방" 콜백 + CC0 before/after ≥2쌍(정직 캡션) + 빌드 게이트 단독 소유
 
 ### Phase 18: 국소 보정 + 합치기

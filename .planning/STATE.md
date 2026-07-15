@@ -9,12 +9,12 @@ See: .planning/PROJECT.md (updated 2026-07-14)
 
 ## Current Position
 
-Phase: 16 of 19 (개념·카탈로그·도구 선택) — Phase complete
-Plan: 2 of 2 in Phase 16 (완료). Phase 16 종료 → 다음: Phase 17 계획
-Status: Phase complete
-Last activity: 2026-07-14 — Completed 16-02-PLAN.md (구독 전용 경고 + 8개 앱 비교표 + 무료/영구 대안, 원화 미확인 처리)
+Phase: 17 of 19 (필수 보정 순서 + 상황별 레시피) — In progress
+Plan: 1 of 2 in Phase 17 (완료). 다음: 17-02 (travel-recipes.md + before/after + 빌드 게이트)
+Status: In progress
+Last activity: 2026-07-15 — Completed 17-01-PLAN.md (현상 모듈 17단계 편집 순서, 관례 정직 표기·Alt-drag 클리핑·렌즈 프로파일 미확인 대응·마스킹 Phase 18 이월)
 
-Progress: v1.0 ✅ (Phase 1-6) / v1.1 ✅ (Phase 7-10) / v1.2 ✅ (Phase 11-14) / v1.3 🚧 [███░░░░░░░] 33% (3/9 plans)
+Progress: v1.0 ✅ (Phase 1-6) / v1.1 ✅ (Phase 7-10) / v1.2 ✅ (Phase 11-14) / v1.3 🚧 [████░░░░░░] 44% (4/9 plans)
 
 ## Accumulated Context
 
@@ -38,6 +38,6 @@ None.
 
 ## Session Continuity
 
-Last session: 2026-07-14
-Stopped at: Completed 16-02-PLAN.md. src/13-editing/software-comparison.md 스텁 교체(구독 전용 경고 박스·LR Classic/CC 구분 표·8개 앱 비교표·무료/영구/모바일 대안·교차 링크 3개), 원화 숫자 미기재→Adobe KR URL 안내, 검증 USD만 인용, darktable "최신 4.x 필수", 커밋 cfaf184(docs/ 미커밋). Phase 16 완료(2/2). 다음: `/gsd:plan-phase 17`.
+Last session: 2026-07-15
+Stopped at: Completed 17-01-PLAN.md. src/13-editing/develop-order.md 스텁 교체(현상 모듈 17단계 = 단계별 소제목+한 줄 rationale, "관례" 정직 프레이밍 3회, 전역→국소 원리, "한눈에 보기" 표 + 1~10/17 코어·11~16 선택 팁, Alt/Option 드래그 클리핑 미리보기, 렌즈 프로파일 미확인→LR 검색+수동 교정+supported-lenses URL·프로파일명 무조작, 마스킹은 Phase 18 masking-and-detail.md로 이월, 다음 장 travel-recipes.md 링크). grep 검증 전부 통과, 가격 숫자 0, 빌드 미실행(17-02 소유), 커밋 4793bd9(docs/ 미커밋·개별 스테이징). Phase 17 진행 중(1/2). 다음: `/gsd:execute-phase 17` → 17-02.
 Resume file: None
