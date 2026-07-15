@@ -36,7 +36,7 @@
             const path_to_root = "../";
             const default_light_theme = "light";
             const default_dark_theme = "navy";
-            window.path_to_searchindex_js = "../searchindex-ed58822a.js";
+            window.path_to_searchindex_js = "../searchindex-5674719c.js";
         </script>
         <!-- Start loading toc.js asap -->
         <script src="../toc-2e274557.js"></script>
@@ -182,16 +182,54 @@
                 <div id="mdbook-content" class="content">
                     <main>
                         <h1 id="내보내기-설정"><a class="header" href="#내보내기-설정">내보내기 설정</a></h1>
-<p>편집을 마쳤다면 하나의 영상 파일로 내보내야 공유할 수 있습니다. 이 장은 내보내기 옵션이 결과물에 어떤 영향을 주는지와, 유튜브 업로드를 염두에 둔 설정 방향을 안내할 예정입니다.</p>
-<h2 id="이-장에서-다룰-내용"><a class="header" href="#이-장에서-다룰-내용">이 장에서 다룰 내용</a></h2>
+<p>편집을 마쳤다면 흩어진 클립을 <strong>하나의 영상 파일로 내보내야</strong> 비로소 공유할 수 있습니다. 그런데 이 내보내기 옵션이 결과 화질을 크게 좌우합니다 — 잘 편집해 놓고 마지막 설정에서 화질을 깎아 먹으면 아깝습니다. 이 장은 CapCut 워크플로 11단계 중 **9단계(자막·타이틀)·10단계(전환)·11단계(내보내기)**를 다룹니다. 정확한 메뉴 위치는 앱 버전마다 다르므로, 여기서는 “무엇을·왜“에 집중합니다.</p>
+<h2 id="a-자막타이틀text--9단계"><a class="header" href="#a-자막타이틀text--9단계">A. 자막·타이틀(Text) — 9단계</a></h2>
+<p>글자는 <strong>꼭 필요한 만큼만</strong> 넣습니다.</p>
 <ul>
-<li>해상도 선택 — 원본 화질을 살리는 기준</li>
-<li>프레임레이트 — 촬영 프레임레이트와 맞추는 원리</li>
-<li>비트레이트 — 화질과 파일 크기의 균형</li>
-<li>유튜브 업로드용 권장 설정의 방향</li>
+<li><strong>장소명·간단한 타이틀</strong> 정도가 적당합니다(“고비 사막, 홍고린 엘스” 같은 지명 자막).</li>
+<li>**자동 자막(auto-captions, 말소리를 글자로 옮겨 주는 기능)**은 나레이션(해설 음성)이 있을 때만 쓰세요. 드론 풍경 영상에는 대개 필요 없습니다.</li>
+<li>화면을 글자로 뒤덮으면 풍경이 가려집니다. 과한 텍스트는 지양하세요.</li>
 </ul>
+<h2 id="b-전환transitions--10단계-절제가-핵심"><a class="header" href="#b-전환transitions--10단계-절제가-핵심">B. 전환(Transitions) — 10단계 (절제가 핵심)</a></h2>
+<p>전환(장면과 장면을 잇는 효과)은 <strong>아껴 쓸수록 프로처럼 보입니다.</strong></p>
+<ul>
+<li>기본은 **하드컷(효과 없이 툭 바꾸는 컷)**과 **매치컷(구도·움직임을 이어 붙여 자연스럽게 넘기는 컷)**입니다.</li>
+<li>특수 전환(디졸브·글리치 같은 화려한 효과)은 <strong>한 편에 1~2회만</strong> 쓰세요. 모든 컷에 화려한 전환을 넣으면 곧바로 아마추어 룩이 됩니다.</li>
+<li>넓은 풍경 샷은 조금 더 <strong>길게 호흡</strong>을 주면 보는 사람이 장면을 음미할 여유가 생깁니다.</li>
+<li>같은 맥락에서 <strong>안정화(흔들림 보정)도 과용하지 마세요.</strong> 자세한 안정화 원칙은 <a href="capcut-cut.html">컷 편집과 순서 · 속도</a>를 참고하세요.</li>
+</ul>
+<h2 id="c-내보내기export--11단계-핵심-설정"><a class="header" href="#c-내보내기export--11단계-핵심-설정">C. 내보내기(Export) — 11단계 (핵심 설정)</a></h2>
+<p>여기가 이 장의 심장입니다. 네 가지만 챙기면 됩니다 — 해상도·프레임레이트·비트레이트·워터마크.</p>
+<h3 id="해상도resolution"><a class="header" href="#해상도resolution">해상도(Resolution)</a></h3>
+<ul>
+<li><strong>소스(원본)에 맞추세요.</strong> 없는 화질을 만들어 내는 <strong>업스케일(억지 확대)은 금지</strong>입니다.</li>
+<li>자체 편집한 <strong>1080p(풀HD)는 무료이고 워터마크(딱지)가 붙지 않습니다.</strong></li>
+<li>**4K·HDR로 내보내려면 Pro(유료)**가 필요합니다.</li>
+</ul>
+<h3 id="프레임레이트frame-rate--저더-방지가장-중요"><a class="header" href="#프레임레이트frame-rate--저더-방지가장-중요">프레임레이트(Frame rate) — 저더 방지(가장 중요)</a></h3>
+<ul>
+<li><strong>촬영(소스)보다 높은 fps로 내보내지 마세요.</strong></li>
+<li>소스보다 높은 fps로 내보내면 CapCut이 **없는 프레임을 보간(사이 프레임을 억지로 만들어 채우는 것)**해 채웁니다. 그러면 가짜 프레임 때문에 **저더(judder)·스터터(stutter, 화면이 툭툭 끊겨 보이는 현상)**가 생깁니다.</li>
+<li>답은 간단합니다. <strong>소스/타임라인 fps 그대로</strong> 내보내세요. 30fps로 찍고 편집했으면 30fps로 내보냅니다.</li>
+</ul>
+<h3 id="비트레이트bitrate--화질과-용량의-균형"><a class="header" href="#비트레이트bitrate--화질과-용량의-균형">비트레이트(Bitrate) — 화질과 용량의 균형</a></h3>
+<ul>
+<li>비트레이트(초당 데이터양)가 높을수록 <strong>화질이 좋아지지만 파일이 커집니다.</strong></li>
+<li>대략적인 감으로 <strong>1080p는 약 8–12 Mbps, 4K는 약 35–60 Mbps</strong> 정도이나, CapCut의 기본값·선택 범위는 버전에 따라 변동하므로 <strong>범위로만</strong> 참고하세요 <code>[verify@write]</code>.</li>
+<li>너무 낮게 잡으면 하늘의 그라데이션(색이 서서히 변하는 부분)이나 빠른 모션이 <strong>블록처럼 뭉개집니다.</strong> 애매하면 CapCut 기본값을 그대로 두는 편이 안전합니다.</li>
+</ul>
+<h3 id="플랫폼-방향과-워터마크"><a class="header" href="#플랫폼-방향과-워터마크">플랫폼 방향과 워터마크</a></h3>
+<ul>
+<li>**가로 16:9(유튜브 기본)**로 내보내는 것이 기본입니다. 세로 Shorts·Reels가 필요하면 9:16으로 리프레임(구도 재조정)해 <strong>별도로</strong> 출력하세요.</li>
+<li>음악을 넣었다면 <strong>공개 전 라이선스를 반드시 확인</strong>하세요(→ <a href="capcut-grade-speed.html">색보정과 음악</a>의 음악 라이선스 경고).</li>
+<li><strong>워터마크 확인:</strong> Pro 전용 템플릿·효과를 쓰지 않았는지 점검하세요. 직접 편집한 1080p 영상이면 워터마크 없이 깨끗하게 나갑니다.</li>
+</ul>
+<p>정확한 내보내기 메뉴 위치는 앱 버전에 따라 다르니 <strong>앱에서 확인</strong>하세요.</p>
+<!-- 이미지: src/images/drone/capcut-export.png — 저자 직접 캡처 예정 -->
+<h2 id="다음-장으로"><a class="header" href="#다음-장으로">다음 장으로</a></h2>
+<p>내보내기까지 마치면 CapCut 편집 워크플로가 한 바퀴 완성됩니다. 이 흐름을 실제 한 편에 처음부터 끝까지 적용하는 예시는 <a href="capcut-storyboard.html">예시 편집 — 고비 드론 스토리보드</a>에서 이어집니다.</p>
 <blockquote>
-<p>📝 이 장은 <strong>작성 예정</strong>입니다. 구체 권장 수치는 확인 후 기입할 예정이며, 현재는 다룰 주제만 잡아 두었습니다. 실제 화면 캡처는 트립 후 저자가 직접 캡처합니다.</p>
+<p>📝 이 장의 실제 CapCut 내보내기 화면 캡처는 트립(8/13) 이후 <strong>저자 직접 캡처</strong>로 교체할 예정입니다. 비트레이트 권장 수치와 정확한 내보내기 메뉴 위치는 앱 버전에 따라 다를 수 있어, 현재는 범위·개념으로만 제시하고 확인 후 확정할 예정입니다 <code>[verify@write]</code>.</p>
 </blockquote>
 
                     </main>
