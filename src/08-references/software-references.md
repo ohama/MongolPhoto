@@ -19,7 +19,7 @@
 | Clear Outside | 웹 + iOS 앱(무료) + Android 앱(무료) | 무료 | 천문 관측용 시간대별 구름량·달 위상·천문박명 예보 | [clearoutside.com](https://clearoutside.com/) |
 | Light Pollution Map | 웹 | 무료 | VIIRS 위성 자료·SQM 실측값 기반 광해 지도, Bortle 등급 가늠 | [lightpollutionmap.info](https://www.lightpollutionmap.info/) |
 
-**책에서의 쓰임**: [필수 액세서리 & 앱](../01-gear/accessories.md), [은하수 찾기와 타이밍](../02-fundamentals/finding-the-milkyway.md), [500 / NPF 룰](../02-fundamentals/500-npf-rule.md)
+**책에서의 쓰임**: [필수 액세서리 · 앱](../01-gear/accessories.md), [은하수 찾기와 타이밍](../02-fundamentals/finding-the-milkyway.md), [500 / NPF 룰](../02-fundamentals/500-npf-rule.md)
 
 **비고**
 - Clear Outside는 공식 사이트를 직접 확인해 "웹 + 무료 iOS/Android 앱" 형태가 맞다는 것과 제작사(First Light Optics)를 확인했습니다.

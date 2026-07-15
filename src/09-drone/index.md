@@ -89,4 +89,4 @@
 | `images/drone/real-drone-dunhuang.jpg` | 실제 드론(Parrot Bebop)으로 촬영한 사막 사구 (중국 둔황) | w0zny | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dunhuang,_China_Bebop_Drone_2015-09-17T082530%2B0000_8FF38B.jpg) |
 | `images/drone/red-sand.jpg` | 붉은 모래를 가로지르는 물길 리딩라인 (칼라하리/나미브) | Olga Ernst & Hp.Baumeler | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sand_dune_in_the_Kalahari_Desert_(Namibia).jpg) |
 
-원본은 리사이즈(최대 2000px)·EXIF 제거 후 재압축했습니다. 위 사진은 몽골 고비에서 촬영된 것이 아니며(둔황은 고비와 이어진 중앙아시아 사막대의 일부입니다), 드론·항공 시점의 시각적 특징을 보여 주기 위한 예시입니다. 실제 몽골 명소의 항공 촬영 가이드는 [명소별 드론 촬영 원리](../10-drone-sites/overview.md)에서 다룹니다.
+원본은 리사이즈(최대 2000px)·EXIF 제거 후 재압축했습니다. 위 사진은 몽골 고비에서 촬영된 것이 아니며(둔황은 고비와 이어진 중앙아시아 사막대의 일부입니다), 드론·항공 시점의 시각적 특징을 보여 주기 위한 예시입니다. 실제 몽골 명소의 항공 촬영 가이드는 [명소별 드론 촬영 가이드](../10-drone-sites/overview.md)에서 다룹니다.

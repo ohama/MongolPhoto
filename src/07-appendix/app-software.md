@@ -6,8 +6,8 @@
 
 | 앱 | 용도 | 자세히 |
 |---|---|---|
-| PhotoPills | 코어 뜨는 시각·방위·고도, Spot Stars(셔터속도 계산) | [필수 액세서리 & 앱](../01-gear/accessories.md), [500 / NPF 룰](../02-fundamentals/500-npf-rule.md) |
-| Stellarium | 밤하늘 시뮬레이션 | [필수 액세서리 & 앱](../01-gear/accessories.md) |
+| PhotoPills | 코어 뜨는 시각·방위·고도, Spot Stars(셔터속도 계산) | [필수 액세서리 · 앱](../01-gear/accessories.md), [500 / NPF 룰](../02-fundamentals/500-npf-rule.md) |
+| Stellarium | 밤하늘 시뮬레이션 | [필수 액세서리 · 앱](../01-gear/accessories.md) |
 | Windy / Clear Outside | 구름·습도·달 위상 확인 | [은하수 찾기와 타이밍](../02-fundamentals/finding-the-milkyway.md) |
 
 ## 소프트웨어

@@ -41,7 +41,7 @@
 
 ## 은하수 찾기·계획 (달·계절·방향·Bortle·날씨) + 앱
 
-**책 내 관련 챕터**: [은하수 찾기와 타이밍](../02-fundamentals/finding-the-milkyway.md), [필수 액세서리 & 앱](../01-gear/accessories.md)
+**책 내 관련 챕터**: [은하수 찾기와 타이밍](../02-fundamentals/finding-the-milkyway.md), [필수 액세서리 · 앱](../01-gear/accessories.md)
 
 - [Stellarium](https://stellarium.org/) — 공식 사이트 · 공식 문서·다운로드(무료, 오픈소스). 날짜·위치별 밤하늘 시뮬레이션 소프트웨어로, 이 책이 은하수 방향·시간 확인용으로 추천하는 두 앱 중 하나입니다.
 - [Light Pollution Map](https://www.lightpollutionmap.info/) — 무료 도구. VIIRS 위성 자료와 SQM 실측값을 지도에 겹쳐 보여주며, 특정 지점의 Bortle 등급을 가늠할 때 씁니다.

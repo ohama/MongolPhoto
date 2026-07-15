@@ -4,7 +4,7 @@
 
 ## 근교 어두운 장소 찾기
 
-차로 30분~1시간쯤 벗어난, 도심 불빛에서 최대한 먼 지점을 하나 골라두세요. 그곳의 실제 Bortle 등급을 몽골 고비(Bortle 1~2)와 비교해 보면서 기대치를 미리 잡아두는 것이 좋습니다 — [은하수 찾기와 타이밍](../02-fundamentals/finding-the-milkyway.md)의 광해/Bortle 항목을 참고하세요. 장소·시각 확인에 쓰는 PhotoPills·Stellarium·광해지도는 [필수 액세서리 & 앱](../01-gear/accessories.md)에서 이미 소개했으니 여기서는 다시 설명하지 않습니다.
+차로 30분~1시간쯤 벗어난, 도심 불빛에서 최대한 먼 지점을 하나 골라두세요. 그곳의 실제 Bortle 등급을 몽골 고비(Bortle 1~2)와 비교해 보면서 기대치를 미리 잡아두는 것이 좋습니다 — [은하수 찾기와 타이밍](../02-fundamentals/finding-the-milkyway.md)의 광해/Bortle 항목을 참고하세요. 장소·시각 확인에 쓰는 PhotoPills·Stellarium·광해지도는 [필수 액세서리 · 앱](../01-gear/accessories.md)에서 이미 소개했으니 여기서는 다시 설명하지 않습니다.
 
 ## 실전 노출 테스트
 

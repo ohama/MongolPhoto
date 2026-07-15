@@ -9,5 +9,5 @@
 ## 이 파트에서 다루는 내용
 
 1. [카메라와 렌즈 고르기](camera-lens.md) — 은하수 촬영에 필요한 카메라·렌즈의 필수/있으면 좋은 기능 (구체 모델·가격은 부록)
-2. [필수 액세서리 & 앱](accessories.md) — 삼각대·전원·인터벌 타이머·레드라이트, 그리고 PhotoPills·Stellarium 앱
+2. [필수 액세서리 · 앱](accessories.md) — 삼각대·전원·인터벌 타이머·레드라이트, 그리고 PhotoPills·Stellarium 앱
 3. [출발 전 체크리스트](checklist.md) — 촬영 전 챙길 준비물 목록
