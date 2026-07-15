@@ -9,12 +9,12 @@ See: .planning/PROJECT.md (updated 2026-07-14)
 
 ## Current Position
 
-Phase: 18 of 19 (국소 보정 + 합치기) — In progress
-Plan: 1 of 2 in Phase 18 (완료). 다음: 18-02 (panorama-hdr.md)
-Status: In progress
-Last activity: 2026-07-15 — Completed 18-01-PLAN.md (masking-and-detail.md 스텁→국소 보정 완성본: 마스킹 자동 5종/수동 4종 언제-무엇 + 샤픈 Masking Alt-drag + AI Denoise RAW전용·새 DNG·샤픈보다 먼저 + 국소 과보정 회피 박스, Phase 17 forward 링크 이행, 빌드 게이트 단독 소유 그린, 신규 이미지 없음)
+Phase: 18 of 19 (국소 보정 + 합치기) — Complete
+Plan: 2 of 2 in Phase 18 (완료). 다음: Phase 19 (촬영 연동 + 크레딧 + 최종 검증)
+Status: Phase complete
+Last activity: 2026-07-15 — Completed 18-02-PLAN.md (panorama-hdr.md 스텁→합치기 완성본: Photo Merge Panorama/HDR/HDR Panorama 경로·용도 + Deghost + 병합 DNG 재현상 콜백 + R7 AEB 검증사양(3·2/5/7·±3EV·1/3) + 파노라마 중첩 30~50%·노출/WB/초점 수동 고정, 촬영 연동 링크(shoot-for-edit/camera-settings/av-mode), grep 검증만·빌드 미실행, 신규 이미지 없음)
 
-Progress: v1.0 ✅ (Phase 1-6) / v1.1 ✅ (Phase 7-10) / v1.2 ✅ (Phase 11-14) / v1.3 🚧 [██████░░░░] 67% (6/9 plans)
+Progress: v1.0 ✅ (Phase 1-6) / v1.1 ✅ (Phase 7-10) / v1.2 ✅ (Phase 11-14) / v1.3 🚧 [███████░░░] 78% (7/9 plans)
 
 ## Accumulated Context
 
@@ -39,5 +39,5 @@ None.
 ## Session Continuity
 
 Last session: 2026-07-15
-Stopped at: Completed 18-01-PLAN.md. src/13-editing/masking-and-detail.md 스텁 교체(국소 보정 완성본). 인트로=현상 순서 15단계 마스킹·14단계 디테일 되짚기(develop-order 링크)+Phase 17 forward 약속 이행 명시. 섹션1 마스킹=자동 5종(Select Sky/Subject/People/Background/Objects) 언제-무엇 + travel-recipes 레시피 (c)역광/(d)인물/(e)날린하늘 실제 조작 이행, 수동 4종(Brush/Linear·Radial Gradient/Range Mask), Add/Subtract 조합. 섹션2 디테일=샤픈 Masking 슬라이더 Alt/Option 드래그(매끈면 제외·윤곽만·100%)+정직 콜아웃(소프트포커스 복구불가), AI Denoise=Enhance군·v14.4 Detail 직접·RAW/CR3 전용·새 DNG 생성(원본 불변), 순서규칙 Denoise를 샤픈보다 먼저. 섹션3 국소 과보정 회피 박스(헤일로·과채도·크러시드 블랙·과디헤이즈·샤픈과다→Alt-drag·섀도우과리프트→Denoise먼저)+예방원칙+상황별 전체표는 travel-recipes 위임. 닫는=panorama-hdr 다음장 링크. 신규 이미지 없음. 빌드 게이트 단독 소유 그린, docs/ 복원·미커밋, 커밋 92d7fbf(개별 스테이징 1파일). grep 검증 전부 통과. 다음: 18-02 panorama-hdr.md(grep 검증만·빌드 미실행).
+Stopped at: Completed 18-02-PLAN.md. src/13-editing/panorama-hdr.md 스텁 교체(합치기 완성본). 인트로=넓이 문제(→파노라마)/명암 문제(→HDR) 두 장면 + "나눠 찍어야 합친다" 다리. 섹션1 Photo Merge 3갈래=Panorama(Ctrl/Cmd+M·편집가능 DNG), HDR(브라케팅 세트), HDR Panorama(고급 소개만), FEATURES 검증 명칭만. 섹션2 Deghost(없음/낮음/보통/높음, 삼각대·정지=낮게·움직임=높게). 섹션3 병합 DNG=편집가능 RAW → develop-order 2~17단계 재현상 콜백("합치면 끝 아님"). 섹션4 촬영연동=R7 AEB 검증사양(기본3·2/5/7·±3EV·1/3스톱·표준→감소→증가, -2/0/+2 예) + RAW·셔터속도만 조절, "9장·±5EV" 과장설 명시 반박, 파노라마 30~50% 겹침·노출/WB/초점 수동고정, 촬영법 상세는 shoot-for-edit/camera-settings/av-mode-auto-iso 링크 위임. 닫는=masking-and-detail 되짚기 + shoot-for-edit 연결. 신규 이미지·가짜 URL/가격 없음. 빌드 미실행(게이트 18-01 소유), 커밋 00a7575(개별 스테이징 1파일, docs/ 미포함). grep 전부 통과. Phase 18 완료(2/2). 다음: Phase 19 (shoot-for-edit·credits + 최종 빌드/링크 게이트).
 Resume file: None
