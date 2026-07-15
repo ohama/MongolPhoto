@@ -71,6 +71,7 @@
   - [필수 액세서리 · 앱](01-gear/accessories.md)
   - [출발 전 체크리스트](01-gear/checklist.md)
 - [은하수 촬영 기초](02-fundamentals/index.md)
+  - [밤 노출 — M모드와 시작값](02-fundamentals/night-exposure.md)
   - [500 / NPF 룰 — 크롭센서 셔터속도 계산](02-fundamentals/500-npf-rule.md)
   - [별에 초점 맞추기](02-fundamentals/focusing.md)
   - [은하수 찾기와 타이밍](02-fundamentals/finding-the-milkyway.md)
