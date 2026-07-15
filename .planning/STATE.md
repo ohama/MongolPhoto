@@ -9,12 +9,12 @@ See: .planning/PROJECT.md (updated 2026-07-15)
 
 ## Current Position
 
-Phase: 22 (CapCut 편집 워크플로) — Complete
-Plan: 22-02 complete (VEDIT-02 색보정·음악 라이선스 + VEDIT-01 내보내기 부분)
-Status: Phase 22 complete — 다음 23(스토리보드+최종 게이트) 대기, 21-02(움직임 샷)도 대기
-Last activity: 2026-07-15 — 22-02 실행 완료(grade-speed·export 본문: D-Log 순서·음악 라이선스 콜아웃·저더 방지 내보내기, grep-verify 통과)
+Phase: 23 (예시 스토리보드 + 최종 게이트) — In progress (1/2 plans)
+Plan: 23-01 complete (VEXAMPLE-01 스토리보드·11단계 매핑 + VREF-01 크레딧)
+Status: 23-01 실행 완료 — 다음 23-02(전체 최종 빌드/링크 게이트, wave 2 직렬) 대기, 21-02(움직임 샷)도 대기
+Last activity: 2026-07-15 — 23-01 실행 완료(capcut-storyboard.md 실 본문: 6클립 표·11단계 스텝바이스텝·3 CC0 정지프레임·크레딧, mdbook 그린·docs 미커밋·단일 커밋)
 
-Progress: v1.0 ✅ SHIPPED (Phase 1-6) / v1.1 ✅ SHIPPED (Phase 7-10) / v1.2 ✅ SHIPPED (Phase 11-14) / v1.3 ✅ SHIPPED (Phase 15-19) / v1.4 🚧 진행 중 (Phase 20 ✅ / 21 진행 중 / 22 ✅ / 23 대기)
+Progress: v1.0 ✅ SHIPPED (Phase 1-6) / v1.1 ✅ SHIPPED (Phase 7-10) / v1.2 ✅ SHIPPED (Phase 11-14) / v1.3 ✅ SHIPPED (Phase 15-19) / v1.4 🚧 진행 중 (Phase 20 ✅ / 21 진행 중 / 22 ✅ / 23 진행 중 1/2)
 
 ## Roadmap (v1.4)
 
@@ -70,5 +70,5 @@ v1.4 Phase 22-02 실행 사항:
 ## Session Continuity
 
 Last session: 2026-07-15
-Stopped at: Phase 22-01 실행 완료 — capcut-index 랜딩 + capcut-basics·capcut-cut 본문(VEDIT-01 앞부분)·mdbook 그린·docs 미커밋·태스크별 원자 커밋 3개. 다음: 22-02(grade-speed·export) 또는 21-02(움직임 샷).
+Stopped at: Phase 23-01 실행 완료 — capcut-storyboard.md 실 본문(대표 시나리오·6클립 표·11단계 스텝바이스텝(램프1·비트싱크2)·3 CC0 정지프레임·크레딧)·mdbook 그린·docs 미커밋·단일 커밋(5fa8022). 다음: 23-02(전체 최종 빌드/링크 게이트) 또는 21-02(움직임 샷).
 Resume file: None
