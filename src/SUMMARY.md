@@ -7,6 +7,7 @@
 - [여행 사진 개요](11-travel/index.md)
   - [Canon R7 카메라 설정 & 렌즈 선택](11-travel/camera-settings.md)
   - [Av 모드 · Auto ISO · 최소 셔터속도 완전 정리](11-travel/av-mode-auto-iso.md)
+  - [출발 전 R7 세팅 — 메뉴 · 버튼 · 커스텀 모드](11-travel/setup-and-custom-modes.md)
   - [상황별 카메라 세팅 (시간대·날씨)](11-travel/situational-settings.md)
   - [구도와 빛 · 타이밍](11-travel/composition-and-light.md)
   - [풍경과 현장 · 사람](11-travel/landscape-and-street.md)
