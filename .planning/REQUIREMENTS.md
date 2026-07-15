@@ -53,8 +53,8 @@
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| STRUCT-01 | Phase 20 | Pending |
-| STRUCT-02 | Phase 20 | Pending |
+| STRUCT-01 | Phase 20 | Complete |
+| STRUCT-02 | Phase 20 | Complete |
 | VSHOOT-01 | Phase 21 | Pending |
 | VSHOOT-02 | Phase 21 | Pending |
 | VEDIT-01 | Phase 22 | Pending |
