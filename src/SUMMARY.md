@@ -1,6 +1,7 @@
 # Summary
 
 [소개](introduction.md)
+[이 책에 대하여](about.md)
 
 # 1부 · 여행 사진
 
