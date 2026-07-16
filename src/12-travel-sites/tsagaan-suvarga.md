@@ -27,3 +27,5 @@ GPS·접근은 [고비 촬영 일반 원리](../04-mongolia/overview.md)의 GPS 
 - 항공 관점은 [차강소브라가 항공 촬영](../10-drone-sites/tsagaan-suvarga.md), 야간 은하수 촬영은 은하수 파트를 참고하세요.
 
 <!-- 이미지: src/images/travel-sites/tsagaan-suvarga-layers.jpg — 층리 텍스처 클로즈업(50mm) -->
+
+> 🔰 **초보자는 이렇게.** 이 명소에선 저녁 황혼 한 타이밍에, 12mm로 절벽 앞에 사람을 세워 역광 실루엣 한 컷만 노리세요. 흰 절벽이 하얗게 날아가지 않게 노출보정을 −0.3~−0.7EV로 낮춰 RAW로 담으면 됩니다.

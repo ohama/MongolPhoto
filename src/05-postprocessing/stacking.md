@@ -42,3 +42,5 @@ Sequator는 무료·Windows 전용이고 자동에 가까운 절차로 진행됩
 ---
 
 스택 결과물이 나왔다면 [RAW 현상 기본](raw-develop.md)으로 이어가세요.
+
+> 🔰 **초보자는 이렇게.** 같은 구도로 찍은 10~20장을 프레임별로 현상하지 말고 먼저 스태킹으로 1장으로 합치세요. Windows면 Sequator, Mac이면 Starry Landscape Stacker 하나만 쓰면 됩니다. 결과를 TIFF로 저장한 뒤 [RAW 현상 기본](raw-develop.md)으로 넘어가세요.
