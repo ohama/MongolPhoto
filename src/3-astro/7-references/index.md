@@ -7,3 +7,4 @@
 - [연습용 무료 RAW·샘플](practice-raw-samples.md) — 실제 사진 없이 후보정을 연습할 무료 RAW·샘플.
 - [몽골 천체사진 링크 모음](mongolia-astrophotography-links.md) — 몽골 밤하늘·천체사진 참고 링크.
 - [몽골 여행 실무 정보](mongolia-travel-info.md) — 이동·숙박·타이밍 등 현지 여행 실무.
+- [자주 묻는 질문 (FAQ)](faq.md) — 별 흐름·초점·노이즈·날씨 용어 등 현장 문제 대응.

@@ -109,6 +109,7 @@
   - [연습용 무료 RAW·샘플](3-astro/7-references/practice-raw-samples.md)
   - [몽골 천체사진 링크 모음](3-astro/7-references/mongolia-astrophotography-links.md)
   - [몽골 여행 실무 정보](3-astro/7-references/mongolia-travel-info.md)
+  - [자주 묻는 질문 (FAQ)](3-astro/7-references/faq.md)
 
 # 부록
 
