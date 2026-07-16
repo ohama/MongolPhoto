@@ -1,0 +1,315 @@
+<!DOCTYPE HTML>
+<html lang="ko" class="light sidebar-visible" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>국소 보정 — 마스킹 · 디테일 · 노이즈 - 몽골 사진 가이드</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="몽골 고비에서 여행 사진·드론 사진·은하수 사진을 찍는 법 — 장비부터 촬영, 후보정까지">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../../favicon-de23e50b.svg">
+        <link rel="shortcut icon" href="../../favicon-8114d1fc.png">
+        <link rel="stylesheet" href="../../css/variables-8adf115d.css">
+        <link rel="stylesheet" href="../../css/general-e96d0476.css">
+        <link rel="stylesheet" href="../../css/chrome-d279d366.css">
+        <link rel="stylesheet" href="../../css/print-9e4910d8.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../fonts/fonts-af30f50b.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" id="mdbook-highlight-css" href="../../highlight-493f70e1.css">
+        <link rel="stylesheet" id="mdbook-tomorrow-night-css" href="../../tomorrow-night-4c0ae647.css">
+        <link rel="stylesheet" id="mdbook-ayu-highlight-css" href="../../ayu-highlight-3fdfc3ac.css">
+
+        <!-- Custom theme stylesheets -->
+        <link rel="stylesheet" href="../../theme/custom-501a766a.css">
+
+
+        <!-- Provide site root and default themes to javascript -->
+        <script>
+            const path_to_root = "../../";
+            const default_light_theme = "light";
+            const default_dark_theme = "navy";
+            window.path_to_searchindex_js = "../../searchindex-dcb49c17.js";
+        </script>
+        <!-- Start loading toc.js asap -->
+        <script src="../../toc-a228e1c9.js"></script>
+    </head>
+    <body>
+    <div id="mdbook-help-container">
+        <div id="mdbook-help-popup">
+            <h2 class="mdbook-help-title">Keyboard shortcuts</h2>
+            <div>
+                <p>Press <kbd>←</kbd> or <kbd>→</kbd> to navigate between chapters</p>
+                <p>Press <kbd>S</kbd> or <kbd>/</kbd> to search in the book</p>
+                <p>Press <kbd>?</kbd> to show this help</p>
+                <p>Press <kbd>Esc</kbd> to hide this help</p>
+            </div>
+        </div>
+    </div>
+    <div id="mdbook-body-container">
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                let theme = localStorage.getItem('mdbook-theme');
+                let sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            const default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? default_dark_theme : default_light_theme;
+            let theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            const html = document.documentElement;
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add("js");
+        </script>
+
+        <input type="checkbox" id="mdbook-sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            let sidebar = null;
+            const sidebar_toggle = document.getElementById("mdbook-sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+                sidebar_toggle.checked = false;
+            }
+            if (sidebar === 'visible') {
+                sidebar_toggle.checked = true;
+            } else {
+                html.classList.remove('sidebar-visible');
+            }
+        </script>
+
+        <nav id="mdbook-sidebar" class="sidebar" aria-label="Table of contents">
+            <!-- populated by js -->
+            <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+            <noscript>
+                <iframe class="sidebar-iframe-outer" src="../../toc.html"></iframe>
+            </noscript>
+            <div id="mdbook-sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <div id="mdbook-page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="mdbook-menu-bar-hover-placeholder"></div>
+                <div id="mdbook-menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="mdbook-sidebar-toggle" class="icon-button" for="mdbook-sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="mdbook-sidebar">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M0 96C0 78.3 14.3 64 32 64H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32H416c17.7 0 32 14.3 32 32z"/></svg></span>
+                        </label>
+                        <button id="mdbook-theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="mdbook-theme-list">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M371.3 367.1c27.3-3.9 51.9-19.4 67.2-42.9L600.2 74.1c12.6-19.5 9.4-45.3-7.6-61.2S549.7-4.4 531.1 9.6L294.4 187.2c-24 18-38.2 46.1-38.4 76.1L371.3 367.1zm-19.6 25.4l-116-104.4C175.9 290.3 128 339.6 128 400c0 3.9 .2 7.8 .6 11.6c1.8 17.5-10.2 36.4-27.8 36.4H96c-17.7 0-32 14.3-32 32s14.3 32 32 32H240c61.9 0 112-50.1 112-112c0-2.5-.1-5-.2-7.5z"/></svg></span>
+                        </button>
+                        <ul id="mdbook-theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-default_theme">Auto</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-ayu">Ayu</button></li>
+                        </ul>
+                        <button id="mdbook-search-toggle" class="icon-button" type="button" title="Search (`/`)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="/ s" aria-controls="mdbook-searchbar">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352c79.5 0 144-64.5 144-144s-64.5-144-144-144S64 128.5 64 208s64.5 144 144 144z"/></svg></span>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">몽골 사진 가이드</h1>
+
+                    <div class="right-buttons">
+                        <a href="../../print.html" title="Print this book" aria-label="Print this book">
+                            <span class=fa-svg id="print-button"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M128 0C92.7 0 64 28.7 64 64v96h64V64H354.7L384 93.3V160h64V93.3c0-17-6.7-33.3-18.7-45.3L400 18.7C388 6.7 371.7 0 354.7 0H128zM384 352v32 64H128V384 368 352H384zm64 32h32c17.7 0 32-14.3 32-32V256c0-35.3-28.7-64-64-64H64c-35.3 0-64 28.7-64 64v96c0 17.7 14.3 32 32 32H64v64c0 35.3 28.7 64 64 64H384c35.3 0 64-28.7 64-64V384zm-16-88c-13.3 0-24-10.7-24-24s10.7-24 24-24s24 10.7 24 24s-10.7 24-24 24z"/></svg></span>
+                        </a>
+                        <a href="https://github.com/ohama/MongolPhoto" title="Git repository" aria-label="Git repository">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg></span>
+                        </a>
+                        <a href="https://github.com/ohama/MongolPhoto/edit/main/src/./1-travel/3-editing/masking-and-detail.md" title="Suggest an edit" aria-label="Suggest an edit" rel="edit">
+                            <span class=fa-svg id="git-edit-button"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M421.7 220.3l-11.3 11.3-22.6 22.6-205 205c-6.6 6.6-14.8 11.5-23.8 14.1L30.8 511c-8.4 2.5-17.5 .2-23.7-6.1S-1.5 489.7 1 481.2L38.7 353.1c2.6-9 7.5-17.2 14.1-23.8l205-205 22.6-22.6 11.3-11.3 33.9 33.9 62.1 62.1 33.9 33.9zM96 353.9l-9.3 9.3c-.9 .9-1.6 2.1-2 3.4l-25.3 86 86-25.3c1.3-.4 2.5-1.1 3.4-2l9.3-9.3H112c-8.8 0-16-7.2-16-16V353.9zM453.3 19.3l39.4 39.4c25 25 25 65.5 0 90.5l-14.5 14.5-22.6 22.6-11.3 11.3-33.9-33.9-62.1-62.1L314.3 67.7l11.3-11.3 22.6-22.6 14.5-14.5c25-25 65.5-25 90.5 0z"/></svg></span>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="mdbook-search-wrapper" class="hidden">
+                    <form id="mdbook-searchbar-outer" class="searchbar-outer">
+                        <div class="search-wrapper">
+                            <input type="search" id="mdbook-searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="mdbook-searchresults-outer" aria-describedby="searchresults-header">
+                            <div class="spinner-wrapper">
+                                <span class=fa-svg id="fa-spin"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M304 48c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zm0 416c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zM48 304c26.5 0 48-21.5 48-48s-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48zm464-48c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zM142.9 437c18.7-18.7 18.7-49.1 0-67.9s-49.1-18.7-67.9 0s-18.7 49.1 0 67.9s49.1 18.7 67.9 0zm0-294.2c18.7-18.7 18.7-49.1 0-67.9S93.7 56.2 75 75s-18.7 49.1 0 67.9s49.1 18.7 67.9 0zM369.1 437c18.7 18.7 49.1 18.7 67.9 0s18.7-49.1 0-67.9s-49.1-18.7-67.9 0s-18.7 49.1 0 67.9z"/></svg></span>
+                            </div>
+                        </div>
+                    </form>
+                    <div id="mdbook-searchresults-outer" class="searchresults-outer hidden">
+                        <div id="mdbook-searchresults-header" class="searchresults-header"></div>
+                        <ul id="mdbook-searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('mdbook-sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('mdbook-sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#mdbook-sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="mdbook-content" class="content">
+                    <main>
+                        <h1 id="국소-보정--마스킹--디테일--노이즈"><a class="header" href="#국소-보정--마스킹--디테일--노이즈">국소 보정 — 마스킹 · 디테일 · 노이즈</a></h1>
+<p>전역 보정(사진 전체를 한꺼번에 움직이는 보정)만으로는 부족한 순간이 있습니다. 노출·톤·색을 아무리 잘 잡아도 “하늘만 조금 더 어둡게”, “역광에 묻힌 인물만 밝게“처럼 <strong>특정 영역만 골라 다듬어야 하는 일</strong>은 전역 슬라이더로 해결되지 않습니다. 이 장은 바로 그 국소 보정(사진의 일부 영역에만 적용하는 보정)을 본격적으로 가르칩니다. 마스킹으로 원하는 영역만 선택하고, 디테일(샤픈·노이즈 제거)로 선명도와 노이즈를 다루며, 국소 보정에서 특히 빠지기 쉬운 과보정 함정을 피하는 법까지 다룹니다.</p>
+<h2 id="순서-속에서-이-장의-자리"><a class="header" href="#순서-속에서-이-장의-자리">순서 속에서 이 장의 자리</a></h2>
+<p>이 장의 내용은 <a href="develop-order.html">필수 보정 순서</a>에서 이미 자리를 잡아 두었습니다.</p>
+<ul>
+<li><strong>마스킹(Masking)은 15단계</strong> — 전역 보정을 모두 마친 <strong>국소</strong> 단계입니다. 전역 보정이 끝난 이미지에 마스크가 반응하므로 국소는 순서상 마지막에 옵니다.</li>
+<li><strong>디테일(샤픈 + Denoise)은 14단계</strong> — 샤픈은 노이즈까지 함께 증폭하므로 톤이 확정된 끝단에서 100% 배율로 확인하며 적용합니다.</li>
+</ul>
+<p>“왜 국소가 전역 다음인가”, “왜 디테일이 끝단인가“라는 이유는 <a href="develop-order.html">필수 보정 순서</a>에서 이미 확립했으니 여기서 되풀이하지 않습니다. 이 장은 그 순서상 위치를 전제로, <strong>실제 도구를 어떻게 다루는지</strong>에 집중합니다.</p>
+<p>한 가지 약속을 갚아야 합니다. 앞 장 <a href="travel-recipes.html">상황별 레시피</a>에서는 역광 피사체에 <strong>Select Subject(피사체 선택)</strong>, 인물 스냅에 <strong>Select People(인물 선택)</strong>, 날아간 하늘에 **Select Sky(하늘 선택)**라는 도구 이름만 짧게 언급하고 “실제 조작은 국소 보정 장에서“라며 이 장으로 넘겼습니다. <strong>그 도구들의 실제 사용법을 지금 여기서 전달합니다.</strong></p>
+<h2 id="1-마스킹masking-패널--무엇을-언제-쓰나"><a class="header" href="#1-마스킹masking-패널--무엇을-언제-쓰나">1. 마스킹(Masking) 패널 — 무엇을, 언제 쓰나</a></h2>
+<p>**마스킹(Masking, 사진 전체가 아니라 하늘·인물 같은 특정 영역에만 보정을 적용하는 국소 도구)**은 2021년 개편으로 예전의 “조정 브러시(Adjustment Brush)·단계 필터(Graduated Filter)·방사형 필터(Radial Filter)” 패널을 하나로 통합한 것입니다. 크게 <strong>AI가 영역을 자동으로 인식해 주는 자동 마스크</strong>와, <strong>직접 그리거나 그러데이션으로 만드는 수동 마스크</strong>의 두 갈래로 나뉩니다. 여기서는 개별 슬라이더 값을 나열하기보다 **“어떤 도구를, 언제 쓰는가”**에 집중합니다. 어떤 마스크든 일단 영역을 선택하고 나면, 그 영역 안에서 노출·하이라이트·채도 같은 슬라이더를 국소로 조절하는 방식은 똑같기 때문입니다.</p>
+<h3 id="자동-마스크--ai가-영역을-알아서-잡아-준다"><a class="header" href="#자동-마스크--ai가-영역을-알아서-잡아-준다">자동 마스크 — AI가 영역을 알아서 잡아 준다</a></h3>
+<ul>
+<li><strong>Select Sky(하늘 선택)</strong> — 사진에서 하늘만 자동으로 골라 냅니다. 하늘만 노출·채도·톤을 따로 손볼 수 있어, <strong>여행 사진에서 노력 대비 효과가 가장 큰</strong> 도구입니다. 앞 장 <a href="travel-recipes.html">상황별 레시피</a>의 (e) 날린 하늘 복원에서 여기로 넘어온 경우가 대표적입니다 — 완전히 날아간 하늘은 되살릴 수 없지만, Select Sky로 하늘만 고른 뒤 노출·하이라이트를 낮추고 색온도·채도로 <strong>파란 톤을 시늉</strong>할 수 있습니다. (없는 디테일을 만들어 내지는 못한다는 점은 그대로입니다.)</li>
+<li><strong>Select Subject(피사체 선택)</strong> — 사진의 주 피사체만 자동으로 선택합니다. <a href="travel-recipes.html">상황별 레시피</a>의 (c) 역광에서 여기로 넘어옵니다 — 전체 그림자를 올려 프레임을 탁하게 만드는 대신, Select Subject로 피사체만 고른 뒤 **노출(Exposure) +**를 주면 배경은 그대로 두고 피사체만 밝힐 수 있습니다.</li>
+<li><strong>Select People(인물 선택)</strong> — 사진 속 사람을 인식하며, 얼굴·피부·머리카락·눈·입술 등 <strong>세부 요소별로도</strong> 마스크를 나눠 줍니다. <a href="travel-recipes.html">상황별 레시피</a>의 (d) 인물에서 여기로 넘어옵니다 — 피부에서 텍스처(Texture)·명료도(Clarity)를 소폭 낮춰 얼굴을 매끄럽게 하고, 역광 유목민이라면 얼굴에만 노출(Exposure) +를 주어 밝힙니다.</li>
+<li><strong>Select Background(배경 선택)</strong> — 피사체를 뺀 나머지, 즉 배경만 선택합니다. Select Subject의 여집합이라고 생각하면 됩니다.</li>
+<li><strong>Select Objects(개체 선택)</strong> — 브러시로 대충 칠하거나 클릭하면 AI가 그 개체(사물)의 경계를 알아서 다듬어 선택해 줍니다. 하늘이나 사람이 아닌 특정 사물만 고를 때 씁니다.</li>
+</ul>
+<h3 id="수동-마스크--직접-그리거나-그러데이션으로"><a class="header" href="#수동-마스크--직접-그리거나-그러데이션으로">수동 마스크 — 직접 그리거나 그러데이션으로</a></h3>
+<ul>
+<li><strong>Brush(브러시)</strong> — 원하는 곳을 붓으로 직접 칠해 영역을 지정합니다. 특정 부분만 밝히는 **닷지(dodge, 밝히기)**나 어둡게 누르는 <strong>번(burn, 어둡게 하기)</strong> 같은 국소 조절에 씁니다. 자동 마스크가 잡지 못하는 자유로운 영역에 유용합니다.</li>
+<li><strong>Linear Gradient(직선 그러데이션, 옛 Graduated Filter)</strong> — 한 방향으로 서서히 세기가 옅어지는 마스크입니다. 밝은 하늘을 위에서 아래로 서서히 눌러, 촬영용 **그라디언트 ND 필터(하늘 쪽만 어둡게 하는 반투명 필터)**를 후보정으로 흉내 낼 수 있습니다.</li>
+<li><strong>Radial Gradient(원형 그러데이션, 옛 Radial Filter)</strong> — 타원형으로 영역을 잡아 안쪽 또는 바깥쪽에 보정을 겁니다. 피사체를 원형으로 감싸 <strong>스포트라이트처럼</strong> 은은하게 강조할 때 씁니다.</li>
+<li><strong>Range Mask(범위 마스크 — Color / Luminance / Depth)</strong> — 이미 만든 마스크를 <strong>색(Color)·밝기(Luminance)·깊이(Depth)</strong> 기준으로 더 정밀하게 좁혀 줍니다. 예컨대 Select Sky로 하늘을 고른 뒤, 밝기 범위로 하늘 중에서도 밝은 부분만 남기는 식입니다.</li>
+</ul>
+<h3 id="마스크는-더하고-빼며-조합한다"><a class="header" href="#마스크는-더하고-빼며-조합한다">마스크는 더하고 빼며 조합한다</a></h3>
+<p>마스크는 하나로 끝낼 필요가 없습니다. **더하기(Add)**로 영역을 넓히고 **빼기(Subtract)**로 좁혀, 여러 도구를 조합할 수 있습니다. 예를 들어 <strong>Select Sky로 하늘을 고른 뒤 브러시로 지평선 근처를 빼면</strong>, 하늘에서 산등성이에 걸친 부분은 제외하고 순수한 하늘만 정밀하게 남길 수 있습니다.</p>
+<h2 id="2-디테일--샤픈--ai-denoise"><a class="header" href="#2-디테일--샤픈--ai-denoise">2. 디테일 — 샤픈 + AI Denoise</a></h2>
+<p><strong>디테일(Detail)</strong> 패널은 선명도(샤픈)와 노이즈를 다룹니다. 이 둘은 <strong>순서 규칙</strong>이 특히 중요하므로 나눠서 설명합니다.</p>
+<h3 id="샤픈sharpening--masking-슬라이더-altoption-드래그"><a class="header" href="#샤픈sharpening--masking-슬라이더-altoption-드래그">샤픈(Sharpening) — Masking 슬라이더 Alt/Option 드래그</a></h3>
+<p>**샤픈(Sharpening, 이미 잡힌 디테일의 윤곽을 강조해 선명하게 보이게 하는 처리)**은 Detail 패널의 Amount(양)·Radius(반경)·Detail(디테일)·<strong>Masking(마스킹)</strong> 네 슬라이더로 조절합니다. 이 중 초보자가 꼭 익혀야 할 프로 요령이 <strong>Masking 슬라이더</strong>입니다.</p>
+<p><strong>Masking 슬라이더를 Alt(윈도우) / Option(맥)을 누른 채 드래그</strong>하면, 화면이 흑백으로 바뀌면서 <strong>샤픈이 적용될 영역만 흰색</strong>으로 표시됩니다. 슬라이더를 올릴수록 흰 영역이 줄어드는데, 이렇게 하면 하늘이나 매끄러운 피부처럼 <strong>디테일이 없는 평평한 면은 검게(샤픈 제외) 두고, 윤곽선(에지)에만 흰색으로 샤픈</strong>을 줄 수 있습니다. 평평한 면에 샤픈을 주면 없던 노이즈까지 함께 강조되므로, 이 미리보기로 <strong>윤곽에만 샤픈을 한정하는 것이 노이즈 증폭을 막는 핵심</strong>입니다. 확인은 반드시 <strong>100% 배율</strong>에서 하세요 — 축소 뷰에서는 샤픈 효과도 노이즈도 제대로 보이지 않습니다.</p>
+<blockquote>
+<p><strong>정직하게.</strong> 샤픈은 <strong>이미 있는 디테일을 강조</strong>할 뿐, 초점이 나간 사진에 없는 디테일을 만들어 내지 못합니다. 소프트 포커스는 편집으로 고칠 수 없는 유일한 근본 결함이므로, 선명도는 촬영에서 끝내야 합니다.</p>
+</blockquote>
+<h3 id="ai-denoise--raw-전용-새-dng-생성"><a class="header" href="#ai-denoise--raw-전용-새-dng-생성">AI Denoise — RAW 전용, 새 DNG 생성</a></h3>
+<p>**Denoise(노이즈 제거, AI가 노이즈를 분석해 제거하는 기능)**는 고ISO 황혼·먼지·섀도우를 많이 들어 올려 노이즈(입자 같은 얼룩)가 도드라질 때 씁니다. 몇 가지 정확한 사실을 짚어 둡니다.</p>
+<ul>
+<li><strong>Enhance(향상) 기능군의 하나</strong> — Denoise는 <strong>Enhance</strong> 기능군(Denoise · Raw Details · Super Resolution) 중 하나입니다. 2025년 6월(v14.4)부터는 <code>Photo &gt; Enhance</code> 메뉴뿐 아니라 <strong>Detail 패널에서 직접</strong> 실행할 수 있습니다.</li>
+<li><strong>RAW/CR3 전용</strong> — Denoise는 <strong>RAW 파일(CR3 등)에만</strong> 적용됩니다. JPEG에는 쓸 수 없습니다.</li>
+<li><strong>보정된 새 DNG 파일을 생성</strong> — Denoise를 실행하면 노이즈를 제거한 <strong>새 DNG 파일</strong>이 만들어집니다. <strong>원본 CR3는 그대로</strong> 남고, 이후 작업은 이 새 DNG 위에서 이어 갑니다.</li>
+</ul>
+<h3 id="순서-규칙--denoise를-샤픈보다-먼저"><a class="header" href="#순서-규칙--denoise를-샤픈보다-먼저">순서 규칙 — Denoise를 샤픈보다 먼저</a></h3>
+<p>디테일에서 가장 중요한 규칙은 하나입니다. <strong>노이즈 제거(Denoise)를 샤픈보다 먼저</strong> 하세요.</p>
+<p>샤픈은 윤곽뿐 아니라 <strong>이미 있는 노이즈까지 함께 강조</strong>합니다. 노이즈가 남은 상태에서 샤픈을 주면 노이즈가 더 도드라져 지저분해집니다. 그러니 <strong>노이즈를 먼저 제거한 뒤 샤픈</strong>해야 깨끗한 결과가 나옵니다. 또한 Denoise는 앞서 말했듯 <strong>새 DNG 파일을 만드므로</strong>, Denoise를 실행했다면 그 새 DNG 위에서 샤픈·마스킹을 비롯한 나머지 디테일·국소 작업을 이어 가면 됩니다.</p>
+<h2 id="3-국소-과보정-이렇게-피하세요"><a class="header" href="#3-국소-과보정-이렇게-피하세요">3. 국소 과보정, 이렇게 피하세요</a></h2>
+<p>전역 보정과 마찬가지로 국소 보정도 과하게 밀면 사진이 부자연스러워집니다. 오히려 특정 영역만 손대다 보면 그 부분만 튀어 더 눈에 거슬리기 쉽습니다. 아래는 국소·디테일 작업에서 가장 흔한 과보정 증상과 피하는 법입니다. 하나라도 보이면 값을 되돌리세요.</p>
+<blockquote>
+<p><strong>⚠️ 국소·디테일 과보정 경고 — 대표 증상과 대처.</strong></p>
+<ul>
+<li><strong>명료도(Clarity)·텍스처(Texture)·디헤이즈(Dehaze) 과다</strong> — 밝고 어두운 경계에 밝은 테두리(<strong>헤일로</strong>)가 생기고, 질감이 거칠어져 HDR 그런지(지저분하게 과장된) 느낌이 납니다. 인물 피부에는 오히려 <strong>음수 명료도</strong>가 어울릴 때가 많습니다.</li>
+<li><strong>채도(Saturation)·생동감(Vibrance) 과다</strong> — 하늘이 형광빛으로 뜨고, 피부·모래가 오렌지로 물듭니다.</li>
+<li><strong>블랙(Blacks) 과다</strong> — 어두운 디테일이 통째로 사라지는 <strong>크러시드 블랙</strong>(뭉개진 검정)이 됩니다.</li>
+<li><strong>디헤이즈로 하늘 과다</strong> — 하늘에 밴딩(색 띠)이 생기고 부자연스러운 청록색이 돕니다.</li>
+<li><strong>샤픈 과다</strong> — 헤일로·거친 노이즈가 생깁니다 → <strong>Masking 슬라이더 Alt/Option 드래그</strong>로 윤곽에만 한정하세요.</li>
+<li><strong>섀도우·노출을 국소로 과하게 리프트</strong> — 어두운 부분을 많이 들어 올리면 노이즈가 떠오릅니다 → <strong>Denoise를 먼저</strong> 하거나, 국소 마스크로 꼭 필요한 곳만 올리세요.</li>
+</ul>
+<p><strong>예방하는 원칙(전역 보정과 같습니다).</strong></p>
+<ul>
+<li>슬라이더를 넣었으면 <strong>한 발 물러서세요</strong> — 마음에 든 값의 <strong>절반</strong>만 남기는 습관이 안전합니다.</li>
+<li><strong>100% 배율 ↔ 축소 뷰</strong>를 오가며 확인하세요. 축소해서는 멀쩡해 보여도 100%에서 헤일로·노이즈가 드러납니다.</li>
+<li><strong>before/after 토글</strong>(단축키 <code>`</code>)로 원본과 번갈아 보며 균형을 잡으세요.</li>
+<li>원칙은 하나입니다 — <strong>“덜 한 것이 낫다.”</strong></li>
+</ul>
+</blockquote>
+<p>대낮·골든아워·역광·인물처럼 <strong>상황별 과보정 회피 요령의 전체 표</strong>는 이미 <a href="travel-recipes.html">상황별 레시피</a>의 과보정 경고 박스에 정리되어 있습니다. 여기서는 국소·디테일 관점만 다뤘으니, 장면별 전체 그림은 그쪽을 참고하세요.</p>
+<blockquote>
+<p>🔰 <strong>초보자는 이렇게.</strong> 마스크 도구가 많지만, 먼저 <strong>Select Sky(하늘 선택)</strong> 하나만 익히세요 — 여행 사진에서 노력 대비 효과가 가장 큽니다. 디테일은 <strong>Denoise를 샤픈보다 먼저</strong> 실행하고, 결과는 반드시 <strong>100% 배율</strong>로 확인하세요.</p>
+</blockquote>
+<h2 id="이어서--여러-장을-하나로-합치기"><a class="header" href="#이어서--여러-장을-하나로-합치기">이어서 — 여러 장을 하나로 합치기</a></h2>
+<p>여기까지가 한 장의 사진 안에서 특정 영역을 골라 다듬고, 디테일과 노이즈를 다루는 국소 보정입니다. 이와 달리 <strong>여러 장의 사진을 하나로 합치는</strong> 파노라마·HDR 병합은 다음 장 <a href="panorama-hdr.html">합치기 — 파노라마 · HDR 병합</a>에서 다룹니다. 넓은 고비 지평선을 여러 컷으로 이어 붙이거나, 밝은 하늘과 어두운 땅을 브라케팅으로 한 장에 담는 방법입니다.</p>
+<p>전체 편집 순서를 다시 확인하려면 <a href="develop-order.html">필수 보정 순서</a>를, 장면별 슬라이더 방향을 되짚으려면 <a href="travel-recipes.html">상황별 레시피</a>를 함께 참고하세요.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../../1-travel/3-editing/travel-recipes.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M41.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 256 246.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg></span>
+                            </a>
+
+                            <a rel="next prefetch" href="../../1-travel/3-editing/panorama-hdr.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"/></svg></span>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../../1-travel/3-editing/travel-recipes.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M41.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 256 246.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg></span>
+                    </a>
+
+                    <a rel="next prefetch" href="../../1-travel/3-editing/panorama-hdr.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"/></svg></span>
+                    </a>
+            </nav>
+
+        </div>
+
+        <template id=fa-eye><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M288 32c-80.8 0-145.5 36.8-192.6 80.6C48.6 156 17.3 208 2.5 243.7c-3.3 7.9-3.3 16.7 0 24.6C17.3 304 48.6 356 95.4 399.4C142.5 443.2 207.2 480 288 480s145.5-36.8 192.6-80.6c46.8-43.5 78.1-95.4 93-131.1c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C433.5 68.8 368.8 32 288 32zM432 256c0 79.5-64.5 144-144 144s-144-64.5-144-144s64.5-144 144-144s144 64.5 144 144zM288 192c0 35.3-28.7 64-64 64c-11.5 0-22.3-3-31.6-8.4c-.2 2.8-.4 5.5-.4 8.4c0 53 43 96 96 96s96-43 96-96s-43-96-96-96c-2.8 0-5.6 .1-8.4 .4c5.3 9.3 8.4 20.1 8.4 31.6z"/></svg></span></template>
+        <template id=fa-eye-slash><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M38.8 5.1C28.4-3.1 13.3-1.2 5.1 9.2S-1.2 34.7 9.2 42.9l592 464c10.4 8.2 25.5 6.3 33.7-4.1s6.3-25.5-4.1-33.7L525.6 386.7c39.6-40.6 66.4-86.1 79.9-118.4c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C465.5 68.8 400.8 32 320 32c-68.2 0-125 26.3-169.3 60.8L38.8 5.1zM223.1 149.5C248.6 126.2 282.7 112 320 112c79.5 0 144 64.5 144 144c0 24.9-6.3 48.3-17.4 68.7L408 294.5c5.2-11.8 8-24.8 8-38.5c0-53-43-96-96-96c-2.8 0-5.6 .1-8.4 .4c5.3 9.3 8.4 20.1 8.4 31.6c0 10.2-2.4 19.8-6.6 28.3l-90.3-70.8zm223.1 298L373 389.9c-16.4 6.5-34.3 10.1-53 10.1c-79.5 0-144-64.5-144-144c0-6.9 .5-13.6 1.4-20.2L83.1 161.5C60.3 191.2 44 220.8 34.5 243.7c-3.3 7.9-3.3 16.7 0 24.6c14.9 35.7 46.2 87.7 93 131.1C174.5 443.2 239.2 480 320 480c47.8 0 89.9-12.9 126.2-32.5z"/></svg></span></template>
+        <template id=fa-copy><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M502.6 70.63l-61.25-61.25C435.4 3.371 427.2 0 418.7 0H255.1c-35.35 0-64 28.66-64 64l.0195 256C192 355.4 220.7 384 256 384h192c35.2 0 64-28.8 64-64V93.25C512 84.77 508.6 76.63 502.6 70.63zM464 320c0 8.836-7.164 16-16 16H255.1c-8.838 0-16-7.164-16-16L239.1 64.13c0-8.836 7.164-16 16-16h128L384 96c0 17.67 14.33 32 32 32h47.1V320zM272 448c0 8.836-7.164 16-16 16H63.1c-8.838 0-16-7.164-16-16L47.98 192.1c0-8.836 7.164-16 16-16H160V128H63.99c-35.35 0-64 28.65-64 64l.0098 256C.002 483.3 28.66 512 64 512h192c35.2 0 64-28.8 64-64v-32h-47.1L272 448z"/></svg></span></template>
+        <template id=fa-play><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M73 39c-14.8-9.1-33.4-9.4-48.5-.9S0 62.6 0 80V432c0 17.4 9.4 33.4 24.5 41.9s33.7 8.1 48.5-.9L361 297c14.3-8.7 23-24.2 23-41s-8.7-32.2-23-41L73 39z"/></svg></span></template>
+        <template id=fa-clock-rotate-left><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M75 75L41 41C25.9 25.9 0 36.6 0 57.9V168c0 13.3 10.7 24 24 24H134.1c21.4 0 32.1-25.9 17-41l-30.8-30.8C155 85.5 203 64 256 64c106 0 192 86 192 192s-86 192-192 192c-40.8 0-78.6-12.7-109.7-34.4c-14.5-10.1-34.4-6.6-44.6 7.9s-6.6 34.4 7.9 44.6C151.2 495 201.7 512 256 512c141.4 0 256-114.6 256-256S397.4 0 256 0C185.3 0 121.3 28.7 75 75zm181 53c-13.3 0-24 10.7-24 24V256c0 6.4 2.5 12.5 7 17l72 72c9.4 9.4 24.6 9.4 33.9 0s9.4-24.6 0-33.9l-65-65V152c0-13.3-10.7-24-24-24z"/></svg></span></template>
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../../elasticlunr-ef4e11c1.min.js"></script>
+        <script src="../../mark-09e88c2c.min.js"></script>
+        <script src="../../searcher-09f2665d.js"></script>
+
+        <script src="../../clipboard-1626706a.min.js"></script>
+        <script src="../../highlight-abc7f01d.js"></script>
+        <script src="../../book-609e4cb8.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+
+    </div>
+    </body>
+</html>
