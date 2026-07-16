@@ -10,6 +10,59 @@
 
 *예시 이미지 — 이 책이 지향하는 장면과 비슷한 사구·은하수 사진입니다. 실제 몽골 촬영지는 아닙니다. 사진: NPS / Patrick Myers, 미국 그레이트샌드듄스 국립공원 (Public Domain).*
 
+## 목차
+
+<nav class="book-toc" aria-label="목차">
+
+<div class="toc-part">
+<a class="toc-part-title" href="1-travel/index.html">1부 · 여행 사진</a>
+<div class="toc-grid">
+<a class="toc-card" href="1-travel/1-shooting/index.html"><span class="t">여행 사진 촬영</span><span class="d">Canon R7 설정 · 구도 · 빛 · 현장/사람</span></a>
+<a class="toc-card" href="1-travel/2-sites/index.html"><span class="t">명소별 여행 사진</span><span class="d">고비 코스 5곳 촬영 카드</span></a>
+<a class="toc-card" href="1-travel/3-editing/index.html"><span class="t">여행 사진 보정</span><span class="d">Lightroom Classic 현상·마스킹</span></a>
+<a class="toc-card" href="1-travel/4-references/index.html"><span class="t">참고 자료</span><span class="d">튜토리얼 · 갤러리 · FAQ</span></a>
+</div>
+</div>
+
+<div class="toc-part">
+<a class="toc-part-title" href="2-drone/index.html">2부 · 드론 사진·영상</a>
+<div class="toc-grid">
+<a class="toc-card" href="2-drone/1-photo/index.html"><span class="t">드론 사진 촬영</span><span class="d">조작 · 첫 비행 · 설정 · 항공 구도</span></a>
+<a class="toc-card" href="2-drone/2-sites/index.html"><span class="t">명소별 드론 촬영</span><span class="d">고비 5곳 촬영 카드</span></a>
+<a class="toc-card" href="2-drone/drone-postprocessing.html"><span class="t">드론 사진 후보정</span><span class="d">DNG 현상 · 보정</span></a>
+<a class="toc-card" href="2-drone/3-video/index.html"><span class="t">드론 영상 촬영</span><span class="d">설정 · 시네마틱 무빙 7종</span></a>
+<a class="toc-card" href="2-drone/domestic-example.html"><span class="t">국내 촬영 예제</span><span class="d">선운사 · 서해 바닷가 연습</span></a>
+<a class="toc-card" href="2-drone/4-capcut/index.html"><span class="t">CapCut 영상 편집</span><span class="d">컷 · 색보정 · 내보내기</span></a>
+<a class="toc-card" href="2-drone/5-references/index.html"><span class="t">참고 자료</span><span class="d">규제 · 사양 · 갤러리 · FAQ</span></a>
+</div>
+</div>
+
+<div class="toc-part">
+<a class="toc-part-title" href="3-astro/index.html">3부 · 천체사진 (은하수)</a>
+<div class="toc-grid">
+<a class="toc-card" href="3-astro/1-gear/index.html"><span class="t">장비 가이드</span><span class="d">카메라 · 렌즈 · 액세서리 · 체크리스트</span></a>
+<a class="toc-card" href="3-astro/2-fundamentals/index.html"><span class="t">촬영 기초</span><span class="d">밤 노출 · 500/NPF · 초점 · 타이밍</span></a>
+<a class="toc-card" href="3-astro/3-practice/index.html"><span class="t">가기 전 연습</span><span class="d">집·야외 연습 루틴</span></a>
+<a class="toc-card" href="3-astro/4-sites/index.html"><span class="t">명소별 은하수</span><span class="d">고비 5곳 촬영 카드</span></a>
+<a class="toc-card" href="3-astro/5-postprocessing/index.html"><span class="t">천체사진 보정</span><span class="d">현상 · 스태킹 · 강조</span></a>
+<a class="toc-card" href="3-astro/6-bonus/index.html"><span class="t">보너스 기법</span><span class="d">파노라마 · 스타트레일 · 타임랩스</span></a>
+<a class="toc-card" href="3-astro/7-references/index.html"><span class="t">참고 자료</span><span class="d">기법 · SW · RAW 샘플 · FAQ</span></a>
+</div>
+</div>
+
+<div class="toc-part">
+<a class="toc-part-title" href="appendix/camera-lens-picks.html">부록</a>
+<div class="toc-grid">
+<a class="toc-card" href="appendix/camera-lens-picks.html"><span class="t">카메라 · 렌즈 추천</span><span class="d">보유·추천 목록</span></a>
+<a class="toc-card" href="appendix/cheat-sheet.html"><span class="t">현장 치트시트</span><span class="d">한눈에 보는 세팅</span></a>
+<a class="toc-card" href="appendix/checklists.html"><span class="t">체크리스트 모음</span><span class="d">준비·현장 점검</span></a>
+<a class="toc-card" href="appendix/app-software.html"><span class="t">앱 · 소프트웨어</span><span class="d">촬영·후보정 도구</span></a>
+<a class="toc-card" href="appendix/glossary.html"><span class="t">용어 사전</span><span class="d">촬영 용어 풀이</span></a>
+</div>
+</div>
+
+</nav>
+
 ## 이 책은 누구를 위한 책인가
 
 몽골 고비로 떠나는(또는 언젠가 떠나고 싶은) **사진 초보자와, 여행 사진을 한 단계 더 잘 찍고 싶은 사람**을 위한 책입니다. 전문 장비도, 사진 전공 지식도 전제하지 않습니다. 카메라의 모드 다이얼이 낯설어도, 드론을 처음 띄워 봐도, 은하수를 한 번도 찍어 본 적 없어도 따라올 수 있도록 — 왜 그렇게 하는지의 이유부터 하나씩 풀어 설명합니다.

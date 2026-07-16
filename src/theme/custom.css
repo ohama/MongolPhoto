@@ -5,3 +5,96 @@ body {
   word-break: keep-all;
   overflow-wrap: break-word;
 }
+
+/* ============================================================
+   사이드바 목차 제거 — 상단 바(제목=홈/목차)·검색·이전/다음으로 이동
+   (mdBook 0.5.x: 사이드바는 iframe, id=mdbook-sidebar / mdbook-sidebar-toggle)
+   ============================================================ */
+#mdbook-sidebar,
+.sidebar,
+.sidebar-iframe-outer,
+.sidebar-iframe-inner,
+.sidebar-scrollbox,
+.sidebar-resize-handle,
+.sidebar-resize-indicator,
+#mdbook-sidebar-toggle,
+#mdbook-sidebar-toggle-anchor,
+label[for="mdbook-sidebar-toggle-anchor"],
+.mobile-nav-chapters {
+  display: none !important;
+}
+
+/* 사이드바가 밀어내던 콘텐츠 위치 원위치(중앙 정렬) */
+.page-wrapper {
+  margin-left: 0 !important;
+  transform: none !important;
+}
+html.sidebar-visible .page-wrapper,
+html.sidebar-hidden .page-wrapper,
+.js .sidebar-visible .page-wrapper,
+.js .sidebar-hidden .page-wrapper {
+  transform: none !important;
+  margin-left: 0 !important;
+}
+
+/* 상단 바의 제목을 '홈(목차)로 가는 링크'로 강조 */
+.menu-title { font-weight: 700; }
+
+/* ============================================================
+   카드형 목차 (랜딩 페이지) — Bootstrap 감성(파란 액센트·카드·둥근 모서리)
+   테마(라이트/다크)에 맞춰 mdBook 변수 사용
+   ============================================================ */
+.book-toc { margin: 2.2rem 0 2.8rem; }
+
+.toc-part { margin: 0 0 2.2rem; }
+
+.toc-part-title {
+  display: inline-block;
+  font-size: 1.35rem;
+  font-weight: 800;
+  color: var(--fg) !important;
+  text-decoration: none !important;
+  padding: 0.15rem 0 0.15rem 0.7rem;
+  border-left: 5px solid var(--links);
+  margin-bottom: 1rem;
+}
+.toc-part-title:hover { color: var(--links) !important; }
+
+.toc-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+  gap: 0.9rem;
+}
+
+.toc-card {
+  display: block;
+  padding: 0.95rem 1.05rem;
+  border: 1px solid var(--table-border-color, #dee2e6);
+  border-radius: 0.8rem;
+  background: var(--quote-bg, #f8f9fa);
+  color: var(--fg) !important;
+  text-decoration: none !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+  transition: transform 0.12s ease, box-shadow 0.12s ease, border-color 0.12s ease;
+}
+.toc-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 20px rgba(13, 110, 253, 0.16);
+  border-color: var(--links);
+}
+.toc-card .t {
+  display: block;
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+}
+.toc-card .d {
+  display: block;
+  font-size: 0.82rem;
+  color: var(--sidebar-fg, #6c757d);
+  opacity: 0.85;
+  line-height: 1.45;
+}
+
+@media (max-width: 480px) {
+  .toc-grid { grid-template-columns: 1fr 1fr; }
+}
