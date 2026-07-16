@@ -2,6 +2,8 @@
 
 넓게 펼쳐진 은하수 아치나 지평선 전체를 한 프레임에 담기 어려울 때, 여러 장을 겹쳐 찍은 뒤 소프트웨어로 이어 붙여 한 장의 넓은 사진으로 만드는 기법입니다.
 
+> 📎 **예시:** [은하수 파노라마 촬영·병합 가이드와 사진](https://capturetheatlas.com/how-to-shoot-milky-way-panorama/) *(외부 링크 · 임베드 아님)*
+
 ## 기본 절차
 
 1. **노출 세팅은 단일 프레임 은하수 촬영과 동일합니다.** [밤 노출](../2-fundamentals/night-exposure.md) · [500 / NPF 룰](../2-fundamentals/500-npf-rule.md) · [RAW와 화이트밸런스](../../1-travel/1-shooting/raw-and-wb.md)에서 정한 세팅을 그대로 재사용하세요.
