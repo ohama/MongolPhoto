@@ -64,6 +64,7 @@
   - [몽골 드론 비행 규제·허가](2-drone/5-references/mongolia-regulations.md)
   - [DJI Mini 5 Pro 사양·튜토리얼](2-drone/5-references/gear-tutorials.md)
   - [드론 항공사진 예시 갤러리](2-drone/5-references/galleries.md)
+  - [자주 묻는 질문 (FAQ)](2-drone/5-references/faq.md)
 
 # 3부 · 천체사진 (은하수)
 
