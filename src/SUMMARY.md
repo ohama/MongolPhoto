@@ -32,6 +32,7 @@
 - [여행 사진 참고 자료](1-travel/4-references/index.md)
   - [카메라 사용법·촬영 팁 튜토리얼](1-travel/4-references/gear-tutorials.md)
   - [여행 사진 예시 갤러리](1-travel/4-references/galleries.md)
+  - [자주 묻는 질문 (FAQ)](1-travel/4-references/faq.md)
 
 # 2부 · 드론 사진·영상
 
