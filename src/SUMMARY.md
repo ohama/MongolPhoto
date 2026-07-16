@@ -53,6 +53,7 @@
 - [드론 영상 촬영](09-drone/video-index.md)
   - [드론 영상 촬영 기초](09-drone/video-shooting.md)
   - [시네마틱 움직임 샷](09-drone/video-movements.md)
+- [국내 촬영 예제 — 선운사와 서해 바닷가](09-drone/domestic-example.md)
 - [CapCut 영상 편집](09-drone/capcut-index.md)
   - [CapCut 시작하기 · 무료/Pro](09-drone/capcut-basics.md)
   - [컷 편집과 순서 · 속도](09-drone/capcut-cut.md)
