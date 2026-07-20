@@ -9,12 +9,12 @@ See: .planning/PROJECT.md (updated 2026-07-20)
 
 ## Current Position
 
-Phase: 24 of 28 (현장 워크플로 파트 신설 + 스텁) — Complete
+Phase: 25 of 28 (여행 전 준비) — Ready to plan
 Plan: 01 of 1 (24-01 완료)
-Status: Phase 24 complete. 다음: Phase 25 계획(`/gsd:plan-phase 25`), 25/26/27 병행 가능.
-Last activity: 2026-07-20 — 24-01-PLAN.md 실행 완료(4부 신설+배선+빌드/링크 게이트)
+Status: Phase 24 완료·검증 PASS(5/5). 다음: Phase 25(여행 전 준비) 또는 26/27 병행.
+Last activity: 2026-07-20 — Phase 24 실행·검증 완료(4부 파트 신설, 빌드 그린·링크 dead 0)
 
-Progress: v1.0 ✅ / v1.1 ✅ / v1.2 ✅ / v1.3 ✅ / v1.4 ✅ SHIPPED · v1.5 🚧 (1/8 plans, Phase 24 ✅)
+Progress: v1.0~v1.4 ✅ SHIPPED · v1.5 🚧 (Phase 24 ✅ / 25·26·27·28 대기)
 
 ## Roadmap (v1.5 현장 워크플로)
 
