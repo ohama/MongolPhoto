@@ -4,17 +4,17 @@
 
 See: .planning/PROJECT.md (updated 2026-07-21)
 
-**Core value:** 트래킹 장비 없이도 은하수 사진이 "잘 나오게" 하는 전 과정(장비 → 촬영 → 후보정)을 초보자가 따라 성공하도록 담는다. (여행·드론·은하수 3트랙 + v1.5 현장 워크플로로 통합 완성)
-**Current focus:** v1.5 SHIPPED. 다음 마일스톤 v1.6 "영상 스토리보드" — `/gsd:new-milestone`로 정의.
+**Core value:** 트래킹 장비 없이도 은하수 사진이 "잘 나오게" 하는 전 과정(장비 → 촬영 → 후보정)을 초보자가 따라 성공하도록 담는다. (여행·드론·은하수 3트랙 + v1.5 현장 워크플로로 통합 완성; v1.6은 명소·주제별 영상 제작 스토리보드로 촬영·편집 계획을 구체화)
+**Current focus:** v1.6 영상 스토리보드 — 요구사항 정의 중.
 
 ## Current Position
 
-Phase: v1.5 완료 · v1.6 미착수 (요구사항 정의 전)
+Phase: Not started (defining requirements)
 Plan: —
-Status: v1.5 현장 워크플로 마일스톤 완료(Phase 24~28, 6 plans, verifier 전부 PASS, 최종 빌드 그린·링크 957 dead 0). 아카이브·태그 완료. 다음: `/gsd:new-milestone`로 v1.6 "영상 스토리보드"(스토리보드 7종을 2부 신규 챕터로) 정의·로드맵.
-Last activity: 2026-07-21 — v1.5 마일스톤 완료 처리(아카이브·PROJECT/MILESTONES 갱신·태그)
+Status: Defining requirements — v1.6 "영상 스토리보드" 착수. 스토리보드 7종을 2부 신규 챕터로(배치 안 A). 다음: 요구사항 정의 → 로드맵.
+Last activity: 2026-07-21 — 마일스톤 v1.6 시작(PROJECT.md 마일스톤 섹션 추가)
 
-Progress: v1.0~v1.5 ✅ SHIPPED · v1.6 영상 스토리보드 📋 계획 대기
+Progress: v1.0~v1.5 ✅ SHIPPED · v1.6 영상 스토리보드 ◆ 정의 중
 
 ## Next Milestone (v1.6 영상 스토리보드) — 착수 전 메모
 
