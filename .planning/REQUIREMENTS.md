@@ -44,20 +44,18 @@
 
 ## Traceability
 
-(로드맵 생성 시 채움)
-
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| PREP-01 | - | Pending |
-| PREP-02 | - | Pending |
-| FIELD-01 | - | Pending |
-| FIELD-02 | - | Pending |
-| POST-01 | - | Pending |
-| POST-02 | - | Pending |
-| DATA-01 | - | Pending |
-| DATA-02 | - | Pending |
+| PREP-01 | Phase 25 | Pending |
+| PREP-02 | Phase 25 | Pending |
+| FIELD-01 | Phase 26 | Pending |
+| FIELD-02 | Phase 26 | Pending |
+| DATA-01 | Phase 27 | Pending |
+| DATA-02 | Phase 27 | Pending |
+| POST-01 | Phase 28 | Pending |
+| POST-02 | Phase 28 | Pending |
 
-**Coverage:** v1 requirements 8 · 매핑 대기
+**Coverage:** v1 requirements 8 / 8 매핑 완료 ✓ (Phase 24는 구조 기반 페이즈 — 요구사항 없음, PREP/FIELD/DATA/POST를 가능케 함)
 
 ---
-*Requirements defined: 2026-07-20*
+*Requirements defined: 2026-07-20 · Traceability mapped: 2026-07-20*
