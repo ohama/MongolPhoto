@@ -9,12 +9,12 @@ See: .planning/PROJECT.md (updated 2026-07-20)
 
 ## Current Position
 
-Phase: 27 of 28 (데이터·전원 운용) — Ready to plan (27 후 28 마지막)
+Phase: 28 of 28 (귀국 후 정리) — Ready to plan (마지막 Phase)
 Plan: 01 완료
-Status: Phase 26 완료·검증 PASS(4/4). 다음: Phase 27(데이터·전원), 이후 28(최종 게이트).
-Last activity: 2026-07-20 — Phase 26 실행·검증 완료(하루 현장 운용 field-day.md, 빌드 그린·링크 930 dead 0)
+Status: Phase 27 완료(데이터·전원 운용, data-power.md, 빌드 그린·링크 943 dead 0). 다음: Phase 28(귀국 후 정리 + 최종 게이트).
+Last activity: 2026-07-20 — Phase 27 실행 완료(데이터·전원 운용 data-power.md, 빌드 그린·링크 943 dead 0, 커밋 aaa47d2)
 
-Progress: v1.0~v1.4 ✅ SHIPPED · v1.5 🚧 (24·25·26 ✅ / 27·28 대기)
+Progress: v1.0~v1.4 ✅ SHIPPED · v1.5 🚧 (24·25·26·27 ✅ / 28 대기)
 
 ## Roadmap (v1.5 현장 워크플로)
 
@@ -41,6 +41,7 @@ Progress: v1.0~v1.4 ✅ SHIPPED · v1.5 🚧 (24·25·26 ✅ / 27·28 대기)
 - (24-01) 정직한 스텁 컨벤션 확립: H1 + 다룰 내용 1~2문장 + 트랙별 정직성 단서 + `> 📝 **작성 예정**` 블록 + 담당 Phase 번호 명시. Phase 25~28은 이 컨벤션을 유지하며 내용만 교체.
 - (25-01) PREP류 페이지 콘텐츠 리듬 확립: 리드 문단 → 통합/개요 섹션(허브 링크, 항목 복제 없음) → 계획/방법 섹션(기존 파트 승계 + 예시 표, 재확인 표기 반복) → 실행 섹션(왜/무엇/방법) → 🔰 박스 1개. Phase 26~28도 이 리듬 적용 가능.
 - (26-01) FIELD류 페이지 리듬 확장: 리드(+전 단계 preparation.md 연결) → 타임라인 예시 표(예시 템플릿+PhotoPills 재확인) → 오케스트레이션(핵심 인사이트+우선순위 규칙+전환 체크리스트+셔터 찬스) → "이 페이지에서 다루지 않는 것" 절(승계 링크 명시) → 🔰 박스 1개. min_lines 요구 충족은 재설명이 아닌 조직/승계 밀도로 해결.
+- (27-01) DATA류 페이지 리듬: 리드(전 단계 preparation.md 연결) → 카드 전략(산정 예시 표+로테이션+백업 전 포맷 금지+분실 대비) → 현장 RAW 백업(방법 유형 3가지+"현장 백업 ≠ 귀국 후 3-2-1" 명시+after-return.md 전진 링크) → 멀티데이 전원(장비별 배터리 링크 승계+차량 시가잭/인버터 충전+저온 대응 링크 승계+충전 우선순위 표) → 🔰 박스 1개. 3-2-1 전체 백업 절차는 상술하지 않고 Phase 28로 전진 링크만.
 
 ### Open Blockers / Concerns (승계)
 
@@ -48,17 +49,17 @@ Progress: v1.0~v1.4 ✅ SHIPPED · v1.5 🚧 (24·25·26 ✅ / 27·28 대기)
 - 하루 타임라인 시각·장비 무게·용량·요금은 예시/검증/미확인으로 정직 표기(단정 금지).
 - 각 트랙 촬영·편집법은 재설명 없이 기존 1·2·3부 링크로 승계(중복 금지).
 
-### Phase 27~28 승계 메모 (Phase 26 완료 후)
+### Phase 28 승계 메모 (Phase 27 완료 후)
 
-- SUMMARY.md/introduction.md/README.md 배선은 24-01에서 완료됨 — Phase 27~28은 추가 배선 불필요, 각자 담당 스텁 1개 파일만 채우면 됨.
+- SUMMARY.md/introduction.md/README.md 배선은 24-01에서 완료됨 — Phase 28은 추가 배선 불필요, 담당 스텁 1개 파일(after-return.md)만 채우면 됨.
 - Phase 25 → `src/4-workflow/preparation.md` **완료** (PREP-01 통합 패킹, PREP-02 촬영 계획·오프라인 앱, 커밋 0baf371). SUMMARY: `.planning/phases/25-pre-trip-preparation/25-01-SUMMARY.md`.
 - Phase 26 → `src/4-workflow/field-day.md` **완료** (FIELD-01 하루 타임라인 예시 시간표, FIELD-02 세 카메라 오케스트레이션 — R7 낮/밤 커스텀 모드 겸용, 골든아워 우선순위, 전환 규칙, 셔터 찬스, 커밋 b11279c). SUMMARY: `.planning/phases/26-field-day-operation/26-01-SUMMARY.md`. 빌드 그린·링크 930개 스캔 REAL DEAD 0.
-- Phase 27 → `src/4-workflow/data-power.md` (DATA-01 카드·현장 백업, DATA-02 멀티데이 전원) — field-day.md와 다른 파일이므로 이미 26과 병행 가능한 관계였음(이제 26 완료로 남은 순서상 다음 대상).
-- Phase 28 → `src/4-workflow/after-return.md` (POST-01 3-2-1 백업, POST-02 선별·편집 순서 허브) + wave 2에서 최종 빌드·링크 게이트 직렬 재실행(v1.4 23-02 방식) — Phase 26 시점 베이스라인: 링크 930개 스캔 REAL DEAD 0.
-- 28은 27 완료 후 마지막(wave 2 직렬)에 실행.
+- Phase 27 → `src/4-workflow/data-power.md` **완료** (DATA-01 카드 전략+현장 RAW 백업 — 용량·개수 산정 예시·로테이션·백업 전 포맷 금지·손상 분실 대비, 방법 유형 3가지, 귀국 후 3-2-1은 after-return.md 전진 링크로 구분; DATA-02 멀티데이 전원 — 장비별 배터리 링크 승계·차량 시가잭/인버터 충전·저온 대응 링크 승계·밤 촬영용 최우선 충전 우선순위, 커밋 aaa47d2). SUMMARY: `.planning/phases/27-data-power-management/27-01-SUMMARY.md`. 빌드 그린·링크 943개 스캔 REAL DEAD 0.
+- Phase 28 → `src/4-workflow/after-return.md` (POST-01 3-2-1 백업, POST-02 선별·편집 순서 허브) + wave 2에서 최종 빌드·링크 게이트 직렬 재실행(v1.4 23-02 방식) — Phase 27 시점 베이스라인: 링크 943개 스캔 REAL DEAD 0. data-power.md가 이미 "현장 백업 ≠ 귀국 후 3-2-1"을 명시하고 after-return.md로 전진 링크를 걸어두었으므로, 28은 이를 받아 3-2-1 전체 백업 절차를 중복 없이 작성.
+- 28은 마지막 Phase — v1.5 로드맵 완주.
 
 ## Session Continuity
 
 Last session: 2026-07-20
-Stopped at: 26-01-PLAN.md 실행 완료(field-day.md 실 콘텐츠+mdbook build 그린+링크 스캔 REAL DEAD 0+커밋 b11279c). SUMMARY: `.planning/phases/26-field-day-operation/26-01-SUMMARY.md`. 다음: `/gsd:plan-phase 27` (데이터·전원 운용).
+Stopped at: 27-01-PLAN.md 실행 완료(data-power.md 실 콘텐츠+mdbook build 그린+링크 스캔 REAL DEAD 0+커밋 aaa47d2). SUMMARY: `.planning/phases/27-data-power-management/27-01-SUMMARY.md`. 다음: `/gsd:plan-phase 28` (귀국 후 정리 — 마지막 Phase, wave 2 최종 게이트 포함).
 Resume file: None
