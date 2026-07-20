@@ -9,10 +9,10 @@ See: .planning/PROJECT.md (updated 2026-07-20)
 
 ## Current Position
 
-Phase: 28 of 28 (귀국 후 정리) — wave 1·wave 2(최종 게이트) 모두 완료. v1.5 로드맵 전체 완주.
+Phase: 28 of 28 (귀국 후 정리) — wave 1·wave 2(최종 게이트) 완료 + gsd-verifier PASS(6/6). v1.5 로드맵 전체 완주·검증 확정.
 Plan: 01, 02 모두 완료. v1.5에 남은 플랜 없음.
-Status: Phase 28-02(최종 빌드·링크 게이트) PASS — mdbook build src 2회 교차 그린, 책 전체(1~4부) 내부 링크 957개 전수 스캔 REAL DEAD 0(known FP 2건 제외). v1.5 마일스톤(Phase 24~28) 콘텐츠·빌드·링크 무결성 전부 확정. 다음: complete-milestone(v1.5 종료 처리) 또는 사용자 지시 대기.
-Last activity: 2026-07-21 — Phase 28-02 실행·완료(최종 빌드·링크 게이트 PASS, 리포트 커밋 ad49415)
+Status: Phase 28 goal 검증 PASS(gsd-verifier 6/6, 독립 재빌드 exit 0·독립 링크 재스캔 REAL DEAD 0 재현) — VERIFICATION.md 작성. ROADMAP/REQUIREMENTS/STATE 갱신·페이즈 완료 커밋 완료. v1.5 마일스톤(Phase 24~28) 전부 확정. 다음: complete-milestone(v1.5 종료 처리) 권장 — 단, 사용자가 새 요청(스토리보드 PNG 활용 방안) 제기 → 그 작업 우선.
+Last activity: 2026-07-21 — Phase 28 완료 처리(gsd-verifier PASS, ROADMAP/REQ/STATE 갱신)
 
 Progress: v1.0~v1.4 ✅ SHIPPED · v1.5 ✅ 로드맵 완주 (24·25·26·27·28-01·28-02 모두 완료) — complete-milestone 대기
 

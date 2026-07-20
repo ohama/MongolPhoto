@@ -19,8 +19,8 @@
 
 ### 귀국 후 정리 (POST)
 
-- [ ] **POST-01**: 독자가 귀국 후 촬영본을 **오프로드·백업(3-2-1 원칙)**하고 안전하게 보관·아카이브한다.
-- [ ] **POST-02**: 독자가 대량 촬영본을 **선별(컬링)**하고, **트랙별 현상·편집 순서**(여행=Lightroom / 드론 영상=CapCut / 은하수=스태킹)로 완성한다(기존 편집 파트를 순서로 잇는 허브).
+- [x] **POST-01**: 독자가 귀국 후 촬영본을 **오프로드·백업(3-2-1 원칙)**하고 안전하게 보관·아카이브한다.
+- [x] **POST-02**: 독자가 대량 촬영본을 **선별(컬링)**하고, **트랙별 현상·편집 순서**(여행=Lightroom / 드론 영상=CapCut / 은하수=스태킹)로 완성한다(기존 편집 파트를 순서로 잇는 허브).
 
 ### 데이터·전원 운용 (DATA)
 
@@ -52,8 +52,8 @@
 | FIELD-02 | Phase 26 | Complete |
 | DATA-01 | Phase 27 | Complete |
 | DATA-02 | Phase 27 | Complete |
-| POST-01 | Phase 28 | Pending |
-| POST-02 | Phase 28 | Pending |
+| POST-01 | Phase 28 | Complete |
+| POST-02 | Phase 28 | Complete |
 
 **Coverage:** v1 requirements 8 / 8 매핑 완료 ✓ (Phase 24는 구조 기반 페이즈 — 요구사항 없음, PREP/FIELD/DATA/POST를 가능케 함)
 
