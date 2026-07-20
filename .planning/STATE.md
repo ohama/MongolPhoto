@@ -11,10 +11,10 @@ See: .planning/PROJECT.md (updated 2026-07-20)
 
 Phase: 28 of 28 (귀국 후 정리) — Ready to plan (마지막 Phase)
 Plan: 01 완료
-Status: Phase 27 완료(데이터·전원 운용, data-power.md, 빌드 그린·링크 943 dead 0). 다음: Phase 28(귀국 후 정리 + 최종 게이트).
-Last activity: 2026-07-20 — Phase 27 실행 완료(데이터·전원 운용 data-power.md, 빌드 그린·링크 943 dead 0, 커밋 aaa47d2)
+Status: Phase 27 완료·검증 PASS(5/5). 다음: Phase 28(귀국 후 정리 + wave 2 최종 게이트) — 마일스톤 마지막.
+Last activity: 2026-07-20 — Phase 27 실행·검증 완료(데이터·전원 data-power.md, 빌드 그린·링크 1246 dead 0)
 
-Progress: v1.0~v1.4 ✅ SHIPPED · v1.5 🚧 (24·25·26·27 ✅ / 28 대기)
+Progress: v1.0~v1.4 ✅ SHIPPED · v1.5 🚧 (24·25·26·27 ✅ / 28 대기 — 마지막)
 
 ## Roadmap (v1.5 현장 워크플로)
 
