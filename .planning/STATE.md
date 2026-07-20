@@ -9,12 +9,12 @@ See: .planning/PROJECT.md (updated 2026-07-20)
 
 ## Current Position
 
-Phase: 26 of 28 (하루 현장 운용) — 완료(단일 플랜)
+Phase: 27 of 28 (데이터·전원 운용) — Ready to plan (27 후 28 마지막)
 Plan: 01 완료
-Status: Phase 26 완료. 다음: Phase 27(데이터·전원 운용, data-power.md — 27 미시작). 27 완료 후 28(귀국 후 정리, after-return.md + wave 2 직렬 — 최종 빌드·링크 게이트 재실행 필요).
-Last activity: 2026-07-20 — Phase 26 실행·검증 완료(하루 현장 운용 field-day.md, 빌드 그린·링크 930 dead 0, 커밋 b11279c)
+Status: Phase 26 완료·검증 PASS(4/4). 다음: Phase 27(데이터·전원), 이후 28(최종 게이트).
+Last activity: 2026-07-20 — Phase 26 실행·검증 완료(하루 현장 운용 field-day.md, 빌드 그린·링크 930 dead 0)
 
-Progress: v1.0~v1.4 ✅ SHIPPED · v1.5 🚧 (24 ✅ / 25 ✅ / 26 ✅ / 27·28 대기)
+Progress: v1.0~v1.4 ✅ SHIPPED · v1.5 🚧 (24·25·26 ✅ / 27·28 대기)
 
 ## Roadmap (v1.5 현장 워크플로)
 

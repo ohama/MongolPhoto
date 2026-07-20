@@ -48,8 +48,8 @@
 |-------------|-------|--------|
 | PREP-01 | Phase 25 | Complete |
 | PREP-02 | Phase 25 | Complete |
-| FIELD-01 | Phase 26 | Pending |
-| FIELD-02 | Phase 26 | Pending |
+| FIELD-01 | Phase 26 | Complete |
+| FIELD-02 | Phase 26 | Complete |
 | DATA-01 | Phase 27 | Pending |
 | DATA-02 | Phase 27 | Pending |
 | POST-01 | Phase 28 | Pending |
