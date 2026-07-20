@@ -9,12 +9,12 @@ See: .planning/PROJECT.md (updated 2026-07-20)
 
 ## Current Position
 
-Phase: 25 of 28 (여행 전 준비) — 완료
-Plan: 01 of 1 (25-01 완료)
+Phase: 26 of 28 (하루 현장 운용) — Ready to plan (26·27 병행 가능)
+Plan: —
 Status: Phase 25 완료(단일 플랜). 다음: Phase 26(하루 현장 운용) 또는 27(데이터·전원) — 병행 가능. 28은 마지막(wave 2 직렬).
-Last activity: 2026-07-20 — Phase 25 실행 완료(preparation.md 실 콘텐츠, 빌드 그린·링크 dead 0, 커밋 0baf371)
+Last activity: 2026-07-20 — Phase 25 실행·검증 완료(여행 전 준비 preparation.md, 빌드 그린·링크 902 dead 0)
 
-Progress: v1.0~v1.4 ✅ SHIPPED · v1.5 🚧 (Phase 24 ✅ / Phase 25 ✅ / 26·27·28 대기)
+Progress: v1.0~v1.4 ✅ SHIPPED · v1.5 🚧 (24 ✅ / 25 ✅ / 26·27·28 대기)
 
 ## Roadmap (v1.5 현장 워크플로)
 

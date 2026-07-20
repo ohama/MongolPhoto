@@ -46,8 +46,8 @@
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| PREP-01 | Phase 25 | Pending |
-| PREP-02 | Phase 25 | Pending |
+| PREP-01 | Phase 25 | Complete |
+| PREP-02 | Phase 25 | Complete |
 | FIELD-01 | Phase 26 | Pending |
 | FIELD-02 | Phase 26 | Pending |
 | DATA-01 | Phase 27 | Pending |
