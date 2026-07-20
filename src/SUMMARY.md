@@ -112,6 +112,14 @@
   - [몽골 여행 실무 정보](3-astro/7-references/mongolia-travel-info.md)
   - [자주 묻는 질문 (FAQ)](3-astro/7-references/faq.md)
 
+# 4부 · 현장 워크플로
+
+- [현장 워크플로 개요](4-workflow/index.md)
+- [여행 전 준비](4-workflow/preparation.md)
+- [하루 현장 운용](4-workflow/field-day.md)
+- [데이터·전원 운용](4-workflow/data-power.md)
+- [귀국 후 정리](4-workflow/after-return.md)
+
 # 부록
 
 - [카메라 · 렌즈 추천 목록](appendix/camera-lens-picks.md)
