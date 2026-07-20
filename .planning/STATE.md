@@ -9,12 +9,12 @@ See: .planning/PROJECT.md (updated 2026-07-20)
 
 ## Current Position
 
-Phase: 28 of 28 (귀국 후 정리) — Ready to plan (마지막 Phase)
-Plan: 01 완료
-Status: Phase 27 완료·검증 PASS(5/5). 다음: Phase 28(귀국 후 정리 + wave 2 최종 게이트) — 마일스톤 마지막.
-Last activity: 2026-07-20 — Phase 27 실행·검증 완료(데이터·전원 data-power.md, 빌드 그린·링크 1246 dead 0)
+Phase: 28 of 28 (귀국 후 정리) — wave 1 완료, wave 2(최종 게이트) 대기
+Plan: 01 완료 (28-02 wave 2 최종 빌드·링크 게이트 남음)
+Status: Phase 28-01 완료(after-return.md 실 콘텐츠 + 빌드 그린·링크 957 REAL DEAD 0). 다음: 28-02(wave 2 최종 빌드·링크 게이트 직렬 재실행, v1.4 23-02 방식) — 마일스톤 마지막 플랜.
+Last activity: 2026-07-21 — Phase 28-01 실행·완료(귀국 후 정리 after-return.md: POST-01 3-2-1 백업, POST-02 선별·편집 순서 허브, 커밋 6909565)
 
-Progress: v1.0~v1.4 ✅ SHIPPED · v1.5 🚧 (24·25·26·27 ✅ / 28 대기 — 마지막)
+Progress: v1.0~v1.4 ✅ SHIPPED · v1.5 🚧 (24·25·26·27 ✅ / 28-01 ✅ / 28-02 대기 — 마지막)
 
 ## Roadmap (v1.5 현장 워크플로)
 
@@ -42,6 +42,7 @@ Progress: v1.0~v1.4 ✅ SHIPPED · v1.5 🚧 (24·25·26·27 ✅ / 28 대기 —
 - (25-01) PREP류 페이지 콘텐츠 리듬 확립: 리드 문단 → 통합/개요 섹션(허브 링크, 항목 복제 없음) → 계획/방법 섹션(기존 파트 승계 + 예시 표, 재확인 표기 반복) → 실행 섹션(왜/무엇/방법) → 🔰 박스 1개. Phase 26~28도 이 리듬 적용 가능.
 - (26-01) FIELD류 페이지 리듬 확장: 리드(+전 단계 preparation.md 연결) → 타임라인 예시 표(예시 템플릿+PhotoPills 재확인) → 오케스트레이션(핵심 인사이트+우선순위 규칙+전환 체크리스트+셔터 찬스) → "이 페이지에서 다루지 않는 것" 절(승계 링크 명시) → 🔰 박스 1개. min_lines 요구 충족은 재설명이 아닌 조직/승계 밀도로 해결.
 - (27-01) DATA류 페이지 리듬: 리드(전 단계 preparation.md 연결) → 카드 전략(산정 예시 표+로테이션+백업 전 포맷 금지+분실 대비) → 현장 RAW 백업(방법 유형 3가지+"현장 백업 ≠ 귀국 후 3-2-1" 명시+after-return.md 전진 링크) → 멀티데이 전원(장비별 배터리 링크 승계+차량 시가잭/인버터 충전+저온 대응 링크 승계+충전 우선순위 표) → 🔰 박스 1개. 3-2-1 전체 백업 절차는 상술하지 않고 Phase 28로 전진 링크만.
+- (28-01) POST류 페이지 리듬: 리드(전 단계 data-power.md 연결) → 귀국 후 백업 3-2-1(원칙+집 도착 첫 행동 오프로드→검증→재포맷 번호 순서+아카이브 예시 표+클라우드는 원칙·선택 기준만·미확인) → 선별(컬링, reject 먼저→플래그/레이팅→best만 예시 표) → 편집 순서 허브(4트랙 재설명 없는 라우팅 + 권장 순서 예시 표) → 🔰 박스 1개. v1.5 4부 5페이지 모두 완료.
 
 ### Open Blockers / Concerns (승계)
 
@@ -55,11 +56,12 @@ Progress: v1.0~v1.4 ✅ SHIPPED · v1.5 🚧 (24·25·26·27 ✅ / 28 대기 —
 - Phase 25 → `src/4-workflow/preparation.md` **완료** (PREP-01 통합 패킹, PREP-02 촬영 계획·오프라인 앱, 커밋 0baf371). SUMMARY: `.planning/phases/25-pre-trip-preparation/25-01-SUMMARY.md`.
 - Phase 26 → `src/4-workflow/field-day.md` **완료** (FIELD-01 하루 타임라인 예시 시간표, FIELD-02 세 카메라 오케스트레이션 — R7 낮/밤 커스텀 모드 겸용, 골든아워 우선순위, 전환 규칙, 셔터 찬스, 커밋 b11279c). SUMMARY: `.planning/phases/26-field-day-operation/26-01-SUMMARY.md`. 빌드 그린·링크 930개 스캔 REAL DEAD 0.
 - Phase 27 → `src/4-workflow/data-power.md` **완료** (DATA-01 카드 전략+현장 RAW 백업 — 용량·개수 산정 예시·로테이션·백업 전 포맷 금지·손상 분실 대비, 방법 유형 3가지, 귀국 후 3-2-1은 after-return.md 전진 링크로 구분; DATA-02 멀티데이 전원 — 장비별 배터리 링크 승계·차량 시가잭/인버터 충전·저온 대응 링크 승계·밤 촬영용 최우선 충전 우선순위, 커밋 aaa47d2). SUMMARY: `.planning/phases/27-data-power-management/27-01-SUMMARY.md`. 빌드 그린·링크 943개 스캔 REAL DEAD 0.
-- Phase 28 → `src/4-workflow/after-return.md` (POST-01 3-2-1 백업, POST-02 선별·편집 순서 허브) + wave 2에서 최종 빌드·링크 게이트 직렬 재실행(v1.4 23-02 방식) — Phase 27 시점 베이스라인: 링크 943개 스캔 REAL DEAD 0. data-power.md가 이미 "현장 백업 ≠ 귀국 후 3-2-1"을 명시하고 after-return.md로 전진 링크를 걸어두었으므로, 28은 이를 받아 3-2-1 전체 백업 절차를 중복 없이 작성.
-- 28은 마지막 Phase — v1.5 로드맵 완주.
+- Phase 28-01 → `src/4-workflow/after-return.md` **완료** (POST-01 귀국 후 3-2-1 백업 — 사본 3·매체 2·오프사이트 1, 집 도착 첫 행동 오프로드→검증→재포맷, 아카이브 예시, 클라우드 원칙만·미확인; POST-02 선별(컬링) — reject 먼저·플래그/레이팅·best만; POST-02 편집 순서 허브 — 4트랙 라우팅+권장 순서, 커밋 6909565). SUMMARY: `.planning/phases/28-after-return-final-gate/28-01-SUMMARY.md`. 빌드 그린·링크 957개 스캔 REAL DEAD 0.
+- Phase 28-02(wave 2) 남음 — 최종 빌드·링크 게이트 직렬 재실행(v1.4 23-02 방식, false-PASS 방지). v1.5 전체 5개 4부 페이지(index+preparation+field-day+data-power+after-return) 완료 후 최종 검증만 남은 상태.
+- 28-02 완료 시 v1.5 로드맵·마일스톤 완주.
 
 ## Session Continuity
 
-Last session: 2026-07-20
-Stopped at: 27-01-PLAN.md 실행 완료(data-power.md 실 콘텐츠+mdbook build 그린+링크 스캔 REAL DEAD 0+커밋 aaa47d2). SUMMARY: `.planning/phases/27-data-power-management/27-01-SUMMARY.md`. 다음: `/gsd:plan-phase 28` (귀국 후 정리 — 마지막 Phase, wave 2 최종 게이트 포함).
+Last session: 2026-07-21
+Stopped at: 28-01-PLAN.md 실행 완료(after-return.md 실 콘텐츠+mdbook build 그린+링크 스캔 REAL DEAD 0+커밋 6909565). SUMMARY: `.planning/phases/28-after-return-final-gate/28-01-SUMMARY.md`. 다음: 28-02(wave 2 최종 빌드·링크 게이트 직렬 재실행 — v1.5 로드맵 마지막 플랜).
 Resume file: None
