@@ -5,16 +5,16 @@
 See: .planning/PROJECT.md (updated 2026-07-20)
 
 **Core value:** 트래킹 장비 없이도 은하수 사진이 "잘 나오게" 하는 전 과정(장비 → 촬영 → 후보정)을 초보자가 따라 성공하도록 담는다. (여행·드론·은하수 3트랙 완성; v1.5는 세 트랙을 한 여행으로 잇는 현장 워크플로)
-**Current focus:** v1.5 현장 워크플로 — 로드맵 완성, Phase 24부터 계획 대기.
+**Current focus:** v1.5 현장 워크플로 — 로드맵 완주. 다음: complete-milestone.
 
 ## Current Position
 
-Phase: 28 of 28 (귀국 후 정리) — wave 1 완료, wave 2(최종 게이트) 대기
-Plan: 01 완료 (28-02 wave 2 최종 빌드·링크 게이트 남음)
-Status: Phase 28-01 완료(after-return.md 실 콘텐츠 + 빌드 그린·링크 957 REAL DEAD 0). 다음: 28-02(wave 2 최종 빌드·링크 게이트 직렬 재실행, v1.4 23-02 방식) — 마일스톤 마지막 플랜.
-Last activity: 2026-07-21 — Phase 28-01 실행·완료(귀국 후 정리 after-return.md: POST-01 3-2-1 백업, POST-02 선별·편집 순서 허브, 커밋 6909565)
+Phase: 28 of 28 (귀국 후 정리) — wave 1·wave 2(최종 게이트) 모두 완료. v1.5 로드맵 전체 완주.
+Plan: 01, 02 모두 완료. v1.5에 남은 플랜 없음.
+Status: Phase 28-02(최종 빌드·링크 게이트) PASS — mdbook build src 2회 교차 그린, 책 전체(1~4부) 내부 링크 957개 전수 스캔 REAL DEAD 0(known FP 2건 제외). v1.5 마일스톤(Phase 24~28) 콘텐츠·빌드·링크 무결성 전부 확정. 다음: complete-milestone(v1.5 종료 처리) 또는 사용자 지시 대기.
+Last activity: 2026-07-21 — Phase 28-02 실행·완료(최종 빌드·링크 게이트 PASS, 리포트 커밋 ad49415)
 
-Progress: v1.0~v1.4 ✅ SHIPPED · v1.5 🚧 (24·25·26·27 ✅ / 28-01 ✅ / 28-02 대기 — 마지막)
+Progress: v1.0~v1.4 ✅ SHIPPED · v1.5 ✅ 로드맵 완주 (24·25·26·27·28-01·28-02 모두 완료) — complete-milestone 대기
 
 ## Roadmap (v1.5 현장 워크플로)
 
@@ -57,11 +57,10 @@ Progress: v1.0~v1.4 ✅ SHIPPED · v1.5 🚧 (24·25·26·27 ✅ / 28-01 ✅ / 2
 - Phase 26 → `src/4-workflow/field-day.md` **완료** (FIELD-01 하루 타임라인 예시 시간표, FIELD-02 세 카메라 오케스트레이션 — R7 낮/밤 커스텀 모드 겸용, 골든아워 우선순위, 전환 규칙, 셔터 찬스, 커밋 b11279c). SUMMARY: `.planning/phases/26-field-day-operation/26-01-SUMMARY.md`. 빌드 그린·링크 930개 스캔 REAL DEAD 0.
 - Phase 27 → `src/4-workflow/data-power.md` **완료** (DATA-01 카드 전략+현장 RAW 백업 — 용량·개수 산정 예시·로테이션·백업 전 포맷 금지·손상 분실 대비, 방법 유형 3가지, 귀국 후 3-2-1은 after-return.md 전진 링크로 구분; DATA-02 멀티데이 전원 — 장비별 배터리 링크 승계·차량 시가잭/인버터 충전·저온 대응 링크 승계·밤 촬영용 최우선 충전 우선순위, 커밋 aaa47d2). SUMMARY: `.planning/phases/27-data-power-management/27-01-SUMMARY.md`. 빌드 그린·링크 943개 스캔 REAL DEAD 0.
 - Phase 28-01 → `src/4-workflow/after-return.md` **완료** (POST-01 귀국 후 3-2-1 백업 — 사본 3·매체 2·오프사이트 1, 집 도착 첫 행동 오프로드→검증→재포맷, 아카이브 예시, 클라우드 원칙만·미확인; POST-02 선별(컬링) — reject 먼저·플래그/레이팅·best만; POST-02 편집 순서 허브 — 4트랙 라우팅+권장 순서, 커밋 6909565). SUMMARY: `.planning/phases/28-after-return-final-gate/28-01-SUMMARY.md`. 빌드 그린·링크 957개 스캔 REAL DEAD 0.
-- Phase 28-02(wave 2) 남음 — 최종 빌드·링크 게이트 직렬 재실행(v1.4 23-02 방식, false-PASS 방지). v1.5 전체 5개 4부 페이지(index+preparation+field-day+data-power+after-return) 완료 후 최종 검증만 남은 상태.
-- 28-02 완료 시 v1.5 로드맵·마일스톤 완주.
+- Phase 28-02(wave 2, 최종 게이트) **완료** — mdbook build src 2회 교차 그린(create-missing=false, WARN/ERROR 없음) + src/**/*.md 전체(1~4부) 내부 링크 957개 전수 스캔 REAL DEAD 0(known FP 2건: about.md 파일명, template.md session-N 제외). 리포트 `.planning/phases/28-after-return-final-gate/28-02-LINK-CHECK.md`, 커밋 ad49415. SUMMARY: `.planning/phases/28-after-return-final-gate/28-02-SUMMARY.md`. **PASS** — v1.5 로드맵·마일스톤 완주.
 
 ## Session Continuity
 
 Last session: 2026-07-21
-Stopped at: 28-01-PLAN.md 실행 완료(after-return.md 실 콘텐츠+mdbook build 그린+링크 스캔 REAL DEAD 0+커밋 6909565). SUMMARY: `.planning/phases/28-after-return-final-gate/28-01-SUMMARY.md`. 다음: 28-02(wave 2 최종 빌드·링크 게이트 직렬 재실행 — v1.5 로드맵 마지막 플랜).
+Stopped at: 28-02-PLAN.md 실행 완료(최종 빌드·링크 게이트 PASS — mdbook build 2회 교차 그린, 링크 957개 전수 스캔 REAL DEAD 0, 리포트 커밋 ad49415). SUMMARY: `.planning/phases/28-after-return-final-gate/28-02-SUMMARY.md`. v1.5 "현장 워크플로" 마일스톤(Phase 24~28) 전체 완주. 다음: complete-milestone(v1.5 종료 처리) 또는 사용자 지시 대기.
 Resume file: None
