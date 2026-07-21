@@ -69,11 +69,11 @@ Plans:
   2. 명소 페이지(1·2·3부의 차강소브라·바양작·홍고린엘스·욜링암·바가가즈링촐로 — 고비 5곳 전부)에서 각각 해당 스토리보드로 가는 역링크가 존재한다.
   3. 책 전체 `mdbook build src`가 exit 0(그린)이다.
   4. 책 전체 내부 링크 전수 스캔에서 dead 0이다(false-positive 필터: 경로에 `파일명`·`session-N` 포함 제외) — wave 2로 직렬 실행해 false-PASS를 방지한다.
-**Plans**: TBD (예상 2 — 콘텐츠 + 최종 게이트 분리, v1.5 28-01/28-02 방식)
+**Plans**: 2 plans
 
 Plans:
-- [ ] 31-01: TBD
-- [ ] 31-02: TBD (최종 게이트, wave 2, depends_on 31-01)
+- [ ] 31-01-PLAN.md — 은하수 타임랩스 스토리보드 3부 배치(SB-03, timelapse.md 섹션+전사+정직캡션+3부 파트 링크 승계) + 고비 5곳 명소 페이지 역링크 15개(LINK-01, 1·2·3부)
+- [ ] 31-02-PLAN.md — 최종 게이트(wave 2, depends_on 31-01) — 책 전체 mdbook build 그린 + 내부 링크 전수 스캔 REAL DEAD 0, content-free 리포트만 커밋(28-02 방식)
 
 ## Progress
 
