@@ -5,16 +5,16 @@
 See: .planning/PROJECT.md (updated 2026-07-21)
 
 **Core value:** 트래킹 장비 없이도 은하수 사진이 "잘 나오게" 하는 전 과정(장비 → 촬영 → 후보정)을 초보자가 따라 성공하도록 담는다. (여행·드론·은하수 3트랙 + v1.5 현장 워크플로로 통합 완성; v1.6은 명소·주제별 영상 제작 스토리보드로 촬영·편집 계획을 구체화)
-**Current focus:** v1.6 영상 스토리보드 — 로드맵 작성 완료, 실행 대기.
+**Current focus:** v1.6 영상 스토리보드 — Phase 29 완료·검증 PASS. 다음 Phase 30.
 
 ## Current Position
 
-Phase: 29 of 31 (v1.6 첫 페이즈 — 스토리보드 자산 처리 + 2부 챕터 스캐폴드)
-Plan: 01 of 1 — 완료
-Status: Phase 29 plan 01 complete. Phase 30 대기.
-Last activity: 2026-07-21 — 29-01-PLAN.md 실행 완료(자산 7개 리사이즈 + 6-storyboards 그룹 스캐폴드 + SUMMARY/introduction/README 배선), 빌드 그린 + 링크 dead 0.
+Phase: 29 of 31 완료 (스토리보드 자산 처리 + 2부 챕터 스캐폴드) → 다음 Phase 30
+Plan: 29-01 완료·verifier PASS(5/5). ASSET-01·ASSET-02 Complete.
+Status: Phase 29 완료. 자산 7개 리사이즈·2부 `6-storyboards` 그룹(랜딩+장비 대조표+스텁 6) 신설·빌드 그린·링크 dead 0, gsd-verifier 5/5 PASS. 다음: `/gsd:plan-phase 30`(스텁 6개를 실 콘텐츠로 — SB-01 드론 2·SB-02 통합 4 + 4부 field-day 상향 링크).
+Last activity: 2026-07-21 — Phase 29 완료 처리(verifier PASS, ROADMAP/REQ/STATE 갱신)
 
-Progress: v1.0~v1.5 ✅ SHIPPED (28 phases) · v1.6 영상 스토리보드 ▓░░ Phase 29/31 완료(1/3 plans 실행, 자산·구조 뼈대 완성)
+Progress: v1.0~v1.5 ✅ SHIPPED (28 phases) · v1.6 영상 스토리보드 ▓▓░ Phase 29 완료(1/3 phases, 자산·구조 뼈대 확정)
 
 ## Roadmap (v1.6 영상 스토리보드)
 

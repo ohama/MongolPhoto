@@ -15,8 +15,8 @@
 
 ### 정직성·자산 처리 (ASSET)
 
-- [ ] **ASSET-01**: 모든 스토리보드 이미지가 **기획/콘셉트로 정직하게 라벨**되고(완성 영상 예시 아님·실촬영/완성 영상은 트립 8/13 후 교체), **~2000px JPEG로 리사이즈**되어 `src/images/`에 삽입된다(자체 영상 임베드 없음).
-- [ ] **ASSET-02**: 각 스토리보드의 **장비·설정 표기가 책 기준(Mini 5 Pro·Canon R7)과 대조**되어, 불일치(Mini 4 Pro 등)는 "재확인/미확인" 또는 "5 Pro 기준 재검증 필요"로 정직하게 조정된다(수치 단정 금지).
+- [x] **ASSET-01**: 모든 스토리보드 이미지가 **기획/콘셉트로 정직하게 라벨**되고(완성 영상 예시 아님·실촬영/완성 영상은 트립 8/13 후 교체), **~2000px JPEG로 리사이즈**되어 `src/images/`에 삽입된다(자체 영상 임베드 없음). — Phase 29
+- [x] **ASSET-02**: 각 스토리보드의 **장비·설정 표기가 책 기준(Mini 5 Pro·Canon R7)과 대조**되어, 불일치(Mini 4 Pro 등)는 "재확인/미확인" 또는 "5 Pro 기준 재검증 필요"로 정직하게 조정된다(수치 단정 금지). — Phase 29 (index.md 대조표; 실제 페이지별 적용은 Phase 30)
 
 ### 발견성·연결 (LINK)
 
@@ -42,8 +42,8 @@
 | SB-01 | Phase 30 | Pending |
 | SB-02 | Phase 30 | Pending |
 | SB-03 | Phase 31 | Pending |
-| ASSET-01 | Phase 29 | Pending |
-| ASSET-02 | Phase 29 | Pending |
+| ASSET-01 | Phase 29 | Complete |
+| ASSET-02 | Phase 29 | Complete |
 | LINK-01 | Phase 31 | Pending |
 
 **Coverage:**
