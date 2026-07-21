@@ -9,12 +9,12 @@ See: .planning/PROJECT.md (updated 2026-07-21)
 
 ## Current Position
 
-Phase: 30 of 31 완료 (드론 영상 2종 + 드론지상 통합 4종 콘텐츠 + 4부 역링크) → 다음 Phase 31
-Plan: 30-01·30-02·30-03 전부 완료·verifier PASS(7/7). SB-01(드론 2종)·SB-02(통합 4종) Complete.
-Status: Phase 30 완료. 6페이지(드론 2: 차강소브라·말떼 / 통합 4: 홍고린·욜링암·바가·바양작)를 원본 스토리보드 이미지에서 직접 전사(샷 리스트·촬영 설정·동선·편집 흐름·BGM), 이미지 임베드+정직 캡션, 설정값 "Mini 4 Pro 기재·5 Pro 재확인" 표기(단정 금지), 통합 4종은 4부 field-day 상향 링크 + field-day.md에 통합 4종 역링크("실제 적용 사례") 삽입. 빌드 그린·전수 링크 dead 0(1056). wave 1 병렬 3플랜 실행 중 git 스테이징 경합 2건 발생했으나 각 실행자 자체 되돌림으로 정정(콘텐츠 손실 0). 다음: `/gsd:plan-phase 31`(은하수 타임랩스 3부 배치 + 전체 역링크 + 최종 게이트 wave 2).
-Last activity: 2026-07-21 — Phase 30 완료 처리(verifier 7/7 PASS, ROADMAP/REQ/STATE 갱신)
+Phase: 31 of 31 진행 중 (은하수 타임랩스 3부 배치 + 전체 역링크 + 최종 게이트)
+Plan: 31-01 완료. 31-02(wave 2, 전체 링크 게이트) 남음.
+Status: 31-01 완료 — 은하수 타임랩스 스토리보드(23컷/~5분, Canon R7+RF16mm F2.8)를 `~/share/mongol2/6.몽골밤하늘.png`에서 직접 전사해 `src/3-astro/6-bonus/timelapse.md`에 배치(SB-03), night-sky.jpg 임베드+정직 캡션, 촬영·편집법은 기존 3부 파트로 링크 승계(재설명 0). 고비 5곳(차강소브라·바양작·홍고린엘스·욜링암·바가가즈링촐로) × 1·2·3부 = 15개 명소 페이지에 해당 2부 스토리보드 역링크 삽입, 전부 실 파일 해결 확인(LINK-01 역링크 부분). 빌드 그린(exit 0), 이 플랜 변경분 dead 링크 0. wave 1 단독 실행이라 Phase 30의 git 스테이징 경합 재발 없음. 다음: 31-02(wave 2) — 책 전체 전수 링크 게이트(dead 0) + Phase 31 최종 완료 처리.
+Last activity: 2026-07-21 — 31-01-PLAN.md 실행 완료(SB-03 + LINK-01 역링크 15개)
 
-Progress: v1.0~v1.5 ✅ SHIPPED (28 phases) · v1.6 영상 스토리보드 ▓▓▓▓░ Phase 29·30 완료(2/3 phases), 다음 Phase 31(wave 2 최종 게이트)
+Progress: v1.0~v1.5 ✅ SHIPPED (28 phases) · v1.6 영상 스토리보드 ▓▓▓▓▓ Phase 29·30 완료, Phase 31(31-01 완료·31-02 남음, 마지막 phase)
 
 **Phase 30 경합 교훈(Phase 31 승계):** wave 1에 여러 플랜을 병렬로 돌릴 때 같은 repo에서 `git add`/`commit` 경합으로 남의 미완성 변경분이 섞일 수 있음 → Phase 31은 콘텐츠(31-01)와 최종 게이트(31-02, wave 2 직렬)로 분리돼 있어 경합 위험 낮음. 다수 병렬 플랜이 필요하면 파일 소유 배타성 + 커밋 직전 재확인 필수.
 
@@ -50,9 +50,10 @@ Coverage: 6/6 requirements mapped ✓. 상세: `.planning/ROADMAP.md`.
 - 스토리보드 장비 표기가 Mini 4 Pro/RS 3 Mini/iPhone 15 Pro — 책 기준(Mini 5 Pro·R7)과 대조해 "재확인/미확인" 표기 필요(Phase 29에서 대조표 작성 완료, `src/2-drone/6-storyboards/index.md#장비-대조표`. Phase 30이 실제 수치를 채울 때 이 방침 준수).
 - Phase 30 완료: SB-01(드론 2: tsagaan-suvarga·mongol-horses — 30-01) + SB-02(통합 4: khongoryn-els·yolyn-am — 30-02, baga-gazriin-chuluu·bayanzag — 30-03) 전부 실 콘텐츠(샷 리스트·설정·동선·편집·BGM)로 채워짐. 통합 4종 → 4부 field-day "세 카메라 오케스트레이션" 상향 링크 4개는 30-03이 field-day.md에 전부 삽입 완료.
 - Phase 31이 채울 것: night-sky.jpg(자산 준비 완료, `src/images/storyboards/night-sky.jpg`)를 3부 `3-astro/6-bonus/timelapse.md`에 배치 + 전체 교차/역링크 + 최종 게이트(wave 2). 30-01/30-02/30-03이 wave 1에서 병행 실행되며 git 스테이징 경합이 있었음(30-01·30-02·30-03 SUMMARY에 각각 기록, 모두 자체 정정 완료 — 되돌림 커밋으로 해소, 콘텐츠 손실 없음) — Phase 31 오케스트레이션에서 plan별 커밋 타이밍 순차화 고려 권장.
+- 31-01 완료(2026-07-21): SB-03(은하수 타임랩스 3부 배치) + LINK-01 역링크 부분(고비 5곳 × 1·2·3부 = 15개) 실 콘텐츠로 채움. wave 1 단독 실행이라 경합 없었음. 남은 것: 31-02(wave 2) 책 전체 전수 링크 게이트(dead 0 확인) — 이 플랜은 변경분(16파일) 한정 검증만 수행, 전수 게이트는 아직 미실행.
 
 ## Session Continuity
 
 Last session: 2026-07-21
-Stopped at: 30-02-PLAN.md 실행 완료 — 홍고린엘스·욜링암 드론+지상 통합 스토리보드 실 콘텐츠(원본 이미지 전사) 채움, SB-02 완결(30-03의 바가가즈링 촐로·바양작과 합쳐 통합 4종 전부). 빌드 그린·이 플랜 변경분 링크 dead 0. SUMMARY: `.planning/phases/30-storyboard-content/30-02-SUMMARY.md`. Phase 30(30-01·30-02·30-03) 전부 완료. 다음: Phase 30 완료 처리(ROADMAP/REQUIREMENTS/STATE 갱신) → Phase 31(wave 2, 은하수 3부 배치 + 전체 링크 게이트).
+Stopped at: 31-01-PLAN.md 실행 완료 — 은하수 타임랩스 3부 배치(SB-03) + 고비 5곳 명소 페이지 15개 역링크(LINK-01 역링크 부분). 빌드 그린·이 플랜 변경분 링크 dead 0. SUMMARY: `.planning/phases/31-astro-storyboard-links-gate/31-01-SUMMARY.md`. 다음: 31-02-PLAN.md 실행(wave 2, 책 전체 전수 링크 게이트 + Phase 31 최종 완료 처리).
 Resume file: None
