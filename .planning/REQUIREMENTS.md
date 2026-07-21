@@ -43,17 +43,17 @@
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| SB-01 | TBD | Pending |
-| SB-02 | TBD | Pending |
-| SB-03 | TBD | Pending |
-| ASSET-01 | TBD | Pending |
-| ASSET-02 | TBD | Pending |
-| LINK-01 | TBD | Pending |
+| SB-01 | Phase 30 | Pending |
+| SB-02 | Phase 30 | Pending |
+| SB-03 | Phase 31 | Pending |
+| ASSET-01 | Phase 29 | Pending |
+| ASSET-02 | Phase 29 | Pending |
+| LINK-01 | Phase 31 | Pending |
 
 **Coverage:**
 - v1 requirements: 6 total
-- Mapped to phases: 0 (로드맵에서 매핑)
-- Unmapped: 6 ⚠️
+- Mapped to phases: 6/6 ✓
+- Unmapped: 0
 
 ---
 *Requirements defined: 2026-07-21*
