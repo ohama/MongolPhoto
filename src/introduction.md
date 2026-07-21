@@ -38,6 +38,7 @@
 <a class="toc-card" href="2-drone/domestic-example.html"><span class="t">국내 촬영 예제</span><span class="d">선운사 · 서해 바닷가 연습</span></a>
 <a class="toc-card" href="2-drone/4-capcut/index.html"><span class="t">CapCut 영상 편집</span><span class="d">컷 · 색보정 · 내보내기</span></a>
 <a class="toc-card" href="2-drone/5-references/index.html"><span class="t">참고 자료</span><span class="d">규제 · 사양 · 갤러리 · FAQ</span></a>
+<a class="toc-card" href="2-drone/6-storyboards/index.html"><span class="t">명소별 영상 스토리보드</span><span class="d">드론 2 · 통합 4 촬영·편집 계획(콘셉트)</span></a>
 </div>
 </div>
 

@@ -67,6 +67,13 @@
   - [DJI Mini 5 Pro 사양·튜토리얼](2-drone/5-references/gear-tutorials.md)
   - [드론 항공사진 예시 갤러리](2-drone/5-references/galleries.md)
   - [자주 묻는 질문 (FAQ)](2-drone/5-references/faq.md)
+- [명소별 영상 스토리보드](2-drone/6-storyboards/index.md)
+  - [차강소브라가 드론 영상](2-drone/6-storyboards/tsagaan-suvarga.md)
+  - [몽고 말떼 드론 영상](2-drone/6-storyboards/mongol-horses.md)
+  - [홍고린엘스 드론+지상 통합](2-drone/6-storyboards/khongoryn-els.md)
+  - [욜링암 드론+지상 통합](2-drone/6-storyboards/yolyn-am.md)
+  - [바가가즈링 촐로 드론+지상 통합](2-drone/6-storyboards/baga-gazriin-chuluu.md)
+  - [바양작 드론+지상 통합](2-drone/6-storyboards/bayanzag.md)
 
 # 3부 · 천체사진 (은하수)
 
