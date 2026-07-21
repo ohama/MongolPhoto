@@ -8,7 +8,7 @@
 - ✅ **v1.3 여행 사진 보정** - Phases 15-19 (shipped 2026-07-15)
 - ✅ **v1.4 드론 영상 (촬영 + CapCut 편집)** - Phases 20-23 (shipped 2026-07-16)
 - ✅ **v1.5 현장 워크플로** - Phases 24-28 (shipped 2026-07-21)
-- 🚧 **v1.6 영상 스토리보드** - Phases 29-31 (in progress)
+- ✅ **v1.6 영상 스토리보드** - Phases 29-31 (로드맵 완주, complete-milestone 대기)
 
 ## Phases
 
@@ -72,8 +72,8 @@ Plans:
 **Plans**: 2 plans
 
 Plans:
-- [ ] 31-01-PLAN.md — 은하수 타임랩스 스토리보드 3부 배치(SB-03, timelapse.md 섹션+전사+정직캡션+3부 파트 링크 승계) + 고비 5곳 명소 페이지 역링크 15개(LINK-01, 1·2·3부)
-- [ ] 31-02-PLAN.md — 최종 게이트(wave 2, depends_on 31-01) — 책 전체 mdbook build 그린 + 내부 링크 전수 스캔 REAL DEAD 0, content-free 리포트만 커밋(28-02 방식)
+- [x] 31-01-PLAN.md — 은하수 타임랩스 스토리보드 3부 배치(SB-03, timelapse.md 섹션+전사+정직캡션+3부 파트 링크 승계) + 고비 5곳 명소 페이지 역링크 15개(LINK-01, 1·2·3부)
+- [x] 31-02-PLAN.md — 최종 게이트(wave 2, depends_on 31-01) — 책 전체 mdbook build 그린 + 내부 링크 전수 스캔 REAL DEAD 0, content-free 리포트만 커밋(28-02 방식)
 
 ## Progress
 
@@ -90,4 +90,4 @@ Phases execute in numeric order: 1 → ... → 28 → 29 → 30 → 31
 | 24-28 | v1.5 | 6/6 | Complete | 2026-07-21 |
 | 29. 스토리보드 자산 처리 + 2부 스캐폴드 | v1.6 | 1/1 | Complete | 2026-07-21 |
 | 30. 드론+통합 스토리보드 콘텐츠 | v1.6 | 3/3 | Complete | 2026-07-21 |
-| 31. 은하수 스토리보드 + 링크 + 최종 게이트 | v1.6 | 0/? | Not started | - |
+| 31. 은하수 스토리보드 + 링크 + 최종 게이트 | v1.6 | 2/2 | Complete | 2026-07-21 |

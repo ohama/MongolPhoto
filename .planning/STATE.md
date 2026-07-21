@@ -12,7 +12,7 @@ See: .planning/PROJECT.md (updated 2026-07-21)
 Phase: 31 of 31 완료 (은하수 타임랩스 3부 배치 + 전체 역링크 + 최종 게이트) — v1.6 마지막 phase
 Plan: 31-01, 31-02 모두 완료.
 Status: 31-02(wave 2, 최종 게이트) 완료 — `mdbook build src` 2회 교차 그린(exit 0, WARN/ERROR 없음) + `src/**/*.md` 전체 1080개 내부 링크 전수 스캔 REAL DEAD 0(알려진 pre-existing false-positive 2건 제외: src/about.md `파일명`, src/3-astro/3-practice/template.md `session-N`). 리포트 `.planning/phases/31-astro-storyboard-links-gate/31-02-LINK-CHECK.md`에 TOTAL·RAW DEAD·REAL DEAD·PASS 판정 기록, 리포트 파일만 개별 커밋(docs(31-02)), docs/ 미커밋. **v1.6 영상 스토리보드 마일스톤 6/6 요건(SB-01·SB-02·SB-03·ASSET-01·ASSET-02·LINK-01) 전부 완료 — 로드맵 완주.**
-Last activity: 2026-07-21 — 31-02-PLAN.md 실행 완료(책 전체 링크 게이트 PASS, v1.6 마일스톤 완결)
+Last activity: 2026-07-21 — Phase 31 완료 처리(gsd-verifier 5/5 PASS, ROADMAP/REQ/STATE 갱신). 다음: `/gsd:complete-milestone 1.6`.
 
 Progress: v1.0~v1.5 ✅ SHIPPED (28 phases) · v1.6 영상 스토리보드 ✅ COMPLETE (Phase 29·30·31, 요건 6/6, 최종 게이트 PASS)
 
