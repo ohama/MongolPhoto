@@ -97,21 +97,30 @@ _Note: TDD 아님 — 콘텐츠 전사·문서 편집 플랜._
 - **Verification:** `git show --stat edc10d4`로 field-day.md만 포함된 단일 커밋 확인, `git diff src/4-workflow/field-day.md` 결과 없음(정상 커밋 완료), mdbook build exit 0, 링크 스캔 dead 0
 - **Committed in:** edc10d4
 
+**3. [Rule 3 - Blocking] 플랜 메타데이터 커밋이 병행 실행 중이던 30-02 플랜의 khongoryn-els.md 변경을 실수로 함께 커밋함**
+- **Found during:** 플랜 완료 후 메타데이터 커밋(STATE.md·SUMMARY.md) 직후 `git show --stat`으로 자체 검증하던 중
+- **Issue:** `git add .planning/STATE.md .planning/phases/30-storyboard-content/30-03-SUMMARY.md`로 정확히 2개 파일만 스테이징하고 커밋했으나, 커밋 직전 병행 실행 중이던 30-02 에이전트가 `khongoryn-els.md`를 스테이징(`git add`)해 두었고, 그 스테이징이 내 `git commit` 실행 시점의 인덱스에 포함되어 커밋(e294487)에 khongoryn-els.md 123줄 변경이 함께 들어갔다. `git commit`은 명시적 pathspec 없이 인덱스 전체를 커밋하므로, 스테이징 타이밍이 겹치면 이런 경합이 발생할 수 있음을 재확인했다.
+- **Fix:** 30-01이 나에게 했던 것과 동일한 패턴으로 직접 정정: 커밋 전 khongoryn-els.md의 현재(30-02 작업 중인) 내용을 스크래치패드에 백업 → 해당 파일만 이전 커밋(e294487^) 시점 스텁 내용으로 되돌려 별도 fix 커밋(`aa003f0`, "fix(30-03): khongoryn-els.md 범위 밖 변경 커밋 되돌림") 생성 → 백업해둔 30-02의 실제 작업 내용을 작업 트리에 다시 복원(커밋하지 않음, 30-02 에이전트가 스스로 커밋하도록 둠).
+- **Files modified:** src/2-drone/6-storyboards/khongoryn-els.md (히스토리상 되돌림 후 작업 트리는 그대로 복원 — 30-02 소유 콘텐츠 손실 없음)
+- **Verification:** `git show HEAD:src/2-drone/6-storyboards/khongoryn-els.md`가 스텁 상태(30-03 커밋 이전 상태)로 정상 복귀 확인, `git diff src/2-drone/6-storyboards/khongoryn-els.md`에서 30-02의 실제 콘텐츠가 미커밋 상태로 온전히 남아있음 확인, `git show HEAD:src/2-drone/6-storyboards/{baga-gazriin-chuluu,bayanzag}.md`·`field-day.md` 모두 30-03 콘텐츠 정상 확인, mdbook build exit 0
+- **Committed in:** aa003f0
+
 ---
 
-**Total deviations:** 2 auto-fixed (Rule 3 — 둘 다 검증/커밋 절차상 블로킹 이슈, 콘텐츠 정확성에는 영향 없었고 최종적으로 커밋 귀속도 정상 해소됨)
-**Impact on plan:** 콘텐츠·커밋 모두 계획대로 정확히 반영됨. Wave 1 병행 실행 중 일시적 git 경합이 있었으나 30-01 에이전트의 자체 정정으로 완전히 해소됐다.
+**Total deviations:** 3 auto-fixed (Rule 3 — 셋 다 wave 1 병행 실행(30-01/30-02/30-03)에서 발생한 git 스테이징 경합 및 그 정정. 콘텐츠 정확성에는 영향 없었고 최종적으로 커밋 귀속도 모두 정상 해소됨)
+**Impact on plan:** 콘텐츠·커밋 모두 계획대로 정확히 반영됨. Wave 1 병행 실행 중 양방향(30-01↔30-03, 30-03↔30-02) git 스테이징 경합이 두 차례 있었으나, 각각 발견 즉시 원래 소유 플랜의 작업 내용을 훼손하지 않는 방식(별도 fix 커밋 + 작업 트리 복원)으로 정정해 완전히 해소했다.
 
 ## Issues Encountered
-- 병행 실행 중인 30-01 플랜과의 git 스테이징 경합(위 Deviation 2) — 최종적으로 정상 해소됨, 콘텐츠 손실이나 충돌 없음.
+- 병행 실행 중인 30-01 플랜과의 git 스테이징 경합(위 Deviation 2) — 정상 해소됨, 콘텐츠 손실 없음.
+- 병행 실행 중인 30-02 플랜과의 git 스테이징 경합(위 Deviation 3, 이번엔 내가 원인 제공) — 즉시 자체 발견·정정, 콘텐츠 손실 없음.
 
 ## User Setup Required
 None - no external service configuration required.
 
 ## Next Phase Readiness
-- SB-02 완결: 통합 스토리보드 4종(홍고린엘스·욜링암·바가가즈링 촐로·바양작) 모두 세 카메라 통합 계획 + 4부 상향 링크를 갖추고, field-day.md에 통합 4종 역링크가 존재 — 단, 홍고린엘스·욜링암 자체 콘텐츠는 30-02가 채울 예정(이 플랜은 그 두 페이지의 스텁 경로만 참조, 아직 스텁 상태일 수 있음)
+- SB-02 완결: 통합 스토리보드 4종(홍고린엘스·욜링암·바가가즈링 촐로·바양작) 모두 세 카메라 통합 계획 + 4부 상향 링크를 갖추고, field-day.md에 통합 4종 역링크가 존재 — 단, 홍고린엘스·욜링암 자체 콘텐츠는 30-02가 채울 예정(이 플랜은 그 두 페이지의 스텁 경로만 참조, 실행 시점엔 아직 스텁이었으나 30-02가 병행 완료했을 가능성 높음 — Phase 30 완료 처리 전 확인 필요)
 - Phase 31(wave 2, 최종 게이트)에서 30-01·30-02·30-03 전체 산출물을 대상으로 전체 링크 게이트·SB-03(은하수 3부 배치)를 마저 진행해야 함
-- 동시 실행(wave 병렬) 시 git add/commit 경합 가능성 확인됨(위 Deviation 2, 최종 해소됨) — Phase 31 오케스트레이션에서 plan별 커밋 타이밍을 순차화하거나 파일 잠금을 고려하면 이런 경합을 예방할 수 있음
+- 동시 실행(wave 병렬) 시 git add/commit 경합이 양방향으로 두 차례 발생 확인됨(위 Deviation 2·3, 모두 해소됨) — Phase 31 오케스트레이션에서 plan별 `git commit`을 반드시 명시적 pathspec(`git commit <files> -m ...` 또는 커밋 직전 `git diff --cached --stat`으로 스테이징 내용 재확인)과 함께 실행하거나 커밋 타이밍을 순차화하면 이런 경합을 예방할 수 있음
 
 ---
 *Phase: 30-storyboard-content*
