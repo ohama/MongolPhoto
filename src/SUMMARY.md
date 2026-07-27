@@ -134,3 +134,7 @@
 - [체크리스트 모음](appendix/checklists.md)
 - [앱·소프트웨어 가이드](appendix/app-software.md)
 - [용어 사전](appendix/glossary.md)
+- [휴대폰으로 은하수 찍기](appendix/phone-milkyway.md)
+- [휴대폰으로 스타트레일 찍기](appendix/phone-star-trail.md)
+- [카메라로 은하수 찍기](appendix/camera-milkyway.md)
+- [카메라로 스타트레일 찍기](appendix/camera-star-trail.md)
