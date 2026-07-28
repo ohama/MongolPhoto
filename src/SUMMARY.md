@@ -140,3 +140,5 @@
 - [카메라로 스타트레일 찍기](appendix/camera-star-trail.md)
 - [사진 파노라마 찍기](appendix/photo-panorama.md)
 - [드론 파노라마 찍기](appendix/drone-panorama.md)
+- [휴대폰으로 타임랩스 찍기](appendix/phone-timelapse.md)
+- [카메라로 타임랩스 찍기](appendix/camera-timelapse.md)
