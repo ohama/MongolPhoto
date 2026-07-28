@@ -138,3 +138,5 @@
 - [휴대폰으로 스타트레일 찍기](appendix/phone-star-trail.md)
 - [카메라로 은하수 찍기](appendix/camera-milkyway.md)
 - [카메라로 스타트레일 찍기](appendix/camera-star-trail.md)
+- [사진 파노라마 찍기](appendix/photo-panorama.md)
+- [드론 파노라마 찍기](appendix/drone-panorama.md)
