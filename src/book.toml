@@ -15,6 +15,7 @@ preferred-dark-theme = "navy"
 git-repository-url = "https://github.com/ohama/MongolPhoto"
 edit-url-template = "https://github.com/ohama/MongolPhoto/edit/main/src/{path}"
 additional-css = ["theme/custom.css"]
+additional-js = ["theme/custom.js"]
 
 [output.html.fold]
 enable = true
