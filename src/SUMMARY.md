@@ -149,6 +149,7 @@
   - [휴대폰으로 은하수 찍기](appendix/phone-milkyway.md)
   - [카메라로 스타트레일 찍기](appendix/camera-star-trail.md)
   - [휴대폰으로 스타트레일 찍기](appendix/phone-star-trail.md)
+  - [고비 여행 일정 · 달 캘린더](appendix/travel-itinerary.md)
   - [종합 장비 추천 (여행·드론·은하수)](appendix/gear-picks.md)
   - [현장 치트시트](appendix/cheat-sheet.md)
   - [체크리스트 모음](appendix/checklists.md)
