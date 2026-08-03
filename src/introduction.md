@@ -85,6 +85,7 @@
 <a class="toc-card" href="appendix/drone-panorama.html"><span class="t">드론 파노라마</span><span class="d">독립 가이드 · 공중</span></a>
 <a class="toc-card" href="appendix/phone-timelapse.html"><span class="t">휴대폰 타임랩스</span><span class="d">독립 가이드 · 예: iPhone</span></a>
 <a class="toc-card" href="appendix/camera-timelapse.html"><span class="t">카메라 타임랩스</span><span class="d">독립 가이드 · 예: R7</span></a>
+<a class="toc-card" href="appendix/golden-hour-photo-drone.html"><span class="t">일출·일몰 촬영 순서</span><span class="d">사진·드론 배분 · 혼자/둘이</span></a>
 </div>
 </div>
 

@@ -153,3 +153,4 @@
   - [드론 파노라마 찍기](appendix/drone-panorama.md)
   - [휴대폰으로 타임랩스 찍기](appendix/phone-timelapse.md)
   - [카메라로 타임랩스 찍기](appendix/camera-timelapse.md)
+  - [일출·일몰 — 사진과 드론 촬영 순서](appendix/golden-hour-photo-drone.md)
