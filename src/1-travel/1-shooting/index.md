@@ -12,13 +12,15 @@
 
 3. [Canon R7 카메라 설정 · 렌즈 선택](camera-settings.md) — R7을 여행에 맞게 세팅하고, 보유·추천 렌즈를 언제 쓸지.
 4. [Av 모드 · Auto ISO · 최소 셔터속도 완전 정리](av-mode-auto-iso.md) — 주간 촬영의 기본 노출 모드.
-5. [출발 전 R7 세팅 — 메뉴 · 버튼 · 커스텀 모드](setup-and-custom-modes.md) — 현장에서 다이얼만 돌려 대응하도록 미리 세팅.
-6. [상황별 카메라 세팅 (시간대·날씨)](situational-settings.md) — 아침·낮·저녁, 맑음·흐림·특수 장면별 값.
+5. [Tv 모드 — 움직임 멈추기 (동물·액션)](tv-mode.md) — 달리는 말·나는 새를 셔터로 멈추기.
+6. [Av · Tv 선택 — 몽골 장면별](av-vs-tv.md) — 언제 Av·언제 Tv를 쓰고 어떤 값으로 둘지.
+7. [출발 전 R7 세팅 — 메뉴 · 버튼 · 커스텀 모드](setup-and-custom-modes.md) — 현장에서 다이얼만 돌려 대응하도록 미리 세팅.
+8. [상황별 카메라 세팅 (시간대·날씨)](situational-settings.md) — 아침·낮·저녁, 맑음·흐림·특수 장면별 값.
 
 **구도와 현장**
 
-7. [구도와 빛 · 타이밍](composition-and-light.md) — 여행 중 마주치는 장면을 구도와 빛으로 정리.
-8. [풍경과 현장 · 사람](landscape-and-street.md) — 풍경과 사람을 존중 있게 담는 법.
+9. [구도와 빛 · 타이밍](composition-and-light.md) — 여행 중 마주치는 장면을 구도와 빛으로 정리.
+10. [풍경과 현장 · 사람](landscape-and-street.md) — 풍경과 사람을 존중 있게 담는 법.
 
 ## 초보자가 가장 많이 하는 실수
 
