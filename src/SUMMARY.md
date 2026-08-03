@@ -15,6 +15,9 @@
   - [상황별 카메라 세팅 (시간대·날씨)](1-travel/1-shooting/situational-settings.md)
   - [구도와 빛 · 타이밍](1-travel/1-shooting/composition-and-light.md)
   - [풍경과 현장 · 사람](1-travel/1-shooting/landscape-and-street.md)
+- [가기 전 연습](1-travel/practice/index.md)
+  - [집에서 조작 연습](1-travel/practice/home-drills.md)
+  - [근교 실전 연습](1-travel/practice/field-drills.md)
 - [명소별 여행 사진 가이드](1-travel/2-sites/index.md)
   - [차강소브라가 (Tsagaan Suvarga)](1-travel/2-sites/tsagaan-suvarga.md)
   - [바양작 (Bayanzag)](1-travel/2-sites/bayanzag.md)
@@ -45,6 +48,10 @@
   - [항공 구도의 기초](2-drone/1-photo/composition.md)
   - [비행 기초와 배터리·RTH 관리](2-drone/1-photo/flight-and-battery.md)
   - [고비 사막 드론 환경 주의](2-drone/1-photo/gobi-environment.md)
+- [가기 전 연습](2-drone/practice/index.md)
+  - [합법 연습 — 규정·장소](2-drone/practice/legal-and-place.md)
+  - [기본 비행 연습](2-drone/practice/basic-flight.md)
+  - [촬영 연습 — 무브·ND·파노라마](2-drone/practice/shooting-drills.md)
 - [명소별 드론 촬영 가이드](2-drone/2-sites/index.md)
   - [차강소브라가 (Tsagaan Suvarga)](2-drone/2-sites/tsagaan-suvarga.md)
   - [바양작 (Bayanzag)](2-drone/2-sites/bayanzag.md)
@@ -130,6 +137,7 @@
 # 부록
 
 - [카메라 · 렌즈 추천 목록](appendix/camera-lens-picks.md)
+- [종합 장비 추천 (여행·드론·은하수)](appendix/gear-picks.md)
 - [현장 치트시트](appendix/cheat-sheet.md)
 - [체크리스트 모음](appendix/checklists.md)
 - [앱·소프트웨어 가이드](appendix/app-software.md)
