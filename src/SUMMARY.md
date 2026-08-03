@@ -11,6 +11,8 @@
   - [RAW와 화이트밸런스](1-travel/1-shooting/raw-and-wb.md)
   - [Canon R7 카메라 설정 · 렌즈 선택](1-travel/1-shooting/camera-settings.md)
   - [Av 모드 · Auto ISO · 최소 셔터속도 완전 정리](1-travel/1-shooting/av-mode-auto-iso.md)
+  - [Tv 모드 — 움직임 멈추기 (동물·액션)](1-travel/1-shooting/tv-mode.md)
+  - [Av · Tv 선택 — 몽골 장면별](1-travel/1-shooting/av-vs-tv.md)
   - [출발 전 R7 세팅 — 메뉴 · 버튼 · 커스텀 모드](1-travel/1-shooting/setup-and-custom-modes.md)
   - [상황별 카메라 세팅 (시간대·날씨)](1-travel/1-shooting/situational-settings.md)
   - [구도와 빛 · 타이밍](1-travel/1-shooting/composition-and-light.md)
