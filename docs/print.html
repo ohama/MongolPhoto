@@ -37,7 +37,7 @@
             const path_to_root = "";
             const default_light_theme = "light";
             const default_dark_theme = "navy";
-            window.path_to_searchindex_js = "searchindex-5c8ee502.js";
+            window.path_to_searchindex_js = "searchindex-ee41c7b3.js";
         </script>
         <!-- Start loading toc.js asap -->
         <script src="toc-79918db3.js"></script>
@@ -512,6 +512,9 @@
 <li>반대로 하늘처럼 밝은 부분이 하얗게 날아갈(클리핑) 위험이 있으면 <strong>−0.3~−0.7EV</strong> 정도로 살짝 낮춰 디테일을 지킵니다.</li>
 <li>촬영 후 화면의 히스토그램(밝기 분포 그래프)으로 확인하는 습관은 은하수·드론 파트와 동일하므로 여기서 다시 설명하지 않습니다.</li>
 </ul>
+<blockquote>
+<p>📝 <strong>편집 참고.</strong> 애매하면 하이라이트 쪽에 여유를 두고 살짝 어둡게 찍으세요. Lightroom에서 그림자는 들어 올릴 수 있어도 태운 하이라이트는 되살릴 수 없습니다.</p>
+</blockquote>
 <h2 id="측광측광-방식"><a class="header" href="#측광측광-방식">측광(측광 방식)</a></h2>
 <p>측광은 카메라가 노출을 계산할 때 화면의 어느 영역을 기준으로 삼을지 정하는 방식입니다.</p>
 <ul>
@@ -521,6 +524,15 @@
 <h2 id="cr3-raw로-찍기"><a class="header" href="#cr3-raw로-찍기">CR3 RAW로 찍기</a></h2>
 <p>R7은 <strong>CR3</strong> 형식의 RAW 파일을 만듭니다. 이 책이 이미 쓰고 있는 darktable·Lightroom 모두 CR3를 네이티브로 지원하므로, <strong>별도의 컨버터나 플러그인을 새로 설치할 필요가 없습니다.</strong> 왜 RAW로 찍어야 하는지는 이미 <a href="#raw와-화이트밸런스">RAW와 화이트밸런스</a>에서 다뤘으니 여기서 다시 설명하지 않습니다.</p>
 <p>여행 사진에서 달라지는 점 한 가지: 은하수 촬영은 여러 장을 스태킹(겹쳐 합성)하는 경우가 많아 현상 과정이 복잡했지만, 여행 사진은 주간·단일 프레임 위주라 현상이 훨씬 단순합니다.</p>
+<h2 id="세팅값은-lightroom-후보정을-전제로-합니다"><a class="header" href="#세팅값은-lightroom-후보정을-전제로-합니다">세팅값은 Lightroom 후보정을 전제로 합니다</a></h2>
+<p>이 파트에서 권하는 값들은 <strong>찍은 뒤 Lightroom Classic에서 마무리한다</strong>고 가정한 값입니다. 그래서 촬영 단계의 판단 기준이 이렇게 정해집니다.</p>
+<ul>
+<li><strong>하이라이트를 지키는 쪽으로 살짝 어둡게.</strong> 어두운 부분(그림자)은 편집에서 어느 정도 되살아나지만, 하얗게 날아간 하이라이트는 RAW로도 복구되지 않습니다. 그래서 밝은 사구·하늘에서는 노출보정을 −쪽으로 둡니다.</li>
+<li><strong>노이즈보다 흔들림을 먼저 막는다.</strong> ISO를 올려 생기는 노이즈는 Lightroom의 노이즈 감소(AI 디노이즈 포함)로 상당히 줄일 수 있지만, 셔터가 느려져 흔들린 디테일은 되살릴 수 없습니다. 그래서 최대 ISO를 너무 인색하게 잡지 않습니다.</li>
+<li><strong>색·왜곡·컨트라스트는 편집에서 정한다.</strong> RAW로 찍으므로 화이트밸런스·픽처스타일·채도·렌즈 왜곡은 최종 결과에 영향을 주지 않습니다 — AWB로 두고 편집에서 맞춥니다.</li>
+<li><strong>구도는 약간 여유 있게.</strong> 수평 보정·크롭을 편집에서 하므로 가장자리를 조금 넉넉히 담아 둡니다.</li>
+</ul>
+<p>아래 설명 곳곳의 <strong>📝 편집 참고</strong>가 이 전제를 상기시켜 줍니다. 각 습관의 자세한 근거와 ETTR·HDR 브라케팅·파노라마 겹침 촬영까지는 보정 파트의 <a href="#촬영-시-고려사항--sw를-염두에-둔-촬영">촬영 시 고려사항 — SW를 염두에 둔 촬영</a>에서 다룹니다.</p>
 <h2 id="주간-화이트밸런스"><a class="header" href="#주간-화이트밸런스">주간 화이트밸런스</a></h2>
 <p>주간에는 빛(햇빛)이 뚜렷해 화이트밸런스가 어렵지 않습니다.</p>
 <ul>
@@ -618,6 +630,9 @@
 <li>단점 — 노이즈가 늘어납니다.</li>
 </ul>
 <p>즉 최대 ISO를 <strong>낮게</strong> 잡으면 화질을 얻는 대신 어두울 때 흔들리기 쉽고, <strong>높게</strong> 잡으면 흔들림을 막는 대신 노이즈를 감수하게 됩니다. 정답이 하나로 정해진 값은 아니고, 밝은 낮이라면 3200으로도 충분하지만 빛이 부족한 상황이 예상되면 6400까지 열어 두는 식으로 상황에 맞춰 조절합니다.</p>
+<blockquote>
+<p>📝 <strong>편집 참고.</strong> 후보정을 전제로 하면 최대 ISO를 조금 넉넉히 열어도 됩니다. 높은 ISO의 노이즈는 Lightroom의 노이즈 감소(특히 AI 디노이즈)로 상당히 줄일 수 있지만, 셔터가 느려져 흔들린 컷은 편집으로 되살릴 수 없습니다 — <strong>노이즈보다 흔들림을 먼저 막는다</strong>가 기준입니다.</p>
+</blockquote>
 <h2 id="실제로-어떻게-동작하나--어두워질-때의-예"><a class="header" href="#실제로-어떻게-동작하나--어두워질-때의-예">실제로 어떻게 동작하나 — 어두워질 때의 예</a></h2>
 <p>설정을 <strong>Av · f/8 · Auto ISO · 최대 ISO 3200</strong>으로 두고, 주변이 점점 어두워진다고 해 보겠습니다.</p>
 <div class="table-wrapper">
@@ -675,6 +690,9 @@
 </div>
 <p>풍경에서 사람 → 동물 → 새로 갈수록 <strong>최소 셔터속도가 빨라지는</strong> 흐름에 주목하세요. 피사체가 빠를수록 그 움직임을 얼리기 위해 더 빠른 셔터가 필요하고, 그만큼 카메라가 ISO를 더 올려야 하므로 최대 ISO도 함께 열어 두는 것입니다.</p>
 <blockquote>
+<p>📝 <strong>편집 참고.</strong> 이 값으로 찍되, 밝은 사구·하늘이 프레임에 있으면 노출보정을 −1/3~−1 EV로 살짝 낮춰 하이라이트를 지키세요. 어두워진 부분은 Lightroom에서 되살리지만, 날아간 하이라이트는 복구되지 않습니다.</p>
+</blockquote>
+<blockquote>
 <p><strong>밤·은하수는 이 표에 없습니다.</strong> 야간은 자동 노출·Auto ISO가 무력해 Av·Tv가 아니라 <strong>M(수동) 모드</strong>로 찍기 때문입니다. 밤 노출값(M모드·ISO·셔터·화이트밸런스)은 <a href="#밤-노출--m모드와-시작값">3부 · 천체사진의 밤 노출</a>에서 따로 다룹니다.</p>
 </blockquote>
 <p>시간대·날씨에 따라 이 값을 어떻게 더 조정하는지는 <a href="#상황별-카메라-세팅-시간대날씨">상황별 카메라 세팅 (시간대·날씨)</a>에서 이어집니다.</p>
@@ -710,6 +728,9 @@
 </li>
 <li>동물·액션 추천 시작값: <strong>Tv · 1/1000~1/2000초 · Auto ISO(최대 6400) · Servo AF · 피사체 인식 동물 · 고속 연사.</strong></li>
 </ul>
+<blockquote>
+<p>📝 <strong>편집 참고.</strong> 움직임을 멈추려면 셔터가 우선이라 ISO가 높아지기 쉽습니다. 여기서 생기는 노이즈는 Lightroom의 노이즈 감소로 줄이면 되니, <strong>노이즈가 걱정돼 셔터를 늦추지 마세요</strong> — 흔들린 컷이 노이즈 있는 컷보다 되살리기 어렵습니다.</p>
+</blockquote>
 <h2 id="av--최소-셔터속도-vs-tv-무엇을-쓸까"><a class="header" href="#av--최소-셔터속도-vs-tv-무엇을-쓸까">Av + 최소 셔터속도 vs Tv, 무엇을 쓸까</a></h2>
 <p><a href="#av-모드--auto-iso--최소-셔터속도-완전-정리">Av 모드</a>에서 최소 셔터속도를 1/1000처럼 빠르게 잡아도 움직임을 어느 정도 멈출 수 있습니다. 차이는 “누가 셔터를 정하느냐“입니다.</p>
 <ul>
@@ -862,7 +883,7 @@
 <tr><th>항목</th><th>기본값</th><th>왜</th></tr>
 </thead>
 <tbody>
-<tr><td>모드</td><td><strong>Av(조리개 우선)</strong></td><td>주간 자동 노출이 잘 맞음 (<a href="#주간엔-av-모드--m모드-습관-언런unlearn">언런 설명</a>)</td></tr>
+<tr><td>모드</td><td><strong>Av(조리개 우선)</strong></td><td>주간 자동 노출이 잘 맞음 (<a href="#canon-r7-카메라-설정--렌즈-선택">Av 모드 설명</a>)</td></tr>
 <tr><td>ISO</td><td><strong>오토 ISO</strong> (하한 100 / 상한 6400)</td><td>빛에 따라 카메라가 알아서 올림</td></tr>
 <tr><td>오토 ISO 최저 셔터</td><td><strong>1/125초</strong></td><td>어두워져도 셔터를 이보다 느리게 안 내려 손떨림 방지</td></tr>
 <tr><td>조리개</td><td><strong>f/8</strong>(풍경) / f/2~2.8(인물)</td><td>f/8은 전체 선명, 낮은 f는 배경 흐림</td></tr>
@@ -874,6 +895,9 @@
 </tbody>
 </table>
 </div>
+<blockquote>
+<p>📝 <strong>편집 참고.</strong> 이 기본값의 <strong>노출보정 −1/3 EV</strong>와 <strong>RAW</strong>는 “찍고 나서 Lightroom에서 마무리한다“는 전제에서 나온 값입니다. 살짝 어둡게 담아 하이라이트를 지키고(그림자는 편집에서 되살림), 색·밝기 미세조정은 편집에서 합니다. 아래 시간대·날씨별 값의 −EV 보정도 같은 이유입니다. → <a href="#촬영-시-고려사항--sw를-염두에-둔-촬영">촬영 시 고려사항 — SW를 염두에 둔 촬영</a></p>
+</blockquote>
 <h2 id="r7킷의-숫자-미리-알기"><a class="header" href="#r7킷의-숫자-미리-알기">R7·킷의 숫자 미리 알기</a></h2>
 <ul>
 <li><strong>크롭 배율 ×1.6.</strong> 손떨림 없이 손으로 들고 찍는 <strong>안전 셔터속도 ≈ 1/(등가 초점거리)</strong>: 삼양 12mm(≈19mm)는 <strong>약 1/30초</strong>, RF 50mm(≈80mm)는 <strong>약 1/125초</strong>가 최소 기준입니다. 그보다 느리면 삼각대나 몸 고정(브레이싱)이 필요합니다.</li>
