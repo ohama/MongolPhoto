@@ -37,8 +37,17 @@ html.sidebar-hidden .page-wrapper,
   margin-left: 0 !important;
 }
 
-/* 상단 바의 제목을 '홈(목차)로 가는 링크'로 강조 */
+/* 상단 바의 제목·홈 버튼을 '홈(목차)로 가는 링크'로 (theme/custom.js가 링크를 주입) */
 .menu-title { font-weight: 700; }
+.menu-title-link {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+.menu-title-link:hover { color: var(--links) !important; }
+
+/* 왼쪽 홈 아이콘 버튼 — mdBook .icon-button 스타일을 그대로 물려받음 */
+#mdbook-home-button { text-decoration: none !important; }
+#mdbook-home-button svg { vertical-align: middle; }
 
 /* ============================================================
    카드형 목차 (랜딩 페이지) — Bootstrap 감성(파란 액센트·카드·둥근 모서리)
