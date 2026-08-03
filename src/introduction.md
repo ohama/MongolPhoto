@@ -70,22 +70,11 @@
 <div class="toc-part">
 <a class="toc-part-title" href="appendix/index.html">부록</a>
 <div class="toc-grid">
-<a class="toc-card" href="appendix/index.html"><span class="t">부록 개요</span><span class="d">전체 목록 · 어디부터 볼지</span></a>
-<a class="toc-card" href="appendix/camera-lens-picks.html"><span class="t">카메라 · 렌즈 추천</span><span class="d">예시·추천 목록</span></a>
-<a class="toc-card" href="appendix/gear-picks.html"><span class="t">종합 장비 추천</span><span class="d">여행·드론·은하수 통합</span></a>
-<a class="toc-card" href="appendix/cheat-sheet.html"><span class="t">현장 치트시트</span><span class="d">한눈에 보는 세팅</span></a>
-<a class="toc-card" href="appendix/checklists.html"><span class="t">체크리스트 모음</span><span class="d">준비·현장 점검</span></a>
-<a class="toc-card" href="appendix/app-software.html"><span class="t">앱 · 소프트웨어</span><span class="d">촬영·후보정 도구</span></a>
-<a class="toc-card" href="appendix/glossary.html"><span class="t">용어 사전</span><span class="d">촬영 용어 풀이</span></a>
-<a class="toc-card" href="appendix/phone-milkyway.html"><span class="t">휴대폰 은하수</span><span class="d">독립 가이드 · 예: iPhone</span></a>
-<a class="toc-card" href="appendix/camera-milkyway.html"><span class="t">카메라 은하수</span><span class="d">독립 가이드 · 예: R7</span></a>
-<a class="toc-card" href="appendix/phone-star-trail.html"><span class="t">휴대폰 스타트레일</span><span class="d">독립 가이드 · 별궤적</span></a>
-<a class="toc-card" href="appendix/camera-star-trail.html"><span class="t">카메라 스타트레일</span><span class="d">독립 가이드 · 별궤적</span></a>
-<a class="toc-card" href="appendix/photo-panorama.html"><span class="t">사진 파노라마</span><span class="d">독립 가이드 · 카메라</span></a>
-<a class="toc-card" href="appendix/drone-panorama.html"><span class="t">드론 파노라마</span><span class="d">독립 가이드 · 공중</span></a>
-<a class="toc-card" href="appendix/phone-timelapse.html"><span class="t">휴대폰 타임랩스</span><span class="d">독립 가이드 · 예: iPhone</span></a>
-<a class="toc-card" href="appendix/camera-timelapse.html"><span class="t">카메라 타임랩스</span><span class="d">독립 가이드 · 예: R7</span></a>
-<a class="toc-card" href="appendix/golden-hour-photo-drone.html"><span class="t">일출·일몰 촬영 순서</span><span class="d">사진·드론 배분 · 혼자/둘이</span></a>
+<a class="toc-card" href="appendix/index.html"><span class="t">부록 개요</span><span class="d">네 구역 전체 목록 · 어디부터 볼지</span></a>
+<a class="toc-card" href="appendix/index.html#z-photo"><span class="t">사진</span><span class="d">렌즈 추천 · 파노라마 · 타임랩스</span></a>
+<a class="toc-card" href="appendix/index.html#z-drone"><span class="t">드론</span><span class="d">드론 파노라마 · 사진과 촬영 순서</span></a>
+<a class="toc-card" href="appendix/index.html#z-astro"><span class="t">천체촬영</span><span class="d">은하수·스타트레일 (카메라·휴대폰)</span></a>
+<a class="toc-card" href="appendix/index.html#z-common"><span class="t">공통</span><span class="d">장비·치트시트·체크리스트·용어</span></a>
 </div>
 </div>
 
