@@ -36,7 +36,7 @@
             const path_to_root = "../../";
             const default_light_theme = "light";
             const default_dark_theme = "navy";
-            window.path_to_searchindex_js = "../../searchindex-26218ec6.js";
+            window.path_to_searchindex_js = "../../searchindex-6942b695.js";
         </script>
         <!-- Start loading toc.js asap -->
         <script src="../../toc-79918db3.js"></script>
@@ -190,9 +190,9 @@
 <li><strong>디테일(샤픈 + Denoise)은 14단계</strong> — 샤픈은 노이즈까지 함께 증폭하므로 톤이 확정된 끝단에서 100% 배율로 확인하며 적용합니다.</li>
 </ul>
 <p>“왜 국소가 전역 다음인가”, “왜 디테일이 끝단인가“라는 이유는 <a href="develop-order.html">필수 보정 순서</a>에서 이미 확립했으니 여기서 되풀이하지 않습니다. 이 장은 그 순서상 위치를 전제로, <strong>실제 도구를 어떻게 다루는지</strong>에 집중합니다.</p>
-<p>한 가지 약속을 갚아야 합니다. 앞 장 <a href="travel-recipes.html">상황별 레시피</a>에서는 역광 피사체에 <strong>Select Subject(피사체 선택)</strong>, 인물 스냅에 <strong>Select People(인물 선택)</strong>, 날아간 하늘에 **Select Sky(하늘 선택)**라는 도구 이름만 짧게 언급하고 “실제 조작은 국소 보정 장에서“라며 이 장으로 넘겼습니다. <strong>그 도구들의 실제 사용법을 지금 여기서 전달합니다.</strong></p>
+<p>한 가지 약속을 갚아야 합니다. 앞 장 <a href="travel-recipes.html">상황별 레시피</a>에서는 역광 피사체에 <strong>Select Subject(피사체 선택)</strong>, 인물 스냅에 <strong>Select People(인물 선택)</strong>, 날아간 하늘에 <strong>Select Sky</strong>(하늘 선택)라는 도구 이름만 짧게 언급하고 “실제 조작은 국소 보정 장에서“라며 이 장으로 넘겼습니다. <strong>그 도구들의 실제 사용법을 지금 여기서 전달합니다.</strong></p>
 <h2 id="1-마스킹masking-패널--무엇을-언제-쓰나"><a class="header" href="#1-마스킹masking-패널--무엇을-언제-쓰나">1. 마스킹(Masking) 패널 — 무엇을, 언제 쓰나</a></h2>
-<p>**마스킹(Masking, 사진 전체가 아니라 하늘·인물 같은 특정 영역에만 보정을 적용하는 국소 도구)**은 2021년 개편으로 예전의 “조정 브러시(Adjustment Brush)·단계 필터(Graduated Filter)·방사형 필터(Radial Filter)” 패널을 하나로 통합한 것입니다. 크게 <strong>AI가 영역을 자동으로 인식해 주는 자동 마스크</strong>와, <strong>직접 그리거나 그러데이션으로 만드는 수동 마스크</strong>의 두 갈래로 나뉩니다. 여기서는 개별 슬라이더 값을 나열하기보다 **“어떤 도구를, 언제 쓰는가”**에 집중합니다. 어떤 마스크든 일단 영역을 선택하고 나면, 그 영역 안에서 노출·하이라이트·채도 같은 슬라이더를 국소로 조절하는 방식은 똑같기 때문입니다.</p>
+<p><strong>마스킹</strong>(Masking, 사진 전체가 아니라 하늘·인물 같은 특정 영역에만 보정을 적용하는 국소 도구)은 2021년 개편으로 예전의 “조정 브러시(Adjustment Brush)·단계 필터(Graduated Filter)·방사형 필터(Radial Filter)” 패널을 하나로 통합한 것입니다. 크게 <strong>AI가 영역을 자동으로 인식해 주는 자동 마스크</strong>와, <strong>직접 그리거나 그러데이션으로 만드는 수동 마스크</strong>의 두 갈래로 나뉩니다. 여기서는 개별 슬라이더 값을 나열하기보다 **“어떤 도구를, 언제 쓰는가”**에 집중합니다. 어떤 마스크든 일단 영역을 선택하고 나면, 그 영역 안에서 노출·하이라이트·채도 같은 슬라이더를 국소로 조절하는 방식은 똑같기 때문입니다.</p>
 <h3 id="자동-마스크--ai가-영역을-알아서-잡아-준다"><a class="header" href="#자동-마스크--ai가-영역을-알아서-잡아-준다">자동 마스크 — AI가 영역을 알아서 잡아 준다</a></h3>
 <ul>
 <li><strong>Select Sky(하늘 선택)</strong> — 사진에서 하늘만 자동으로 골라 냅니다. 하늘만 노출·채도·톤을 따로 손볼 수 있어, <strong>여행 사진에서 노력 대비 효과가 가장 큰</strong> 도구입니다. 앞 장 <a href="travel-recipes.html">상황별 레시피</a>의 (e) 날린 하늘 복원에서 여기로 넘어온 경우가 대표적입니다 — 완전히 날아간 하늘은 되살릴 수 없지만, Select Sky로 하늘만 고른 뒤 노출·하이라이트를 낮추고 색온도·채도로 <strong>파란 톤을 시늉</strong>할 수 있습니다. (없는 디테일을 만들어 내지는 못한다는 점은 그대로입니다.)</li>
@@ -203,23 +203,23 @@
 </ul>
 <h3 id="수동-마스크--직접-그리거나-그러데이션으로"><a class="header" href="#수동-마스크--직접-그리거나-그러데이션으로">수동 마스크 — 직접 그리거나 그러데이션으로</a></h3>
 <ul>
-<li><strong>Brush(브러시)</strong> — 원하는 곳을 붓으로 직접 칠해 영역을 지정합니다. 특정 부분만 밝히는 **닷지(dodge, 밝히기)**나 어둡게 누르는 <strong>번(burn, 어둡게 하기)</strong> 같은 국소 조절에 씁니다. 자동 마스크가 잡지 못하는 자유로운 영역에 유용합니다.</li>
-<li><strong>Linear Gradient(직선 그러데이션, 옛 Graduated Filter)</strong> — 한 방향으로 서서히 세기가 옅어지는 마스크입니다. 밝은 하늘을 위에서 아래로 서서히 눌러, 촬영용 **그라디언트 ND 필터(하늘 쪽만 어둡게 하는 반투명 필터)**를 후보정으로 흉내 낼 수 있습니다.</li>
+<li><strong>Brush(브러시)</strong> — 원하는 곳을 붓으로 직접 칠해 영역을 지정합니다. 특정 부분만 밝히는 <strong>닷지</strong>(dodge, 밝히기)나 어둡게 누르는 <strong>번(burn, 어둡게 하기)</strong> 같은 국소 조절에 씁니다. 자동 마스크가 잡지 못하는 자유로운 영역에 유용합니다.</li>
+<li><strong>Linear Gradient(직선 그러데이션, 옛 Graduated Filter)</strong> — 한 방향으로 서서히 세기가 옅어지는 마스크입니다. 밝은 하늘을 위에서 아래로 서서히 눌러, 촬영용 <strong>그라디언트 ND 필터</strong>(하늘 쪽만 어둡게 하는 반투명 필터)를 후보정으로 흉내 낼 수 있습니다.</li>
 <li><strong>Radial Gradient(원형 그러데이션, 옛 Radial Filter)</strong> — 타원형으로 영역을 잡아 안쪽 또는 바깥쪽에 보정을 겁니다. 피사체를 원형으로 감싸 <strong>스포트라이트처럼</strong> 은은하게 강조할 때 씁니다.</li>
 <li><strong>Range Mask(범위 마스크 — Color / Luminance / Depth)</strong> — 이미 만든 마스크를 <strong>색(Color)·밝기(Luminance)·깊이(Depth)</strong> 기준으로 더 정밀하게 좁혀 줍니다. 예컨대 Select Sky로 하늘을 고른 뒤, 밝기 범위로 하늘 중에서도 밝은 부분만 남기는 식입니다.</li>
 </ul>
 <h3 id="마스크는-더하고-빼며-조합한다"><a class="header" href="#마스크는-더하고-빼며-조합한다">마스크는 더하고 빼며 조합한다</a></h3>
-<p>마스크는 하나로 끝낼 필요가 없습니다. **더하기(Add)**로 영역을 넓히고 **빼기(Subtract)**로 좁혀, 여러 도구를 조합할 수 있습니다. 예를 들어 <strong>Select Sky로 하늘을 고른 뒤 브러시로 지평선 근처를 빼면</strong>, 하늘에서 산등성이에 걸친 부분은 제외하고 순수한 하늘만 정밀하게 남길 수 있습니다.</p>
+<p>마스크는 하나로 끝낼 필요가 없습니다. <strong>더하기</strong>(Add)로 영역을 넓히고 <strong>빼기</strong>(Subtract)로 좁혀, 여러 도구를 조합할 수 있습니다. 예를 들어 <strong>Select Sky로 하늘을 고른 뒤 브러시로 지평선 근처를 빼면</strong>, 하늘에서 산등성이에 걸친 부분은 제외하고 순수한 하늘만 정밀하게 남길 수 있습니다.</p>
 <h2 id="2-디테일--샤픈--ai-denoise"><a class="header" href="#2-디테일--샤픈--ai-denoise">2. 디테일 — 샤픈 + AI Denoise</a></h2>
 <p><strong>디테일(Detail)</strong> 패널은 선명도(샤픈)와 노이즈를 다룹니다. 이 둘은 <strong>순서 규칙</strong>이 특히 중요하므로 나눠서 설명합니다.</p>
 <h3 id="샤픈sharpening--masking-슬라이더-altoption-드래그"><a class="header" href="#샤픈sharpening--masking-슬라이더-altoption-드래그">샤픈(Sharpening) — Masking 슬라이더 Alt/Option 드래그</a></h3>
-<p>**샤픈(Sharpening, 이미 잡힌 디테일의 윤곽을 강조해 선명하게 보이게 하는 처리)**은 Detail 패널의 Amount(양)·Radius(반경)·Detail(디테일)·<strong>Masking(마스킹)</strong> 네 슬라이더로 조절합니다. 이 중 초보자가 꼭 익혀야 할 프로 요령이 <strong>Masking 슬라이더</strong>입니다.</p>
+<p><strong>샤픈</strong>(Sharpening, 이미 잡힌 디테일의 윤곽을 강조해 선명하게 보이게 하는 처리)은 Detail 패널의 Amount(양)·Radius(반경)·Detail(디테일)·<strong>Masking(마스킹)</strong> 네 슬라이더로 조절합니다. 이 중 초보자가 꼭 익혀야 할 프로 요령이 <strong>Masking 슬라이더</strong>입니다.</p>
 <p><strong>Masking 슬라이더를 Alt(윈도우) / Option(맥)을 누른 채 드래그</strong>하면, 화면이 흑백으로 바뀌면서 <strong>샤픈이 적용될 영역만 흰색</strong>으로 표시됩니다. 슬라이더를 올릴수록 흰 영역이 줄어드는데, 이렇게 하면 하늘이나 매끄러운 피부처럼 <strong>디테일이 없는 평평한 면은 검게(샤픈 제외) 두고, 윤곽선(에지)에만 흰색으로 샤픈</strong>을 줄 수 있습니다. 평평한 면에 샤픈을 주면 없던 노이즈까지 함께 강조되므로, 이 미리보기로 <strong>윤곽에만 샤픈을 한정하는 것이 노이즈 증폭을 막는 핵심</strong>입니다. 확인은 반드시 <strong>100% 배율</strong>에서 하세요 — 축소 뷰에서는 샤픈 효과도 노이즈도 제대로 보이지 않습니다.</p>
 <blockquote>
 <p><strong>정직하게.</strong> 샤픈은 <strong>이미 있는 디테일을 강조</strong>할 뿐, 초점이 나간 사진에 없는 디테일을 만들어 내지 못합니다. 소프트 포커스는 편집으로 고칠 수 없는 유일한 근본 결함이므로, 선명도는 촬영에서 끝내야 합니다.</p>
 </blockquote>
 <h3 id="ai-denoise--raw-전용-새-dng-생성"><a class="header" href="#ai-denoise--raw-전용-새-dng-생성">AI Denoise — RAW 전용, 새 DNG 생성</a></h3>
-<p>**Denoise(노이즈 제거, AI가 노이즈를 분석해 제거하는 기능)**는 고ISO 황혼·먼지·섀도우를 많이 들어 올려 노이즈(입자 같은 얼룩)가 도드라질 때 씁니다. 몇 가지 정확한 사실을 짚어 둡니다.</p>
+<p><strong>Denoise</strong>(노이즈 제거, AI가 노이즈를 분석해 제거하는 기능)는 고ISO 황혼·먼지·섀도우를 많이 들어 올려 노이즈(입자 같은 얼룩)가 도드라질 때 씁니다. 몇 가지 정확한 사실을 짚어 둡니다.</p>
 <ul>
 <li><strong>Enhance(향상) 기능군의 하나</strong> — Denoise는 <strong>Enhance</strong> 기능군(Denoise · Raw Details · Super Resolution) 중 하나입니다. 2025년 6월(v14.4)부터는 <code>Photo &gt; Enhance</code> 메뉴뿐 아니라 <strong>Detail 패널에서 직접</strong> 실행할 수 있습니다.</li>
 <li><strong>RAW/CR3 전용</strong> — Denoise는 <strong>RAW 파일(CR3 등)에만</strong> 적용됩니다. JPEG에는 쓸 수 없습니다.</li>
