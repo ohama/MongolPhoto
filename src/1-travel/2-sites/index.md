@@ -17,6 +17,7 @@
 - 카메라 설정·렌즈(Av 모드·노출보정·측광·12mm/50mm 활용) → [카메라 설정 · 렌즈 선택](../1-shooting/camera-settings.md)
 - 구도·빛·타이밍·스토리텔링 세트 → [구도와 빛·타이밍](../1-shooting/composition-and-light.md)
 - 인물/현장 사진·유목민 예절·사막 먼지 관리 → [풍경과 현장·사람](../1-shooting/landscape-and-street.md)
+- 찍은 뒤 현상·하이라이트 복원·파노라마/HDR 병합 → [여행 사진 보정](../3-editing/index.md) (각 명소에서 RAW로 담은 컷을 완성하는 단계)
 
 ## 명소 5곳
 
