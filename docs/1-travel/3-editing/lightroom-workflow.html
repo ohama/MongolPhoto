@@ -36,7 +36,7 @@
             const path_to_root = "../../";
             const default_light_theme = "light";
             const default_dark_theme = "navy";
-            window.path_to_searchindex_js = "../../searchindex-946f6c28.js";
+            window.path_to_searchindex_js = "../../searchindex-400c3950.js";
         </script>
         <!-- Start loading toc.js asap -->
         <script src="../../toc-5673f64a.js"></script>
@@ -187,7 +187,7 @@
 <p>Lightroom Classic에서 노출·색·대비 슬라이더를 아무리 움직여도, <strong>원본 CR3 파일은 픽셀 한 개도 바뀌지 않습니다.</strong> 슬라이더 조작은 원본에 덧칠되는 것이 아니라 “노출 +0.5, 그림자 +30, 색온도 5200K로” 같은 <strong>편집 지시서</strong>로만 기록됩니다. 화면에 보이는 결과물은 원본 위에 이 지시서를 실시간으로 얹어 보여 주는 미리보기일 뿐입니다.</p>
 <p>Lightroom Classic은 이 편집 지시서를 <strong>카탈로그</strong>(.lrcat 파일 — 원본 파일의 저장 위치·미리보기 이미지·모든 편집 내역을 한데 담는 데이터베이스)에 보관합니다. 그래서 원본 RAW와 카탈로그, <strong>이 두 가지만 살아 있으면</strong> 언제든 편집을 그대로 재현하거나, 처음 상태로 되돌리거나, 다르게 다시 손볼 수 있습니다. 이것이 슬라이더를 마음껏 실험해도 되는 진짜 이유입니다.</p>
 <h2 id="가져오기import와-카탈로그의-관계"><a class="header" href="#가져오기import와-카탈로그의-관계">가져오기(Import)와 카탈로그의 관계</a></h2>
-<p>여기서 초보자가 가장 많이 오해하는 지점이 있습니다. <strong>Lightroom Classic은 폴더를 실시간으로 들여다보는 ’파일 탐색기’가 아닙니다.</strong> 카탈로그가 원본 파일이 디스크의 **어느 위치에 있는지를 ‘참조(경로 기억)’**하는 구조입니다.</p>
+<p>여기서 초보자가 가장 많이 오해하는 지점이 있습니다. <strong>Lightroom Classic은 폴더를 실시간으로 들여다보는 ’파일 탐색기’가 아닙니다.</strong> 카탈로그가 원본 파일이 디스크의 <strong>어느 위치에 있는지를</strong> ’참조(경로 기억)’하는 구조입니다.</p>
 <p>사진을 처음 불러오는 <strong>가져오기(Import)</strong> 단계에서 Lightroom은 원본 파일 자체를 복사해 가두는 것이 아니라(복사 옵션을 켜지 않는 한), 그 파일의 위치를 카탈로그에 등록해 둡니다. 그래서 실전에서 중요한 습관은 하나입니다.</p>
 <ul>
 <li><strong>가져오기 전에 폴더 구조를 먼저 정하고</strong>(예: <code>2026-몽골/원본RAW/</code>), 한 번 가져온 뒤에는 그 폴더를 Lightroom 밖에서 함부로 건드리지 않는 것.</li>
@@ -215,13 +215,13 @@
 <p>비파괴 편집과 카탈로그는 강력하지만, 그 구조를 오해하면 두 가지 사고가 납니다. 둘 다 초보자에게 매우 흔하고, 둘 다 원본이나 편집을 잃게 만드는 심각한 사고이므로 꼭 기억하세요.</p>
 <blockquote>
 <p><strong>⚠️ 함정 1 — 카탈로그 밖에서 파일을 옮기지 마세요.</strong></p>
-<p>Finder(맥)나 파일 탐색기(윈도우)로 원본 사진·폴더를 <strong>옮기거나, 이름을 바꾸거나, 다른 드라이브로 정리하면</strong> Lightroom이 그 원본의 위치를 잃어버립니다. 카탈로그는 “예전 경로“를 기억하는데 파일이 그 자리에 없으니, 썸네일 구석에 <strong>느낌표(!) 아이콘</strong>이 뜨고 <strong>“사진 없음(missing photo)”</strong> 상태가 됩니다. 이 상태에서는 현상 모듈이 원본을 열지 못해 세밀한 보정이 불가능합니다.</p>
+<p>Finder(맥)나 파일 탐색기(윈도우)로 원본 사진·폴더를 <strong>옮기거나, 이름을 바꾸거나, 다른 드라이브로 정리하면</strong> Lightroom이 그 원본의 위치를 잃어버립니다. 카탈로그는 “예전 경로“를 기억하는데 파일이 그 자리에 없으니, 썸네일 구석에 <strong>느낌표(!) 아이콘</strong>이 뜨고 “<strong>사진 없음(missing photo)</strong>” 상태가 됩니다. 이 상태에서는 현상 모듈이 원본을 열지 못해 세밀한 보정이 불가능합니다.</p>
 <p><strong>예방:</strong> 사진의 이동·이름변경·폴더 정리는 <strong>반드시 Lightroom 내부(라이브러리 모듈)에서</strong> 하세요. 라이브러리 안에서 옮기면 카탈로그가 위치를 자동으로 갱신합니다.</p>
-<p><strong>사고가 났다면:</strong> 느낌표를 누르거나 폴더를 우클릭해 **“누락된 폴더 찾기 / 사진 찾기(Find Missing)”**로 원본을 다시 지정하면 재연결됩니다. 원본을 지우지만 않았다면 복구할 수 있습니다.</p>
+<p><strong>사고가 났다면:</strong> 느낌표를 누르거나 폴더를 우클릭해 “<strong>누락된 폴더 찾기 / 사진 찾기(Find Missing)</strong>“로 원본을 다시 지정하면 재연결됩니다. 원본을 지우지만 않았다면 복구할 수 있습니다.</p>
 </blockquote>
 <blockquote>
 <p><strong>⚠️ 함정 2 — 카탈로그 백업 ≠ 원본 백업.</strong></p>
-<p>Lightroom Classic을 종료할 때 이따금 <strong>“카탈로그 백업”</strong> 창이 뜹니다. 이 백업은 <strong>.lrcat(편집 내역과 미리보기)만</strong> 저장하며, <strong>원본 RAW 파일은 백업하지 않습니다.</strong> “백업했으니 안심“이라고 착각한 채 원본이 든 드라이브가 고장 나면, 편집 기록만 남고 정작 사진은 사라집니다.</p>
+<p>Lightroom Classic을 종료할 때 이따금 “<strong>카탈로그 백업</strong>” 창이 뜹니다. 이 백업은 <strong>.lrcat(편집 내역과 미리보기)만</strong> 저장하며, <strong>원본 RAW 파일은 백업하지 않습니다.</strong> “백업했으니 안심“이라고 착각한 채 원본이 든 드라이브가 고장 나면, 편집 기록만 남고 정작 사진은 사라집니다.</p>
 <p><strong>예방:</strong> 두 가지를 <strong>따로</strong> 백업하세요.</p>
 <ol>
 <li><strong>원본 RAW</strong> — 외장 드라이브나 클라우드 등 별도 장소에.</li>

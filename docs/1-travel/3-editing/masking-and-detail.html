@@ -36,7 +36,7 @@
             const path_to_root = "../../";
             const default_light_theme = "light";
             const default_dark_theme = "navy";
-            window.path_to_searchindex_js = "../../searchindex-946f6c28.js";
+            window.path_to_searchindex_js = "../../searchindex-400c3950.js";
         </script>
         <!-- Start loading toc.js asap -->
         <script src="../../toc-5673f64a.js"></script>
@@ -192,11 +192,11 @@
 <p>“왜 국소가 전역 다음인가”, “왜 디테일이 끝단인가“라는 이유는 <a href="develop-order.html">필수 보정 순서</a>에서 이미 확립했으니 여기서 되풀이하지 않습니다. 이 장은 그 순서상 위치를 전제로, <strong>실제 도구를 어떻게 다루는지</strong>에 집중합니다.</p>
 <p>한 가지 약속을 갚아야 합니다. 앞 장 <a href="travel-recipes.html">상황별 레시피</a>에서는 역광 피사체에 <strong>Select Subject(피사체 선택)</strong>, 인물 스냅에 <strong>Select People(인물 선택)</strong>, 날아간 하늘에 <strong>Select Sky</strong>(하늘 선택)라는 도구 이름만 짧게 언급하고 “실제 조작은 국소 보정 장에서“라며 이 장으로 넘겼습니다. <strong>그 도구들의 실제 사용법을 지금 여기서 전달합니다.</strong></p>
 <h2 id="1-마스킹masking-패널--무엇을-언제-쓰나"><a class="header" href="#1-마스킹masking-패널--무엇을-언제-쓰나">1. 마스킹(Masking) 패널 — 무엇을, 언제 쓰나</a></h2>
-<p><strong>마스킹</strong>(Masking, 사진 전체가 아니라 하늘·인물 같은 특정 영역에만 보정을 적용하는 국소 도구)은 2021년 개편으로 예전의 “조정 브러시(Adjustment Brush)·단계 필터(Graduated Filter)·방사형 필터(Radial Filter)” 패널을 하나로 통합한 것입니다. 크게 <strong>AI가 영역을 자동으로 인식해 주는 자동 마스크</strong>와, <strong>직접 그리거나 그러데이션으로 만드는 수동 마스크</strong>의 두 갈래로 나뉩니다. 여기서는 개별 슬라이더 값을 나열하기보다 **“어떤 도구를, 언제 쓰는가”**에 집중합니다. 어떤 마스크든 일단 영역을 선택하고 나면, 그 영역 안에서 노출·하이라이트·채도 같은 슬라이더를 국소로 조절하는 방식은 똑같기 때문입니다.</p>
+<p><strong>마스킹</strong>(Masking, 사진 전체가 아니라 하늘·인물 같은 특정 영역에만 보정을 적용하는 국소 도구)은 2021년 개편으로 예전의 “조정 브러시(Adjustment Brush)·단계 필터(Graduated Filter)·방사형 필터(Radial Filter)” 패널을 하나로 통합한 것입니다. 크게 <strong>AI가 영역을 자동으로 인식해 주는 자동 마스크</strong>와, <strong>직접 그리거나 그러데이션으로 만드는 수동 마스크</strong>의 두 갈래로 나뉩니다. 여기서는 개별 슬라이더 값을 나열하기보다 “<strong>어떤 도구를, 언제 쓰는가</strong>“에 집중합니다. 어떤 마스크든 일단 영역을 선택하고 나면, 그 영역 안에서 노출·하이라이트·채도 같은 슬라이더를 국소로 조절하는 방식은 똑같기 때문입니다.</p>
 <h3 id="자동-마스크--ai가-영역을-알아서-잡아-준다"><a class="header" href="#자동-마스크--ai가-영역을-알아서-잡아-준다">자동 마스크 — AI가 영역을 알아서 잡아 준다</a></h3>
 <ul>
 <li><strong>Select Sky(하늘 선택)</strong> — 사진에서 하늘만 자동으로 골라 냅니다. 하늘만 노출·채도·톤을 따로 손볼 수 있어, <strong>여행 사진에서 노력 대비 효과가 가장 큰</strong> 도구입니다. 앞 장 <a href="travel-recipes.html">상황별 레시피</a>의 (e) 날린 하늘 복원에서 여기로 넘어온 경우가 대표적입니다 — 완전히 날아간 하늘은 되살릴 수 없지만, Select Sky로 하늘만 고른 뒤 노출·하이라이트를 낮추고 색온도·채도로 <strong>파란 톤을 시늉</strong>할 수 있습니다. (없는 디테일을 만들어 내지는 못한다는 점은 그대로입니다.)</li>
-<li><strong>Select Subject(피사체 선택)</strong> — 사진의 주 피사체만 자동으로 선택합니다. <a href="travel-recipes.html">상황별 레시피</a>의 (c) 역광에서 여기로 넘어옵니다 — 전체 그림자를 올려 프레임을 탁하게 만드는 대신, Select Subject로 피사체만 고른 뒤 **노출(Exposure) +**를 주면 배경은 그대로 두고 피사체만 밝힐 수 있습니다.</li>
+<li><strong>Select Subject(피사체 선택)</strong> — 사진의 주 피사체만 자동으로 선택합니다. <a href="travel-recipes.html">상황별 레시피</a>의 (c) 역광에서 여기로 넘어옵니다 — 전체 그림자를 올려 프레임을 탁하게 만드는 대신, Select Subject로 피사체만 고른 뒤 <strong>노출(Exposure)을 +로</strong> 주면 배경은 그대로 두고 피사체만 밝힐 수 있습니다.</li>
 <li><strong>Select People(인물 선택)</strong> — 사진 속 사람을 인식하며, 얼굴·피부·머리카락·눈·입술 등 <strong>세부 요소별로도</strong> 마스크를 나눠 줍니다. <a href="travel-recipes.html">상황별 레시피</a>의 (d) 인물에서 여기로 넘어옵니다 — 피부에서 텍스처(Texture)·명료도(Clarity)를 소폭 낮춰 얼굴을 매끄럽게 하고, 역광 유목민이라면 얼굴에만 노출(Exposure) +를 주어 밝힙니다.</li>
 <li><strong>Select Background(배경 선택)</strong> — 피사체를 뺀 나머지, 즉 배경만 선택합니다. Select Subject의 여집합이라고 생각하면 됩니다.</li>
 <li><strong>Select Objects(개체 선택)</strong> — 브러시로 대충 칠하거나 클릭하면 AI가 그 개체(사물)의 경계를 알아서 다듬어 선택해 줍니다. 하늘이나 사람이 아닌 특정 사물만 고를 때 씁니다.</li>
@@ -245,7 +245,7 @@
 <li>슬라이더를 넣었으면 <strong>한 발 물러서세요</strong> — 마음에 든 값의 <strong>절반</strong>만 남기는 습관이 안전합니다.</li>
 <li><strong>100% 배율 ↔ 축소 뷰</strong>를 오가며 확인하세요. 축소해서는 멀쩡해 보여도 100%에서 헤일로·노이즈가 드러납니다.</li>
 <li><strong>before/after 토글</strong>(단축키 <code>`</code>)로 원본과 번갈아 보며 균형을 잡으세요.</li>
-<li>원칙은 하나입니다 — <strong>“덜 한 것이 낫다.”</strong></li>
+<li>원칙은 하나입니다 — “<strong>덜 한 것이 낫다.</strong>”</li>
 </ul>
 </blockquote>
 <p>대낮·골든아워·역광·인물처럼 <strong>상황별 과보정 회피 요령의 전체 표</strong>는 이미 <a href="travel-recipes.html">상황별 레시피</a>의 과보정 경고 박스에 정리되어 있습니다. 여기서는 국소·디테일 관점만 다뤘으니, 장면별 전체 그림은 그쪽을 참고하세요.</p>
