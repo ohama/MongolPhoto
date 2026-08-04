@@ -71,6 +71,7 @@
 <a class="toc-part-title" href="appendix/index.html">부록</a>
 <div class="toc-grid">
 <a class="toc-card" href="appendix/index.html"><span class="t">부록 개요</span><span class="d">네 구역 전체 목록 · 어디부터 볼지</span></a>
+<a class="toc-card" href="appendix/index.html#z-practice"><span class="t">가기 전 연습 5종</span><span class="d">파노라마·드론·은하수·별궤적·타임랩스</span></a>
 <a class="toc-card" href="appendix/index.html#z-photo"><span class="t">사진</span><span class="d">렌즈 추천 · 파노라마 · 타임랩스</span></a>
 <a class="toc-card" href="appendix/index.html#z-drone"><span class="t">드론</span><span class="d">드론 파노라마 · 사진과 촬영 순서</span></a>
 <a class="toc-card" href="appendix/index.html#z-astro"><span class="t">천체촬영</span><span class="d">은하수·스타트레일 (카메라·휴대폰)</span></a>
