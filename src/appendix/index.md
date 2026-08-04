@@ -22,6 +22,7 @@
 드론(예: DJI Mini 5 Pro) 특유의 촬영과, 지상 사진과의 시간·역할 배분입니다.
 
 - [드론 파노라마 찍기 (예: DJI Mini 5 Pro)](drone-panorama.md) — 공중에서 초광각 파노라마를 찍는 법.
+- [드론 파노라마 가기 전 연습](drone-panorama-practice.md) — 합법 구역에서 파노 모드·노출 고정·재스티칭 미리 익히기.
 - [일출·일몰 — 사진과 드론 촬영 순서](golden-hour-photo-drone.md) — 짧은 골든아워에 사진과 드론을 혼자/둘이서 어떤 순서로 배분할지.
 
 <a id="z-astro"></a>
