@@ -87,7 +87,7 @@
 
 - **초보 기본값 = [YouTube Studio 오디오 보관함](https://studio.youtube.com)**(유튜브가 직접 제공하는 무료 음원 라이브러리). 유튜브에서 안전이 정의상 보장되고 무료라 첫 선택으로 권장합니다.
 - 대안은 유튜브·수익화를 명시적으로 커버하는 로열티프리(정액 사용료형) 서비스 — Epidemic Sound·Artlist·Uppbeat 같은 이름이 있습니다(**이름만** 소개하며 요금·약관은 각 서비스에서 직접 확인 `[verify@write]`).
-- 원칙 한 줄: **"TikTok 허용 ≠ YouTube 허용."** CapCut 내장 음악의 "commercial" 라벨은 대체로 TikTok·CapCut 한정이라 유튜브 안전을 보장하지 않습니다.
+- 원칙 한 줄: "**TikTok 허용 ≠ YouTube 허용.**" CapCut 내장 음악의 "commercial" 라벨은 대체로 TikTok·CapCut 한정이라 유튜브 안전을 보장하지 않습니다.
 - **공개 전 Unlisted(일부 공개)로 올려 Content ID(유튜브 저작권 자동 검출) 클레임을 먼저 확인**하고 공개로 전환하세요. 자세한 경고는 [색보정과 음악](capcut-grade-speed.md)의 음악 라이선스 절을 따르세요.
 - 지어낸 트랙명은 쓰지 않으며, 스톡(무료 소재 사이트) 음원을 CC0로 표기하지 않습니다.
 
