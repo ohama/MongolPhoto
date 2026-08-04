@@ -133,6 +133,7 @@
 - [현장 워크플로 개요](4-workflow/index.md)
 - [여행 전 준비](4-workflow/preparation.md)
 - [하루 현장 운용](4-workflow/field-day.md)
+- [명소별 저녁~아침 촬영 플랜](4-workflow/site-evening-to-morning.md)
 - [데이터·전원 운용](4-workflow/data-power.md)
 - [귀국 후 정리](4-workflow/after-return.md)
 
