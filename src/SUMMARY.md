@@ -156,6 +156,7 @@
   - [휴대폰으로 스타트레일 찍기](appendix/phone-star-trail.md)
   - [스타트레일 가기 전 연습](appendix/star-trail-practice.md)
   - [페르세우스 유성우 찍기 (2026년 8월)](appendix/perseid-meteor-shower.md)
+  - [천체사진 이미지 스태킹 소프트웨어](appendix/stacking-software.md)
   - [고비 여행 일정 · 달 캘린더](appendix/travel-itinerary.md)
   - [종합 장비 추천 (여행·드론·은하수)](appendix/gear-picks.md)
   - [현장 치트시트](appendix/cheat-sheet.md)
