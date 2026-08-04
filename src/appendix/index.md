@@ -14,6 +14,7 @@
 - [파노라마 가기 전 연습 (광교호수공원·대천 바닷가)](panorama-practice.md) — 국내에서 수평·겹침·노출 고정을 미리 손에 익히기.
 - [카메라로 타임랩스 찍기 (예: Canon R7)](camera-timelapse.md) — 인터벌 촬영으로 만드는 타임랩스.
 - [휴대폰으로 타임랩스 찍기 (예: iPhone 16 Pro)](phone-timelapse.md) — 구름·별의 움직임을 짧은 영상으로.
+- [타임랩스 가기 전 연습](timelapse-practice.md) — 낮 구름으로 집에서 인터벌·매수·플리커 방지·조립 미리 익히기.
 
 <a id="z-drone"></a>
 ## 드론
