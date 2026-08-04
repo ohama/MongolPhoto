@@ -15,11 +15,13 @@
 
 **현지 — iPad (그날 밤 피드백용)**
 - **Adobe Lightroom (모바일)** — RAW 현상·색·AI 노이즈 감소·마스킹. 그날 밤 한두 장을 다듬어 노출·구도·초점을 점검하고 다음 밤에 반영합니다. (여러 장 스택 기능은 없음. 무료로도 쓰되 일부 기능은 유료 구독.)
-- **Affinity Photo (iPad, by Canva)** — **천체사진 스태킹 기능이 내장**돼 iPad에서 여러 장 스택까지 되고, 레이어·블렌드모드로 합성도 됩니다. 2025년 10월부터 무료(무료 Canva 계정 필요, 일부 AI 기능만 유료).
+- **Affinity Photo (iPad, by Canva)** — RAW 현상·레이어·블렌드모드로 합성/보정이 됩니다. 다만 **별을 정렬해 겹치는 천체 스태킹(Astrophotography Stack)은 iPad엔 없고 데스크톱(PC/Mac) 전용**입니다(iPad의 스택은 노출 병합·노이즈 평균 등 일반 스택뿐이라 별 움직임을 정렬하지 못함). 2025년 10월부터 무료(무료 Canva 계정 필요).
+
+> ⚠️ 그래서 **밤하늘의 별 정렬 스태킹(노이즈 감소)은 iPad로 안 되고 PC/Mac에서** 합니다. iPad는 RAW 현상·단일 컷 보정·가벼운 합성까지.
 
 **귀가 — PC (본격 스택·마무리)**
 - **RAW 현상** — darktable(무료) 또는 Lightroom(구독).
-- **스태킹**(노이즈 감소) — Sequator(무료·Windows) / Starry Landscape Stacker(유료·Mac).
+- **스태킹**(노이즈 감소) — Sequator(무료·Windows) / Starry Landscape Stacker(유료·Mac) / **Affinity Photo 데스크톱**(무료, 천체 스태킹 내장).
 - **정밀 편집·합성** — Photoshop 등. 스타트레일·유성 합성은 StarStaX(무료).
 - 플랫폼·가격·대안 전체 표는 [소프트웨어·앱 참고 자료 모음](../7-references/software-references.md)에 정리돼 있습니다.
 

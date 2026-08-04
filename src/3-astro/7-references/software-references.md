@@ -50,13 +50,14 @@
 |---|---|---|---|---|
 | Sequator | Windows 전용 | 무료 | 같은 구도로 찍은 여러 프레임을 정렬·평균해 노이즈 감소(하늘/전경 분리 고정 지원) | [sites.google.com/view/sequator](https://sites.google.com/view/sequator/) |
 | Starry Landscape Stacker | macOS 전용 | 유료(대략 $40 안팎 — 정확한 가격은 공식 페이지 확인) | 위와 동일, 하늘/땅을 브러시로 마스킹하는 수동 방식 | [sites.google.com/site/starrylandscapestacker](https://sites.google.com/site/starrylandscapestacker/home) |
-| Affinity Photo (by Canva) | Windows / macOS / **iPad** | 무료(2025-10 전환, 무료 Canva 계정 필요; 일부 AI 기능만 유료 — 재확인) | 천체사진 스태킹 기능 내장 + 레이어·블렌드로 합성. **iPad에서도 스택 가능**(현지 보정용) | 공식/앱스토어에서 "Affinity by Canva" 확인 |
+| Affinity Photo (by Canva) | **데스크톱(Windows / macOS)** — 천체 스태킹 / iPad — 일반 편집만 | 무료(2025-10 전환, 무료 Canva 계정 필요; 일부 AI 기능만 유료 — 재확인) | **별 정렬 천체 스태킹(Astrophotography Stack)은 데스크톱 전용.** iPad는 RAW·레이어 합성은 되나 별 정렬 스택은 없음 | 공식/앱스토어에서 "Affinity by Canva" 확인 |
 
-**책에서의 쓰임**: [스태킹으로 노이즈 줄이기](../5-postprocessing/stacking.md), 현지 iPad 보정은 [천체사진 보정 개요](../5-postprocessing/index.md)
+**책에서의 쓰임**: [스태킹으로 노이즈 줄이기](../5-postprocessing/stacking.md), 현지 iPad·귀가 PC 구분은 [천체사진 보정 개요](../5-postprocessing/index.md)
 
 **비고**
-- 두 도구는 OS로 갈립니다 — Windows면 Sequator(무료), Mac이면 Starry Landscape Stacker(유료)가 사실상 선택지입니다. **iPad에서 스택까지** 하려면 Affinity Photo(무료화)가 유력합니다.
-- Affinity는 2025년 10월 Canva가 무료로 전환했다고 알려져 있으나(정확한 무료/유료 구성·플랫폼·URL은 공식 페이지·앱스토어에서 재확인), 천체사진 스태킹 기능 내장은 확인된 사실입니다.
+- 두 도구는 OS로 갈립니다 — Windows면 Sequator(무료), Mac이면 Starry Landscape Stacker(유료)가 사실상 선택지입니다. **무료 대안으로 Affinity Photo 데스크톱**(천체 스태킹 내장)도 있습니다.
+- **iPad 주의:** Affinity의 **별 정렬 천체 스태킹은 iPad에 없습니다**(공식 iPad 스태킹 문서에 노출 병합·노이즈 평균·개체 제거·장노출 효과만 있고 별 정렬 항목이 없음). 밤하늘 스태킹은 **데스크톱**(PC/Mac)에서 하고, iPad는 RAW 현상·레이어 합성용으로 쓰세요.
+- Affinity는 2025년 10월 Canva가 무료로 전환했다고 알려져 있으나(정확한 무료/유료 구성·플랫폼·URL은 공식 페이지·앱스토어에서 재확인), 천체사진 스태킹 기능(데스크톱) 내장은 확인된 사실입니다.
 - 공통 전제: 흔들리지 않는 삼각대, 프레임 간 구도·초점 불변, 수동 화이트밸런스 고정.
 - 위 두 링크는 [촬영 기법별 참고 자료 모음](technique-references.md)에서 WebFetch로 이미 검증된 공식 페이지를 재사용했습니다.
 
