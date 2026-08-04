@@ -30,6 +30,7 @@
 
 - [카메라로 은하수 사진 찍기 (예: Canon R7)](camera-milkyway.md) — M모드 노출·초점·삼각대·후보정을 한 번에.
 - [휴대폰으로 은하수 사진 찍기 (예: iPhone 16 Pro)](phone-milkyway.md) — RAW·무한초점·촬영 시간·후보정·추천 앱까지.
+- [은하수 가기 전 연습](milkyway-practice.md) — 집에서 조작·초점 리허설, 근교 어두운 곳에서 실전 연습.
 - [카메라로 스타트레일 찍기 (예: Canon R7)](camera-star-trail.md) — 인터벌 촬영과 스태킹으로 별궤적 만들기.
 - [휴대폰으로 스타트레일 찍기](phone-star-trail.md) — 별이 그리는 궤적을 휴대폰으로 담고 합성하는 법.
 - [스타트레일 가기 전 연습](star-trail-practice.md) — 집·근교에서 인터벌·초점·NR OFF·합성 워크플로 미리 익히기.

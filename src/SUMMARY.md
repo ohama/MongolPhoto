@@ -148,6 +148,7 @@
   - [일출·일몰 — 사진과 드론 촬영 순서](appendix/golden-hour-photo-drone.md)
   - [카메라로 은하수 찍기](appendix/camera-milkyway.md)
   - [휴대폰으로 은하수 찍기](appendix/phone-milkyway.md)
+  - [은하수 가기 전 연습](appendix/milkyway-practice.md)
   - [카메라로 스타트레일 찍기](appendix/camera-star-trail.md)
   - [휴대폰으로 스타트레일 찍기](appendix/phone-star-trail.md)
   - [스타트레일 가기 전 연습](appendix/star-trail-practice.md)
