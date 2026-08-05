@@ -1,5 +1,9 @@
 # 홍고린엘스 여행 사진 (Khongoryn Els)
 
+![홍고린엘스 사구](../../images/sites/khongoryn-els.jpg)
+
+*홍고린엘스 "노래하는 모래" 사구 — 실제 명소의 자유 라이선스 사진. 사진: Doron · CC BY-SA 3.0 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:KhongorynEls.jpg).*
+
 홍고린엘스는 높이 80~300m·동서로 약 100km에 걸쳐 뻗은 "노래하는 모래" 사구(모래 언덕) 바다입니다. 이곳의 여행 사진 주제는 한 문장으로 요약됩니다 — **사구 능선의 실루엣과 낙타 캐러밴, 발밑의 모래 텍스처를 골든아워의 긴 그림자로 담기.** GPS는 [고비 촬영 일반 원리](../../3-astro/4-sites/index.md)의 GPS 표를 참고하세요(대표 좌표일 뿐이라 실제 지점은 현지에서 재확인하세요 — 좌표는 이 페이지에 다시 옮겨 적지 않습니다). 공통 구도·설정 이론은 이미 [구도와 빛·타이밍](../1-shooting/composition-and-light.md)·[카메라 설정 · 렌즈 선택](../1-shooting/camera-settings.md)에서 다뤘으므로, 여기서는 그 이론을 이 지형에 어떻게 적용하는지만 다룹니다.
 
 > 📋 **촬영 카드 — 홍고린엘스 (여행 사진)** *(시간 추천은 주관적 가이드)*
