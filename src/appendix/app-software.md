@@ -12,11 +12,6 @@
 
 ## 소프트웨어
 
-| 이름 | 용도 | OS | 자세히 |
-|---|---|---|---|
-| darktable | RAW 현상 (기본 추천, 무료) | Win/Mac/Linux | [RAW 현상 기본](../3-astro/5-postprocessing/raw-develop.md) |
-| Lightroom | RAW 현상 (구독 중이면) | Win/Mac | [RAW 현상 기본](../3-astro/5-postprocessing/raw-develop.md) |
-| Sequator | 스태킹 (무료) | Windows | [스태킹으로 노이즈 줄이기](../3-astro/5-postprocessing/stacking.md) |
-| Starry Landscape Stacker | 스태킹 (~$40) | Mac | [스태킹으로 노이즈 줄이기](../3-astro/5-postprocessing/stacking.md) |
+RAW 현상·스태킹·파노라마·타임랩스 등 **소프트웨어 목록은 [소프트웨어·앱 참고 자료 모음](../3-astro/7-references/software-references.md)이 정본**입니다(플랫폼·무료/유료·검증 상태 포함). 스태킹 도구는 [천체사진 이미지 스태킹 소프트웨어](stacking-software.md)에서 용도별로도 정리했습니다.
 
-카메라·렌즈 장비 추천은 [카메라 · 렌즈 추천 목록](camera-lens-picks.md) 참고.
+간단히: RAW 현상은 darktable(무료)/Lightroom(구독), 은하수 스태킹은 Sequator(Win·무료)/Starry Landscape Stacker(Mac·유료). 카메라·렌즈 장비 추천은 [카메라 · 렌즈 추천 목록](camera-lens-picks.md) 참고.

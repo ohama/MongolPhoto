@@ -128,20 +128,9 @@
 - Flickr는 사진 개별 페이지에서 라이선스 배지("All rights reserved" vs "Some rights reserved")를 반드시 확인하세요 — 검색 결과 목록만으로는 라이선스를 알 수 없습니다.
 - 몽골은 다크스카이 조건이 뛰어난데도 "몽골 은하수"를 주제로 한 무료 라이선스 사진이 매우 적습니다. 상업 스톡 사이트(Getty, Shutterstock, Adobe Stock, Alamy, 123RF 등)에는 몽골 고비 은하수 사진이 다수 있으나 전부 유료·저작권 보호 상태라 이 문서에는 싣지 않았습니다.
 
-**접속·검증에 실패한 후보 (참고만 하고 링크는 싣지 않음)**
-- AstroBin(astrobin.com) — `welcome.astrobin.com/search?q=Mongolia`로 재시도한 결과 403은 아니었지만, 검색이 자바스크립트로 렌더링되는 SPA라 네비게이션·푸터만 보이고 실제 몽골 검색 결과(이미지)는 텍스트 추출로 확인하지 못했습니다. 여전히 미검증입니다 — 브라우저로 직접 "Mongolia" 검색해 보는 것을 권장합니다.
-- PhotoPills — 아티클 태그 페이지(photopills.com/articles/tags/milky-way)와 메인 홈페이지(photopills.com) 모두 재시도했으나 여전히 403 Forbidden으로 접속 실패.
-- Pixabay 검색 페이지(pixabay.com, "mongolia milkyway") — 403으로 접속 실패.
-- Canon Asia Snapshot "Mongolian Night Sky" 스토리 — 403으로 접속 실패.
-- National Geographic Your Shot 개별 사진 페이지(구 서비스, ID 6128844) — 두 차례 시도 모두 타임아웃으로 접속 실패(서비스 자체가 종료되었을 가능성 있음).
-- National Geographic "38 Dazzling Photos of the Night Sky"(nationalgeographic.com/culture/article/adventure-in-the-night-skies) — 페이지 자체는 로드되지만 개별 사진 캡션이 텍스트 추출에 나오지 않아 몽골 사진 포함 여부를 확인하지 못했습니다.
-- National Geographic Expeditions "Mongolia Photo Tour" — 페이지 로드는 되었으나 이미지·캡션이 텍스트로 추출되지 않아 실사진 유무를 확인하지 못했습니다.
-- 500px 검색 페이지(500px.com/search/mongolia khuvsgul-photos) — 자바스크립트 SPA라 검색 결과가 텍스트로 렌더링되지 않아 확인 실패. "site:500px.com mongolia milky way" 구글 검색으로도 몽골 관련 개별 사진 페이지를 찾지 못했습니다.
-- Iurie Belegurschi, Kah-Wai Lin, 아트오브시잉(artofseeing.com/mongolia), Iceland Photo Tours 등 다수의 포토투어 페이지가 "천체사진/은하수 촬영 세션"을 일정에 명시하지만, 텍스트 추출로는 실제 은하수 사진 자체를 확인하지 못한 경우가 많았습니다(Kah-Wai Lin은 명확히 야간 사진 없음으로 확인됨). 상세 갤러리는 각 사이트를 직접 브라우저로 열어 확인하세요.
-- (④ 유튜브 관련) [몽골여행🇲🇳ㅣ몽골에서 정말 별똥별을 볼 수 있을까?!?💫💫 9시간 오프로드와 게르에서의 밤](https://www.youtube.com/watch?v=fgqvOIZqa-4) — 채널 J'SSO. oEmbed로 제목·채널 존재는 확인했지만, 제목이 "별똥별을 볼 수 있을까?"라는 질문형이라 실제로 은하수/별 촬영 장면이 영상에 포함돼 있는지까지는 확인하지 못해 ④ 개별 영상 목록에는 신지 않았습니다.
-- (④ 유튜브 관련) Alyn Wallace, Lonely Speck, Ollie Taylor 등 해외 유명 아스트로포토그래피 유튜버 채널을 검색했으나, 몽골에서 촬영한 영상은 찾지 못했습니다.
-- (④ 유튜브 관련) Daniel Kordan 공식 유튜브 채널(@danielkordan2115), Eternal Landscapes Mongolia 공식 채널(youtube.com/user/EternalLandscapes) — 채널 페이지 자체(타이틀)는 존재를 확인했지만, 자바스크립트 SPA라 영상 목록이 텍스트로 추출되지 않아 몽골 은하수 영상이 실제로 있는지는 미확인입니다.
-- (④ 유튜브 관련) `youtube.com/results?search_query=...` 검색 결과 페이지 — URL 형식은 표준적이나 SPA 렌더링이라 WebFetch로 목록 내용을 확인하지 못했습니다.
+**접속·검증에 실패한 후보 (링크 미수록)**
+
+AstroBin·PhotoPills·Pixabay·Canon Asia·National Geographic·500px 등 다수 페이지와, Daniel Kordan·Eternal Landscapes·해외 아스트로 유튜버(Alyn Wallace·Lonely Speck·Ollie Taylor 등) 채널을 확인했으나 **403·타임아웃이거나 자바스크립트 SPA라 실제 사진/영상을 텍스트로 검증하지 못해** 싣지 않았습니다. 상업 스톡(Getty·Shutterstock·Adobe Stock 등)에는 몽골 고비 은하수 사진이 많으나 전부 유료·저작권 보호라 제외했습니다. 필요하면 각 사이트를 브라우저로 직접 열어 확인하세요.
 
 **라이선스 재확인**
 - 책에 실제로 쓸 사진은 반드시 ①의 파일을 Commons File: 페이지에서 다시 열어, 라이선스·저작자 표기가 이 문서 작성 시점과 같은지 확인하세요(파일이 삭제되거나 라이선스 태그가 바뀌는 경우가 드물게 있습니다).
