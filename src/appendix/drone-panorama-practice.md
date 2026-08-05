@@ -65,4 +65,4 @@
 - 전체 촬영·모드·스티칭 → [드론 파노라마 찍기](drone-panorama.md)
 - 드론 기본기·규정·촬영 연습 → [2부 · 가기 전 연습(드론)](../2-drone/practice/index.md)
 - 지상 사진 파노라마 연습 → [파노라마 가기 전 연습](panorama-practice.md)
-- 골든아워에 사진·드론 순서 → [일출·일몰 — 사진과 드론 촬영 순서](golden-hour-photo-drone.md)
+- 골든아워에 사진·드론 순서 → [일출·일몰 — 시간대별 사진·드론 촬영 순서](golden-hour-photo-drone.md)

@@ -69,7 +69,7 @@
 
 ## 이어서
 
-- 짧은 골든아워에 사진과 드론을 어떤 순서로 배분할지 → [일출·일몰 — 사진과 드론 촬영 순서](golden-hour-photo-drone.md)
+- 짧은 골든아워에 사진과 드론을 어떤 순서로 배분할지 → [일출·일몰 — 시간대별 사진·드론 촬영 순서](golden-hour-photo-drone.md)
 - 명소별 저녁~아침 상세 운용 → [명소별 저녁~아침 촬영 플랜](../4-workflow/site-evening-to-morning.md)
 - 하루 전체(도착~철수) 운용 → [하루 현장 운용](../4-workflow/field-day.md)
 - 밤 은하수·유성우 → [3부 · 천체사진](../3-astro/index.md) · [페르세우스 유성우 찍기](perseid-meteor-shower.md)

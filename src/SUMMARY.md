@@ -145,7 +145,7 @@
   - [타임랩스 가기 전 연습](appendix/timelapse-practice.md)
   - [드론 파노라마 찍기](appendix/drone-panorama.md)
   - [드론 파노라마 가기 전 연습](appendix/drone-panorama-practice.md)
-  - [일출·일몰 — 사진과 드론 촬영 순서](appendix/golden-hour-photo-drone.md)
+  - [일출·일몰 — 시간대별 사진·드론 촬영 순서](appendix/golden-hour-photo-drone.md)
   - [카메라로 은하수 찍기](appendix/camera-milkyway.md)
   - [휴대폰으로 은하수 찍기](appendix/phone-milkyway.md)
   - [은하수 가기 전 연습](appendix/milkyway-practice.md)

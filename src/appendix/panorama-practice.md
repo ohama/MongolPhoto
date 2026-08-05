@@ -108,4 +108,4 @@
 
 - 전체 파노라마 이론·스티칭·명소별 → [사진 파노라마 찍기](photo-panorama.md)
 - 트립 날짜·달(은하수 조건) → [고비 여행 일정 · 달 캘린더](travel-itinerary.md)
-- 골든아워에 사진·드론 순서 → [일출·일몰 — 사진과 드론 촬영 순서](golden-hour-photo-drone.md)
+- 골든아워에 사진·드론 순서 → [일출·일몰 — 시간대별 사진·드론 촬영 순서](golden-hour-photo-drone.md)
