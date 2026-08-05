@@ -1,5 +1,9 @@
 # 천체사진 (은하수) 개요
 
+![몽골에서 촬영한 은하수 중심부 부근](../images/astro/rho-ophiuchi-mongolia.jpg)
+
+*몽골에서 촬영한 은하수 중심부 부근(ρ 오피우키 성운 지역) — 실제 몽골 밤하늘의 자유 라이선스 사진. 사진: Lwcc enhee · CC BY-SA 4.0 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rho_Ophiuchi_from_UB,_Mongolia.jpg).*
+
 불빛 한 점 없는 고비의 밤, 하늘을 올려다보면 은하수가 **강물처럼 쏟아집니다.** 별이 너무 많아 오히려 익숙한 별자리를 찾기 어려운, 도시에서는 상상만 하던 하늘입니다. 그 앞에 서면 누구나 카메라를 꺼내 들지만 — 막상 찍은 사진은 그냥 캄캄한 화면일 때가 많습니다.
 
 ![은하수 아래 선 사람의 실루엣](../images/intro/silhouette.jpg)
