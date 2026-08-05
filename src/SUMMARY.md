@@ -22,7 +22,6 @@
   - [근교 실전 연습](1-travel/practice/field-drills.md)
 - [명소별 여행 사진 가이드](1-travel/2-sites/index.md)
   - [차강소브라가 (Tsagaan Suvarga)](1-travel/2-sites/tsagaan-suvarga.md)
-  - [바양작 (Bayanzag)](1-travel/2-sites/bayanzag.md)
   - [홍고린엘스 (Khongoryn Els)](1-travel/2-sites/khongoryn-els.md)
   - [욜링암 (Yolyn Am)](1-travel/2-sites/yolyn-am.md)
   - [바가가즈링 촐로 (Baga Gazriin Chuluu)](1-travel/2-sites/baga-gazriin-chuluu.md)
@@ -56,7 +55,6 @@
   - [촬영 연습 — 무브·ND·파노라마](2-drone/practice/shooting-drills.md)
 - [명소별 드론 촬영 가이드](2-drone/2-sites/index.md)
   - [차강소브라가 (Tsagaan Suvarga)](2-drone/2-sites/tsagaan-suvarga.md)
-  - [바양작 (Bayanzag)](2-drone/2-sites/bayanzag.md)
   - [홍고린엘스 (Khongoryn Els)](2-drone/2-sites/khongoryn-els.md)
   - [욜링암 (Yolyn Am)](2-drone/2-sites/yolyn-am.md)
   - [바가가즈링 촐로 (Baga Gazriin Chuluu)](2-drone/2-sites/baga-gazriin-chuluu.md)
@@ -82,7 +80,6 @@
   - [홍고린엘스 드론+지상 통합](2-drone/6-storyboards/khongoryn-els.md)
   - [욜링암 드론+지상 통합](2-drone/6-storyboards/yolyn-am.md)
   - [바가가즈링 촐로 드론+지상 통합](2-drone/6-storyboards/baga-gazriin-chuluu.md)
-  - [바양작 드론+지상 통합](2-drone/6-storyboards/bayanzag.md)
 
 # 3부 · 천체사진 (은하수)
 
@@ -107,7 +104,6 @@
   - [야외 연습 결과 점검](3-astro/3-practice/field-review.md)
 - [명소별 은하수 촬영 가이드](3-astro/4-sites/index.md)
   - [차강소브라가 (Tsagaan Suvarga)](3-astro/4-sites/tsagaan-suvarga.md)
-  - [바양작 (Bayanzag)](3-astro/4-sites/bayanzag.md)
   - [홍고린엘스 (Khongoryn Els)](3-astro/4-sites/khongoryn-els.md)
   - [욜링암 (Yolyn Am)](3-astro/4-sites/yolyn-am.md)
   - [바가가즈링 촐로 (Baga Gazriin Chuluu)](3-astro/4-sites/baga-gazriin-chuluu.md)

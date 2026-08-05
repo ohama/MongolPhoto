@@ -20,7 +20,7 @@
 
 - **밤하늘이 세계 최상급으로 어둡습니다.** 고비는 빛공해 척도(Bortle)에서 **1~2등급** — 사실상 인공 불빛이 없는 다크스카이라, 국내 근교와는 은하수가 보이는 정도가 차원이 다릅니다.
 - **지평선이 끝없이 트여 있습니다.** 낮게 뜨는 은하수 코어도, 광활한 지형도, 가리는 것 없이 온전히 담깁니다.
-- **전경이 극적입니다.** 붉게 타는 절벽(바양작), 거대한 모래언덕(홍고린엘스), 협곡과 화강암 바위지대 — 낮에는 여행·드론 사진의, 밤에는 은하수 사진의 무대가 됩니다.
+- **전경이 극적입니다.** 층리 흰 절벽(차강소브라가), 거대한 모래언덕(홍고린엘스), 협곡(욜링암)과 화강암 바위지대(바가가즈링 촐로) — 낮에는 여행·드론 사진의, 밤에는 은하수 사진의 무대가 됩니다.
 
 ![다크스카이 사막 야경 예시 이미지](images/intro/dark-sky-nightscape.jpg)
 
@@ -40,15 +40,13 @@
 
 ## 이 책이 지향하는 결과물
 
-말보다 사진이 매력을 더 잘 전합니다. 아래는 이 책이 지향하는 장면들입니다. *(대부분 이해를 돕기 위한 무료 라이선스 예시 이미지이거나, 실제 몽골 현지(바양작·욜링암)를 낮에 찍은 참고 사진입니다 — 몽골 현지에서 은하수까지 함께 담은 사진과 보정 전/후 비교는 저자의 실제 촬영본으로 추후 채워집니다.)*
+말보다 사진이 매력을 더 잘 전합니다. 아래는 이 책이 지향하는 장면들입니다. *(대부분 이해를 돕기 위한 무료 라이선스 예시 이미지이거나, 실제 몽골 현지(욜링암)를 낮에 찍은 참고 사진입니다 — 몽골 현지에서 은하수까지 함께 담은 사진과 보정 전/후 비교는 저자의 실제 촬영본으로 추후 채워집니다.)*
 
 ![은하수 예시 이미지](images/intro/gallery-milkyway-1.jpg)
 
 *예시 이미지 — 은하수 코어와 주변 별빛의 색·디테일을 보여 주는 사진입니다(미국 옐로스톤 국립공원). 실제 홍고린엘스 사진은 아닙니다. 사진: NPS / Neal Herbert (Public Domain).*
 
-![바양작 주간 사진](images/intro/bayanzag.jpg)
 
-*바양작(Bayanzag, Flaming Cliffs) — 붉은 절벽, 주간 촬영. 밤에는 이 실루엣 위로 은하수가 뜬다. 사진: amanderson2 ([CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)).*
 
 ![욜링암 주간 사진](images/intro/yolyn-am.jpg)
 
@@ -70,7 +68,7 @@
 
 ## 이미지 출처
 
-이 페이지와 소개 페이지에 쓰인 사진은 저자가 촬영한 것이 아니며, 아래와 같이 라이선스가 확인된 무료 이미지입니다(`bayanzag.jpg`·`yolyn-am.jpg`는 실제 몽골 현지를 담은 사진이고, 나머지는 이해를 돕기 위한 예시 이미지입니다).
+이 페이지와 소개 페이지에 쓰인 사진은 저자가 촬영한 것이 아니며, 아래와 같이 라이선스가 확인된 무료 이미지입니다(`yolyn-am.jpg`는 실제 몽골 현지를 담은 사진이고, 나머지는 이해를 돕기 위한 예시 이미지입니다).
 
 | 파일 | 설명 | 저작자 | 라이선스 | 출처 |
 |---|---|---|---|---|
@@ -78,10 +76,9 @@
 | `images/intro/dark-sky-nightscape.jpg` | 은하수·사막 야경 흑백 파노라마 (미국 데스밸리 국립공원) | NPS / Dan Duriscoe | Public Domain (미 연방정부 저작물) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Deathvalleysky_nps_big.jpg) |
 | `images/intro/camera-tripod.jpg` | 카메라·렌즈·삼각대 | James Niland | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:DSLR_Camera_with_Lens_on_a_Tripod_head.jpg) |
 | `images/intro/gallery-milkyway-1.jpg` | 은하수 (미국 옐로스톤 국립공원) | NPS / Neal Herbert | Public Domain (미 연방정부 저작물) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Milky_Way_above_Grand_Prismatic_Spring_(33668265111).jpg) |
-| `images/intro/bayanzag.jpg` | 바양작(Flaming Cliffs), 몽골 남고비 — 실제 현지 사진(주간) | amanderson2 | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flaming_cliffs_in_Gobi.jpg) |
 | `images/intro/yolyn-am.jpg` | 욜링암(Yolyn Am), 고르왕사이한 국립공원, 몽골 — 실제 현지 사진(주간) | Bernard Gagnon | CC0 1.0 (Public Domain) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Yolyn_Am_01.jpg) |
 | `images/intro/panorama.jpg` | 은하수 아치 파노라마 (칠레 세로 파라날, ESO 천문대) | Bruno Gilli / ESO | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Milky_Way_Arch.jpg) |
 | `images/intro/star-trails.jpg` | 스타트레일 (이집트 화이트 사막) | Ahmed Khalil | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:White_Desert_star_trail.jpg) |
 | `images/intro/silhouette.jpg` | 은하수 아래 사람 실루엣 (칠레 라 시야 천문대, ESO) | ESO / A. Fitzsimmons | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Admiring_the_Galaxy.jpg) |
 
-원본은 리사이즈(최대 2000px)·EXIF 제거 후 재압축했습니다. `bayanzag.jpg`·`yolyn-am.jpg`는 실제 현지를 담은 사진이지만 저자가 직접 촬영한 것은 아니며 주간에 촬영되었습니다(은하수는 없음). 보정 전/후 비교 사진과, 몽골 현지에서 은하수까지 함께 담은 사진은 저자의 실제 촬영본으로 채우기 위해 비워 두었습니다.
+원본은 리사이즈(최대 2000px)·EXIF 제거 후 재압축했습니다. `yolyn-am.jpg`는 실제 현지를 담은 사진이지만 저자가 직접 촬영한 것은 아니며 주간에 촬영되었습니다(은하수는 없음). 보정 전/후 비교 사진과, 몽골 현지에서 은하수까지 함께 담은 사진은 저자의 실제 촬영본으로 채우기 위해 비워 두었습니다.

@@ -21,7 +21,7 @@
 <div class="toc-grid">
 <a class="toc-card" href="1-travel/index.html"><span class="t">낮의 여행을 담다</span><span class="d">1부 개요 · 여행 사진 소개와 읽는 순서</span></a>
 <a class="toc-card" href="1-travel/1-shooting/index.html"><span class="t">여행 사진 촬영</span><span class="d">Canon R7 설정 · 구도 · 빛 · 현장/사람</span></a>
-<a class="toc-card" href="1-travel/2-sites/index.html"><span class="t">명소별 여행 사진</span><span class="d">고비 코스 5곳 촬영 카드</span></a>
+<a class="toc-card" href="1-travel/2-sites/index.html"><span class="t">명소별 여행 사진</span><span class="d">고비 코스 4곳 촬영 카드</span></a>
 <a class="toc-card" href="1-travel/3-editing/index.html"><span class="t">여행 사진 보정</span><span class="d">Lightroom Classic 현상·마스킹</span></a>
 <a class="toc-card" href="1-travel/4-references/index.html"><span class="t">참고 자료</span><span class="d">튜토리얼 · 갤러리 · FAQ</span></a>
 </div>
@@ -32,13 +32,13 @@
 <div class="toc-grid">
 <a class="toc-card" href="2-drone/index.html"><span class="t">하늘의 시점으로</span><span class="d">2부 개요 · 드론 사진·영상 소개</span></a>
 <a class="toc-card" href="2-drone/1-photo/index.html"><span class="t">드론 사진 촬영</span><span class="d">조작 · 첫 비행 · 설정 · 항공 구도</span></a>
-<a class="toc-card" href="2-drone/2-sites/index.html"><span class="t">명소별 드론 촬영</span><span class="d">고비 5곳 촬영 카드</span></a>
+<a class="toc-card" href="2-drone/2-sites/index.html"><span class="t">명소별 드론 촬영</span><span class="d">고비 4곳 촬영 카드</span></a>
 <a class="toc-card" href="2-drone/drone-postprocessing.html"><span class="t">드론 사진 후보정</span><span class="d">DNG 현상 · 보정</span></a>
 <a class="toc-card" href="2-drone/3-video/index.html"><span class="t">드론 영상 촬영</span><span class="d">설정 · 시네마틱 무빙 7종</span></a>
 <a class="toc-card" href="2-drone/domestic-example.html"><span class="t">국내 촬영 예제</span><span class="d">선운사 · 서해 바닷가 연습</span></a>
 <a class="toc-card" href="2-drone/4-capcut/index.html"><span class="t">CapCut 영상 편집</span><span class="d">컷 · 색보정 · 내보내기</span></a>
 <a class="toc-card" href="2-drone/5-references/index.html"><span class="t">참고 자료</span><span class="d">규제 · 사양 · 갤러리 · FAQ</span></a>
-<a class="toc-card" href="2-drone/6-storyboards/index.html"><span class="t">명소별 영상 스토리보드</span><span class="d">드론 2 · 통합 4 촬영·편집 계획(콘셉트)</span></a>
+<a class="toc-card" href="2-drone/6-storyboards/index.html"><span class="t">명소별 영상 스토리보드</span><span class="d">드론 2 · 통합 3 촬영·편집 계획(콘셉트)</span></a>
 </div>
 </div>
 
@@ -49,7 +49,7 @@
 <a class="toc-card" href="3-astro/1-gear/index.html"><span class="t">장비 가이드</span><span class="d">카메라 · 렌즈 · 액세서리 · 체크리스트</span></a>
 <a class="toc-card" href="3-astro/2-fundamentals/index.html"><span class="t">촬영 기초</span><span class="d">밤 노출 · 500/NPF · 초점 · 타이밍</span></a>
 <a class="toc-card" href="3-astro/3-practice/index.html"><span class="t">가기 전 연습</span><span class="d">집·야외 연습 루틴</span></a>
-<a class="toc-card" href="3-astro/4-sites/index.html"><span class="t">명소별 은하수</span><span class="d">고비 5곳 촬영 카드</span></a>
+<a class="toc-card" href="3-astro/4-sites/index.html"><span class="t">명소별 은하수</span><span class="d">고비 4곳 촬영 카드</span></a>
 <a class="toc-card" href="3-astro/5-postprocessing/index.html"><span class="t">천체사진 보정</span><span class="d">현상 · 스태킹 · 강조</span></a>
 <a class="toc-card" href="3-astro/6-bonus/index.html"><span class="t">보너스 기법</span><span class="d">파노라마 · 스타트레일 · 타임랩스</span></a>
 <a class="toc-card" href="3-astro/7-references/index.html"><span class="t">참고 자료</span><span class="d">기법 · SW · RAW 샘플 · FAQ</span></a>

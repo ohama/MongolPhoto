@@ -46,7 +46,6 @@
   - [홍고린엘스](../2-drone/6-storyboards/khongoryn-els.md)
   - [욜링암](../2-drone/6-storyboards/yolyn-am.md)
   - [바가가즈링 촐로](../2-drone/6-storyboards/baga-gazriin-chuluu.md)
-  - [바양작](../2-drone/6-storyboards/bayanzag.md)
 
 - **해가 지고 천문박명이 끝나면, 드론을 완전히 접고 은하수 준비로 전환합니다.** 어두워진 뒤 드론 비행은 위험·규제·시야 모두 불리하므로 이 시점에는 드론을 종료하고, R7을 야간 커스텀 모드로 바꿔 [현장 촬영 워크플로](../3-astro/2-fundamentals/field-workflow.md)의 암순응·구도·초점 절차로 진입합니다.
 

@@ -18,10 +18,10 @@
 |---|---|---|---|---|---|
 | `images/editing/recipe-midday-before.jpg` | 대낮 강광 사막 — 보정 전(인위적 플랫) | Bernard Gagnon | CC0 1.0 (Public Domain) | [Wikimedia Commons — Khongoryn_Els_04.jpg](https://commons.wikimedia.org/wiki/File:Khongoryn_Els_04.jpg) | 리사이즈(최대 2000px)·EXIF/GPS 제거·재압축 후, 대비·채도를 낮춘 인위적 플랫 파생 |
 | `images/editing/recipe-midday-after.jpg` | 대낮 강광 사막 — 보정 후(톤·색 재최적화) | Bernard Gagnon | CC0 1.0 (Public Domain) | [Wikimedia Commons — Khongoryn_Els_04.jpg](https://commons.wikimedia.org/wiki/File:Khongoryn_Els_04.jpg) | 리사이즈(최대 2000px)·EXIF/GPS 제거·재압축(시연용 톤·색 최적화) |
-| `images/editing/recipe-goldenhour-before.jpg` | 골든아워/황혼 — 보정 전(인위적 플랫) | Bernard Gagnon | CC0 1.0 (Public Domain) | [Wikimedia Commons — Bayanzag_10.jpg](https://commons.wikimedia.org/wiki/File:Bayanzag_10.jpg) | 리사이즈(최대 2000px)·EXIF/GPS 제거·재압축 후, 따뜻함을 빼고 채도를 낮춘 인위적 플랫 파생 |
-| `images/editing/recipe-goldenhour-after.jpg` | 골든아워/황혼 — 보정 후(따뜻함 재최적화) | Bernard Gagnon | CC0 1.0 (Public Domain) | [Wikimedia Commons — Bayanzag_10.jpg](https://commons.wikimedia.org/wiki/File:Bayanzag_10.jpg) | 리사이즈(최대 2000px)·EXIF/GPS 제거·재압축(시연용 따뜻함 최적화) |
+| `images/editing/recipe-goldenhour-before.jpg` | 골든아워/황혼 — 보정 전(인위적 플랫) | Bernard Gagnon | CC0 1.0 (Public Domain) | Wikimedia Commons · CC0 1.0 (Public Domain) | 리사이즈(최대 2000px)·EXIF/GPS 제거·재압축 후, 따뜻함을 빼고 채도를 낮춘 인위적 플랫 파생 |
+| `images/editing/recipe-goldenhour-after.jpg` | 골든아워/황혼 — 보정 후(따뜻함 재최적화) | Bernard Gagnon | CC0 1.0 (Public Domain) | Wikimedia Commons · CC0 1.0 (Public Domain) | 리사이즈(최대 2000px)·EXIF/GPS 제거·재압축(시연용 따뜻함 최적화) |
 
-- **대낮(midday)** 예시의 베이스는 홍고린엘스(Khongoryn Els) 사구 사진이고, **골든아워(goldenhour)** 예시의 베이스는 바양작(Bayanzag) 절벽 사진입니다. 두 원본 모두 [여행 사진 예시 갤러리](../4-references/galleries.md)의 해당 항목과 **같은 출처**입니다.
+- **대낮(midday)** 예시의 베이스는 홍고린엘스(Khongoryn Els) 사구 사진이고, **골든아워(goldenhour)** 예시의 베이스는 고비의 붉은 사암 절벽 사진입니다. 두 원본 모두 [여행 사진 예시 갤러리](../4-references/galleries.md)의 해당 항목과 **같은 출처**입니다.
 
 ## 3. 라이선스 짧은 설명
 

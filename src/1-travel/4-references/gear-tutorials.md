@@ -30,7 +30,7 @@
 
 ## 촬영 기법 아티클 (구도 · 골든아워 · 광각/망원 활용 · 무료 글)
 
-이 킷의 초점거리를 기준으로 참고하면 좋습니다 — **삼양 12mm(APS-C 환산 약 19mm)** → 아래 "광각" 관련 아티클(넓은 풍경·환경 인물), **RF 50mm(APS-C 환산 약 80mm)** → "망원/스트리트" 관련 아티클(인물·디테일 압축), **골든아워** → 5개 명소 공통으로 적용 가능한 촬영 타이밍 팁입니다.
+이 킷의 초점거리를 기준으로 참고하면 좋습니다 — **삼양 12mm(APS-C 환산 약 19mm)** → 아래 "광각" 관련 아티클(넓은 풍경·환경 인물), **RF 50mm(APS-C 환산 약 80mm)** → "망원/스트리트" 관련 아티클(인물·디테일 압축), **골든아워** → 4개 명소 공통으로 적용 가능한 촬영 타이밍 팁입니다.
 
 - [28 Composition Techniques That Will Improve Your Photos](https://petapixel.com/photography-composition-techniques/) — PetaPixel · 무료 글. 삼분할법 등 구도 기법 28가지를 총정리합니다.
 - [Street Photography: A Complete Guide](https://petapixel.com/what-is-street-photography/) — PetaPixel · 무료 글. 스트리트 사진의 정의와 기법 전반을 다룹니다.

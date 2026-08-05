@@ -1,6 +1,6 @@
 # 여행 사진 예시 갤러리
 
-이 페이지는 코스 5개 명소(차강소브라가·바양작·홍고린엘스·욜링암·바가가즈링 촐로)에서 실제로 어떤 여행(지상) 사진이 나오는지 감을 잡도록 참고·영감용으로 모은 사진·링크 모음입니다.
+이 페이지는 코스 4개 명소(차강소브라가·홍고린엘스·욜링암·바가가즈링 촐로)에서 실제로 어떤 여행(지상) 사진이 나오는지 감을 잡도록 참고·영감용으로 모은 사진·링크 모음입니다.
 
 > **재사용 가능 여부는 아래 절마다 완전히 다릅니다.** 사진을 실제로 가져다 쓰려면(블로그·SNS 등) **각 절의 라이선스 표기를 반드시 확인**하세요.
 
@@ -21,12 +21,6 @@
 ![차강소브라가 협곡, 몽골 남고비](../../images/travel-gallery/tsagaan-suvraga.jpg)
 
 *차강소브라가 — 실제 현지 사진. 침식된 붉은/흰 절벽이 협곡처럼 이어지는 지형이 잘 드러난다. 사진: Rob Oo (Flickr) ([CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)).*
-
-### 바양작 (Bayanzag, Flaming Cliffs)
-
-![바양작 플레이밍 클리프, 몽골 남고비](../../images/travel-gallery/bayanzag.jpg)
-
-*바양작 — 실제 현지 사진. 붉게 타는 절벽 지형을 지상 시점에서 담았다. 사진: Bernard Gagnon (CC0 / Public Domain).*
 
 ### 홍고린엘스 (Khongoryn Els)
 
@@ -56,7 +50,7 @@
 
 ![남고비 옴노고비 주의 고비 사막 일몰](../../images/travel-gallery/gobi-sunset.jpg)
 
-*일반 참고 사진 — 5개 명소가 위치한 옴노고비 주(남고비)의 고비 사막 일몰. 특정 명소를 담은 사진은 아니다. 사진: Commons 업로더 (파일 페이지 참조) ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).*
+*일반 참고 사진 — 4개 명소가 위치한 옴노고비 주(남고비)의 고비 사막 일몰. 특정 명소를 담은 사진은 아니다. 사진: Commons 업로더 (파일 페이지 참조) ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).*
 
 ![초원 위 몽골 게르](../../images/travel-gallery/ger.jpg)
 
@@ -95,7 +89,6 @@
 | 파일 | 설명 | 저작자 | 라이선스 | 출처 |
 |---|---|---|---|---|
 | `images/travel-gallery/tsagaan-suvraga.jpg` | 차강소브라가 협곡 — 실제 현지 사진 | Rob Oo | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tsagaan_Suvraga_(20268223089).jpg) |
-| `images/travel-gallery/bayanzag.jpg` | 바양작(Flaming Cliffs) — 실제 현지 사진 | Bernard Gagnon | CC0 1.0 (Public Domain) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bayanzag_10.jpg) |
 | `images/travel-gallery/khongoryn-els.jpg` | 홍고린엘스 모래언덕 — 실제 현지 사진 | Bernard Gagnon | CC0 1.0 (Public Domain) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Khongoryn_Els_04.jpg) |
 | `images/travel-gallery/khongoryn-els-camels.jpg` | 홍고린엘스, 낙타 — 실제 현지 사진 | Bernard Gagnon | CC0 1.0 (Public Domain) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Camels_at_Khongoryn_Els_01.jpg) |
 | `images/travel-gallery/yolyn-am.jpg` | 욜링암 협곡 입구 — 실제 현지 사진 | Bernard Gagnon | CC0 1.0 (Public Domain) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Yolyn_Am_05.jpg) |
@@ -109,5 +102,5 @@
 ## 관련 링크
 
 - [여행 사진 개요](../index.md) — 카메라 설정·구도·빛 등 여행 사진 기초.
-- [명소별 여행 가이드](../2-sites/index.md) — 5개 명소 각각의 촬영 포인트·에티켓.
+- [명소별 여행 가이드](../2-sites/index.md) — 4개 명소 각각의 촬영 포인트·에티켓.
 - [여행 실무 정보](../../3-astro/7-references/mongolia-travel-info.md) — 교통·숙박 등 여행 준비 정보(이 페이지와 중복 없음).

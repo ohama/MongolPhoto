@@ -37,10 +37,6 @@
 
 *지상 촬영 예시(홍고린엘스) — 드론으로는 이 사구의 물결·능선을 위에서·비스듬히 담습니다(샷 1·3·5 사구 계열 대표). **실제 드론 영상 프레임은 트립 후 교체.** 사진: Bernard Gagnon (CC0 / 퍼블릭 도메인), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Khongoryn_Els_04.jpg).*
 
-![대표 장면 — 붉은 절벽](../../images/drone-sites/bayanzag.jpg)
-
-*지상 촬영 예시(바양작) — 드론으로는 이 붉은 색·굴곡 능선을 골든아워(해 뜨고 진 직후)에 선회로 담습니다(샷 2 오빗 대표). **실제 드론 영상 프레임은 트립 후 교체.** 사진: Bernard Gagnon (CC0 / 퍼블릭 도메인), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bayanzag_10.jpg).*
-
 ![대표 장면 — 협곡](../../images/drone-sites/yolyn-am.jpg)
 
 *지상 촬영 예시(욜링암) — 드론으로는 이 협곡 깊이와 능선을 저고도 전진으로 담습니다(샷 4 플라이스루 대표). **실제 드론 영상 프레임은 트립 후 교체.** 사진: Bernard Gagnon (CC0 / 퍼블릭 도메인), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Yolyn_Am_05.jpg).*
@@ -80,7 +76,7 @@
 
 ### 정지프레임 출처
 
-- 위 3장은 모두 **Bernard Gagnon · CC0 1.0(퍼블릭 도메인) · Wikimedia Commons**입니다 — File:Khongoryn_Els_04.jpg / File:Bayanzag_10.jpg / File:Yolyn_Am_05.jpg. 전체 출처 표는 [여행 사진 예시 갤러리](../../1-travel/4-references/galleries.md)를 참고하세요.
+- 위 2장은 모두 **Bernard Gagnon · CC0 1.0(퍼블릭 도메인) · Wikimedia Commons**입니다 — File:Khongoryn_Els_04.jpg / File:Yolyn_Am_05.jpg. 전체 출처 표는 [여행 사진 예시 갤러리](../../1-travel/4-references/galleries.md)를 참고하세요.
 - **이 정지프레임은 지상에서 찍은 CC0 사진이며 드론 영상이 아닙니다.** 실제 드론 영상 프레임은 트립 후 저자 촬영본으로 교체됩니다.
 
 ### 라이선스 안전 음원

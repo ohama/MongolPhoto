@@ -16,27 +16,20 @@
 
 | 설명 | 출처/저작자 | 라이선스 | 링크 |
 |---|---|---|---|
-| 바양작(Bayanzag, Flaming Cliffs) 주간 사진 — 이미 `introduction.md`에서 사용 중 | amanderson2 | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | [File:Flaming_cliffs_in_Gobi.jpg](https://commons.wikimedia.org/wiki/File:Flaming_cliffs_in_Gobi.jpg) |
 | 욜링암(Yolyn Am) 주간 사진 — 이미 `introduction.md`에서 사용 중 | Bernard Gagnon | CC0 1.0 (Public Domain) | [File:Yolyn_Am_01.jpg](https://commons.wikimedia.org/wiki/File:Yolyn_Am_01.jpg) |
 | 차강소브라가(Tsagaan Suvarga, White Stupa) 주간 사진 — 석회암 절벽 | Ujin bold | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [File:Tsagaan_Suvarga_Limestone_Cliffs_from_Mongolia.jpg](https://commons.wikimedia.org/wiki/File:Tsagaan_Suvarga_Limestone_Cliffs_from_Mongolia.jpg) |
 | **실제 몽골 현지에서 촬영된 은하수 코어·성운 천체사진** (Rho Ophiuchi 영역, 혜성 252P/LINEAR 포함) — 울란바토르(UB)에서 촬영. Nikon D810, 70mm, ISO1600, 177초 노출 | Lwcc enhee | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [File:Rho_Ophiuchi_from_UB,_Mongolia.jpg](https://commons.wikimedia.org/wiki/File:Rho_Ophiuchi_from_UB,_Mongolia.jpg) |
 | **몽골 현지에서 촬영된 은하수 사진** — 궁갈루트(Gun Galuut), 바가누르(Baganuur) 인근, 해발 약 1700m. 2013년 7월 나담(Naadam) 축제 기간 촬영 | sergelen1 (Flickr) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | [Milky Way seen from Mongolia, Summer 2013](https://www.flickr.com/photos/30342811@N04/9281336927) |
 | Wikimedia Commons "몽골 상공의 은하수" 카테고리 (파일 1개 — 위 Rho Ophiuchi 파일이 유일) | Wikimedia Commons | 카테고리 내 파일별 라이선스 확인 필요 | [Category:Milky_Way_Galaxy_over_Mongolia](https://commons.wikimedia.org/wiki/Category:Milky_Way_Galaxy_over_Mongolia) |
-| Wikimedia Commons "바양작" 카테고리 (총 90개 파일, 확인 결과 대부분 주간 사진) | Wikimedia Commons | 파일별 확인 필요 | [Category:Bayanzag](https://commons.wikimedia.org/wiki/Category:Bayanzag) |
 | Wikimedia Commons "홍고린엘스" 카테고리 (총 74개 파일, 확인 결과 전부 주간 사진 — 밤하늘 사진 없음) | Wikimedia Commons | 파일별 확인 필요 | [Category:Khongoryn_Els](https://commons.wikimedia.org/wiki/Category:Khongoryn_Els) |
 | Wikimedia Commons "욜링암" 카테고리 (총 63개 파일, 확인 결과 전부 주간 사진 — 밤하늘 사진 없음) | Wikimedia Commons | 파일별 확인 필요 | [Category:Yolyn_Am](https://commons.wikimedia.org/wiki/Category:Yolyn_Am) |
 | Wikimedia Commons "고비 사막" 카테고리 (총 약 270개 파일 + 21개 하위 카테고리 — "Sunsets of Gobi Desert" 등 포함, 야간 은하수 사진은 확인 안 됨) | Wikimedia Commons | 파일별 확인 필요 | [Category:Gobi_Desert](https://commons.wikimedia.org/wiki/Category:Gobi_Desert) |
 
-> **정직한 요약**: 확인된 "몽골 현지에서 찍힌, 라이선스가 명확한 은하수/밤하늘 사진"은 **총 2장**입니다 — Wikimedia Commons의 Rho Ophiuchi from UB(CC BY-SA 4.0)와 Flickr의 Gun Galuut 은하수 사진(CC BY 2.0, sergelen1). 바양작·홍고린엘스·욜링암 카테고리를 전부 확인했지만 야간 촬영본은 없었고, Flickr 쪽은 ③에서 추가로 찾았습니다.
+> **정직한 요약**: 확인된 "몽골 현지에서 찍힌, 라이선스가 명확한 은하수/밤하늘 사진"은 **총 2장**입니다 — Wikimedia Commons의 Rho Ophiuchi from UB(CC BY-SA 4.0)와 Flickr의 Gun Galuut 은하수 사진(CC BY 2.0, sergelen1). 홍고린엘스·욜링암 카테고리를 전부 확인했지만 야간 촬영본은 없었고, Flickr 쪽은 ③에서 추가로 찾았습니다.
 
 ---
 
 ## ② 명소별 참고 사진/갤러리
-
-### 바양작 (Bayanzag / Flaming Cliffs)
-
-- [File:Flaming_cliffs_in_Gobi.jpg](https://commons.wikimedia.org/wiki/File:Flaming_cliffs_in_Gobi.jpg) — amanderson2 · CC BY 2.0 (①과 동일, 주간)
-- [Category:Bayanzag](https://commons.wikimedia.org/wiki/Category:Bayanzag) — Wikimedia Commons · 파일별 확인 필요 (야간 사진 없음, 주간·황혼 위주)
 
 ### 홍고린엘스 (Khongoryn Els dunes)
 
@@ -61,7 +54,7 @@
 
 - [File:Rho_Ophiuchi_from_UB,_Mongolia.jpg](https://commons.wikimedia.org/wiki/File:Rho_Ophiuchi_from_UB,_Mongolia.jpg) — Lwcc enhee · CC BY-SA 4.0 (①과 동일 — 고비는 아니지만 몽골 현지에서 찍힌 실제 은하수/천체사진)
 - [Milky Way Mongolia (Flickr)](https://www.flickr.com/photos/102095494@N08/20855564946) — Jonathan Abdipranoto · ©저작자, 감상용(재사용 불가). 고르왕사이한이 아닌 테를지 국립공원(Gorkhi-Terelj)에서 촬영, 게르(유르트)와 은하수가 함께 나온 실사 구도. 2015년 8월 촬영.
-- [Gobi Astrophotography: Desert Stars & Night Skies](https://explorer.company/gobi-astrophotography/) — Explorer.Company(몽골 셀프드라이브 투어 여행사 블로그) · 감상용/정보용. 바양작·홍고린엘스의 야간 촬영 포인트를 설명하는 글이며, 실린 사진은 주로 주간·황혼 풍경 사진이라 은하수 전용 갤러리는 아닙니다.
+- [Gobi Astrophotography: Desert Stars & Night Skies](https://explorer.company/gobi-astrophotography/) — Explorer.Company(몽골 셀프드라이브 투어 여행사 블로그) · 감상용/정보용. 홍고린엘스의 야간 촬영 포인트를 설명하는 글이며, 실린 사진은 주로 주간·황혼 풍경 사진이라 은하수 전용 갤러리는 아닙니다.
 
 ---
 
@@ -84,7 +77,6 @@
 
 ### 갤러리 · 개별 사진 (Flickr, 추가 검증분)
 
-- [Milky Way in Mongolia — 바양작 인근 게르 캠프](https://www.flickr.com/photos/7272097@N08/44365352072) — Janette Asche(NettyA) · © 저작자, 감상용(재사용 불가, All rights reserved). "바양작(Flaming Cliffs) 인근 게르 캠프에서 새벽 1시경 촬영"이라는 캡션 확인(2018년 7월 7일 촬영). ③의 Eternal Landscapes 항목에 언급된 게스트 사진가와 동일 인물로 보입니다 — ②의 바양작 항목에도 참고할 만합니다.
 - [Milky Way seen from Mongolia, Summer 2013](https://www.flickr.com/photos/30342811@N04/9281336927) — sergelen1 · **CC BY 2.0(재사용 가능, 저작자 표기 필수)**. 궁갈루트(Gun Galuut, 바가누르 인근) 해발 약 1700m 지점에서 2013년 나담(Naadam) 축제 기간에 촬영. **①에도 동일 항목을 추가했습니다.**
 
 ### 갤러리 · 커뮤니티 진입점
@@ -132,7 +124,7 @@
 ## ⑤ 참고 / 더 찾는 법
 
 **검색 팁**
-- Wikimedia Commons에서는 `incategory:"Mongolia" Milky Way`, `incategory:"Bayanzag"` 같은 카테고리 교차 검색이 유용합니다(다만 몽골 관련 결과는 거의 없었습니다).
+- Wikimedia Commons에서는 `incategory:"Mongolia" Milky Way` 같은 카테고리 교차 검색이 유용합니다(다만 몽골 관련 결과는 거의 없었습니다).
 - Flickr는 사진 개별 페이지에서 라이선스 배지("All rights reserved" vs "Some rights reserved")를 반드시 확인하세요 — 검색 결과 목록만으로는 라이선스를 알 수 없습니다.
 - 몽골은 다크스카이 조건이 뛰어난데도 "몽골 은하수"를 주제로 한 무료 라이선스 사진이 매우 적습니다. 상업 스톡 사이트(Getty, Shutterstock, Adobe Stock, Alamy, 123RF 등)에는 몽골 고비 은하수 사진이 다수 있으나 전부 유료·저작권 보호 상태라 이 문서에는 싣지 않았습니다.
 

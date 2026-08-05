@@ -18,7 +18,6 @@ Commons는 **파일 단위로 라이선스가 다릅니다**. 아래 카테고�
 - [Category:Gobi Desert](https://commons.wikimedia.org/wiki/Category:Gobi_Desert) — 고비 사막 사진 전반(드론 전용 하위분류는 없으며, 위성사진도 섞여 있습니다).
 - [Category:Khongoryn Els](https://commons.wikimedia.org/wiki/Category:Khongoryn_Els) — 홍고린엘스(대부분 지상 시점 사진입니다).
 - [Category:Yolyn Am](https://commons.wikimedia.org/wiki/Category:Yolyn_Am) — 욜링암.
-- [Category:Bayanzag](https://commons.wikimedia.org/wiki/Category:Bayanzag) — 바양작.
 
 ### 라이선스가 확인된 개별 파일
 
