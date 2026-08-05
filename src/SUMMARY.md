@@ -139,6 +139,7 @@
   - [카메라 · 렌즈 추천 목록](appendix/camera-lens-picks.md)
   - [사진 파노라마 찍기](appendix/photo-panorama.md)
   - [파노라마 가기 전 연습 (광교·대천)](appendix/panorama-practice.md)
+  - [LX-254CT + XB-32로 수평 맞추고 파노라마](appendix/tripod-panorama-lx254ct.md)
   - [카메라로 타임랩스 찍기](appendix/camera-timelapse.md)
   - [휴대폰으로 타임랩스 찍기](appendix/phone-timelapse.md)
   - [타임랩스 가기 전 연습](appendix/timelapse-practice.md)
