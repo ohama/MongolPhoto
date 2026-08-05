@@ -1,5 +1,9 @@
 # 몽골에서 사진 파노라마 찍기 (카메라)
 
+![홍고린엘스 사구의 가로 파노라마](../images/panorama/khongoryn-els-panorama.jpg)
+
+*여러 컷을 이어 붙인 홍고린엘스 사구의 가로 파노라마 — 실제 명소의 자유 라이선스 사진. 사진: Bouette · CC BY-SA 3.0 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Panoramique_dune_Khongoryn_els.JPG).*
+
 > 카메라로 여러 컷을 이어 붙여(스티칭) 만드는 **사진 파노라마**를 몽골 고비에서 찍는 법입니다.
 > 삼각대에 올릴 수 있고 **수동(M)·RAW**가 되는 카메라면 어느 기종이든 됩니다.
 > (드론 자동 파노라마는 성격이 달라 이 문서에서는 다루지 않습니다.)

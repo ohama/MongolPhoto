@@ -1,5 +1,9 @@
 # LX-254CT + XB-32로 수평 맞추고 파노라마 찍기
 
+![고비사막의 수평 파노라마](../images/panorama/gobi-desert-panorama.jpg)
+
+*몽골 고비사막의 넓은 가로 파노라마 — 지평선이 반듯한 수평 파노라마의 예. 실제 명소(고비, 한붐바트 공항 부근)의 자유 라이선스 사진. 사진: Kelapstick · CC BY-SA 3.0 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gobi_Desert_Panorama.JPG).*
+
 > 이 문서는 **다른 장을 참조하지 않고 이것만 보고 따라 할 수 있게** 독립적으로 씁니다.
 > 레오포토 **LX-254CT**(카본 트래블 삼각대) + **XB-32**(볼헤드) 조합을 예로, **수평을 정확히 맞추고 파노라마를 찍는 법**을 정리합니다. 카메라는 **수동(M)·RAW가 되는 기종**이면 되고, 예시는 Canon R7 + 광각 렌즈입니다.
 

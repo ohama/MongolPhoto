@@ -1,5 +1,9 @@
 # 드론 파노라마 가기 전 연습
 
+![공중에서 이어 붙인 가로형 항공 파노라마](../images/panorama/aerial-drone-panorama-example.jpg)
+
+*공중에서 여러 장을 자동 촬영해 이어 붙인 가로형 항공 파노라마 예시(실제 몽골/국내 아님 · 프랑스 살라구 호수). 재스티칭 연습이 겨냥하는 결과물입니다. 사진: Raimond Spekking · CC BY-SA 4.0 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lac_du_Salagou_-_aerial_view_-_panorama-646.jpg).*
+
 드론 파노라마에서 실패하는 곳은 조작보다 **바람 표류·노출 편차·배터리·재스티칭**입니다 — 그리고 사진 파노라마와 결정적으로 다른 한 가지, **비행 규제**. 이걸 몽골에서 처음 하면 이음매가 어긋나거나 아예 못 날립니다.
 
 그래서 출발 전 **합법 비행 구역에서** 드론의 자동 파노라마 모드를 미리 돌려 보고, **컴퓨터 재스티칭까지** 한 번 해보는 것이 목표입니다. 전체 촬영법은 [드론 파노라마 찍기](drone-panorama.md)로 이어집니다.

@@ -1,5 +1,9 @@
 # 몽골에서 드론 파노라마 찍기 (예: DJI Mini 5 Pro)
 
+![공중에서 촬영한 리틀플래닛(구형) 파노라마](../images/panorama/aerial-little-planet-panorama.jpg)
+
+*공중에서 여러 장을 자동 촬영해 이어 붙인 리틀플래닛(구형 투영) 파노라마 예시 — 드론 파노라마의 대표 결과물(실제 몽골 아님). 사진: Maximilian Schönherr · CC BY-SA 4.0 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Otto_Maigler_See_%E2%80%93_Little_Planet_180%C2%B0_Panorama.jpg).*
+
 > 드론의 **자동 파노라마 기능**으로 몽골 고비의 넓은 풍경을 공중에서 담는 법입니다.
 > 드론이 여러 장을 자동 촬영하고 앱이 이어 붙여(스티칭) 한 장을 만듭니다 — 초보도 쉽게 초광각·360°를 얻습니다.
 > 설명은 **DJI Mini 5 Pro**를 예시로 들지만, 대부분의 DJI 드론이 비슷한 파노라마 모드를 갖고 있어 원리는 같습니다.
