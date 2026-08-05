@@ -1,5 +1,9 @@
 # 몽골에서 페르세우스 유성우 찍기 (2026년 8월)
 
+![은하수를 가로지르는 페르세우스 유성 예시](../images/astro/perseid-milkyway-example.jpg)
+
+*예시 — 은하수를 가로지르는 페르세우스 유성(실제 몽골 아님). 사진: CC0(퍼블릭 도메인) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Milky_way_%2B_Perseids_meteor_shower_%282014%29.jpg).*
+
 > 이 문서는 **혼자서도 이것만 보고 따라 할 수 있게** 다른 장을 참조하지 않고 독립적으로 씁니다. 카메라 세팅도 여기 안에 다 담았습니다.
 > 예시는 **Canon R7 + 밝은 광각 단렌즈**(예: 삼양 12mm F2.0)로 들지만, **수동(M)·RAW·연속 촬영**(인터벌)이 되는 카메라면 원리는 같습니다.
 

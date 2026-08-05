@@ -1,5 +1,9 @@
 # 몽골에서 카메라로 은하수 사진 찍기 (예: Canon R7)
 
+![협곡 위 은하수 나이트스케이프 예시](../images/astro/milkyway-nightscape-example.jpg)
+
+*예시 — 협곡 위 은하수 나이트스케이프(실제 몽골 아님 · 카자흐스탄). 사진: Astrobond · CC BY-SA 4.0 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_cliffs_of_the_Oshagandy_Canyon_against_the_backdrop_of_the_Milky_Way.jpg).*
+
 > 삼각대에 올릴 수 있는 **수동(M)·RAW가 되는 카메라**라면 어느 기종이든 은하수를 찍을 수 있습니다.
 > 이 문서는 설명을 구체적으로 하려고 **Canon R7(APS-C) + 밝은 광각 단렌즈**를 **예시 구성**으로 들어 진행합니다. 다른 카메라·렌즈를 쓰더라도 **원리는 같으니**, 아래 "다른 카메라라면"의 대응만 참고하면 그대로 따라 할 수 있습니다.
 > **하루의 시간 순서**(출발 전 준비 → 해 지기 전 세팅 → 어두워진 뒤 촬영 → 촬영 후 정리)대로 진행합니다.
